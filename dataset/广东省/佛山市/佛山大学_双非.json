@@ -1,0 +1,30 @@
+{
+  "name": "佛山大学",
+  "city": "佛山市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.fosu.edu.cn/",
+  "source": "xls",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.1425996,
+  "lon": 113.0485761,
+  "school_code": "4144011847",
+  "depts": {
+    "grad": {
+      "url": "https://www.fosu.edu.cn/yanjiusheng/",
+      "title": "研究生院（粤港澳大湾区先进制造业国家卓越工程师创新研究院）",
+      "phone": [
+        "0757-82771159"
+      ],
+      "email": [
+        "fosuyzb@fosu.edu.cn"
+      ]
+    }
+  },
+  "dept_skipped": true,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

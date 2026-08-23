@@ -1,0 +1,28 @@
+{
+  "name": "黑龙江八一农垦大学",
+  "city": "大庆市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.byau.edu.cn/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 46.59,
+  "lon": 125.1,
+  "depts": {
+    "grad": {
+      "url": "http://www.byau.edu.cn/932/list.htm",
+      "title": "研究生教育"
+    },
+    "intl": {
+      "url": "http://www.byau.edu.cn/934/list.htm",
+      "title": "国际交流合作"
+    },
+    "career": {
+      "url": "http://www.byau.edu.cn/900/list.htm",
+      "title": "招生就业"
+    }
+  }
+}

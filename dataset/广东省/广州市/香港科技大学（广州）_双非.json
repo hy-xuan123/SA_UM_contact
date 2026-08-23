@@ -1,0 +1,27 @@
+{
+  "name": "香港科技大学（广州）",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "中外合作办学",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.hkust-gz.edu.cn/zh/?variant=zh-cn",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 22.8916128,
+  "lon": 113.4790189,
+  "depts": {
+    "grad": {
+      "url": "https://fytgs.hkust-gz.edu.cn/",
+      "title": "霍英东研究生院 (广州)"
+    },
+    "intl": {
+      "url": "https://global.hkust-gz.edu.cn/",
+      "title": "全球拓展",
+      "phone": [
+        "13800000000"
+      ]
+    }
+  }
+}

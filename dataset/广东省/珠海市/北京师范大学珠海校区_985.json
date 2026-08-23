@@ -1,0 +1,25 @@
+{
+  "name": "北京师范大学珠海校区",
+  "city": "珠海市",
+  "province": "广东省",
+  "tier": "985",
+  "website": "https://www.bnuzh.edu.cn/",
+  "school_type": "公办",
+  "level": "本科",
+  "department": "教育部",
+  "lat": 22.35,
+  "lon": 113.53,
+  "source": "branch",
+  "tags": [],
+  "depts": {
+    "career": {
+      "url": "https://career.bnuzh.edu.cn/",
+      "title": "学生职业发展与就业指导中心"
+    },
+    "intl": {
+      "url": "https://io.bnuzh.edu.cn/index.htm",
+      "title": "国际交流与合作"
+    }
+  },
+  "dept_skipped": false
+}

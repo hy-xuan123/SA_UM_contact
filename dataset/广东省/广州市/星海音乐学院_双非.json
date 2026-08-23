@@ -1,0 +1,39 @@
+{
+  "name": "星海音乐学院",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.xhcom.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.13,
+  "lon": 113.26,
+  "depts": {
+    "grad": {
+      "url": "https://zs.xhcom.edu.cn/yjszs.htm",
+      "title": "研究生招生",
+      "phone": [
+        "020-39363636"
+      ]
+    },
+    "intl": {
+      "url": "http://gjjy.xhcom.edu.cn/",
+      "title": "国际交流",
+      "email": [
+        "icxhcm_xf@163.com"
+      ],
+      "phone": [
+        "020-39315630",
+        "020-39363388",
+        "020-39311495"
+      ]
+    },
+    "career": {
+      "url": "https://xsjy.xhcom.edu.cn/",
+      "title": "就业网"
+    }
+  }
+}

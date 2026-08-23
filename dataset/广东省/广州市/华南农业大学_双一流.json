@@ -1,0 +1,36 @@
+{
+  "name": "华南农业大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.scau.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双一流",
+  "lat": 23.13,
+  "lon": 113.26,
+  "depts": {
+    "grad": {
+      "url": "https://yjsy.scau.edu.cn/",
+      "title": "研究生",
+      "phone": [
+        "020-85280065",
+        "020-85280066",
+        "020-85280067"
+      ]
+    },
+    "intl": {
+      "url": "http://fao.scau.edu.cn/",
+      "title": "对外交流",
+      "phone": [
+        "18061503163"
+      ]
+    },
+    "career": {
+      "url": "http://jyzx.scau.edu.cn/",
+      "title": "就业（本科生  研究生）"
+    }
+  }
+}

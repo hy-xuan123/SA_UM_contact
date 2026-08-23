@@ -1,0 +1,35 @@
+{
+  "name": "通化师范学院",
+  "city": "通化市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "吉林省",
+  "tags": [],
+  "website": "https://www.thnu.edu.cn/",
+  "source": "xls",
+  "province": "吉林省",
+  "tier": "双非",
+  "lat": 41.7440961,
+  "lon": 125.982365,
+  "school_code": "4122010202",
+  "depts": {
+    "career": {
+      "wechat": "学生就业小程序",
+      "email": [
+        "thsyzsb@163.com"
+      ],
+      "phone": [
+        "0435-3208040"
+      ],
+      "url": "https://thnucareer.hjiuye.com/",
+      "title": "通化师范学院就业信息网"
+    },
+    "intl": {
+      "url": "https://gjjl.thnu.edu.cn/",
+      "title": "国际"
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

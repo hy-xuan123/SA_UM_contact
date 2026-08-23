@@ -1,0 +1,31 @@
+{
+  "name": "广州大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.gzhu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.13,
+  "lon": 113.26,
+  "depts": {
+    "career": {
+      "url": "http://www.gzhu.edu.cn/zsjy1.htm",
+      "title": "招生就业"
+    },
+    "grad": {
+      "url": "http://yjsy.gzhu.edu.cn/",
+      "title": "研究生招生",
+      "email": [
+        "yjsy@gzhu.edu.cn"
+      ],
+      "phone": [
+        "020-39366238",
+        "020-39366199"
+      ]
+    }
+  }
+}

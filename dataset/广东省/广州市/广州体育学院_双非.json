@@ -1,0 +1,29 @@
+{
+  "name": "广州体育学院",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.gzsport.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.13,
+  "lon": 113.26,
+  "depts": {
+    "intl": {
+      "url": "https://fao.gzsport.edu.cn/",
+      "title": "对外交流"
+    },
+    "career": {
+      "url": "http://www.gzsport.edu.cn:80/node/104",
+      "title": "招生就业",
+      "phone": [
+        "020-38024301",
+        "020-38025613",
+        "020-38024685"
+      ]
+    }
+  }
+}

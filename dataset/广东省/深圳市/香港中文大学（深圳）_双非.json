@@ -1,0 +1,31 @@
+{
+  "name": "香港中文大学（深圳）",
+  "city": "深圳市",
+  "level": "本科",
+  "school_type": "中外合作办学",
+  "department": "广东省教育厅",
+  "tags": [],
+  "website": "https://www.cuhk.edu.cn/",
+  "source": "xls",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 22.6910685,
+  "lon": 114.207366,
+  "school_code": "4144016407",
+  "depts": {
+    "career": {
+      "url": "https://career.cuhk.edu.cn/",
+      "title": "职业规划与发展处 Career Service Center",
+      "email": [
+        "CareerService@cuhk.edu.cn"
+      ]
+    },
+    "grad": {
+      "url": "https://gs.cuhk.edu.cn/",
+      "title": "研究生院"
+    }
+  },
+  "dept_skipped": true,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

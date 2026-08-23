@@ -1,0 +1,39 @@
+{
+  "name": "沈阳师范大学",
+  "city": "沈阳市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "https://www.synu.edu.cn/",
+  "source": "gx211",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 41.81,
+  "lon": 123.43,
+  "depts": {
+    "career": {
+      "url": "https://www.synu.edu.cn/zsjy_6737/list.htm",
+      "title": "招生就业",
+      "email": [
+        "dzb@synu.edu.cn"
+      ],
+      "phone": [
+        "024-86592995"
+      ]
+    },
+    "grad": {
+      "url": "http://yjs.synu.edu.cn/main.htm",
+      "title": "研究生招生"
+    },
+    "intl": {
+      "url": "https://www.synu.edu.cn/2026/0814/c6740a115984/page.htm",
+      "email": [
+        "dzb@synu.edu.cn"
+      ],
+      "phone": [
+        "024-86592995"
+      ]
+    }
+  }
+}

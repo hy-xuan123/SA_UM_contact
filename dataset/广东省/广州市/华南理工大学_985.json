@@ -1,0 +1,23 @@
+{
+  "name": "华南理工大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "教育部",
+  "tags": [
+    "985",
+    "211"
+  ],
+  "website": "http://www.scut.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "985",
+  "lat": 23.1288429,
+  "lon": 113.2589581,
+  "depts": {
+    "grad": {
+      "url": "http://www.scut.edu.cn/graduate/",
+      "title": "华南理工大学研究生院"
+    }
+  }
+}

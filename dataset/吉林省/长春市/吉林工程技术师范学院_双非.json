@@ -1,0 +1,42 @@
+{
+  "name": "吉林工程技术师范学院",
+  "city": "长春市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "吉林省",
+  "tags": [],
+  "website": "http://www.jlenu.edu.cn/",
+  "source": "gx211",
+  "province": "吉林省",
+  "tier": "双非",
+  "lat": 43.82,
+  "lon": 125.32,
+  "depts": {
+    "grad": {
+      "url": "http://yjs.jlenu.edu.cn",
+      "title": "研究生教育",
+      "phone": [
+        "0431-86908108"
+      ]
+    },
+    "intl": {
+      "url": "http://gjjlc.jlenu.edu.cn",
+      "title": "国际交流与合作处",
+      "phone": [
+        "86908016",
+        "86908019"
+      ]
+    },
+    "career": {
+      "url": "http://jlenu.hjiuye.com/",
+      "title": "就业信息网",
+      "email": [
+        "jiuye@123.com"
+      ],
+      "phone": [
+        "0431-86908057",
+        "0431-86907028"
+      ]
+    }
+  }
+}

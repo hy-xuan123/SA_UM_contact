@@ -1,0 +1,31 @@
+{
+  "name": "哈尔滨音乐学院",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.hrbcm.edu.cn/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.7593633,
+  "lon": 126.6276177,
+  "depts": {
+    "grad": {
+      "url": "http://www.hrbcm.edu.cn/zsgz/yjszs.htm",
+      "title": "研究生招生",
+      "contact_note": "三部门联系方式雷同，为整站统一，非部门专属"
+    },
+    "career": {
+      "url": "http://www.hrbcm.edu.cn/jycs.htm",
+      "title": "就业超市",
+      "contact_note": "三部门联系方式雷同，为整站统一，非部门专属"
+    },
+    "intl": {
+      "url": "http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm",
+      "title": "对外交流与合作信息",
+      "contact_note": "三部门联系方式雷同，为整站统一，非部门专属"
+    }
+  }
+}

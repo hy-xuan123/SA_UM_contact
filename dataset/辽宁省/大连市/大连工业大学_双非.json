@@ -1,0 +1,45 @@
+{
+  "name": "大连工业大学",
+  "city": "大连市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "https://www.dlpu.edu.cn/",
+  "source": "xls",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 38.9723687,
+  "lon": 121.524128,
+  "school_code": "4121010152",
+  "depts": {
+    "career": {
+      "email": [
+        "jyzx@dlpu.edu.cn"
+      ],
+      "phone": [
+        "0411-86323338",
+        "15940873211"
+      ],
+      "url": "https://jygl.dep.dlpu.edu.cn/",
+      "title": "大连工业大学就业信息网"
+    },
+    "grad": {
+      "url": "http://yjs.dep.dlpu.edu.cn/",
+      "title": "大连工业大学研究生学院"
+    },
+    "intl": {
+      "email": [
+        "iced@dlpu.edu.cn"
+      ],
+      "phone": [
+        "0411-86324486"
+      ],
+      "url": "http://fao.dlpu.edu.cn/",
+      "title": "大连工业大学国际交流与合作处（港澳台事务办公室）"
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

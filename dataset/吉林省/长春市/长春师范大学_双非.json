@@ -1,0 +1,33 @@
+{
+  "name": "长春师范大学",
+  "city": "长春市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "吉林省",
+  "tags": [],
+  "website": "https://www.ccsfu.edu.cn/",
+  "source": "gx211",
+  "province": "吉林省",
+  "tier": "双非",
+  "lat": 43.8844844,
+  "lon": 125.3181675,
+  "depts": {
+    "intl": {
+      "url": "https://www.ccsfu.edu.cn/gjjl.htm",
+      "title": "国际交流"
+    },
+    "career": {
+      "url": "https://www.ccsfu.edu.cn/zsjy1.htm",
+      "title": "招生就业"
+    },
+    "grad": {
+      "url": "https://yjs.ccsfu.edu.cn/zsgz.htm",
+      "title": "研究生招生",
+      "phone": [
+        "0431-86168695",
+        "0431-86168864",
+        "0431-86168134"
+      ]
+    }
+  }
+}
