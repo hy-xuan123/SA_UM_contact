@@ -14,7 +14,15 @@
   "depts": {
     "career": {
       "url": "https://zsw.jljcxy.com/",
-      "title": "招生就业"
+      "title": "招生就业",
+      "email": [
+        "jljcxyjy@163.com"
+      ],
+      "phone": [
+        "0431-85001234",
+        "0431-85001799",
+        "0431-85001157"
+      ]
     },
     "grad": {
       "url": "http://www.jljcxy.com/rcpy/yjsjy.htm",

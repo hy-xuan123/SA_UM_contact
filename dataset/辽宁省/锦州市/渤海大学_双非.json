@@ -15,7 +15,13 @@
   "depts": {
     "career": {
       "url": "https://jy.bhu.edu.cn/",
-      "title": "毕业生就业信息网"
+      "title": "毕业生就业信息网",
+      "email": [
+        "bhdxjyb@126.com"
+      ],
+      "phone": [
+        "0416-3406688"
+      ]
     },
     "grad": {
       "url": "https://yjsxy.bhu.edu.cn/",

@@ -22,7 +22,14 @@
     },
     "career": {
       "url": "http://www.syu.edu.cn/zsjy.htm",
-      "title": "招生就业"
+      "title": "招生就业",
+      "email": [
+        "xxzx@syu.edu.cn"
+      ],
+      "phone": [
+        "024-62268315",
+        "024-67853071"
+      ]
     }
   }
 }

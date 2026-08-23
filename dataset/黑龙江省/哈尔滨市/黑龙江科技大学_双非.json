@@ -19,7 +19,10 @@
     },
     "career": {
       "url": "http://job.usth.edu.cn/",
-      "title": "学生就业信息"
+      "title": "学生就业信息",
+      "phone": [
+        "0451-88036988"
+      ]
     },
     "intl": {
       "url": "https://iceo.usth.edu.cn/",

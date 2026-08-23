@@ -31,7 +31,11 @@
     "career": {
       "wechat": "中山大学就业（sysucareer）",
       "url": "http://career.sysu.edu.cn/",
-      "title": "就业信息网"
+      "title": "就业信息网",
+      "phone": [
+        "020-84111150",
+        "020-84111791"
+      ]
     }
   }
 }

@@ -19,7 +19,11 @@
     },
     "career": {
       "url": "https://www.jlau.edu.cn/zsjy.htm",
-      "title": "招生就业"
+      "title": "招生就业",
+      "email": [
+        "webmaster@jlau.edu.cn"
+      ],
+      "phone": []
     },
     "intl": {
       "url": "http://gjjy.jlau.edu.cn",

@@ -22,7 +22,11 @@
     "career": {
       "url": "http://www.nepu.edu.cn/zsjy1.htm",
       "title": "招生就业",
-      "contact_note": "邮箱为Webmaster网站管理员，非就业中心"
+      "contact_note": "邮箱为Webmaster网站管理员，非就业中心",
+      "email": [
+        "Webmaster@nepu.edu.cn"
+      ],
+      "phone": []
     },
     "intl": {
       "url": "http://www.nepu.edu.cn/gjjl/xjjl.htm",

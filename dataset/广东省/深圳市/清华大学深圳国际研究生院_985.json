@@ -18,7 +18,15 @@
     },
     "career": {
       "url": "https://www.sigs.tsinghua.edu.cn/7631/list.htm",
-      "title": "招生就业"
+      "title": "招生就业",
+      "email": [
+        "zhaosheng@sz.tsinghua.edu.cn"
+      ],
+      "phone": [
+        "0755-26036460",
+        "0755-26924345",
+        "0755-86543994"
+      ]
     },
     "intl": {
       "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",

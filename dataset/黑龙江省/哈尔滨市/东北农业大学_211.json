@@ -19,7 +19,11 @@
     },
     "career": {
       "url": "https://www.neau.edu.cn/zsjy.htm",
-      "title": "招生就业"
+      "title": "招生就业",
+      "email": [
+        "shuji@neau.edu.cn",
+        "xiaozhang@neau.edu.cn"
+      ]
     },
     "intl": {
       "url": "http://gjjl.neau.edu.cn/",

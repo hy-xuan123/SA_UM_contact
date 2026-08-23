@@ -14,7 +14,16 @@
   "depts": {
     "career": {
       "url": "https://career.bnuzh.edu.cn/",
-      "title": "学生职业发展与就业指导中心"
+      "title": "学生职业发展与就业指导中心",
+      "email": [
+        "jiuye@bnu.edu.cn",
+        "jyjdzh@bnu.edu.cn"
+      ],
+      "phone": [
+        "0756-3683696",
+        "0756-3621018",
+        "0756-3683772"
+      ]
     },
     "intl": {
       "url": "https://io.bnuzh.edu.cn/index.htm",

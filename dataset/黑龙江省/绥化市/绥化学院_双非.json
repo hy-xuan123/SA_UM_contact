@@ -14,7 +14,8 @@
   "depts": {
     "career": {
       "url": "http://www.shxy.edu.cn/jyzl.htm",
-      "title": "就业专栏"
+      "title": "就业专栏",
+      "phone": []
     },
     "intl": {
       "url": "http://www.shxy.edu.cn/xxgk1/dwjlyhzxx.htm",

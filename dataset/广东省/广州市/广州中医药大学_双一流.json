@@ -25,7 +25,10 @@
     "career": {
       "url": "https://www.gzucm.edu.cn/zsjy/zs.htm",
       "title": "招生就业",
-      "contact_note": "邮箱为校长信箱，非就业中心专属"
+      "contact_note": "邮箱为校长信箱，非就业中心专属",
+      "email": [
+        "xiaozhangxx@gzucm.edu.cn"
+      ]
     }
   }
 }
