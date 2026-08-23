@@ -26,24 +26,20 @@
       ]
     },
     "intl": {
-      "url": "http://www.jlu.edu.cn/dwjl.htm",
-      "title": "对外交流",
+      "url": "https://oic.jlu.edu.cn/",
+      "title": "国际合作与交流处（Office of Global Engagement）",
       "email": [
-        "zygl@jlu.edu.cn"
+        "OGE@jlu.edu.cn"
       ],
       "phone": [
-        "17302000045"
+        "0431-85166657"
       ]
     },
     "career": {
       "url": "http://www.jlu.edu.cn/zsjy.htm",
       "title": "招生就业",
-      "email": [
-        "zygl@jlu.edu.cn"
-      ],
-      "phone": [
-        "17302000045"
-      ]
+      "email": [],
+      "phone": []
     }
   }
 }
