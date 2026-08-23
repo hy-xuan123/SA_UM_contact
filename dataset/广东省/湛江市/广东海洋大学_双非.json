@@ -1,0 +1,37 @@
+{
+  "name": "广东海洋大学",
+  "city": "湛江市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.gdou.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 21.27,
+  "lon": 110.36,
+  "depts": {
+    "grad": {
+      "url": "https://grs.gdou.edu.cn/",
+      "title": "研究生院",
+      "email": [
+        "Yjs@gdou.edu.cn"
+      ],
+      "phone": [
+        "0759-2396185"
+      ]
+    },
+    "intl": {
+      "url": "https://iod.gdou.edu.cn/",
+      "title": "国际交流",
+      "phone": [
+        "0759-2396202"
+      ]
+    },
+    "career": {
+      "url": "https://www.gdou.edu.cn/zjzx/",
+      "title": "招生就业"
+    }
+  }
+}

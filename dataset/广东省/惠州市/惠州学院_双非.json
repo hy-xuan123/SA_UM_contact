@@ -1,0 +1,40 @@
+{
+  "name": "惠州学院",
+  "city": "惠州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.hzu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.1125153,
+  "lon": 114.4127007,
+  "depts": {
+    "career": {
+      "url": "http://www.hzu.edu.cn/543/list.htm",
+      "title": "招生就业",
+      "phone": [
+        "0752-2527099"
+      ]
+    },
+    "grad": {
+      "url": "http://www.hzu.edu.cn/yjszs/list.htm",
+      "title": "研究生招生",
+      "phone": [
+        "0752-2529000"
+      ]
+    },
+    "intl": {
+      "url": "https://fao.hzu.edu.cn/gatsw/list.htm",
+      "title": "港澳台交流",
+      "email": [
+        "fao@hzu.edu.cn"
+      ],
+      "phone": [
+        "0752-2529210"
+      ]
+    }
+  }
+}

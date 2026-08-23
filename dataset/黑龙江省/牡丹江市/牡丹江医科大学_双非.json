@@ -1,0 +1,24 @@
+{
+  "name": "牡丹江医科大学",
+  "city": "牡丹江市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.mdjmu.cn/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 44.6017141,
+  "lon": 129.5751339,
+  "depts": {
+    "grad": {
+      "url": "http://www.mdjmu.cn/yjsc/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "https://www.hljbys.org.cn/school/index?mark=mdjmu",
+      "title": "就业创业"
+    }
+  }
+}

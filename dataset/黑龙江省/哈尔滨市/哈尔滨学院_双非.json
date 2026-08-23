@@ -1,0 +1,32 @@
+{
+  "name": "哈尔滨学院",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "https://www.hrbu.edu.cn/",
+  "source": "xls",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.7051188,
+  "lon": 126.6004698,
+  "school_code": "4123010234",
+  "depts": {
+    "grad": {
+      "url": "http://www.hrbu.edu.cn/yjsc/index.htm",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://jypt.hrbu.edu.cn/frontpage/hrbu/html/index.html",
+      "title": "就业工作"
+    },
+    "intl": {
+      "url": "http://www.hrbu.edu.cn/ws/",
+      "title": "国际交流"
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

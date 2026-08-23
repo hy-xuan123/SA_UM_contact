@@ -1,0 +1,38 @@
+{
+  "name": "广东技术师范大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.gpnu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.2837053,
+  "lon": 113.2100057,
+  "depts": {
+    "grad": {
+      "url": "https://yjsc.gpnu.edu.cn/info/1443/6179.htm",
+      "title": "导师队伍",
+      "email": [
+        "gsyjsc@gpnu.edu.cn"
+      ]
+    },
+    "intl": {
+      "url": "http://oice.gpnu.edu.cn/",
+      "title": "国际合作交流"
+    },
+    "career": {
+      "url": "https://www.gpnu.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "email": [
+        "jysf@gpnu.edu.cn"
+      ],
+      "phone": [
+        "020-38256601",
+        "020-89285371"
+      ]
+    }
+  }
+}

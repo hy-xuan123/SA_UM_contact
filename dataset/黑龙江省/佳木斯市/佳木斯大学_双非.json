@@ -1,0 +1,36 @@
+{
+  "name": "佳木斯大学",
+  "city": "佳木斯市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "https://www.jmsu.edu.cn/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 47.02157,
+  "lon": 132.044137,
+  "depts": {
+    "grad": {
+      "url": "https://yjs.jmsu.edu.cn/",
+      "title": "研究生招生",
+      "phone": [
+        "0454-8618805",
+        "0454-8618499"
+      ]
+    },
+    "career": {
+      "url": "https://jmsu.gxbys.org.cn/",
+      "title": "就业",
+      "phone": [
+        "0454-8618138",
+        "0454-8618867"
+      ]
+    },
+    "intl": {
+      "url": "https://iecd.jmsu.edu.cn/",
+      "title": "国际交流"
+    }
+  }
+}

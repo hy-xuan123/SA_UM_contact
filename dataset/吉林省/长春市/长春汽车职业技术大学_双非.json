@@ -1,0 +1,19 @@
+{
+  "name": "长春汽车职业技术大学",
+  "city": "长春市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "吉林省",
+  "tags": [],
+  "website": "https://www.caii.edu.cn/",
+  "source": "xls",
+  "province": "吉林省",
+  "tier": "双非",
+  "lat": 43.8267106,
+  "lon": 125.1390729,
+  "school_code": "4122011436",
+  "depts": null,
+  "dept_skipped": true,
+  "web_reachable": false,
+  "web_fail_reason": "全部方式失败"
+}

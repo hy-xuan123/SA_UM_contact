@@ -1,0 +1,32 @@
+{
+  "name": "黑龙江科技大学",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "https://www.usth.edu.cn/",
+  "source": "xls",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.8176686,
+  "lon": 126.648479,
+  "school_code": "4123010219",
+  "depts": {
+    "grad": {
+      "url": "https://gs.usth.edu.cn/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://job.usth.edu.cn/",
+      "title": "学生就业信息"
+    },
+    "intl": {
+      "url": "https://iceo.usth.edu.cn/",
+      "title": "国际交流合作处"
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

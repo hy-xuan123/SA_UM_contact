@@ -1,0 +1,27 @@
+{
+  "name": "广州职业技术大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.gzpyp.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.1288429,
+  "lon": 113.2589581,
+  "depts": {
+    "career": {
+      "url": "http://www.gzpyp.edu.cn/zsjy",
+      "title": "招生就业",
+      "email": [
+        "gzpyp@gzpyp.edu.cn"
+      ],
+      "phone": [
+        "020-84736666",
+        "020-34874086"
+      ]
+    }
+  }
+}

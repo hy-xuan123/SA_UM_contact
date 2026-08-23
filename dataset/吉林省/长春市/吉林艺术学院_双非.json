@@ -1,0 +1,19 @@
+{
+  "name": "吉林艺术学院",
+  "city": "长春市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "吉林省",
+  "tags": [],
+  "website": "https://www.jlart.edu.cn/",
+  "source": "xls",
+  "province": "吉林省",
+  "tier": "双非",
+  "lat": 43.8572623,
+  "lon": 125.2755526,
+  "school_code": "4122010209",
+  "depts": null,
+  "dept_skipped": true,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

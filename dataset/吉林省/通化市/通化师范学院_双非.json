@@ -1,0 +1,19 @@
+{
+  "name": "通化师范学院",
+  "city": "通化市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "吉林省",
+  "tags": [],
+  "website": "https://www.thnu.edu.cn/",
+  "source": "xls",
+  "province": "吉林省",
+  "tier": "双非",
+  "lat": 41.7440961,
+  "lon": 125.982365,
+  "school_code": "4122010202",
+  "depts": null,
+  "dept_skipped": true,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

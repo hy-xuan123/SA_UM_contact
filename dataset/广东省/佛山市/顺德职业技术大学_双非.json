@@ -1,0 +1,28 @@
+{
+  "name": "顺德职业技术大学",
+  "city": "佛山市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.sdpt.edu.cn/",
+  "source": "xls",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 22.8138218,
+  "lon": 113.3188354,
+  "school_code": "4144010831",
+  "depts": {
+    "career": {
+      "url": "https://jy.sdpt.edu.cn/",
+      "title": "就业信息网"
+    },
+    "intl": {
+      "url": "https://www.sdpt.edu.cn/jlhz1/gjhz.htm",
+      "title": "国际合作"
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

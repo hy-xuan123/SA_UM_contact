@@ -1,0 +1,19 @@
+{
+  "name": "韩山师范学院",
+  "city": "潮州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.hstc.edu.cn/",
+  "source": "xls",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.6614085,
+  "lon": 116.6583264,
+  "school_code": "4144010578",
+  "depts": null,
+  "dept_skipped": true,
+  "web_reachable": false,
+  "web_fail_reason": "全部方式失败"
+}

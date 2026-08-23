@@ -1,0 +1,33 @@
+{
+  "name": "深圳职业技术大学",
+  "city": "深圳市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.szpu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 22.54,
+  "lon": 114.06,
+  "depts": {
+    "career": {
+      "url": "https://www.szpu.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "phone": [
+        "26011000"
+      ]
+    },
+    "intl": {
+      "url": "https://www.szpu.edu.cn/zsjy/gatzs1.htm",
+      "title": "港澳台招生",
+      "email": [
+        "liyuanyuan@cucas.cn"
+      ],
+      "phone": [
+        "26011000"
+      ]
+    }
+  }
+}

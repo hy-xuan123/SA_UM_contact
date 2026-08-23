@@ -1,0 +1,4371 @@
+[
+  {
+    "province": "广东省",
+    "school": "东莞理工学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.dgut.edu.cn/",
+    "title": "就业信息",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "jiuye@dgut.edu.cn"
+    ],
+    "phone": [
+      "0769-22861918"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "东莞理工学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.dgut.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "东莞理工学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.dgut.edu.cn/info/1019/94112.htm",
+    "title": "",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "大湾区大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://www.gbu.edu.cn/educational_teaching.html#yjsjy",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "顺德职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jy.sdpt.edu.cn/",
+    "title": "就业信息网",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "顺德职业技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.sdpt.edu.cn/jlhz1/gjhz.htm",
+    "title": "国际合作",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "中山大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://career.sysu.edu.cn/",
+    "title": "就业信息网",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "中山大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://graduate.sysu.edu.cn/",
+    "title": "研究生培养",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "yyzhc@mail.sysu.edu.cn"
+    ],
+    "phone": [
+      "020-84111685",
+      "020-84111686",
+      "020-84113696"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南理工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.scut.edu.cn/graduate/",
+    "title": "华南理工大学研究生院",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南师范大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.scnu.edu.cn/a/20151026/34.html",
+    "title": "就业导航",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南师范大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yz.scnu.edu.cn/",
+    "title": "研究生招生",
+    "source_type": "研招办(可信)",
+    "email": [],
+    "phone": [
+      "020-85213863"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南师范大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.scnu.edu.cn/a/20150907/21.html",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "暨南大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://scdc.jnu.edu.cn/",
+    "title": "就业服务",
+    "source_type": "需人工确认",
+    "email": [
+      "ojy-jnu@163.com"
+    ],
+    "phone": [
+      "020-85226956"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "暨南大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yz.jnu.edu.cn",
+    "title": "研究生招生",
+    "source_type": "研招办(可信)",
+    "email": [
+      "oyzb@jnu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "暨南大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://wsc.jnu.edu.cn/",
+    "title": "国际交流",
+    "source_type": "国际处(可信)",
+    "email": [
+      "international@jnu.edu.cn"
+    ],
+    "phone": [
+      "85220457"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南农业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://jyzx.scau.edu.cn/",
+    "title": "就业（本科生  研究生）",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南农业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsy.scau.edu.cn/",
+    "title": "研究生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "020-85280065",
+      "020-85280066",
+      "020-85280067"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "华南农业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://fao.scau.edu.cn/",
+    "title": "对外交流",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [
+      "18061503163"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州中医药大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.gzucm.edu.cn/zsjy/zs.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": "邮箱为校长信箱，非就业中心专属"
+  },
+  {
+    "province": "广东省",
+    "school": "广州中医药大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://www.gzucm.edu.cn/jyjx/yjsjy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": "邮箱为校长信箱，非研究生院专属"
+  },
+  {
+    "province": "广东省",
+    "school": "广州中医药大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm",
+    "title": "国际教育及港澳台侨学生培养",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": "邮箱为校长信箱，非国际处专属"
+  },
+  {
+    "province": "广东省",
+    "school": "广州医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zs.gzhmu.edu.cn/bkzn/zsdt.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.gzhmu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州医科大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://fao.gzhmu.edu.cn/",
+    "title": "国际交流",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "仲恺农业工程学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.zhku.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "020-89003030"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "仲恺农业工程学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.zhku.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "020-89002097"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "仲恺农业工程学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://waishi.zhku.edu.cn/",
+    "title": "对外交流合作部（港澳台办公室）",
+    "source_type": "需人工确认",
+    "email": [
+      "international@zhku.edu.cn"
+    ],
+    "phone": [
+      "020-89003275"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "南方医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://fimmu.jobsys.cn/unijob/index.php/web/index/index",
+    "title": "就业指导中心",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "nydjyzdzx@126.com"
+    ],
+    "phone": [
+      "020-31044165",
+      "020-61648500",
+      "020-61648657"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "南方医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.smu.edu.cn",
+    "title": "研究生院(党委研究生工作部)",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "南方医科大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://portal.smu.edu.cn/wsc/",
+    "title": "国际交流与合作处",
+    "source_type": "国际处(可信)",
+    "email": [
+      "403928103@qq.com"
+    ],
+    "phone": [
+      "61648027"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东外语外贸大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://career.gdufs.edu.cn/",
+    "title": "学生就业",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "36207021@163.com",
+      "39328007@163.com"
+    ],
+    "phone": [
+      "020-36207021",
+      "020-39328007"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东外语外贸大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://gwyjs.gdufs.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东外语外贸大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://internationaloffice.gdufs.edu.cn/",
+    "title": "国际交流合作部",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东工业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://career.gdut.edu.cn",
+    "title": "就业指导与服务",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "gdutjob@126.com",
+      "1184584511@qq.com",
+      "1184545511@qq.com"
+    ],
+    "phone": [
+      "020-39322210"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东工业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.gdut.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东工业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://wsc.gdut.edu.cn/index.htm",
+    "title": "交流活动",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东技术师范大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.gpnu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "jysf@gpnu.edu.cn"
+    ],
+    "phone": [
+      "020-38256601",
+      "020-89285371"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东技术师范大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsc.gpnu.edu.cn/info/1443/6179.htm",
+    "title": "导师队伍",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "gsyjsc@gpnu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东技术师范大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://oice.gpnu.edu.cn/",
+    "title": "国际合作交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东药科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gdpu.edu.cn/zsyjy/yjszs.htm",
+    "title": "招生与就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "39352516"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东药科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsxy.gdpu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "yjsc@gdpu.edu.cn"
+    ],
+    "phone": [
+      "020-39352613"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东药科大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjjlhzc.gdpu.edu.cn/lxgyd/gatzs.htm",
+    "title": "港澳台招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "020-39352082"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东财经大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gdufe.edu.cn/11032/list.htm",
+    "title": "就业服务",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东财经大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsc.gdufe.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "84096846"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东财经大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://fao.gdufe.edu.cn/",
+    "title": "国际交流",
+    "source_type": "国际处(可信)",
+    "email": [
+      "fao3@gdufe.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东轻工职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jy.gdipu.edu.cn",
+    "title": "就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东轻工职业技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.gdqy.edu.cn/gjjl_gat_.htm",
+    "title": "国际暨港澳台交流 COMMUNICATION",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "020-61230200"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东金融学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jy.gduf.edu.cn/unijob/index.php/web/Index/index",
+    "title": "就业服务",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "gdufjy@163.com"
+    ],
+    "phone": [
+      "020-87053902"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东金融学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.gduf.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东金融学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.gduf.edu.cn/hzjl/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州体育学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gzsport.edu.cn:80/node/104",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "020-38024301",
+      "020-38025613",
+      "020-38024685"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州体育学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://fao.gzsport.edu.cn/",
+    "title": "对外交流",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gzhu.edu.cn/zsjy1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsy.gzhu.edu.cn/",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "yjsy@gzhu.edu.cn"
+    ],
+    "phone": [
+      "020-39366238",
+      "020-39366199"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州美术学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gzarts.edu.cn/index/zsjy/zsxx.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州美术学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.gzarts.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州美术学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://wsc.gzarts.edu.cn/",
+    "title": "留学广美",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gzpyp.edu.cn/zsjy",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "gzpyp@gzpyp.edu.cn"
+    ],
+    "phone": [
+      "020-84736666",
+      "020-34874086"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州航海学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.gzmtu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "020-32083010"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广州航海学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjjlxy.gzmtu.edu.cn/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [
+      "gjjlsh@gzmtu.edu.cn"
+    ],
+    "phone": [
+      "020-82003167"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "星海音乐学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://xsjy.xhcom.edu.cn/",
+    "title": "就业网",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "星海音乐学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://zs.xhcom.edu.cn/yjszs.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "020-39363636"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "星海音乐学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjy.xhcom.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [
+      "icxhcm_xf@163.com"
+    ],
+    "phone": [
+      "020-39315630",
+      "020-39363388",
+      "020-39311495"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "香港科技大学（广州）",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://fytgs.hkust-gz.edu.cn/",
+    "title": "霍英东研究生院 (广州)",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "香港科技大学（广州）",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://global.hkust-gz.edu.cn/",
+    "title": "全球拓展",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "13800000000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "惠州学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hzu.edu.cn/543/list.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0752-2527099"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "惠州学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.hzu.edu.cn/yjszs/list.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0752-2529000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "惠州学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://fao.hzu.edu.cn/gatsw/list.htm",
+    "title": "港澳台交流",
+    "source_type": "国际处(可信)",
+    "email": [
+      "fao@hzu.edu.cn"
+    ],
+    "phone": [
+      "0752-2529210"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东以色列理工学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://sites.gtiit.edu.cn/research/graduate-studies/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东以色列理工学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.gtiit.edu.cn/student-china.aspx",
+    "title": "港澳台学生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0754-88077088"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "五邑大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://career.wyu.edu.cn",
+    "title": "就业指导与服务中心",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "uff1awyujob@163.com"
+    ],
+    "phone": [
+      "0750-3296252"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "五邑大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.wyu.edu.cn/yjscx",
+    "title": "研究生处",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "五邑大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.wyu.edu.cn/wsc/",
+    "title": "国际交流合作处",
+    "source_type": "国际处(可信)",
+    "email": [
+      "wyufao@wyu.edu.cn"
+    ],
+    "phone": [
+      "0750)3296188"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "中山大学深圳校区",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://career.sysu.edu.cn/",
+    "title": "就业信息网",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "中山大学深圳校区",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://graduate.sysu.edu.cn/",
+    "title": "研究生培养",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京大学深圳研究生院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://admission.pkusz.edu.cn/index.html",
+    "title": "研究生招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京大学深圳研究生院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.pkusz.edu.cn/zspy/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "哈尔滨工业大学（深圳）",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://job.hitsz.edu.cn/zhxy-szxszyfzpt/",
+    "title": "就业服务",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "哈尔滨工业大学（深圳）",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yzb.hitsz.edu.cn/zs",
+    "title": "研究生招生网",
+    "source_type": "研招办(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "哈尔滨工业大学（深圳）",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.hitsz.edu.cn/25/list.htm",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "清华大学深圳国际研究生院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.sigs.tsinghua.edu.cn/7631/list.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "清华大学深圳国际研究生院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://www.sigs.tsinghua.edu.cn/7646/list.htm",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "清华大学深圳国际研究生院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "南方科技大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://career.sustech.edu.cn/",
+    "title": "就业",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "jobs@sustech.edu.cn"
+    ],
+    "phone": [
+      "0755-88010732"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "南方科技大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://gs.sustech.edu.cn/#/admission/",
+    "title": "研究生招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "南方科技大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://global.sustech.edu.cn/",
+    "title": "国际办学",
+    "source_type": "需人工确认",
+    "email": [
+      "global@sustech.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳北理莫斯科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://admission.smbu.edu.cn/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [
+      "admission@smbu.edu.cn"
+    ],
+    "phone": [
+      "0755-28323360",
+      "0755-28323398"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳北理莫斯科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://gradadmissions.smbu.edu.cn/",
+    "title": "研究生招生信息网",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳北理莫斯科大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.smbu.edu.cn/gjjl/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0755-28323024"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jobszu.jysd.com/",
+    "title": "就业招聘",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "szjobcenter@163.com"
+    ],
+    "phone": [
+      "0755-26536106",
+      "0755-26535652",
+      "0755-86931632"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://gra.szu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [
+      "gra@szu.edu.cn"
+    ],
+    "phone": [
+      "0755-26536177"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.szu.edu.cn/hzjl/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0755-26536114"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.sztu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳技术大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://gra.sztu.edu.cn/zsxx/zsz.htm",
+    "title": "研究生招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.sztu.edu.cn/dwjl.htm",
+    "title": "对外交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳理工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.suat-sz.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "foreign-affairs@siat.ac.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳理工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://www.suat-sz.edu.cn/yjy/ylqxcyjsyjy.htm",
+    "title": "医疗器械产业技术研究院",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "office@suat-sz.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳理工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.suat-sz.edu.cn/gjhz.htm",
+    "title": "国际合作",
+    "source_type": "国际处(可信)",
+    "email": [
+      "office@suat-sz.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.szpu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "26011000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "深圳职业技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.szpu.edu.cn/zsjy/gatzs1.htm",
+    "title": "港澳台招生",
+    "source_type": "需人工确认",
+    "email": [
+      "liyuanyuan@cucas.cn"
+    ],
+    "phone": [
+      "26011000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "岭南师范学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.lingnan.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "0759-3183226"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "岭南师范学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://d.lingnan.edu.cn/yjsc/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "lnsfyz@lingnan.edu.cn"
+    ],
+    "phone": [
+      "0759-3183072"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "岭南师范学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://d.lingnan.edu.cn/gjc/",
+    "title": "国际交流与合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.gdmu.edu.cn/zsjy/zsxx1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "0769-22896175"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsxy.gdmu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东海洋大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.gdou.edu.cn/zjzx/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东海洋大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://grs.gdou.edu.cn/",
+    "title": "研究生院",
+    "source_type": "需人工确认",
+    "email": [
+      "Yjs@gdou.edu.cn"
+    ],
+    "phone": [
+      "0759-2396185"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东海洋大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://iod.gdou.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0759-2396202"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京师范大学珠海校区",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://career.bnuzh.edu.cn/",
+    "title": "学生职业发展与就业指导中心",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京师范大学珠海校区",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://io.bnuzh.edu.cn/index.htm",
+    "title": "国际交流与合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京师范大学－香港浸会大联合国际学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.uic.edu.cn/admissions_and_placement.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0756-3620000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京师范大学－香港浸会大联合国际学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://www.uic.edu.cn/faculties_and_schools.htm",
+    "title": "学院与研究生院",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0756-3620000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "北京师范大学－香港浸会大联合国际学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://admission.bnbu.edu.cn/gatq/twxcsqz.htm",
+    "title": "港澳台侨生",
+    "source_type": "需人工确认",
+    "email": [
+      "admission@bnbu.edu.cn",
+      "bnbuhko@hkbu.edu.hk"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "肇庆学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jyzd.zqu.edu.cn",
+    "title": "就业指导中心",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "肇庆学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsc.zqu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "zquyzb@zqu.edu.cn",
+      "yjsy@zqu.edu.cn",
+      "2316815238@qq.com"
+    ],
+    "phone": [
+      "0758-2716770"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "肇庆学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://wsc.zqu.edu.cn/",
+    "title": "国际交流",
+    "source_type": "国际处(可信)",
+    "email": [
+      "global3@zqu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东石油化工学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://xueshengchu.gdupt.edu.cn",
+    "title": "学生工作部（招生与就业指导中心）",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东石油化工学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.gdupt.edu.cn/jgsz/dzgljg1/fzghb_yjsb_.htm",
+    "title": "发展规划部（研究生部）",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0668-2923508",
+      "0668-2923758"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "广东石油化工学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://site.gdupt.edu.cn/oiec/",
+    "title": "对外交流合作部",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "韶关学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.sgu.edu.cn/zsxxw",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0751-8120066"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "韶关学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.sgu.edu.cn/yjsb",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0751-8120049"
+    ],
+    "note": ""
+  },
+  {
+    "province": "广东省",
+    "school": "韶关学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.sgu.edu.cn/dwjlhzb",
+    "title": "国际教育 International education",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0751-8121371",
+      "0751-8121661",
+      "0751-8120781"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "东北电力大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zsjyc.neepu.edu.cn/",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "64806348-"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "东北电力大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://grad.neepu.edu.cn",
+    "title": "研究生招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "东北电力大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://oice.neepu.edu.cn/index.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林农业科技学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zs.jlnku.edu.cn/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [
+      "550018104476170@163.com",
+      "560055879253@qq.com"
+    ],
+    "phone": [
+      "0432-63509266",
+      "0432-63509600"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林农业科技学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://foreign.jlnku.edu.cn/",
+    "title": "外国语学院",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0432-63509783"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林化工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.jlict.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林化工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.jluct.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林化工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://wsc.jluct.edu.cn/",
+    "title": "国际交流与合作处",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林医药学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.jlmu.cn/zsjy1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林医药学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.jlmu.cn/info/1471/70451.htm",
+    "title": "吉林医药学院召开与生物制药专业中外合作办学项目说明会 4月12日上午，吉林医药学院与韩国建阳大学中外合作办学项目说明会在第二教学楼第一阶梯教室举行。韩国建阳大学研究生院院长李美香、国际交流学院程笑瑜、金辰穆，吉林医药学院国际交流处（国际教育学院）副处（院）长李妍、相关教师及生物制药（中外合作办学）专业全体学生出席会议。会议由李妍主持。李美香介绍了韩国建阳大学的基本情况。程笑瑜向我校生物制药（中外合作办学）专业学生介绍留学及研修项目基本情况。她表示，韩国建阳大学致力于为学生提供优质的教育资源和平台，... 2025-04-14",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林医药学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.jlmu.cn/jlhz/gjhz.htm",
+    "title": "国际合作",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林铁道职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jyxx.jty.edu.cn/",
+    "title": "就业信息网",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0432-66137555"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林铁道职业技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://iec.jtpt.cn",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "延边大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.ybu.edu.cn/zsjy_1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "xcb@ybu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "延边大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://grad.ybu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0433-2732079"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "延边大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://international.ybu.edu.cn/",
+    "title": "留学生教育",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.jlu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "zygl@jlu.edu.cn"
+    ],
+    "phone": [
+      "17302000045"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsy.jlu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "yzhc@jlu.edu.cn"
+    ],
+    "phone": [
+      "0431-85166175"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.jlu.edu.cn/dwjl.htm",
+    "title": "对外交流",
+    "source_type": "需人工确认",
+    "email": [
+      "zygl@jlu.edu.cn"
+    ],
+    "phone": [
+      "17302000045"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "东北师范大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.nenu.edu.cn/zsjy/xsjy.htm",
+    "title": "学生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "dsxxw@nenu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "东北师范大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.nenu.edu.cn/jyjx/yjsjy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "dsxxw@nenu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "东北师范大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://iso.nenu.edu.cn/",
+    "title": "International Students",
+    "source_type": "需人工确认",
+    "email": [
+      "iso@nenu.edu.cn"
+    ],
+    "phone": [
+      "0431-85099754"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林农业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.jlau.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林农业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://www.jlau.edu.cn/jyjx/yjsjy1.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林农业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjy.jlau.edu.cn",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林工商学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jlbtcjy.mh.chaoxing.com/",
+    "title": "就业信息网",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林工商学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://hzjl.jlbtc.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林工程技术师范学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://jlenu.hjiuye.com/",
+    "title": "就业信息网",
+    "source_type": "需人工确认",
+    "email": [
+      "jiuye@123.com"
+    ],
+    "phone": [
+      "0431-86908057",
+      "0431-86907028"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林工程技术师范学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.jlenu.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0431-86908108"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林工程技术师范学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjlc.jlenu.edu.cn",
+    "title": "国际交流与合作处",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "86908016",
+      "86908019"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林建筑大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://jlju.hjiuye.com/",
+    "title": "就业工作",
+    "source_type": "需人工确认",
+    "email": [
+      "jy84566069@163.com"
+    ],
+    "phone": [
+      "0431-84566069"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林建筑大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.jlju.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0431-84566037",
+      "0431-84566306",
+      "0431-84566329"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林警察学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zsw.jljcxy.com/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林警察学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.jljcxy.com/rcpy/yjsjy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0431-85001110",
+      "0431-85001234",
+      "0431-85001370"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林警察学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.jljcxy.com/info/2601/34811.htm",
+    "title": "",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0431-85001110",
+      "0431-85001234",
+      "0431-85001370"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林财经大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://newzs.jlufe.edu.cn/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "17202000216"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "吉林财经大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsy.jlufe.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "17202000216"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jyzx.ccu.edu.cn/",
+    "title": "学生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "16666666666"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsb.ccu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0431-85251786"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://wsc.ccu.edu.cn/",
+    "title": "国际合作与交流处",
+    "source_type": "国际处(可信)",
+    "email": [
+      "gjjlhzc@ccu.edu.cn"
+    ],
+    "phone": [
+      "0431-85250122"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春工业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.ccut.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春工业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsy.ccut.edu.cn/zsgz/a2024yzxxgk.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春工程学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://zsb.ccit.edu.cn/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0431-80578555"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春工程学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsgzc.ccit.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春师范大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.ccsfu.edu.cn/zsjy1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春师范大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.ccsfu.edu.cn/zsgz.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0431-86168695",
+      "0431-86168864",
+      "0431-86168134"
+    ],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春师范大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.ccsfu.edu.cn/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春理工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.cust.edu.cn/zsjy2026/index.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "cust@cust.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春理工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.cust.edu.cn/zsjy2026/yjszs20261/index.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "cust@cust.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春理工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.cust.edu.cn/jlhz2026/gjhz20261/index.htm",
+    "title": "国际合作",
+    "source_type": "国际处(可信)",
+    "email": [
+      "cust@cust.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.cvit.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "吉林省",
+    "school": "长春职业技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.cvit.edu.cn/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连理工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.dlut.edu.cn/index.html",
+    "title": "毕业生就业",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连理工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://gs.dlut.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [
+      "yjsyzhb@dlut.edu.cn"
+    ],
+    "phone": [
+      "0411-84708330"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连理工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://dutdice.dlut.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [
+      "dutfao@dlut.edu.cn"
+    ],
+    "phone": [
+      "0411-84708702"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连海事大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://myjob.dlmu.edu.cn/",
+    "title": "海大就业",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "haishijiuye@163.com",
+      "dmujobzixun@163.com"
+    ],
+    "phone": [
+      "0411-84724185",
+      "0411-84729209",
+      "0411-84728536"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连海事大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://grs.dlmu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "东北财经大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.dufe.edu.cn/rcpy/yjs/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "advice@dufe.edu.cn"
+    ],
+    "phone": [
+      "14543610005"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "东北财经大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.dufe.edu.cn/content_100605.html",
+    "title": "",
+    "source_type": "需人工确认",
+    "email": [
+      "advice@dufe.edu.cn"
+    ],
+    "phone": [
+      "14543610005"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连交通大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.djtu.edu.cn/Redirect?mid=55",
+    "title": "就业导航",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0411-84109958",
+      "0411-86226500-"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连交通大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.djtu.edu.cn/Redirect?mid=29",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连交通大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.djtu.edu.cn/Redirect?mid=44",
+    "title": "国际合作与交流处（留学生部）",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://rcd.dmu.edu.cn/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0411-86110222",
+      "0411-86110221",
+      "0411-86110223"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.dmu.edu.cn/",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连外国语大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.dlufl.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "xzxx@dlufl.edu.cn"
+    ],
+    "phone": [
+      "86115896"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连外国语大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.dlufl.edu.cn/info/1121/11447.htm",
+    "title": "23 2022年03 大连外国语大学关于发布2021年度研究生教育发展质量报告的公告",
+    "source_type": "需人工确认",
+    "email": [
+      "xzxx@dlufl.edu.cn"
+    ],
+    "phone": [
+      "86115896"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连外国语大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://ieo.dlufl.edu.cn/",
+    "title": "国际交流与合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0411-86112222"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连民族大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.dlnu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连民族大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://new.dlnu.edu.cn/gs/",
+    "title": " 研究生教育",
+    "source_type": "需人工确认",
+    "email": [
+      "yzb@dlnu.edu.cn"
+    ],
+    "phone": [
+      "0411-87630448"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连海洋大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://dlou.jysd.com/",
+    "title": "本科生就业",
+    "source_type": "需人工确认",
+    "email": [
+      "10158@dlou.edu.cn"
+    ],
+    "phone": [
+      "0411-84762679"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连海洋大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://master.dlou.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0411-84762652",
+      "0411-84762665"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "大连海洋大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjlc.dlou.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [
+      "iecd@dlou.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁师范大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://lsdjyw.lnnu.edu.cn/",
+    "title": "本科生就业",
+    "source_type": "需人工确认",
+    "email": [
+      "lszjcscb@163.com"
+    ],
+    "phone": [
+      "0411-82159911"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁师范大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://master.lnnu.edu.cn/",
+    "title": "研究生院",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁警察学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.lnpc.edu.cn/35/list.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁石油化工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.lnpu.edu.cn/zsjy/bkszs.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "024-56865000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁石油化工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.lnpu.edu.cn/rcpy/yjsjy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "024-56865000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁石油化工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.lnpu.edu.cn/hzjl/gjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "024-56865000"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "朝阳师范学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.xuexi.cn/local/normalTemplate.html?itemId=6673085005017032472",
+    "title": "【学习强国】朝阳师范学院学前教育学院提升学生职业技能促就业 06-03",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁科技学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.lnist.edu.cn/zsjy/zsgl.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "东北大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.neu.edu.cn/",
+    "title": "毕业生就业",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "neujiuye@163.com",
+      "NEU83681260@163.com",
+      "NEUcareer@163.com"
+    ],
+    "phone": [
+      "024-83687393",
+      "024-83689881",
+      "024-83681260"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "东北大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.graduate.neu.edu.cn",
+    "title": "研究生培养",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "东北大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://int.neu.edu.cn/",
+    "title": "国际交流合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.lnu.edu.cn",
+    "title": "就业",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [
+      "024-62602250"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://grs.lnu.edu.cn/zsgz.htm",
+    "title": "研究生招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "024-62202353"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjlc.lnu.edu.cn",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳农业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jobsyau.jysd.com/",
+    "title": "就业信息网",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [
+      "024）88487218"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳农业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://grs.syau.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "024-88487139"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳农业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjjlc.syau.edu.cn/",
+    "title": "国际交流处",
+    "source_type": "需人工确认",
+    "email": [
+      "gjjlc@syau.edu.cn"
+    ],
+    "phone": [
+      "024-88487084"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "中国刑事警察学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zsjy.cipuc.edu.cn/",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "zsb@cipuc.edu.cn",
+      "yjsc_npuc@163.com",
+      "npucjy@163.com"
+    ],
+    "phone": [
+      "024-86982292",
+      "024-86982692"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "中国刑事警察学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.cipuc.edu.cn/rcpy/yjsjy/xkzy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "中国刑事警察学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.cipuc.edu.cn/dwjl.htm",
+    "title": "对外交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳体育学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://sytyxy.bysjy.com.cn/",
+    "title": "就业信息",
+    "source_type": "需人工确认",
+    "email": [
+      "stzsjyc@163.com"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳体育学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.syty.edu.cn/zsgong_z/tzgg.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "sytyyzb@163.com"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳化工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://syuct.bysjy.com.cn/",
+    "title": "毕业生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳化工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://grszs.syuct.edu.cn",
+    "title": "研究生招生",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "024-89386567"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳化工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.syuct.edu.cn/gjjl/yhyx.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳医学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.symc.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳医学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsjy.symc.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳医学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.symc.edu.cn/info/1083/72801.htm",
+    "title": "",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.syu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.syu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://wsc.syu.edu.cn",
+    "title": "留学生教育",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳工程学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.sie.edu.cn/",
+    "title": "就业信息网",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [
+      "024-31975266"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳工程学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsb.sie.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳工程学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjjyxy.sie.edu.cn/index.jsp",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳师范大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.synu.edu.cn/zsjy_6737/list.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [
+      "dzb@synu.edu.cn"
+    ],
+    "phone": [
+      "024-86592995"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳师范大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.synu.edu.cn/main.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳师范大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://www.synu.edu.cn/2026/0814/c6740a115984/page.htm",
+    "title": "",
+    "source_type": "需人工确认",
+    "email": [
+      "dzb@synu.edu.cn"
+    ],
+    "phone": [
+      "024-86592995"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳建筑大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://zsjy.sjzu.edu.cn/",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳建筑大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.sjzu.edu.cn/rcpy/yjsjy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳理工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://job.sylu.edu.cn",
+    "title": "就业工作",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "24686098@163.com"
+    ],
+    "phone": [
+      "024-24686098"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳理工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yanjiusheng.sylu.edu.cn",
+    "title": "研究生培养",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳理工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjlhzc.sylu.edu.cn",
+    "title": "国际交流合作处",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳航空航天大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://sau.jysd.com/",
+    "title": "就业信息",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳航空航天大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.sau.edu.cn",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳航空航天大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjgcs.sau.edu.cn",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳药科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://syphu.jysd.com/",
+    "title": "就业信息",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "024-43520888"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳药科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://grs.syphu.edu.cn",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "沈阳药科大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://dir.syphu.edu.cn/",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁中医药大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://jy.lnutcm.edu.cn/",
+    "title": "就业服务",
+    "source_type": "需人工确认",
+    "email": [
+      "lnzyydxzsjyc@163.com"
+    ],
+    "phone": [
+      "024-31207238",
+      "0411-85890136"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁中医药大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.lnutcm.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "鲁迅美术学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.lumei.edu.cn/zsjy/bkszs.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": "145非法手机号段，来源为本科招生页面，非就业中心专属"
+  },
+  {
+    "province": "辽宁省",
+    "school": "鲁迅美术学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.lumei.edu.cn/jyjx/yjsjy.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": "145非法手机号段，误抓"
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁工业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://lngydx.bysjy.com.cn/",
+    "title": "就业创业服务网",
+    "source_type": "需人工确认",
+    "email": [
+      "lngydxjy@lnut.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁工业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsxy.lnut.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0416-4198179"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "锦州医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://jy.jzmu.edu.cn",
+    "title": "> 本科就业",
+    "source_type": "需人工确认",
+    "email": [
+      "zsjyc@jzmu.edu.cn"
+    ],
+    "phone": [
+      "0416-3675051",
+      "0416-4673436"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "锦州医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsc.jzmu.edu.cn/",
+    "title": "> 研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0416-3675207",
+      "0416-3675209",
+      "0416-3675210"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁工程技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zsjy.lntu.edu.cn",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁工程技术大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsy.lntu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁工程技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjxy.lntu.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁科技大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://zsjy.ustl.edu.cn/index.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "0412-5929096",
+      "0412-5929092",
+      "0412-5928097"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁科技大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.ustl.edu.cn/yjs/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "lkdyjsyzhb@ustl.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "辽宁科技大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.ustl.edu.cn/international/",
+    "title": "国际交流合作处、港澳台事务办公室",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [
+      "0412-5929089"
+    ],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "鞍山师范学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.asnc.edu.cn/zsjy/index.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "辽宁省",
+    "school": "鞍山师范学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.asnc.edu.cn/rcpy/yjsjy/index.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "佳木斯大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://jmsu.gxbys.org.cn/",
+    "title": "就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0454-8618138",
+      "0454-8618867"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "佳木斯大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.jmsu.edu.cn/",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0454-8618805",
+      "0454-8618499"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "佳木斯大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://iecd.jmsu.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨工业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hit.edu.cn/11537/list.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨工业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://hitgs.hit.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0451-86412296"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨工业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hit.edu.cn/11555/list.htm",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北农业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.neau.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北农业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://graduate.neau.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北农业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://gjjl.neau.edu.cn/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北林业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.nefu.edu.cn/",
+    "title": "就业信息",
+    "source_type": "就业中心(可信)",
+    "email": [
+      "Jiuye@nefu.edu.cn"
+    ],
+    "phone": [
+      "0451-82192212"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北林业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://gra.nefu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [
+      "yjsy@nefu.edu.cn"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北林业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://ico.nefu.edu.cn/",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [
+      "nefu_gjhzc@163.com"
+    ],
+    "phone": [
+      "0451-82190337"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨工程大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hrbeu.edu.cn/zsjy1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "0451-82519222"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨工程大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsy.hrbeu.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0451-82518910"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨工程大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://heucice.hrbeu.edu.cn",
+    "title": "国际合作教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0451-82518013"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hrbmu.edu.cn/zsjy1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsy.hrbmu.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨医科大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hrbmu.edu.cn/gjjlc/",
+    "title": "国际交流合作处",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨体育学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hrbipe.edu.cn/zzsjy/bsszsh.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [
+      "0451-82733741"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨体育学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.hrbipe.edu.cn/yjsy/",
+    "title": "研究生院 - 哈尔滨体育学院",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨商业大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.hrbcu.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨商业大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjsc.hrbcu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨商业大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjjyxy.hrbcu.edu.cn/",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://jypt.hrbu.edu.cn/frontpage/hrbu/html/index.html",
+    "title": "就业工作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.hrbu.edu.cn/yjsc/index.htm",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hrbu.edu.cn/ws/",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨理工大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hrbust.edu.cn/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨理工大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://graduate.hrbust.edu.cn/3907/list.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨理工大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hrbust.edu.cn/gjhz.htm",
+    "title": "国际合作",
+    "source_type": "国际处(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨职业技术大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://hzjxy.jysd.com",
+    "title": "就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨职业技术大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hrbzy.edu.cn/gjxy",
+    "title": "国际合作",
+    "source_type": "需人工确认",
+    "email": [
+      "hvtcgjhzjlc@163.com"
+    ],
+    "phone": [
+      "0451-86662281",
+      "0451-86669663"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨音乐学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hrbcm.edu.cn/jycs.htm",
+    "title": "就业超市",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": "三部门联系方式雷同，为整站统一，非部门专属"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨音乐学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.hrbcm.edu.cn/zsgz/yjszs.htm",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": "三部门联系方式雷同，为整站统一，非部门专属"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "哈尔滨音乐学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm",
+    "title": "对外交流与合作信息",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": "三部门联系方式雷同，为整站统一，非部门专属"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江中医药大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://zsjyc.hljucm.net/",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江中医药大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsy.hljucm.net/",
+    "title": "研究生系统",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "bozhongyuan@163.com"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江中医药大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hljucm.net/index/dwjl.htm",
+    "title": "对外交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江农业工程职业技术大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://mp.weixin.qq.com/s/E2a4ndPa1YJsCLfefgdWLA",
+    "title": "é»é¾æ±åä¸å·¥ç¨èä¸ææ¯å¤§å­¦2026å¹´æçç®ç«",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.hlju.edu.cn",
+    "title": "就业信息网",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": "邮箱域名163.con拼写错误，且为乱码来源"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsy.hlju.edu.cn/",
+    "title": "研究生培养",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "0451-86604902"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江科技大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.usth.edu.cn/",
+    "title": "学生就业信息",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江科技大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://gs.usth.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江科技大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://iceo.usth.edu.cn/",
+    "title": "国际交流合作处",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北石油大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.nepu.edu.cn/zsjy1.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": "邮箱为Webmaster网站管理员，非就业中心"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北石油大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjsb.nepu.edu.cn",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [
+      "19210459783"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "东北石油大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.nepu.edu.cn/gjjl/xjjl.htm",
+    "title": "国际交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": "邮箱为Webmaster网站管理员，非国际处"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "大庆师范学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.dqsy.net/zsjy.htm",
+    "title": "招生就业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江八一农垦大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.byau.edu.cn/900/list.htm",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江八一农垦大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.byau.edu.cn/932/list.htm",
+    "title": "研究生教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江八一农垦大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.byau.edu.cn/934/list.htm",
+    "title": "国际交流合作",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "牡丹江医科大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.hljbys.org.cn/school/index?mark=mdjmu",
+    "title": "就业创业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "牡丹江医科大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://www.mdjmu.cn/yjsc/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "牡丹江师范学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://mdjnu.gxbys.org.cn/",
+    "title": "就业信息网",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "牡丹江师范学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "http://yjs.mdjnu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "ascmdj@126.com"
+    ],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "绥化学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.shxy.edu.cn/jyzl.htm",
+    "title": "就业专栏",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "绥化学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.shxy.edu.cn/xxgk1/dwjlyhzxx.htm",
+    "title": "对外交流与合作信息",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江工业学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://www.hljut.edu.cn/a/zsjy/jiuyechuangye/",
+    "title": "就业创业",
+    "source_type": "存疑-招生就业合并站",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑龙江工业学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "http://www.hljut.edu.cn/a/guojijiaoliuhezuochu/",
+    "title": "国际交流合作处",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑河学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://zsxx.hhxy.edu.cn/",
+    "title": "招生就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": "来源为招生信息网(zsxx)，实为招生办联系方式，非就业中心"
+  },
+  {
+    "province": "黑龙江省",
+    "school": "黑河学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://gjjlhzc.hhxy.edu.cn/",
+    "title": "对外交流",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "齐齐哈尔医学院",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "https://www.hljbys.org.cn/school/index?mark=qmu",
+    "title": "本科就业",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0452-2663508"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "齐齐哈尔医学院",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.qmu.edu.cn/",
+    "title": "研究生教育",
+    "source_type": "研究生院(可信)",
+    "email": [
+      "qyyzb@qmu.edu.cn"
+    ],
+    "phone": [
+      "0452-2663828"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "齐齐哈尔医学院",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://foreignfairs.qmu.edu.cn/",
+    "title": "国际教育",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [
+      "0452-2663346",
+      "0452-2663370",
+      "2663515"
+    ],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "齐齐哈尔大学",
+    "dept": "career",
+    "dept_label": "就业中心",
+    "url": "http://job.qqhru.edu.cn/",
+    "title": "就业信息",
+    "source_type": "就业中心(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "齐齐哈尔大学",
+    "dept": "grad",
+    "dept_label": "研究生院",
+    "url": "https://yjs.qqhru.edu.cn",
+    "title": "研究生招生",
+    "source_type": "研究生院(可信)",
+    "email": [],
+    "phone": [],
+    "note": ""
+  },
+  {
+    "province": "黑龙江省",
+    "school": "齐齐哈尔大学",
+    "dept": "intl",
+    "dept_label": "国际处",
+    "url": "https://iec.qqhru.edu.cn/ ",
+    "title": "国际交流培养",
+    "source_type": "需人工确认",
+    "email": [],
+    "phone": [],
+    "note": ""
+  }
+]

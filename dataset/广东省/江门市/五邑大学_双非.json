@@ -1,0 +1,40 @@
+{
+  "name": "五邑大学",
+  "city": "江门市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.wyu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 22.58,
+  "lon": 113.08,
+  "depts": {
+    "grad": {
+      "url": "http://www.wyu.edu.cn/yjscx",
+      "title": "研究生处"
+    },
+    "intl": {
+      "url": "http://www.wyu.edu.cn/wsc/",
+      "title": "国际交流合作处",
+      "email": [
+        "wyufao@wyu.edu.cn"
+      ],
+      "phone": [
+        "0750)3296188"
+      ]
+    },
+    "career": {
+      "url": "https://career.wyu.edu.cn",
+      "title": "就业指导与服务中心",
+      "email": [
+        "uff1awyujob@163.com"
+      ],
+      "phone": [
+        "0750-3296252"
+      ]
+    }
+  }
+}
