@@ -515,7 +515,6 @@
         "title": "交流活动"
       },
       "career": {
-        "wechat": "Copyright",
         "url": "https://career.gdut.edu.cn",
         "title": "就业指导与服务",
         "email": [
@@ -789,7 +788,6 @@
         "title": "招生就业"
       },
       "grad": {
-        "wechat": "招生",
         "url": "http://yjsy.gzhu.edu.cn/",
         "title": "研究生招生",
         "email": [
@@ -1720,7 +1718,6 @@
         "title": "学生职业发展与就业指导中心"
       },
       "intl": {
-        "wechat": "Copyright",
         "url": "https://io.bnuzh.edu.cn/index.htm",
         "title": "国际交流与合作"
       }
@@ -3098,7 +3095,6 @@
     "lon": 122.255833,
     "depts": {
       "grad": {
-        "wechat": "编辑器应",
         "url": "http://master.dlou.edu.cn/",
         "title": "研究生教育",
         "phone": [
@@ -4169,7 +4165,6 @@
     "school_code": "4123010224",
     "depts": {
       "grad": {
-        "wechat": "快速入口",
         "url": "https://graduate.neau.edu.cn/",
         "title": "研究生教育"
       },
