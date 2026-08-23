@@ -12,8 +12,19 @@
   "lat": 23.1425996,
   "lon": 113.0485761,
   "school_code": "4144011847",
-  "depts": null,
+  "depts": {
+    "grad": {
+      "url": "https://www.fosu.edu.cn/yanjiusheng/",
+      "title": "研究生院（粤港澳大湾区先进制造业国家卓越工程师创新研究院）",
+      "phone": [
+        "0757-82771159"
+      ],
+      "email": [
+        "fosuyzb@fosu.edu.cn"
+      ]
+    }
+  },
   "dept_skipped": true,
-  "web_reachable": false,
-  "web_fail_reason": "全部方式失败"
+  "web_reachable": true,
+  "web_fail_reason": ""
 }

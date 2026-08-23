@@ -91,10 +91,21 @@
     "lat": 23.1425996,
     "lon": 113.0485761,
     "school_code": "4144011847",
-    "depts": null,
+    "depts": {
+      "grad": {
+        "url": "https://www.fosu.edu.cn/yanjiusheng/",
+        "title": "研究生院（粤港澳大湾区先进制造业国家卓越工程师创新研究院）",
+        "phone": [
+          "0757-82771159"
+        ],
+        "email": [
+          "fosuyzb@fosu.edu.cn"
+        ]
+      }
+    },
     "dept_skipped": true,
-    "web_reachable": false,
-    "web_fail_reason": "全部方式失败"
+    "web_reachable": true,
+    "web_fail_reason": ""
   },
   {
     "name": "顺德职业技术大学",
@@ -1544,10 +1555,22 @@
     "lat": 22.6910685,
     "lon": 114.207366,
     "school_code": "4144016407",
-    "depts": null,
+    "depts": {
+      "career": {
+        "url": "https://career.cuhk.edu.cn/",
+        "title": "职业规划与发展处 Career Service Center",
+        "email": [
+          "CareerService@cuhk.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "https://gs.cuhk.edu.cn/",
+        "title": "研究生院"
+      }
+    },
     "dept_skipped": true,
-    "web_reachable": false,
-    "web_fail_reason": "全部方式失败"
+    "web_reachable": true,
+    "web_fail_reason": ""
   },
   {
     "name": "岭南师范学院",
@@ -1664,10 +1687,19 @@
     "lat": 23.6614085,
     "lon": 116.6583264,
     "school_code": "4144010578",
-    "depts": null,
+    "depts": {
+      "career": {
+        "url": "https://jyb.hstc.edu.cn/",
+        "title": "学生就业指导中心"
+      },
+      "intl": {
+        "url": "https://wsb.hstc.edu.cn/",
+        "title": "对外交流合作部"
+      }
+    },
     "dept_skipped": true,
-    "web_reachable": false,
-    "web_fail_reason": "全部方式失败"
+    "web_reachable": true,
+    "web_fail_reason": ""
   },
   {
     "name": "北京师范大学珠海校区",

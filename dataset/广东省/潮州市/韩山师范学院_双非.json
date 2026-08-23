@@ -12,8 +12,17 @@
   "lat": 23.6614085,
   "lon": 116.6583264,
   "school_code": "4144010578",
-  "depts": null,
+  "depts": {
+    "career": {
+      "url": "https://jyb.hstc.edu.cn/",
+      "title": "学生就业指导中心"
+    },
+    "intl": {
+      "url": "https://wsb.hstc.edu.cn/",
+      "title": "对外交流合作部"
+    }
+  },
   "dept_skipped": true,
-  "web_reachable": false,
-  "web_fail_reason": "全部方式失败"
+  "web_reachable": true,
+  "web_fail_reason": ""
 }

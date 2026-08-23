@@ -12,8 +12,20 @@
   "lat": 22.6910685,
   "lon": 114.207366,
   "school_code": "4144016407",
-  "depts": null,
+  "depts": {
+    "career": {
+      "url": "https://career.cuhk.edu.cn/",
+      "title": "职业规划与发展处 Career Service Center",
+      "email": [
+        "CareerService@cuhk.edu.cn"
+      ]
+    },
+    "grad": {
+      "url": "https://gs.cuhk.edu.cn/",
+      "title": "研究生院"
+    }
+  },
   "dept_skipped": true,
-  "web_reachable": false,
-  "web_fail_reason": "全部方式失败"
+  "web_reachable": true,
+  "web_fail_reason": ""
 }
