@@ -12,8 +12,31 @@
   "lat": 41.0842812,
   "lon": 121.1130027,
   "school_code": "4121010167",
-  "depts": null,
-  "dept_skipped": true,
+  "depts": {
+    "career": {
+      "url": "https://jy.bhu.edu.cn/",
+      "title": "毕业生就业信息网"
+    },
+    "grad": {
+      "url": "https://yjsxy.bhu.edu.cn/",
+      "title": "研究生院",
+      "email": [
+        "bhuyjszs@163.com"
+      ],
+      "phone": [
+        "0416-3400137",
+        "0416-3400139"
+      ]
+    },
+    "intl": {
+      "phone": [
+        "0416-3400213"
+      ],
+      "title": "渤海大学国际教育学院",
+      "url": "https://www.bhuwsc.com/"
+    }
+  },
+  "dept_skipped": false,
   "web_reachable": true,
   "web_fail_reason": ""
 }

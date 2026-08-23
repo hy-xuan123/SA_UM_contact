@@ -12,8 +12,35 @@
   "lat": 41.7341182,
   "lon": 123.2431863,
   "school_code": "4121010142",
-  "depts": null,
-  "dept_skipped": true,
+  "depts": {
+    "grad": {
+      "phone": [
+        "024-25496253",
+        "024-25496252",
+        "024-25494900"
+      ],
+      "title": "联系方式-沈阳工业大学研究生院",
+      "url": "https://yjsxy.sut.edu.cn/"
+    },
+    "career": {
+      "email": [
+        "zhaoban_sut@163.com",
+        "jynet@sut.edu.cn"
+      ],
+      "phone": [
+        "024-25496072",
+        "024-25494802",
+        "024-25691226"
+      ],
+      "title": "沈阳工业大学招生就业网",
+      "url": "https://jynet.sut.edu.cn/"
+    },
+    "intl": {
+      "url": "https://www.sut.edu.cn/gjjl.htm",
+      "title": "国际交流"
+    }
+  },
+  "dept_skipped": false,
   "web_reachable": true,
   "web_fail_reason": ""
 }

@@ -12,8 +12,27 @@
   "lat": 22.5445741,
   "lon": 114.0545429,
   "school_code": "4144012957",
-  "depts": null,
-  "dept_skipped": true,
+  "depts": {
+    "career": {
+      "email": [
+        "it89226367@qq.com"
+      ],
+      "phone": [
+        "0755-89226738",
+        "0755-89226367"
+      ],
+      "url": "http://career.sziit.edu.cn/",
+      "title": "深圳信息职业技术大学就业信息网"
+    },
+    "intl": {
+      "phone": [
+        "0755-89226555"
+      ],
+      "url": "https://www.suit-sz.edu.cn/hzjl/gjjlyhz.htm",
+      "title": "国际交流与合作-深圳信息职业技术大学"
+    }
+  },
+  "dept_skipped": false,
   "web_reachable": true,
   "web_fail_reason": ""
 }

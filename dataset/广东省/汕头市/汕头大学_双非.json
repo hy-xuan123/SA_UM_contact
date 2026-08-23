@@ -12,8 +12,45 @@
   "lat": 23.4163248,
   "lon": 116.6290685,
   "school_code": "4144010560",
-  "depts": null,
-  "dept_skipped": true,
+  "depts": {
+    "career": {
+      "email": [
+        "job@stu.edu.cn"
+      ],
+      "phone": [
+        "0754-86502252",
+        "0754-82522372"
+      ],
+      "url": "https://gdc.stu.edu.cn/",
+      "title": "汕头大学|就业指导中心"
+    },
+    "grad": {
+      "email": [
+        "o_yzb@stu.edu.cn",
+        "o_pyb@stu.edu.cn",
+        "o_yjsgzb@stu.edu.cn"
+      ],
+      "phone": [
+        "0754-86502424",
+        "0754-86504743",
+        "0754-86504000"
+      ],
+      "url": "https://www.gs.stu.edu.cn/",
+      "title": "汕头大学研究生院"
+    },
+    "intl": {
+      "url": "https://icd.stu.edu.cn/",
+      "title": "国际交流合作处（港澳台事务办公室）",
+      "phone": [
+        "0754-86502316",
+        "0754-86502131"
+      ],
+      "email": [
+        "icd@stu.edu.cn"
+      ]
+    }
+  },
+  "dept_skipped": false,
   "web_reachable": true,
   "web_fail_reason": ""
 }
