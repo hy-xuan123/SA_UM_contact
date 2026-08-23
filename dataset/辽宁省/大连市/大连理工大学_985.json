@@ -27,7 +27,17 @@
     },
     "career": {
       "url": "http://job.dlut.edu.cn/index.html",
-      "title": "毕业生就业"
+      "title": "毕业生就业",
+      "email": [
+        "career@dlut.edu.cn",
+        "dlutjy@dlut.edu.cn",
+        "pjjy@dlut.edu.cn"
+      ],
+      "phone": [
+        "0411-84708222",
+        "0411-84709222",
+        "0411-84706641"
+      ]
     },
     "intl": {
       "url": "http://dutdice.dlut.edu.cn/",

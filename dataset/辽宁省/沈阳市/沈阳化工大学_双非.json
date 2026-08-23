@@ -25,7 +25,10 @@
     },
     "career": {
       "url": "http://syuct.bysjy.com.cn/",
-      "title": "毕业生就业"
+      "title": "毕业生就业",
+      "email": [
+        "sy89388470@163.com"
+      ]
     }
   }
 }

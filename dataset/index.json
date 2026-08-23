@@ -696,7 +696,15 @@
     "depts": {
       "career": {
         "url": "https://jy.gdipu.edu.cn",
-        "title": "就业"
+        "title": "就业",
+        "email": [
+          "1181877691@qq.com",
+          "gqjyb@gdip.edu.cn"
+        ],
+        "phone": [
+          "020-61230822",
+          "0757-88576223"
+        ]
       },
       "intl": {
         "url": "http://www.gdqy.edu.cn/gjjl_gat_.htm",
@@ -1573,6 +1581,9 @@
         "title": "职业规划与发展处 Career Service Center",
         "email": [
           "CareerService@cuhk.edu.cn"
+        ],
+        "phone": [
+          "0755-23515888"
         ]
       },
       "grad": {
@@ -1831,7 +1842,10 @@
       },
       "career": {
         "url": "https://jyzd.zqu.edu.cn",
-        "title": "就业指导中心"
+        "title": "就业指导中心",
+        "phone": [
+          "0758-2716242"
+        ]
       },
       "intl": {
         "url": "https://wsc.zqu.edu.cn/",
@@ -2353,7 +2367,10 @@
     "depts": {
       "career": {
         "url": "https://jlbtcjy.mh.chaoxing.com/",
-        "title": "就业信息网"
+        "title": "就业信息网",
+        "phone": [
+          "0431-82306222"
+        ]
       },
       "intl": {
         "url": "https://hzjl.jlbtc.edu.cn/",
@@ -2834,7 +2851,17 @@
       },
       "career": {
         "url": "http://job.dlut.edu.cn/index.html",
-        "title": "毕业生就业"
+        "title": "毕业生就业",
+        "email": [
+          "career@dlut.edu.cn",
+          "dlutjy@dlut.edu.cn",
+          "pjjy@dlut.edu.cn"
+        ],
+        "phone": [
+          "0411-84708222",
+          "0411-84709222",
+          "0411-84706641"
+        ]
       },
       "intl": {
         "url": "http://dutdice.dlut.edu.cn/",
@@ -3520,7 +3547,10 @@
       },
       "career": {
         "url": "http://syuct.bysjy.com.cn/",
-        "title": "毕业生就业"
+        "title": "毕业生就业",
+        "email": [
+          "sy89388470@163.com"
+        ]
       }
     }
   },
@@ -4425,7 +4455,11 @@
       },
       "career": {
         "url": "http://jypt.hrbu.edu.cn/frontpage/hrbu/html/index.html",
-        "title": "就业工作"
+        "title": "就业工作",
+        "phone": [
+          "0451-86658318",
+          "0451-87081201"
+        ]
       },
       "intl": {
         "url": "http://www.hrbu.edu.cn/ws/",
@@ -4518,7 +4552,10 @@
     "depts": {
       "career": {
         "url": "http://hzjxy.jysd.com",
-        "title": "就业"
+        "title": "就业",
+        "phone": [
+          "0451-58971201"
+        ]
       },
       "intl": {
         "url": "http://www.hrbzy.edu.cn/gjxy",

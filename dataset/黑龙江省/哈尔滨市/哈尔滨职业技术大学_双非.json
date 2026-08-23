@@ -14,7 +14,10 @@
   "depts": {
     "career": {
       "url": "http://hzjxy.jysd.com",
-      "title": "就业"
+      "title": "就业",
+      "phone": [
+        "0451-58971201"
+      ]
     },
     "intl": {
       "url": "http://www.hrbzy.edu.cn/gjxy",

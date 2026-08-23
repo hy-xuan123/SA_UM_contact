@@ -14,7 +14,15 @@
   "depts": {
     "career": {
       "url": "https://jy.gdipu.edu.cn",
-      "title": "就业"
+      "title": "就业",
+      "email": [
+        "1181877691@qq.com",
+        "gqjyb@gdip.edu.cn"
+      ],
+      "phone": [
+        "020-61230822",
+        "0757-88576223"
+      ]
     },
     "intl": {
       "url": "http://www.gdqy.edu.cn/gjjl_gat_.htm",
