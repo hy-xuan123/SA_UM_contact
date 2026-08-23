@@ -5,8 +5,6 @@
 ## 页面
 
 - `index.html` — 高校地图总览（Leaflet 地图 + 按省份/档次筛选 + 点击查看部门渠道：就业中心/研究生院/国际处的官网、公众号、邮箱、电话）
-- `contact_audit_report.html` — 部门联系方式归属核验报告
-- `HK_university_proposal.html` — 港校（港科广、港城莞等）在广东高校硕士招生策略企划报告
 
 ## 数据
 
