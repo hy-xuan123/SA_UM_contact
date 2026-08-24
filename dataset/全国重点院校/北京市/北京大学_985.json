@@ -18,7 +18,7 @@
       ]
     },
     "intl": {
-      "url": "https://www.pku.edu.cn/recruit.html#overseasStudent",
+      "url": "https://www.oir.pku.edu.cn/",
       "title": "留学生",
       "email": [
         "its@pku.edu.cn"
@@ -26,6 +26,10 @@
       "phone": [
         "0402430047"
       ]
+    },
+    "career": {
+      "url": "https://scc.pku.edu.cn/",
+      "title": "就业中心"
     }
   },
   "dept_skipped": false

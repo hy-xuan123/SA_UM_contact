@@ -10,6 +10,10 @@
     "intl": {
       "url": "http://gjc.ahu.edu.cn/",
       "title": "国际处"
+    },
+    "career": {
+      "url": "https://job.ahu.edu.cn/",
+      "title": "就业中心"
     }
   },
   "web_fail_reason": "requests失败"

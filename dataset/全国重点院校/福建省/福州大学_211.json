@@ -14,6 +14,10 @@
     "intl": {
       "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w",
       "title": "港澳台侨生招生"
+    },
+    "career": {
+      "url": "https://job.fzu.edu.cn/",
+      "title": "就业中心"
     }
   },
   "dept_skipped": false

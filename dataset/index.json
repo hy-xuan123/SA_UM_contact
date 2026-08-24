@@ -17,6 +17,10 @@
         "phone": [
           "021-34206753"
         ]
+      },
+      "career": {
+        "url": "https://www.job.sjtu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": true
@@ -116,7 +120,7 @@
         ]
       },
       "intl": {
-        "url": "https://ogp.fudan.edu.cn/16077/list.htm",
+        "url": "http://fao.fudan.edu.cn/",
         "title": "国际合作与交流处",
         "phone": [
           "021-65642260",
@@ -156,7 +160,7 @@
     "website": "https://www.shu.edu.cn/",
     "depts": {
       "career": {
-        "url": "https://www.shu.edu.cn/zsjy.htm",
+        "url": "https://job.shu.edu.cn/",
         "title": "招生就业",
         "phone": [
           "021-96928188",
@@ -280,7 +284,7 @@
         ]
       },
       "intl": {
-        "url": "http://kjc.ecust.edu.cn/8373/list.htm",
+        "url": "https://ice.ecust.edu.cn/",
         "title": "国际合作研发机构",
         "phone": [
           "021-64252925（"
@@ -432,7 +436,7 @@
       },
       "career": {
         "wechat": "微信二维码(单独二维码)",
-        "url": "http://jobs.ynu.edu.cn/",
+        "url": "https://jobs.ynu.edu.cn/",
         "title": "就业工作",
         "email": [
           "ydxsjyzx@126.com"
@@ -460,7 +464,7 @@
     "website": "https://www.imu.edu.cn/",
     "depts": {
       "career": {
-        "url": "http://zhaosheng.imu.edu.cn/",
+        "url": "https://job.imu.edu.cn/",
         "title": "招生与就业",
         "email": [
           "ndzsb@imu.edu.cn"
@@ -503,11 +507,15 @@
         ]
       },
       "intl": {
-        "url": "https://pgs.ruc.edu.cn/gats.htm",
+        "url": "http://io.ruc.edu.cn/",
         "title": " 港澳台生",
         "phone": [
           "0402430004"
         ]
+      },
+      "career": {
+        "url": "https://rdjy.ruc.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": false
@@ -585,7 +593,7 @@
         ]
       },
       "intl": {
-        "url": "https://www.pku.edu.cn/recruit.html#overseasStudent",
+        "url": "https://www.oir.pku.edu.cn/",
         "title": "留学生",
         "email": [
           "its@pku.edu.cn"
@@ -593,6 +601,10 @@
         "phone": [
           "0402430047"
         ]
+      },
+      "career": {
+        "url": "https://scc.pku.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": false
@@ -716,8 +728,8 @@
         ]
       },
       "intl": {
-        "url": "https://www.tsinghua.edu.cn/hzjl/gjhz.htm",
-        "title": "国际合作",
+        "url": "https://www.tsinghua.edu.cn/gjhz/",
+        "title": "国际合作与交流处",
         "email": [
           "webmaster@tsinghua.edu.cn"
         ],
@@ -746,7 +758,7 @@
         ]
       },
       "career": {
-        "url": "https://www.cuc.edu.cn/zsjy/list.htm",
+        "url": "https://jy.cuc.edu.cn/",
         "title": "招生就业",
         "phone": [
           "0402430031"
@@ -807,6 +819,10 @@
       "intl": {
         "url": "http://gjhzjlc.cupl.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "http://career.cupl.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": true
@@ -902,7 +918,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.cufe.edu.cn/zsjy.htm",
+        "url": "http://scc.cufe.edu.cn/",
         "title": "招生就业",
         "phone": [
           "0402430071"
@@ -994,7 +1010,7 @@
         ]
       },
       "career": {
-        "url": "http://job.bjtu.edu.cn/",
+        "url": "https://job.bjtu.edu.cn/",
         "title": "本科生就业",
         "email": [
           "jyb113@126.com",
@@ -1141,7 +1157,7 @@
         ]
       },
       "career": {
-        "url": "http://admissions.bjut.edu.cn/",
+        "url": "https://job.bjut.edu.cn/",
         "title": "招生就业",
         "phone": [
           "010-67391609"
@@ -1197,7 +1213,7 @@
         ]
       },
       "career": {
-        "url": "https://www.ustb.edu.cn/zsjy/index.htm",
+        "url": "https://job.ustb.edu.cn/",
         "title": "招生就业",
         "phone": [
           "0402430062"
@@ -1225,6 +1241,10 @@
       "intl": {
         "url": "https://io.bupt.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://job.bupt.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -1250,7 +1270,7 @@
         ]
       },
       "career": {
-        "url": "https://www.ncepu.edu.cn/zsjy/index.htm",
+        "url": "https://job.ncepu.edu.cn/",
         "title": "招生就业",
         "phone": [
           "0402430080"
@@ -1273,7 +1293,7 @@
         "title": "研究生"
       },
       "career": {
-        "url": "https://www.uibe.edu.cn/zsjy/index.htm",
+        "url": "https://aeo.uibe.edu.cn/",
         "title": "招生就业"
       },
       "intl": {
@@ -1488,7 +1508,7 @@
         ]
       },
       "career": {
-        "url": "https://www.cnu.edu.cn/zsjy/index.htm",
+        "url": "https://jy.cnu.edu.cn/",
         "title": "招生就业",
         "email": [
           "info@cnu.edu.cn"
@@ -1583,7 +1603,7 @@
         ]
       },
       "career": {
-        "url": "http://www.nenu.edu.cn/zsjy/xsjy.htm",
+        "url": "https://career.nenu.edu.cn/",
         "title": "学生就业",
         "email": [
           "dsxxw@nenu.edu.cn"
@@ -1633,7 +1653,7 @@
         ]
       },
       "career": {
-        "url": "http://www.ybu.edu.cn/zsjy_1.htm",
+        "url": "https://career.ybu.edu.cn/",
         "title": "招生就业",
         "email": [
           "xcb@ybu.edu.cn"
@@ -2412,6 +2432,10 @@
           "international@scu.edu.cn",
           "nic8203@scu.edu.cn"
         ]
+      },
+      "career": {
+        "url": "https://jy.scu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -2503,7 +2527,7 @@
         "title": "国际合作"
       },
       "career": {
-        "url": "https://www.swjtu.edu.cn/zsjy.htm",
+        "url": "https://jiuye.swjtu.edu.cn/",
         "title": "招生就业",
         "email": [
           "zszx@swjtu.edu.cn",
@@ -2558,7 +2582,7 @@
         ]
       },
       "career": {
-        "url": "https://www.swufe.edu.cn/zsjy.htm",
+        "url": "https://job.swufe.edu.cn/",
         "title": "招生就业",
         "email": [
           "webmaster@swufe.edu.cn"
@@ -2581,7 +2605,7 @@
     "depts": {
       "career": {
         "wechat": "成中医微学工",
-        "url": "https://zyd.cdutcm.edu.cn/zsjy",
+        "url": "https://jy.cdutcm.edu.cn/",
         "title": "招生就业",
         "email": [
           "cdutcmzsxc@163.com"
@@ -2598,6 +2622,10 @@
           "82717572",
           "82716812"
         ]
+      },
+      "intl": {
+        "url": "https://zyd.cdutcm.edu.cn/gjjyxy",
+        "title": "国际处"
       }
     },
     "dept_skipped": false
@@ -2722,6 +2750,10 @@
       "intl": {
         "url": "https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://jyw.tmu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -2792,7 +2824,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.nxu.edu.cn/zsjy.htm",
+        "url": "https://nxujob.nxbys.cn/",
         "title": "招生就业",
         "phone": [
           "0951-2077800"
@@ -2834,6 +2866,10 @@
         "phone": [
           "0551-63606695"
         ]
+      },
+      "career": {
+        "url": "http://www.job.ustc.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": false
@@ -2856,7 +2892,7 @@
         "title": "合作交流"
       },
       "career": {
-        "url": "http://bkzs.hfut.edu.cn/",
+        "url": "https://gdjy.hfut.edu.cn/",
         "title": "招生就业",
         "email": [
           "length-1"
@@ -2877,6 +2913,10 @@
       "intl": {
         "url": "http://gjc.ahu.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://job.ahu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -2999,7 +3039,7 @@
         ]
       },
       "career": {
-        "url": "https://www.tyut.edu.cn/zsjy.htm",
+        "url": "https://career.tyut.edu.cn/",
         "title": "招生就业",
         "email": [
           "English",
@@ -3032,7 +3072,7 @@
     "website": "https://www.sxu.edu.cn/",
     "depts": {
       "career": {
-        "url": "https://www.sxu.edu.cn/zty/zsjy/index.html",
+        "url": "https://job.sxu.edu.cn/",
         "title": "招生就业",
         "email": [
           "@sxu.edu.cn",
@@ -3050,7 +3090,7 @@
         ]
       },
       "intl": {
-        "url": "http://siee.sxu.edu.cn/zsxx/",
+        "url": "http://wsc.sxu.edu.cn/",
         "title": "港澳台侨招生",
         "phone": [
           "0351-7011934"
@@ -3234,6 +3274,10 @@
       "intl": {
         "url": "https://www2.scut.edu.cn/io/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://jyzx.scut.edu.cn/",
+        "title": "就业中心"
       }
     }
   },
@@ -3370,7 +3414,7 @@
       },
       "career": {
         "wechat": "暨大就业公众号",
-        "url": "https://scdc.jnu.edu.cn/",
+        "url": "https://career.jnu.edu.cn/",
         "title": "就业服务",
         "email": [
           "ojy-jnu@163.com"
@@ -3486,7 +3530,7 @@
         "contact_note": "邮箱为校长信箱，非研究生院专属"
       },
       "intl": {
-        "url": "https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm",
+        "url": "https://studyoverseas.gzucm.edu.cn/",
         "title": "国际教育及港澳台侨学生培养",
         "contact_note": "邮箱为校长信箱，非国际处专属",
         "email": [
@@ -3494,7 +3538,7 @@
         ]
       },
       "career": {
-        "url": "https://www.gzucm.edu.cn/zsjy/zs.htm",
+        "url": "http://gzzyy.bysjy.com.cn/",
         "title": "招生就业",
         "contact_note": "邮箱为校长信箱，非就业中心专属",
         "email": [
@@ -5091,7 +5135,7 @@
         ]
       },
       "career": {
-        "url": "https://www.gxu.edu.cn/zsjy1.htm",
+        "url": "http://jyy.gxu.edu.cn/",
         "title": "招生就业",
         "email": [
           "webmaster@gxu.edu.cn"
@@ -5128,7 +5172,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.xju.edu.cn/<span style='color:red;font-size:9pt'>转换链接错误</span>",
+        "url": "https://job.xju.edu.cn/",
         "title": "招生就业"
       },
       "intl": {
@@ -5150,6 +5194,10 @@
       "intl": {
         "url": "https://wsbm.shzu.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://scc.shzu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -5229,7 +5277,7 @@
         "title": "研究生院"
       },
       "career": {
-        "url": "http://www.91job.org.cn/sub-station/home/10290",
+        "url": "https://cumt.91job.org.cn/",
         "title": "就业指导"
       }
     },
@@ -5253,7 +5301,7 @@
         "title": "港澳台招生"
       },
       "career": {
-        "url": "http://cpu.91job.org.cn",
+        "url": "https://cpu.91job.org.cn/",
         "title": "学生就业"
       }
     },
@@ -5281,7 +5329,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "http://njau.91job.org.cn/",
+        "url": "https://njau.91job.org.cn/",
         "title": "就业工作"
       }
     },
@@ -5299,6 +5347,10 @@
       "intl": {
         "url": "https://gjc.njnu.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://njnu.91job.org.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -5315,6 +5367,10 @@
       "intl": {
         "url": "https://gjc.njust.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://njust.91job.org.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -5367,7 +5423,7 @@
         ]
       },
       "career": {
-        "url": "http://jiangnan.91job.org.cn",
+        "url": "https://jiuye.jiangnan.edu.cn/",
         "title": "就业信息网"
       },
       "intl": {
@@ -5390,7 +5446,7 @@
     "website": "https://www.hhu.edu.cn/",
     "depts": {
       "career": {
-        "url": "https://www.hhu.edu.cn/zsjy/list.htm",
+        "url": "https://hhu.91job.org.cn/",
         "title": "招生就业",
         "phone": [
           "010602011857"
@@ -5430,7 +5486,7 @@
         ]
       },
       "career": {
-        "url": "https://www.suda.edu.cn/enroll_job/?id=1#bk",
+        "url": "https://suda.91job.org.cn/",
         "title": "招生就业",
         "email": [
           "zsb@suda.edu.cn",
@@ -5500,7 +5556,7 @@
         ]
       },
       "career": {
-        "url": "https://www.nuist.edu.cn/zsjy.htm",
+        "url": "https://nuist.91job.org.cn/",
         "title": "招生就业",
         "email": [
           "xb@nuist.edu.cn"
@@ -5580,7 +5636,7 @@
     "website": "https://www.njupt.edu.cn/",
     "depts": {
       "career": {
-        "url": "https://www.njupt.edu.cn/46/list.htm",
+        "url": "https://njupt.91job.org.cn/",
         "title": "招生就业",
         "email": [
           "njupt@njupt.edu.cn"
@@ -5638,7 +5694,7 @@
         ]
       },
       "career": {
-        "url": "https://www.ncu.edu.cn/zsjy.htm",
+        "url": "http://jy.ncu.edu.cn/",
         "title": "招生就业",
         "phone": [
           "010802000198"
@@ -5662,7 +5718,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "http://career.hebut.edu.cn",
+        "url": "https://career.hebut.edu.cn/",
         "title": "就业服务"
       },
       "intl": {
@@ -5686,7 +5742,7 @@
     "depts": {
       "career": {
         "wechat": "郑州大学-微信",
-        "url": "https://www.zzu.edu.cn/zsjy.htm",
+        "url": "http://job.zzu.edu.cn/",
         "title": "招生就业",
         "email": [
           "function"
@@ -5728,7 +5784,7 @@
         "title": "国际交流"
       },
       "career": {
-        "url": "https://www.henu.edu.cn/zsjy.htm",
+        "url": "https://job.henu.edu.cn/",
         "title": "招生就业"
       }
     },
@@ -5746,6 +5802,10 @@
       "intl": {
         "url": "http://www.ir.zju.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://www.career.zju.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": true
@@ -5788,7 +5848,7 @@
         ]
       },
       "intl": {
-        "url": "https://tzb.nbu.edu.cn/gatgz.htm",
+        "url": "https://wsc.nbu.edu.cn/",
         "title": "港澳台合作"
       }
     },
@@ -5808,7 +5868,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.hainanu.edu.cn/zsjy.htm",
+        "url": "https://jyxt.hainanu.edu.cn/",
         "title": "招生就业",
         "phone": [
           "010802000692"
@@ -5882,6 +5942,10 @@
         "phone": [
           "027-68752059"
         ]
+      },
+      "career": {
+        "url": "https://xsjy.whu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": false
@@ -5900,7 +5964,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.zuel.edu.cn/recruit_jobs/",
+        "url": "https://jyzx.zuel.edu.cn/",
         "title": "招生就业",
         "phone": [
           "018502002264"
@@ -5999,7 +6063,7 @@
         ]
       },
       "career": {
-        "url": "https://www.ccnu.edu.cn/zsjy/bysjy.htm",
+        "url": "https://jiuye.ccnu.edu.cn/",
         "title": "毕业生就业",
         "phone": [
           "027-67868046",
@@ -6031,7 +6095,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.whut.edu.cn/zhaoshengjiuye/",
+        "url": "https://scc.whut.edu.cn/",
         "title": "招生就业",
         "email": [
           "English"
@@ -6137,7 +6201,7 @@
         ]
       },
       "career": {
-        "url": "https://www.hnu.edu.cn/zsjy.htm",
+        "url": "https://scc.hnu.edu.cn/",
         "title": "招生就业",
         "email": [
           "xiaoban@hnu.edu.cn"
@@ -6202,7 +6266,7 @@
         ]
       },
       "career": {
-        "url": "https://www.xtu.edu.cn/zsjy.htm",
+        "url": "https://career.xtu.edu.cn/",
         "title": "招生就业",
         "email": [
           "zsk@xtu.edu.cn"
@@ -6233,6 +6297,10 @@
       "intl": {
         "url": "https://faoffice.lzu.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://job.lzu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -6261,6 +6329,10 @@
         "title": "国际合作与交流",
         "phone": [
           "0592-2180240"
+        ],
+        "email": [
+          "ws@xmu.edu.cn",
+          "thm@xmu.edu.cn"
         ]
       },
       "career": {
@@ -6292,6 +6364,10 @@
       "intl": {
         "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w",
         "title": "港澳台侨生招生"
+      },
+      "career": {
+        "url": "https://job.fzu.edu.cn/",
+        "title": "就业中心"
       }
     },
     "dept_skipped": false
@@ -6308,6 +6384,10 @@
       "intl": {
         "url": "https://gjc.utibet.edu.cn/",
         "title": "国际处"
+      },
+      "career": {
+        "url": "https://job.utibet.edu.cn/",
+        "title": "就业中心"
       }
     },
     "web_fail_reason": "requests失败"
@@ -6322,7 +6402,7 @@
     "website": "https://www.gzu.edu.cn/",
     "depts": {
       "career": {
-        "url": "https://www.gzu.edu.cn/70/list.htm",
+        "url": "http://jobs.gzu.edu.cn/",
         "title": "招生就业",
         "phone": [
           "0851-88292178"
@@ -6496,7 +6576,7 @@
         ]
       },
       "career": {
-        "url": "http://job.lnu.edu.cn",
+        "url": "http://job.lnu.edu.cn/",
         "title": "就业",
         "phone": [
           "024-62602250"
@@ -7413,6 +7493,10 @@
           "024-31207238",
           "0411-85890136"
         ]
+      },
+      "intl": {
+        "url": "http://gjhzjlc.lnutcm.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -7972,7 +8056,7 @@
         ]
       },
       "career": {
-        "url": "https://www.xidian.edu.cn/zsjy.htm",
+        "url": "https://job.xidian.edu.cn/",
         "title": "招生就业",
         "email": [
           "zsb@mail.xidian.edu.cn",
@@ -8068,7 +8152,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.qhu.edu.cn/zsjy/index.htm",
+        "url": "https://jyw.qhu.edu.cn/",
         "title": "招生就业",
         "phone": [
           "010502000029"
@@ -8136,7 +8220,7 @@
         "title": "研究生教育"
       },
       "career": {
-        "url": "https://www.neau.edu.cn/zsjy.htm",
+        "url": "https://neau.bysjy.com.cn/",
         "title": "招生就业",
         "email": [
           "shuji@neau.edu.cn",
