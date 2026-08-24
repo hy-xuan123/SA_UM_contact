@@ -1,8 +1,10 @@
 # SA_UM_contact
 
-广东 & 东北三省高校一览 · 澳门大学（UM）信息学院与工学院 硕士招生目标院校库
+**SA_UM_contact**（SA = 澳门大学信息学院）全国高校一览 · 硕士招生目标院校库
 
-本仓库为澳门大学信息学院与工学院硕士招生组提供目标高校的集中调研视图：以交互式地图呈现各省高校分布，并整合各校就业中心、研究生院、国际处的官方渠道（官网、公众号、邮箱、电话），辅助招生对接与线下/线上活动策划。
+GitHub Pages 在线地址：**https://hy-xuan123.github.io/SA_UM_contact/**
+
+本仓库为澳门大学信息学院与工学院硕士招生组提供目标高校的集中调研视图：以交互式地图呈现全国高校分布，并整合各校就业中心、研究生院、国际处的官方渠道（官网、公众号、邮箱、电话），辅助招生对接与线下/线上活动策划。
 
 > 語言切換：本文件同時提供 [简体中文](#简体中文版) 與 [繁體中文](#繁體中文版) 兩種版本。
 
@@ -19,16 +21,18 @@
 
 ## 数据说明
 
-`dataset/` 目录为本地生成的数据资产，默认不纳入版本库（见 `.gitignore`），如需在线上运行页面，请将 `dataset/` 上传至服务器同一目录下。其结构如下：
+`dataset/` 目录为数据资产，已纳入版本库，随 GitHub Pages 自动部署。其结构如下：
 
 | 路径 | 说明 |
 | --- | --- |
-| `index.json` | 全部高校汇总数据（157 所，含经纬度、院校档次、软科排名、部门渠道） |
-| `四省高校汇总表.xlsx` | Excel 汇总表（含公众号二维码图片，按层次配色） |
-| `四省汇总.csv` | 全局汇总表（CSV） |
-| `广东省/ 吉林省/ 辽宁省/ 黑龙江省/` | 各省数据 JSON 与各省汇总 CSV |
-| `qrcodes/` | 公众号二维码图片 |
+| `index.json` | 全部高校汇总数据（285 所，含经纬度、院校档次、软科排名、部门渠道） |
+| `index_depts.json` | 各部门渠道抓取中间数据 |
 | `contact_audit.json` | 联系方式归属核验数据 |
+| `全国重点院校/` | 各高校数据 JSON（按省份组织） |
+| `全国重点院校/全国重点院校_汇总.csv` | 广东 + 东北三省（吉辽黑）157 所高校汇总表 |
+| `全国重点院校/全国高校汇总.csv` | 全国 285 所高校汇总表 |
+| `全国重点院校/全国高校汇总表.xlsx` | Excel 汇总表（含公众号二维码图片，按层次配色） |
+| `qrcodes/` | 公众号二维码图片 |
 
 ## 本地预览
 
@@ -43,8 +47,23 @@ python -m http.server 8000
 
 ```bash
 python build_index.py    # 汇总各校 JSON -> index.json
-python gen_summary.py    # 生成各省及四省汇总 CSV
+python gen_summary.py    # 生成各省及全国汇总 CSV
 python gen_excel.py      # 生成带二维码与层次配色的 Excel
+python record_changes.py # 记录数据变更日志（可选）
+```
+
+## GitHub Pages 部署
+
+- 在线地址：**https://hy-xuan123.github.io/SA_UM_contact/**
+- 发布源：`gh-pages` 分支（当前）/ 或 `main` 分支
+- 数据文件统一为 UTF-8 编码，浏览器可直接解析
+
+更新线上数据：
+
+```bash
+git add -A
+git commit -m "更新数据"
+git push origin <branch>
 ```
 
 ## 声明
@@ -66,16 +85,18 @@ python gen_excel.py      # 生成带二维码与层次配色的 Excel
 
 ## 資料說明
 
-`dataset/` 目錄為本地生成之資料資產，預設不納入版本庫（見 `.gitignore`），如需於線上執行頁面，請將 `dataset/` 上傳至伺服器同一目錄下。其結構如下：
+`dataset/` 目錄為資料資產，已納入版本庫，隨 GitHub Pages 自動部署。其結構如下：
 
 | 路徑 | 說明 |
 | --- | --- |
-| `index.json` | 全部高校彙總資料（157 所，含經緯度、院校檔次、軟科排名、部門渠道） |
-| `四省高校彙總表.xlsx` | Excel 彙總表（含公眾號二維碼圖片，按層次配色） |
-| `四省彙總.csv` | 全局彙總表（CSV） |
-| `廣東省/ 吉林省/ 遼寧省/ 黑龍江省/` | 各省資料 JSON 與各省彙總 CSV |
-| `qrcodes/` | 公眾號二維碼圖片 |
+| `index.json` | 全部高校彙總資料（285 所，含經緯度、院校檔次、軟科排名、部門渠道） |
+| `index_depts.json` | 各部門渠道抓取中間資料 |
 | `contact_audit.json` | 聯絡方式歸屬核驗資料 |
+| `全國重點院校/` | 各高校資料 JSON（按省份組織） |
+| `全國重點院校/全國重點院校_彙總.csv` | 廣東 + 東北三省（吉遼黑）157 所高校彙總表 |
+| `全國重點院校/全國高校彙總.csv` | 全國 285 所高校彙總表 |
+| `全國重點院校/全國高校彙總表.xlsx` | Excel 彙總表（含公眾號二維碼圖片，按層次配色） |
+| `qrcodes/` | 公眾號二維碼圖片 |
 
 ## 本地預覽
 
@@ -90,8 +111,23 @@ python -m http.server 8000
 
 ```bash
 python build_index.py    # 彙總各校 JSON -> index.json
-python gen_summary.py    # 產生各省及四省彙總 CSV
+python gen_summary.py    # 產生各省及全國彙總 CSV
 python gen_excel.py      # 產生含二維碼與層次配色的 Excel
+python record_changes.py # 記錄資料變更日誌（可選）
+```
+
+## GitHub Pages 部署
+
+- 線上地址：**https://hy-xuan123.github.io/SA_UM_contact/**
+- 發布源：`gh-pages` 分支（目前）／或 `main` 分支
+- 資料檔案統一為 UTF-8 編碼，瀏覽器可直接解析
+
+更新線上資料：
+
+```bash
+git add -A
+git commit -m "更新資料"
+git push origin <branch>
 ```
 
 ## 聲明
