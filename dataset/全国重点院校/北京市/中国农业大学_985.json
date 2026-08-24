@@ -17,6 +17,10 @@
       "email": [
         "xwzx@cau.edu.cn"
       ]
+    },
+    "intl": {
+      "url": "https://global.cau.edu.cn/",
+      "title": "国际处"
     }
   },
   "dept_skipped": false

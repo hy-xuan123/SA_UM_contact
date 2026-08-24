@@ -6,6 +6,11 @@
   "school_type": "公办",
   "level": "本科",
   "website": "https://www.zju.edu.cn/",
-  "depts": {},
+  "depts": {
+    "intl": {
+      "url": "http://www.ir.zju.edu.cn/",
+      "title": "国际处"
+    }
+  },
   "dept_skipped": true
 }

@@ -6,6 +6,11 @@
   "school_type": "公办",
   "level": "本科",
   "website": "https://www.ahu.edu.cn/",
-  "depts": {},
+  "depts": {
+    "intl": {
+      "url": "http://gjc.ahu.edu.cn/",
+      "title": "国际处"
+    }
+  },
   "web_fail_reason": "requests失败"
 }

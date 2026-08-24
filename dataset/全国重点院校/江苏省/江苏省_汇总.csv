@@ -1,12 +1,12 @@
 ﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-电话,备注
-1,东南大学,,985,公办,,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,,,,,
+1,东南大学,,985,公办,,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,https://oic.seu.edu.cn/,,,,
 2,南京大学,,985,公办,,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,,
 3,中国矿业大学,,211,公办,,http://www.91job.org.cn/sub-station/home/10290,,,,http://gs.cumt.edu.cn/,,,,https://global.cumt.edu.cn/,,master@cumt.edu.cn,,
 4,中国药科大学,,211,公办,,http://cpu.91job.org.cn,,,,http://yjsy.cpu.edu.cn/,,,,http://gjc.cpu.edu.cn/,,,,
 5,南京农业大学,,211,公办,,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,http://foreign.njau.edu.cn/,,,025-84395755; 025-84396722,
-6,南京师范大学,,211,公办,,,,,,,,,,,,,,官网不可达：requests失败
-7,南京理工大学,,211,公办,,,,,,,,,,,,,,官网不可达：requests失败
-8,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,,,,,
+6,南京师范大学,,211,公办,,,,,,,,,,https://gjc.njnu.edu.cn/,,,,官网不可达：requests失败
+7,南京理工大学,,211,公办,,,,,,,,,,https://gjc.njust.edu.cn/,,,,官网不可达：requests失败
+8,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,025-84890911,
 9,江南大学,,211,公办,,http://jiangnan.91job.org.cn,,,,http://gs.jiangnan.edu.cn/,官方微博,yjsy@jiangnan.edu.cn,0510-85913652（,http://guojiaochu.jiangnan.edu.cn/,,gjch@jiangnan.edu.cn,,
 10,河海大学,,211,公办,,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,http://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,025-83772107,
 11,苏州大学,,211,公办,,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://www.suda.edu.cn/enroll_job/?id=5#gaot,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,

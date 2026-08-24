@@ -17,6 +17,10 @@
     "grad": {
       "url": "https://gs.gzu.edu.cn/zsgz/list.htm",
       "title": "研究生招生"
+    },
+    "intl": {
+      "url": "https://oir.gzu.edu.cn/",
+      "title": "国际处"
     }
   },
   "dept_skipped": false

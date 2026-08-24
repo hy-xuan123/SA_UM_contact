@@ -12,7 +12,12 @@
   "lat": 41.7899463,
   "lon": 123.4063953,
   "school_code": "4121010159",
-  "depts": null,
+  "depts": {
+    "intl": {
+      "url": "https://www.cmu.edu.cn/gjhzyjlc/",
+      "title": "国际处"
+    }
+  },
   "dept_skipped": true,
   "web_reachable": false,
   "web_fail_reason": "全部方式失败"

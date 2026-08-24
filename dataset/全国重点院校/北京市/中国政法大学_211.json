@@ -6,6 +6,11 @@
   "school_type": "公办",
   "level": "本科",
   "website": "https://www.cupl.edu.cn/",
-  "depts": {},
+  "depts": {
+    "intl": {
+      "url": "http://gjhzjlc.cupl.edu.cn/",
+      "title": "国际处"
+    }
+  },
   "dept_skipped": true
 }

@@ -19,6 +19,10 @@
     "career": {
       "url": "http://www.asnc.edu.cn/zsjy/index.htm",
       "title": "招生就业"
+    },
+    "intl": {
+      "url": "http://gjjl.asnc.edu.cn/",
+      "title": "国际处"
     }
   }
 }

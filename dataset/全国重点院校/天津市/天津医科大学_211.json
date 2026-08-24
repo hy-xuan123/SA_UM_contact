@@ -6,6 +6,11 @@
   "school_type": "公办",
   "level": "本科",
   "website": "https://www.tmu.edu.cn/",
-  "depts": {},
+  "depts": {
+    "intl": {
+      "url": "https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm",
+      "title": "国际处"
+    }
+  },
   "web_fail_reason": "requests失败"
 }

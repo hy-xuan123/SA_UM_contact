@@ -25,6 +25,10 @@
         "020-84111150",
         "020-84111791"
       ]
+    },
+    "intl": {
+      "url": "https://eao.sysu.edu.cn/",
+      "title": "国际处"
     }
   },
   "dept_skipped": false

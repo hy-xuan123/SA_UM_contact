@@ -18,6 +18,10 @@
     "grad": {
       "url": "http://www.scut.edu.cn/graduate/",
       "title": "华南理工大学研究生院"
+    },
+    "intl": {
+      "url": "https://www2.scut.edu.cn/io/",
+      "title": "国际处"
     }
   }
 }

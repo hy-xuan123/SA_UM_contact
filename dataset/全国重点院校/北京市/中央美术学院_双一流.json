@@ -14,6 +14,17 @@
     "grad": {
       "url": "https://www.cafa.edu.cn/sp/2022clinks/?cs=1201",
       "title": "研究生院"
+    },
+    "intl": {
+      "url": "https://global.cafa.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "lxs@cafa.edu.cn"
+      ],
+      "phone": [
+        "010-64771018",
+        "010-64771356"
+      ]
     }
   },
   "dept_skipped": false

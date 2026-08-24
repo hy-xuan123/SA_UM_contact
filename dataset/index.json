@@ -7,10 +7,19 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.sjtu.edu.cn/",
-    "depts": {},
-    "dept_skipped": true,
-    "lat": 31.2,
-    "lon": 121.43
+    "depts": {
+      "intl": {
+        "url": "https://global.sjtu.edu.cn/",
+        "title": "国际处",
+        "email": [
+          "globalsjtu@sjtu.edu.cn"
+        ],
+        "phone": [
+          "021-34206753"
+        ]
+      }
+    },
+    "dept_skipped": true
   },
   {
     "name": "华东师范大学",
@@ -40,14 +49,11 @@
         "url": "http://lxs.ecnu.edu.cn/",
         "title": "International Students",
         "email": [
-          "format",
           "lxs@ecnu.edu.cn"
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.228,
-    "lon": 121.4
+    "dept_skipped": false
   },
   {
     "name": "同济大学",
@@ -76,13 +82,11 @@
         "url": "http://fao.tongji.edu.cn/",
         "title": "外事交流",
         "phone": [
-          "+8621-65982612"
+          "2165982612"
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.282,
-    "lon": 121.501
+    "dept_skipped": false
   },
   {
     "name": "复旦大学",
@@ -120,9 +124,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.297,
-    "lon": 121.503
+    "dept_skipped": false
   },
   {
     "name": "上海外国语大学",
@@ -142,9 +144,7 @@
         "title": "合作交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 31.277,
-    "lon": 121.483
+    "dept_skipped": false
   },
   {
     "name": "上海大学",
@@ -179,9 +179,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.314,
-    "lon": 121.39
+    "dept_skipped": false
   },
   {
     "name": "上海财经大学",
@@ -213,11 +211,13 @@
         "phone": [
           "021-65904215"
         ]
+      },
+      "intl": {
+        "url": "https://ieco.shufe.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 31.307,
-    "lon": 121.498
+    "dept_skipped": false
   },
   {
     "name": "东华大学",
@@ -233,6 +233,11 @@
         "title": "国际合作处/港澳台办",
         "email": [
           "ico@dhu.edu.cn"
+        ],
+        "phone": [
+          "021-67792157",
+          "021-62378612",
+          "021-67792156"
         ]
       },
       "grad": {
@@ -256,9 +261,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.202,
-    "lon": 121.415
+    "dept_skipped": false
   },
   {
     "name": "华东理工大学",
@@ -291,9 +294,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.141,
-    "lon": 121.425
+    "dept_skipped": false
   },
   {
     "name": "第二军医大学",
@@ -304,9 +305,7 @@
     "level": "本科",
     "website": null,
     "depts": {},
-    "web_fail_reason": "官网未知",
-    "lat": 31.311,
-    "lon": 121.535
+    "web_fail_reason": "官网未知"
   },
   {
     "name": "上海中医药大学",
@@ -336,9 +335,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.23,
-    "lon": 121.534
+    "dept_skipped": false
   },
   {
     "name": "上海体育学院",
@@ -349,9 +346,7 @@
     "level": "本科",
     "website": null,
     "depts": {},
-    "web_fail_reason": "官网未知",
-    "lat": 31.314,
-    "lon": 121.53
+    "web_fail_reason": "官网未知"
   },
   {
     "name": "上海海洋大学",
@@ -381,9 +376,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.888,
-    "lon": 121.895
+    "dept_skipped": false
   },
   {
     "name": "上海科技大学",
@@ -411,9 +404,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.191,
-    "lon": 121.59
+    "dept_skipped": false
   },
   {
     "name": "上海音乐学院",
@@ -424,9 +415,7 @@
     "level": "本科",
     "website": null,
     "depts": {},
-    "web_fail_reason": "官网未知",
-    "lat": 31.216,
-    "lon": 121.458
+    "web_fail_reason": "官网未知"
   },
   {
     "name": "云南大学",
@@ -459,9 +448,7 @@
         "title": "国际合作"
       }
     },
-    "dept_skipped": false,
-    "lat": 25.054,
-    "lon": 102.704
+    "dept_skipped": false
   },
   {
     "name": "内蒙古大学",
@@ -497,9 +484,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 40.816,
-    "lon": 111.678
+    "dept_skipped": false
   },
   {
     "name": "中国人民大学",
@@ -525,9 +510,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.97,
-    "lon": 116.319
+    "dept_skipped": false
   },
   {
     "name": "中国农业大学",
@@ -548,11 +531,13 @@
         "email": [
           "xwzx@cau.edu.cn"
         ]
+      },
+      "intl": {
+        "url": "https://global.cau.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 40.001,
-    "lon": 116.355
+    "dept_skipped": false
   },
   {
     "name": "中央民族大学",
@@ -578,9 +563,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.953,
-    "lon": 116.32
+    "dept_skipped": false
   },
   {
     "name": "北京大学",
@@ -612,9 +595,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.9895,
-    "lon": 116.305
+    "dept_skipped": false
   },
   {
     "name": "北京师范大学",
@@ -647,9 +628,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.961,
-    "lon": 116.366
+    "dept_skipped": false
   },
   {
     "name": "北京理工大学",
@@ -679,9 +658,7 @@
         "title": "招生就业"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.959,
-    "lon": 116.315
+    "dept_skipped": false
   },
   {
     "name": "北京航空航天大学",
@@ -699,11 +676,13 @@
       "career": {
         "url": "https://www.buaa.edu.cn/zsjy.htm",
         "title": "招生就业"
+      },
+      "intl": {
+        "url": "https://global.buaa.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.98,
-    "lon": 116.347
+    "dept_skipped": false
   },
   {
     "name": "清华大学",
@@ -748,9 +727,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 40.0005,
-    "lon": 116.326
+    "dept_skipped": false
   },
   {
     "name": "中国传媒大学",
@@ -780,12 +757,13 @@
         "title": "国际交流",
         "phone": [
           "0402430031"
+        ],
+        "email": [
+          "kzxy@cuc.edu.cn"
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.91,
-    "lon": 116.555
+    "dept_skipped": false
   },
   {
     "name": "中国地质大学（北京）",
@@ -809,11 +787,13 @@
         "phone": [
           "909355733"
         ]
+      },
+      "intl": {
+        "url": "https://gjhzc.cugb.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.987,
-    "lon": 116.342
+    "dept_skipped": false
   },
   {
     "name": "中国政法大学",
@@ -823,10 +803,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.cupl.edu.cn/",
-    "depts": {},
-    "dept_skipped": true,
-    "lat": 40.103,
-    "lon": 116.226
+    "depts": {
+      "intl": {
+        "url": "http://gjhzjlc.cupl.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "dept_skipped": true
   },
   {
     "name": "中国石油大学（北京）",
@@ -851,9 +834,9 @@
           "cie.dailyservices@cup.edu.cn"
         ],
         "phone": [
-          "+8610-89733796",
-          "+8610-89733474",
-          "+8610-89733979"
+          "1089733796",
+          "1089733474",
+          "1089733979"
         ]
       },
       "career": {
@@ -869,9 +852,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 40.219,
-    "lon": 116.246
+    "dept_skipped": false
   },
   {
     "name": "中国矿业大学（北京）",
@@ -898,9 +879,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.992,
-    "lon": 116.344
+    "dept_skipped": false
   },
   {
     "name": "中央财经大学",
@@ -930,9 +909,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.964,
-    "lon": 116.345
+    "dept_skipped": false
   },
   {
     "name": "中央音乐学院",
@@ -958,9 +935,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.908,
-    "lon": 116.357
+    "dept_skipped": false
   },
   {
     "name": "北京中医药大学",
@@ -997,9 +972,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.965,
-    "lon": 116.425
+    "dept_skipped": false
   },
   {
     "name": "北京交通大学",
@@ -1036,7 +1009,7 @@
       },
       "intl": {
         "url": "http://intl.bjtu.edu.cn/",
-        "title": "国际交流",
+        "title": "国际处",
         "email": [
           "bjtu-intl@bjtu.edu.cn"
         ],
@@ -1045,9 +1018,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.951,
-    "lon": 116.341
+    "dept_skipped": false
   },
   {
     "name": "北京体育大学",
@@ -1082,9 +1053,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 40.03,
-    "lon": 116.31
+    "dept_skipped": false
   },
   {
     "name": "北京化工大学",
@@ -1114,9 +1083,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.97,
-    "lon": 116.417
+    "dept_skipped": false
   },
   {
     "name": "北京外国语大学",
@@ -1146,9 +1113,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.954,
-    "lon": 116.304
+    "dept_skipped": false
   },
   {
     "name": "北京工业大学",
@@ -1183,9 +1148,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.879,
-    "lon": 116.486
+    "dept_skipped": false
   },
   {
     "name": "北京林业大学",
@@ -1215,9 +1178,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 40.0,
-    "lon": 116.351
+    "dept_skipped": false
   },
   {
     "name": "北京科技大学",
@@ -1229,8 +1190,8 @@
     "website": "https://www.ustb.edu.cn/",
     "depts": {
       "intl": {
-        "url": "https://www.ustb.edu.cn/hzjl/index.htm",
-        "title": "国际合作",
+        "url": "https://oice.ustb.edu.cn/",
+        "title": "国际处",
         "phone": [
           "0402430062"
         ]
@@ -1250,9 +1211,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.99,
-    "lon": 116.36
+    "dept_skipped": false
   },
   {
     "name": "北京邮电大学",
@@ -1262,10 +1221,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.bupt.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 39.96,
-    "lon": 116.356
+    "depts": {
+      "intl": {
+        "url": "https://io.bupt.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "华北电力大学",
@@ -1295,9 +1257,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 40.088,
-    "lon": 116.304
+    "dept_skipped": false
   },
   {
     "name": "对外经济贸易大学",
@@ -1318,12 +1278,13 @@
       },
       "intl": {
         "url": "https://www.uibe.edu.cn/gjjl/index.htm",
-        "title": "国际交流"
+        "title": "国际交流",
+        "phone": [
+          "010502040904"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.977,
-    "lon": 116.424
+    "dept_skipped": false
   },
   {
     "name": "中国人民公安大学",
@@ -1356,9 +1317,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.832,
-    "lon": 116.295
+    "dept_skipped": false
   },
   {
     "name": "中国科学院大学",
@@ -1391,9 +1350,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.904,
-    "lon": 116.407
+    "dept_skipped": false
   },
   {
     "name": "中国音乐学院",
@@ -1419,9 +1376,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.916,
-    "lon": 116.392
+    "dept_skipped": false
   },
   {
     "name": "中央戏剧学院",
@@ -1432,9 +1387,7 @@
     "level": "本科",
     "website": "https://www.zhongxi.cn/",
     "depts": {},
-    "dept_skipped": true,
-    "lat": 39.916,
-    "lon": 116.403
+    "dept_skipped": true
   },
   {
     "name": "中央美术学院",
@@ -1452,11 +1405,20 @@
       "grad": {
         "url": "https://www.cafa.edu.cn/sp/2022clinks/?cs=1201",
         "title": "研究生院"
+      },
+      "intl": {
+        "url": "https://global.cafa.edu.cn/",
+        "title": "国际处",
+        "email": [
+          "lxs@cafa.edu.cn"
+        ],
+        "phone": [
+          "010-64771018",
+          "010-64771356"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.99,
-    "lon": 116.482
+    "dept_skipped": false
   },
   {
     "name": "北京协和医学院",
@@ -1484,9 +1446,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.912,
-    "lon": 116.41
+    "dept_skipped": false
   },
   {
     "name": "外交学院",
@@ -1506,9 +1466,7 @@
         "title": "研究生部"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.912,
-    "lon": 116.373
+    "dept_skipped": false
   },
   {
     "name": "首都师范大学",
@@ -1550,9 +1508,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.934,
-    "lon": 116.303
+    "dept_skipped": false
   },
   {
     "name": "吉林大学",
@@ -1935,7 +1891,10 @@
       "intl": {
         "url": "http://gjjlc.jlenu.edu.cn",
         "title": "国际交流与合作处",
-        "phone": []
+        "phone": [
+          "86908016",
+          "86908019"
+        ]
       },
       "career": {
         "url": "http://jlenu.hjiuye.com/",
@@ -2315,6 +2274,10 @@
         "phone": [
           "0431-80578555"
         ]
+      },
+      "intl": {
+        "url": "http://gjhzyjlc.ccit.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -2441,10 +2404,17 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.scu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 30.63,
-    "lon": 104.083
+    "depts": {
+      "intl": {
+        "url": "https://international.scu.edu.cn/",
+        "title": "国际处",
+        "email": [
+          "international@scu.edu.cn",
+          "nic8203@scu.edu.cn"
+        ]
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "电子科技大学",
@@ -2469,11 +2439,13 @@
         "phone": [
           "028-61831789"
         ]
+      },
+      "intl": {
+        "url": "http://www.oice.uestc.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 30.748,
-    "lon": 103.93
+    "dept_skipped": false
   },
   {
     "name": "四川农业大学",
@@ -2515,9 +2487,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.0,
-    "lon": 103.0
+    "dept_skipped": false
   },
   {
     "name": "西南交通大学",
@@ -2555,9 +2525,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.699,
-    "lon": 104.056
+    "dept_skipped": false
   },
   {
     "name": "西南财经大学",
@@ -2600,9 +2568,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.663,
-    "lon": 104.022
+    "dept_skipped": false
   },
   {
     "name": "成都中医药大学",
@@ -2634,9 +2600,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.706,
-    "lon": 104.066
+    "dept_skipped": false
   },
   {
     "name": "成都理工大学",
@@ -2646,10 +2610,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.cdut.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 30.677,
-    "lon": 104.139
+    "depts": {
+      "intl": {
+        "url": "https://dice.cdut.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "西南石油大学",
@@ -2690,9 +2657,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.83,
-    "lon": 104.19
+    "dept_skipped": false
   },
   {
     "name": "南开大学",
@@ -2716,9 +2681,7 @@
         "title": "招生就业"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.097,
-    "lon": 117.175
+    "dept_skipped": false
   },
   {
     "name": "天津大学",
@@ -2745,9 +2708,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 39.109,
-    "lon": 117.176
+    "dept_skipped": false
   },
   {
     "name": "天津医科大学",
@@ -2757,10 +2718,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.tmu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 39.107,
-    "lon": 117.189
+    "depts": {
+      "intl": {
+        "url": "https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "天津中医药大学",
@@ -2792,13 +2756,11 @@
           "tutcm@hotmail.com"
         ],
         "phone": [
-          "86-22-59596555"
+          "2259596555"
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.1,
-    "lon": 117.17
+    "dept_skipped": false
   },
   {
     "name": "天津工业大学",
@@ -2808,10 +2770,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.tjpu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 39.07,
-    "lon": 117.145
+    "depts": {
+      "intl": {
+        "url": "https://io.tiangong.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "宁夏大学",
@@ -2832,11 +2797,13 @@
         "phone": [
           "0951-2077800"
         ]
+      },
+      "intl": {
+        "url": "https://hzjl.nxu.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 38.505,
-    "lon": 106.136
+    "dept_skipped": false
   },
   {
     "name": "中国科学技术大学",
@@ -2856,11 +2823,20 @@
         "phone": [
           "0551-63601958"
         ]
+      },
+      "intl": {
+        "url": "https://oic.ustc.edu.cn/",
+        "title": "国际处",
+        "email": [
+          "fanjiangqi@ustc.edu.cn",
+          "oic@ustc.edu.cn"
+        ],
+        "phone": [
+          "0551-63606695"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.836,
-    "lon": 117.268
+    "dept_skipped": false
   },
   {
     "name": "合肥工业大学",
@@ -2887,9 +2863,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.842,
-    "lon": 117.297
+    "dept_skipped": false
   },
   {
     "name": "安徽大学",
@@ -2899,10 +2873,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.ahu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 31.848,
-    "lon": 117.26
+    "depts": {
+      "intl": {
+        "url": "http://gjc.ahu.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "中国海洋大学",
@@ -2940,9 +2917,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 36.063,
-    "lon": 120.338
+    "dept_skipped": false
   },
   {
     "name": "山东大学",
@@ -2969,9 +2944,7 @@
         "title": "国际合作"
       }
     },
-    "dept_skipped": false,
-    "lat": 36.673,
-    "lon": 117.059
+    "dept_skipped": false
   },
   {
     "name": "中国石油大学（华东）",
@@ -3004,9 +2977,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 35.908,
-    "lon": 120.111
+    "dept_skipped": false
   },
   {
     "name": "太原理工大学",
@@ -3042,7 +3013,6 @@
         "url": "https://www.tyut.edu.cn/hzjl/gjhz2.htm",
         "title": "国际合作",
         "email": [
-          "English",
           "tyutxcb@tyut.edu.cn"
         ],
         "phone": [
@@ -3050,9 +3020,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 37.859,
-    "lon": 112.519
+    "dept_skipped": false
   },
   {
     "name": "山西大学",
@@ -3089,9 +3057,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 37.798,
-    "lon": 112.578
+    "dept_skipped": false
   },
   {
     "name": "中山大学",
@@ -3131,6 +3097,10 @@
           "020-84111150",
           "020-84111791"
         ]
+      },
+      "intl": {
+        "url": "http://eao.sysu.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -3161,6 +3131,10 @@
           "020-84111150",
           "020-84111791"
         ]
+      },
+      "intl": {
+        "url": "https://eao.sysu.edu.cn/",
+        "title": "国际处"
       }
     },
     "dept_skipped": false
@@ -3230,7 +3204,7 @@
           "0000@bnu.edu.cn"
         ],
         "phone": [
-          "0756-3621079--"
+          "0756-3621079"
         ]
       }
     },
@@ -3256,6 +3230,10 @@
       "grad": {
         "url": "http://www.scut.edu.cn/graduate/",
         "title": "华南理工大学研究生院"
+      },
+      "intl": {
+        "url": "https://www2.scut.edu.cn/io/",
+        "title": "国际处"
       }
     }
   },
@@ -3763,7 +3741,9 @@
         "email": [
           "403928103@qq.com"
         ],
-        "phone": []
+        "phone": [
+          "61648027"
+        ]
       },
       "grad": {
         "url": "http://yjs.smu.edu.cn",
@@ -4185,9 +4165,7 @@
       "intl": {
         "url": "https://gjjlhzc.gdpu.edu.cn/lxgyd/gatzs.htm",
         "title": "港澳台招生",
-        "phone": [
-          "020-39352082"
-        ]
+        "phone": []
       }
     }
   },
@@ -4374,6 +4352,10 @@
           "020-39366238",
           "020-39366199"
         ]
+      },
+      "intl": {
+        "url": "http://wsc.gzhu.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -4535,11 +4517,7 @@
         "email": [
           "icxhcm_xf@163.com"
         ],
-        "phone": [
-          "020-39315630",
-          "020-39363388",
-          "020-39311495"
-        ]
+        "phone": []
       },
       "career": {
         "url": "https://xsjy.xhcom.edu.cn/",
@@ -5122,11 +5100,19 @@
           "010702000001",
           "000000040700"
         ]
+      },
+      "intl": {
+        "url": "https://gjjl.gxu.edu.cn/",
+        "title": "国际处",
+        "email": [
+          "gjc@gxu.edu.cn"
+        ],
+        "phone": [
+          "010702000001"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 22.84,
-    "lon": 108.292
+    "dept_skipped": false
   },
   {
     "name": "新疆大学",
@@ -5150,9 +5136,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 43.768,
-    "lon": 87.616
+    "dept_skipped": false
   },
   {
     "name": "石河子大学",
@@ -5162,10 +5146,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.shzu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 44.3,
-    "lon": 86.04
+    "depts": {
+      "intl": {
+        "url": "https://wsbm.shzu.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "东南大学",
@@ -5183,11 +5170,13 @@
       "grad": {
         "url": "https://www.seu.edu.cn/yjsy/",
         "title": "研究生院 - 东南大学"
+      },
+      "intl": {
+        "url": "https://oic.seu.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.057,
-    "lon": 118.786
+    "dept_skipped": false
   },
   {
     "name": "南京大学",
@@ -5217,9 +5206,7 @@
         "title": "研究生招生"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.058,
-    "lon": 118.786
+    "dept_skipped": false
   },
   {
     "name": "中国矿业大学",
@@ -5246,9 +5233,7 @@
         "title": "就业指导"
       }
     },
-    "dept_skipped": false,
-    "lat": 34.216,
-    "lon": 117.142
+    "dept_skipped": false
   },
   {
     "name": "中国药科大学",
@@ -5272,9 +5257,7 @@
         "title": "学生就业"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.073,
-    "lon": 118.854
+    "dept_skipped": false
   },
   {
     "name": "南京农业大学",
@@ -5302,9 +5285,7 @@
         "title": "就业工作"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.037,
-    "lon": 118.843
+    "dept_skipped": false
   },
   {
     "name": "南京师范大学",
@@ -5314,10 +5295,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.njnu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 32.053,
-    "lon": 118.801
+    "depts": {
+      "intl": {
+        "url": "https://gjc.njnu.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "南京理工大学",
@@ -5327,10 +5311,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.njust.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 32.021,
-    "lon": 118.854
+    "depts": {
+      "intl": {
+        "url": "https://gjc.njust.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "南京航空航天大学",
@@ -5348,11 +5335,16 @@
       "career": {
         "url": "https://nuaa.91job.org.cn/",
         "title": "> 就业创业"
+      },
+      "intl": {
+        "url": "https://ico.nuaa.edu.cn/",
+        "title": "国际处",
+        "phone": [
+          "025-84890911"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 32.033,
-    "lon": 118.851
+    "dept_skipped": false
   },
   {
     "name": "江南大学",
@@ -5386,9 +5378,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.487,
-    "lon": 120.269
+    "dept_skipped": false
   },
   {
     "name": "河海大学",
@@ -5421,9 +5411,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 32.06,
-    "lon": 118.79
+    "dept_skipped": false
   },
   {
     "name": "苏州大学",
@@ -5468,9 +5456,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 31.311,
-    "lon": 120.65
+    "dept_skipped": false
   },
   {
     "name": "南京中医药大学",
@@ -5494,9 +5480,7 @@
         "title": "国际合作交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.058,
-    "lon": 118.795
+    "dept_skipped": false
   },
   {
     "name": "南京信息工程大学",
@@ -5530,9 +5514,7 @@
         "title": "国际合作"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.205,
-    "lon": 118.716
+    "dept_skipped": false
   },
   {
     "name": "南京医科大学",
@@ -5562,9 +5544,7 @@
         "title": "就业指导"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.007,
-    "lon": 118.764
+    "dept_skipped": false
   },
   {
     "name": "南京林业大学",
@@ -5588,9 +5568,7 @@
         "title": "国际合作"
       }
     },
-    "dept_skipped": false,
-    "lat": 32.086,
-    "lon": 118.812
+    "dept_skipped": false
   },
   {
     "name": "南京邮电大学",
@@ -5634,9 +5612,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 32.076,
-    "lon": 118.857
+    "dept_skipped": false
   },
   {
     "name": "南昌大学",
@@ -5669,9 +5645,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 28.683,
-    "lon": 115.858
+    "dept_skipped": false
   },
   {
     "name": "河北工业大学",
@@ -5699,9 +5673,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 39.238,
-    "lon": 117.053
+    "dept_skipped": false
   },
   {
     "name": "郑州大学",
@@ -5732,9 +5704,7 @@
         "title": " 留学生招生"
       }
     },
-    "dept_skipped": false,
-    "lat": 34.747,
-    "lon": 113.625
+    "dept_skipped": false
   },
   {
     "name": "河南大学",
@@ -5762,9 +5732,7 @@
         "title": "招生就业"
       }
     },
-    "dept_skipped": false,
-    "lat": 34.82,
-    "lon": 114.314
+    "dept_skipped": false
   },
   {
     "name": "浙江大学",
@@ -5774,10 +5742,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.zju.edu.cn/",
-    "depts": {},
-    "dept_skipped": true,
-    "lat": 30.263,
-    "lon": 120.12
+    "depts": {
+      "intl": {
+        "url": "http://www.ir.zju.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "dept_skipped": true
   },
   {
     "name": "中国美术学院",
@@ -5788,9 +5759,7 @@
     "level": "本科",
     "website": "https://www.caa.edu.cn/",
     "depts": {},
-    "dept_skipped": true,
-    "lat": 30.225,
-    "lon": 120.13
+    "dept_skipped": true
   },
   {
     "name": "宁波大学",
@@ -5823,9 +5792,7 @@
         "title": "港澳台合作"
       }
     },
-    "dept_skipped": false,
-    "lat": 29.907,
-    "lon": 121.638
+    "dept_skipped": false
   },
   {
     "name": "海南大学",
@@ -5855,9 +5822,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 20.058,
-    "lon": 110.319
+    "dept_skipped": false
   },
   {
     "name": "华中科技大学",
@@ -5893,9 +5858,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.516,
-    "lon": 114.418
+    "dept_skipped": false
   },
   {
     "name": "武汉大学",
@@ -5921,9 +5884,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.543,
-    "lon": 114.364
+    "dept_skipped": false
   },
   {
     "name": "中南财经政法大学",
@@ -5950,9 +5911,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 30.475,
-    "lon": 114.389
+    "dept_skipped": false
   },
   {
     "name": "中国地质大学（武汉）",
@@ -5976,11 +5935,13 @@
         "phone": [
           "011102004169"
         ]
+      },
+      "intl": {
+        "url": "https://gjhzc.cug.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 30.517,
-    "lon": 114.395
+    "dept_skipped": false
   },
   {
     "name": "华中农业大学",
@@ -6015,13 +5976,11 @@
         "phone": [
           "027-87287573",
           "027-87281181",
-          "027-87285091---"
+          "027-87285091"
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.473,
-    "lon": 114.353
+    "dept_skipped": false
   },
   {
     "name": "华中师范大学",
@@ -6047,11 +6006,16 @@
           "027-67867020",
           "011102000286"
         ]
+      },
+      "intl": {
+        "url": "https://hmt.ccnu.edu.cn/",
+        "title": "国际处",
+        "phone": [
+          "2767865079"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.525,
-    "lon": 114.361
+    "dept_skipped": false
   },
   {
     "name": "武汉理工大学",
@@ -6090,9 +6054,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 30.514,
-    "lon": 114.348
+    "dept_skipped": false
   },
   {
     "name": "中南大学",
@@ -6119,12 +6081,15 @@
       },
       "intl": {
         "url": "https://iecd.csu.edu.cn/",
-        "title": "国际合作与交流"
+        "title": "国际合作与交流",
+        "email": [
+          "csuwsb@126.com",
+          "ied-csu@csu.edu.cn",
+          "summerschool@csu.edu.cn"
+        ]
       }
     },
-    "dept_skipped": false,
-    "lat": 28.162,
-    "lon": 112.937
+    "dept_skipped": false
   },
   {
     "name": "国防科技大学",
@@ -6153,9 +6118,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 28.22,
-    "lon": 113.0
+    "dept_skipped": false
   },
   {
     "name": "湖南大学",
@@ -6188,9 +6151,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 28.174,
-    "lon": 112.938
+    "dept_skipped": false
   },
   {
     "name": "湖南师范大学",
@@ -6216,11 +6177,13 @@
           "071451831580",
           "037237159775"
         ]
+      },
+      "intl": {
+        "url": "https://oiec.hunnu.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 28.187,
-    "lon": 112.947
+    "dept_skipped": false
   },
   {
     "name": "湘潭大学",
@@ -6256,9 +6219,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 27.908,
-    "lon": 112.96
+    "dept_skipped": false
   },
   {
     "name": "兰州大学",
@@ -6268,10 +6229,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.lzu.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 36.052,
-    "lon": 103.858
+    "depts": {
+      "intl": {
+        "url": "https://faoffice.lzu.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "厦门大学",
@@ -6310,9 +6274,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 24.438,
-    "lon": 118.092
+    "dept_skipped": false
   },
   {
     "name": "福州大学",
@@ -6332,9 +6294,7 @@
         "title": "港澳台侨生招生"
       }
     },
-    "dept_skipped": false,
-    "lat": 26.079,
-    "lon": 119.273
+    "dept_skipped": false
   },
   {
     "name": "西藏大学",
@@ -6344,10 +6304,13 @@
     "school_type": "公办",
     "level": "本科",
     "website": "https://www.utibet.edu.cn/",
-    "depts": {},
-    "web_fail_reason": "requests失败",
-    "lat": 29.652,
-    "lon": 91.172
+    "depts": {
+      "intl": {
+        "url": "https://gjc.utibet.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "web_fail_reason": "requests失败"
   },
   {
     "name": "贵州大学",
@@ -6368,11 +6331,13 @@
       "grad": {
         "url": "https://gs.gzu.edu.cn/zsgz/list.htm",
         "title": "研究生招生"
+      },
+      "intl": {
+        "url": "https://oir.gzu.edu.cn/",
+        "title": "国际处"
       }
     },
-    "dept_skipped": false,
-    "lat": 26.427,
-    "lon": 106.678
+    "dept_skipped": false
   },
   {
     "name": "东北大学",
@@ -6500,6 +6465,10 @@
           "0411-84729209",
           "0411-84728536"
         ]
+      },
+      "intl": {
+        "url": "https://www.dlmu.edu.cn/wzsy/hzjl/lxwm.htm",
+        "title": "国际处"
       }
     }
   },
@@ -6566,7 +6535,9 @@
         "email": [
           "advice@dufe.edu.cn"
         ],
-        "phone": []
+        "phone": [
+          "080000000414"
+        ]
       }
     }
   },
@@ -6621,7 +6592,12 @@
     "lat": 41.7899463,
     "lon": 123.4063953,
     "school_code": "4121010159",
-    "depts": null,
+    "depts": {
+      "intl": {
+        "url": "https://www.cmu.edu.cn/gjhzyjlc/",
+        "title": "国际处"
+      }
+    },
     "dept_skipped": true,
     "web_reachable": false,
     "web_fail_reason": "全部方式失败"
@@ -6687,6 +6663,10 @@
       "grad": {
         "url": "https://yjs.dmu.edu.cn/",
         "title": "研究生招生"
+      },
+      "intl": {
+        "url": "https://ic.dmu.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -6950,9 +6930,7 @@
         "email": [
           "gjjlc@syau.edu.cn"
         ],
-        "phone": [
-          "024-88487084"
-        ]
+        "phone": []
       }
     }
   },
@@ -7162,9 +7140,7 @@
         "email": [
           "dzb@synu.edu.cn"
         ],
-        "phone": [
-          "024-86592995"
-        ]
+        "phone": []
       }
     }
   },
@@ -7224,7 +7200,7 @@
         "url": "http://gjjlhzc.sylu.edu.cn",
         "title": "国际交流合作处",
         "phone": [
-          "86-24-24686045"
+          "2424686045"
         ]
       }
     }
@@ -7289,7 +7265,7 @@
           "International@syphu.edu.cn"
         ],
         "phone": [
-          "+86-24-43520132"
+          "2443520132"
         ]
       }
     }
@@ -7490,7 +7466,12 @@
       },
       "intl": {
         "url": "https://gjxy.lntu.edu.cn/",
-        "title": "国际交流"
+        "title": "国际交流",
+        "phone": [
+          "0418-5110396",
+          "0418-5110397",
+          "0418-5110401"
+        ]
       },
       "career": {
         "url": "https://zsjy.lntu.edu.cn",
@@ -7525,6 +7506,10 @@
         "phone": [
           "0411-82159911"
         ]
+      },
+      "intl": {
+        "url": "https://wsc.lnnu.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -7715,6 +7700,10 @@
       "career": {
         "url": "http://www.asnc.edu.cn/zsjy/index.htm",
         "title": "招生就业"
+      },
+      "intl": {
+        "url": "http://gjjl.asnc.edu.cn/",
+        "title": "国际处"
       }
     }
   },
@@ -7770,9 +7759,7 @@
         "title": "国际合作与交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 29.57,
-    "lon": 106.474
+    "dept_skipped": false
   },
   {
     "name": "西南大学",
@@ -7800,9 +7787,7 @@
         "title": "国际合作"
       }
     },
-    "dept_skipped": false,
-    "lat": 29.82,
-    "lon": 106.42
+    "dept_skipped": false
   },
   {
     "name": "西北农林科技大学",
@@ -7831,7 +7816,7 @@
           "ipo@nwsuaf.edu.cn"
         ],
         "phone": [
-          "+86-29-87082857"
+          "2987082857"
         ]
       },
       "career": {
@@ -7849,9 +7834,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 34.262,
-    "lon": 108.071
+    "dept_skipped": false
   },
   {
     "name": "西北工业大学",
@@ -7887,9 +7870,7 @@
         "title": "就业信息网"
       }
     },
-    "dept_skipped": false,
-    "lat": 34.246,
-    "lon": 108.913
+    "dept_skipped": false
   },
   {
     "name": "西安交通大学",
@@ -7913,9 +7894,7 @@
         "title": "就业网"
       }
     },
-    "dept_skipped": false,
-    "lat": 34.248,
-    "lon": 108.985
+    "dept_skipped": false
   },
   {
     "name": "第四军医大学",
@@ -7926,9 +7905,7 @@
     "level": "本科",
     "website": null,
     "depts": {},
-    "web_fail_reason": "官网未知",
-    "lat": 34.259,
-    "lon": 108.938
+    "web_fail_reason": "官网未知"
   },
   {
     "name": "西北大学",
@@ -7966,9 +7943,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 34.249,
-    "lon": 108.923
+    "dept_skipped": false
   },
   {
     "name": "西安电子科技大学",
@@ -8011,9 +7986,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 34.23,
-    "lon": 108.915
+    "dept_skipped": false
   },
   {
     "name": "长安大学",
@@ -8038,9 +8011,7 @@
         "title": "15 07 第四届城市与可持续交通国际研讨会在我校召开 7月9日至10日，第四届城市与可持续交通国际研讨会（The 4th International Symposium on Cities and Sustainable Transportation）在我校召开。本次研讨会由长安大学运输工程学院主办，以“面向未来的城市交通——创新、绿色与包容”为主题，会议旨在推进全球城市交通可持续发展，促进跨学科、跨领域学术交流与合作。会议邀请了来自3大洲8个国家的18位交通领域国际知名专家与学者，包括美国工程院院士、佐治亚理工学院Patricia L. Mokhtarian教授，..."
       }
     },
-    "dept_skipped": false,
-    "lat": 34.236,
-    "lon": 108.96
+    "dept_skipped": false
   },
   {
     "name": "陕西师范大学",
@@ -8081,9 +8052,7 @@
         ]
       }
     },
-    "dept_skipped": false,
-    "lat": 34.158,
-    "lon": 108.903
+    "dept_skipped": false
   },
   {
     "name": "青海大学",
@@ -8110,9 +8079,7 @@
         "title": "国际交流"
       }
     },
-    "dept_skipped": false,
-    "lat": 36.627,
-    "lon": 101.741
+    "dept_skipped": false
   },
   {
     "name": "哈尔滨工业大学",
@@ -8877,6 +8844,13 @@
           "0451-86608896",
           "0451-86604215"
         ]
+      },
+      "intl": {
+        "url": "http://gjjl.hlju.edu.cn/",
+        "title": "国际处",
+        "phone": [
+          "0451-86608376"
+        ]
       }
     }
   },
@@ -8901,7 +8875,9 @@
       "intl": {
         "url": "http://www.hljut.edu.cn/a/guojijiaoliuhezuochu/",
         "title": "国际交流合作处",
-        "phone": []
+        "phone": [
+          "030202000019"
+        ]
       }
     }
   },

@@ -14,6 +14,10 @@
     "grad": {
       "url": "https://www.seu.edu.cn/yjsy/",
       "title": "研究生院 - 东南大学"
+    },
+    "intl": {
+      "url": "https://oic.seu.edu.cn/",
+      "title": "国际处"
     }
   },
   "dept_skipped": false

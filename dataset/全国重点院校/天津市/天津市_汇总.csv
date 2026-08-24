@@ -1,6 +1,6 @@
 ﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-电话,备注
 1,南开大学,,985,公办,,https://www.nankai.edu.cn/239/list.htm,,,,http://graduate.nankai.edu.cn,,,,https://www.nankai.edu.cn/236/list.htm,,,,
 2,天津大学,,985,公办,,https://www.tju.edu.cn/zsjy.htm,官方微信号,,,https://www.tju.edu.cn/zsjy.htm#zsjy03,官方微信号,,,https://www.tju.edu.cn/gjjl.htm,官方微信号,,,
-3,天津医科大学,,211,公办,,,,,,,,,,,,,,官网不可达：requests失败
-4,天津中医药大学,,双一流,公办,,https://jiuye.tjutcm.edu.cn/,,,022-59596207,https://yjsy.tjutcm.edu.cn/,,,13472365958,https://iec.tjutcm.edu.cn/,,tutcm@hotmail.com,86-22-59596555,
-5,天津工业大学,,双一流,公办,,,,,,,,,,,,,,官网不可达：requests失败
+3,天津医科大学,,211,公办,,,,,,,,,,https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm,,,,官网不可达：requests失败
+4,天津中医药大学,,双一流,公办,,https://jiuye.tjutcm.edu.cn/,,,022-59596207,https://yjsy.tjutcm.edu.cn/,,,13472365958,https://iec.tjutcm.edu.cn/,,tutcm@hotmail.com,2259596555,
+5,天津工业大学,,双一流,公办,,,,,,,,,,https://io.tiangong.edu.cn/,,,,官网不可达：requests失败

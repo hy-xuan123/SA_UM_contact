@@ -23,7 +23,12 @@
     },
     "intl": {
       "url": "https://iecd.csu.edu.cn/",
-      "title": "国际合作与交流"
+      "title": "国际合作与交流",
+      "email": [
+        "csuwsb@126.com",
+        "ied-csu@csu.edu.cn",
+        "summerschool@csu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false

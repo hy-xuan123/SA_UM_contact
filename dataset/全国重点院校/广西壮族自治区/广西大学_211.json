@@ -29,6 +29,16 @@
         "010702000001",
         "000000040700"
       ]
+    },
+    "intl": {
+      "url": "https://gjjl.gxu.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "gjc@gxu.edu.cn"
+      ],
+      "phone": [
+        "010702000001"
+      ]
     }
   },
   "dept_skipped": false

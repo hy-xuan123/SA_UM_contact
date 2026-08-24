@@ -14,6 +14,10 @@
     "career": {
       "url": "https://www.buaa.edu.cn/zsjy.htm",
       "title": "招生就业"
+    },
+    "intl": {
+      "url": "https://global.buaa.edu.cn/",
+      "title": "国际处"
     }
   },
   "dept_skipped": false

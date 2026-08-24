@@ -1,9 +1,9 @@
 ﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-电话,备注
-1,四川大学,,985,公办,,,,,,,,,,,,,,官网不可达：requests失败
-2,电子科技大学,,985,公办,,https://jiuye.uestc.edu.cn/career/,用人单位,jyzdzx@uestc.edu.cn,028-61831789,https://gr.uestc.edu.cn/,,,,,,,,
+1,四川大学,,985,公办,,,,,,,,,,https://international.scu.edu.cn/,,international@scu.edu.cn; nic8203@scu.edu.cn,,官网不可达：requests失败
+2,电子科技大学,,985,公办,,https://jiuye.uestc.edu.cn/career/,用人单位,jyzdzx@uestc.edu.cn,028-61831789,https://gr.uestc.edu.cn/,,,,http://www.oice.uestc.edu.cn/,,,,
 3,四川农业大学,,211,公办,,https://job.sicau.edu.cn/,川农就业系统小程序,job2501@163.com; scndjy@163.com; djyjiuye@163.com,0835-2882800（; 0835-2882800; 028-86290666,https://yan.sicau.edu.cn/,,,,http://ghc.sicau.edu.cn/,,aumdwsb@sicau.edu.cn,0835-2882280; 028-86293990,
 4,西南交通大学,,211,公办,,https://www.swjtu.edu.cn/zsjy.htm,,zszx@swjtu.edu.cn; yzb@home.swjtu.edu.cn; cjzs@swjtu.edu.cn,028-87600332; 028-87634132,https://yz.swjtu.edu.cn/web/index.html,,,028-66366757; 028-66366756; 028-66367138,https://fad.swjtu.edu.cn/,,,,
 5,西南财经大学,,211,公办,,https://www.swufe.edu.cn/zsjy.htm,,webmaster@swufe.edu.cn,010502010087,https://graduate.swufe.edu.cn/,,yjsy@swufe.edu.cn,（028）87092032; 028-87092482,http://international.swufe.edu.cn/,,international@swufe.edu.cn,028-87355437,
 6,成都中医药大学,,双一流,公办,,https://zyd.cdutcm.edu.cn/zsjy,成中医微学工,cdutcmzsxc@163.com,028-61800090,https://zyd.cdutcm.edu.cn/yjs,,,82713803; 82717572; 82716812,,,,,
-7,成都理工大学,,双一流,公办,,,,,,,,,,,,,,官网不可达：requests失败
+7,成都理工大学,,双一流,公办,,,,,,,,,,https://dice.cdut.edu.cn/,,,,官网不可达：requests失败
 8,西南石油大学,,双一流,公办,,http://jyzx.swpu.edu.cn/,投递简历时选择,swpu_jyjb@163.com; swpu_jyzx@163.com,028-83035257; 028-83037077,https://www.swpu.edu.cn/gs/,,,,https://www.swpu.edu.cn/oice/,,oiaswpu@163.com,028-83032848; 028-83032453; 028-83032815,

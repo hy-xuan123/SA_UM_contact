@@ -16,6 +16,17 @@
       "phone": [
         "0551-63601958"
       ]
+    },
+    "intl": {
+      "url": "https://oic.ustc.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "fanjiangqi@ustc.edu.cn",
+        "oic@ustc.edu.cn"
+      ],
+      "phone": [
+        "0551-63606695"
+      ]
     }
   },
   "dept_skipped": false

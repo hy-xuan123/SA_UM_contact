@@ -24,6 +24,10 @@
     "grad": {
       "url": "https://yjs.dmu.edu.cn/",
       "title": "研究生招生"
+    },
+    "intl": {
+      "url": "https://ic.dmu.edu.cn/",
+      "title": "国际处"
     }
   }
 }
