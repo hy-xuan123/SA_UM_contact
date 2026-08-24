@@ -82,6 +82,11 @@
   .tabs .sep { width: 1px; height: 20px; background: var(--border); margin: 0 2px; flex-shrink: 0; }
   .tabs .prov-group .tab { padding: 5px 14px; font-size: 12.5px; }
   .tabs .group-label { font-size: 12px; color: var(--muted); font-weight: 600; margin-right: 4px; flex-shrink: 0; }
+  .tabs .region-tag {
+    font-size: 12px; color: #8b5e3c; font-weight: 700;
+    background: #fdf6ec; border: 1px solid #f0e0c8;
+    padding: 2px 8px; border-radius: 4px; flex-shrink: 0;
+  }
 
   .main { flex: 1; display: flex; min-height: 0; }
   .sidebar {
@@ -234,15 +239,34 @@ const PROV_SHORT = {
   '新疆维吾尔自治区': '新疆', '西藏自治区': '西藏',
 };
 
+// 国家党政机关六大行政区分类
+const PROV_REGION = {
+  '华北': ['北京市', '天津市', '河北省', '山西省', '内蒙古自治区'],
+  '东北': ['辽宁省', '吉林省', '黑龙江省'],
+  '华东': ['上海市', '江苏省', '浙江省', '安徽省', '福建省', '江西省', '山东省'],
+  '中南': ['河南省', '湖北省', '湖南省', '广东省', '广西壮族自治区', '海南省'],
+  '西南': ['重庆市', '四川省', '贵州省', '云南省', '西藏自治区'],
+  '西北': ['陕西省', '甘肃省', '青海省', '宁夏回族自治区', '新疆维吾尔自治区'],
+};
+const REGION_ORDER = ['华北', '东北', '华东', '中南', '西南', '西北'];
+
 function buildProvTabs() {
-  const provs = [...new Set(ALL.map(u => u.province).filter(Boolean))].sort();
   const container = document.getElementById('prov-tabs');
-  // 保留已有的"省份"标签，在其后追加省份按钮
-  const label = container.querySelector('.group-label');
-  container.innerHTML = '<span class="group-label">省份</span>' + provs.map(p => {
-    const short = PROV_SHORT[p] || p.replace('省', '').replace('市', '').replace('自治区', '').replace('壮族', '').replace('回族', '').replace('维吾尔', '');
-    return `<span class="tab" data-p="${p}">${short}</span>`;
-  }).join('');
+  const provSet = new Set(ALL.map(u => u.province).filter(Boolean));
+  let html = '<span class="group-label">省份</span>';
+
+  REGION_ORDER.forEach(region => {
+    const provs = PROV_REGION[region].filter(p => provSet.has(p));
+    if (!provs.length) return;
+    html += `<span class="region-tag">${region}</span>`;
+    provs.forEach(p => {
+      const short = PROV_SHORT[p] || p.replace('省', '').replace('市', '').replace('自治区', '').replace('壮族', '').replace('回族', '').replace('维吾尔', '');
+      html += `<span class="tab" data-p="${p}">${short}</span>`;
+    });
+    html += '<span class="sep"></span>';
+  });
+
+  container.innerHTML = html;
 }
 
 function tierColor(t) { return TIER_COLOR[t] || '#64748b'; }
