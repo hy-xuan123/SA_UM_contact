@@ -1,0 +1,24 @@
+{
+  "name": "中国药科大学",
+  "province": "江苏省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cpu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://yjsy.cpu.edu.cn/",
+      "title": "研究生教育"
+    },
+    "intl": {
+      "url": "http://gjc.cpu.edu.cn/",
+      "title": "港澳台招生"
+    },
+    "career": {
+      "url": "http://cpu.91job.org.cn",
+      "title": "学生就业"
+    }
+  },
+  "dept_skipped": false
+}

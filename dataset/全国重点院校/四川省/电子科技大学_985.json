@@ -1,0 +1,27 @@
+{
+  "name": "电子科技大学",
+  "province": "四川省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.uestc.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://gr.uestc.edu.cn/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "wechat": "用人单位",
+      "url": "https://jiuye.uestc.edu.cn/career/",
+      "title": "学生就业",
+      "email": [
+        "jyzdzx@uestc.edu.cn"
+      ],
+      "phone": [
+        "028-61831789"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

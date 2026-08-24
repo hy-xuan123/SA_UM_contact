@@ -1,0 +1,36 @@
+{
+  "name": "西北工业大学",
+  "province": "陕西省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.nwpu.edu.cn/",
+  "depts": {
+    "grad": {
+      "wechat": "Copyright",
+      "url": "http://gs.nwpu.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "gs@nwpu.edu.cn"
+      ],
+      "phone": [
+        "029-88430620",
+        "029-88493641",
+        "029-88430618"
+      ]
+    },
+    "intl": {
+      "url": "http://npuinternationalcollege.nwpu.edu.cn/",
+      "title": "留学生教育",
+      "email": [
+        "icoffice@nwpu.edu.cn"
+      ]
+    },
+    "career": {
+      "url": "http://job.nwpu.edu.cn/home.do",
+      "title": "就业信息网"
+    }
+  },
+  "dept_skipped": false
+}

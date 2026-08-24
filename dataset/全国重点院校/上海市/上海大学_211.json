@@ -1,0 +1,35 @@
+{
+  "name": "上海大学",
+  "province": "上海市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.shu.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "phone": [
+        "021-96928188",
+        "009102000049"
+      ]
+    },
+    "grad": {
+      "url": "https://yjszs.shu.edu.cn/",
+      "title": "研究生招生",
+      "phone": [
+        "02166133763"
+      ]
+    },
+    "intl": {
+      "wechat": "上海大学留学生公众号",
+      "url": "https://global.shu.edu.cn/",
+      "title": "合作交流",
+      "phone": [
+        "66131383"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

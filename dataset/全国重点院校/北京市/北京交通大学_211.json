@@ -1,0 +1,46 @@
+{
+  "name": "北京交通大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.bjtu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://yzb.bjtu.edu.cn/",
+      "title": "研究生招生",
+      "email": [
+        "bjtuzgxy@bjtu.edu.cn"
+      ],
+      "phone": [
+        "04024300059"
+      ]
+    },
+    "career": {
+      "url": "http://job.bjtu.edu.cn/",
+      "title": "本科生就业",
+      "email": [
+        "jyb113@126.com",
+        "bjtujobwx@126.com",
+        "bjtujob@163.com"
+      ],
+      "phone": [
+        "010-51688431",
+        "010-51685913",
+        "010-51682911"
+      ]
+    },
+    "intl": {
+      "url": "http://intl.bjtu.edu.cn/",
+      "title": "国际交流",
+      "email": [
+        "bjtu-intl@bjtu.edu.cn"
+      ],
+      "phone": [
+        "010-51688312"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

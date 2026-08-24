@@ -1,0 +1,27 @@
+{
+  "name": "天津大学",
+  "province": "天津市",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.tju.edu.cn/",
+  "depts": {
+    "career": {
+      "wechat": "官方微信号",
+      "url": "https://www.tju.edu.cn/zsjy.htm",
+      "title": "招生就业"
+    },
+    "grad": {
+      "wechat": "官方微信号",
+      "url": "https://www.tju.edu.cn/zsjy.htm#zsjy03",
+      "title": "研究生招生"
+    },
+    "intl": {
+      "wechat": "官方微信号",
+      "url": "https://www.tju.edu.cn/gjjl.htm",
+      "title": "国际交流"
+    }
+  },
+  "dept_skipped": false
+}

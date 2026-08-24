@@ -1,0 +1,34 @@
+{
+  "name": "江南大学",
+  "province": "江苏省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.jiangnan.edu.cn/",
+  "depts": {
+    "grad": {
+      "wechat": "官方微博",
+      "url": "http://gs.jiangnan.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "yjsy@jiangnan.edu.cn"
+      ],
+      "phone": [
+        "0510-85913652（"
+      ]
+    },
+    "career": {
+      "url": "http://jiangnan.91job.org.cn",
+      "title": "就业信息网"
+    },
+    "intl": {
+      "url": "http://guojiaochu.jiangnan.edu.cn/",
+      "title": "国际交流合作",
+      "email": [
+        "gjch@jiangnan.edu.cn"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

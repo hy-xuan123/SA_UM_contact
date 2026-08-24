@@ -1,0 +1,32 @@
+{
+  "name": "成都中医药大学",
+  "province": "四川省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cdutcm.edu.cn/",
+  "depts": {
+    "career": {
+      "wechat": "成中医微学工",
+      "url": "https://zyd.cdutcm.edu.cn/zsjy",
+      "title": "招生就业",
+      "email": [
+        "cdutcmzsxc@163.com"
+      ],
+      "phone": [
+        "028-61800090"
+      ]
+    },
+    "grad": {
+      "url": "https://zyd.cdutcm.edu.cn/yjs",
+      "title": "研究生招生",
+      "phone": [
+        "82713803",
+        "82717572",
+        "82716812"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "河北工业大学",
+  "province": "河北省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.hebut.edu.cn/",
+  "depts": {
+    "grad": {
+      "wechat": "河北工业大学",
+      "url": "https://yjs.hebut.edu.cn",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://career.hebut.edu.cn",
+      "title": "就业服务"
+    },
+    "intl": {
+      "url": "https://io.hebut.edu.cn/",
+      "title": "国际交流",
+      "phone": [
+        "022--60204053"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

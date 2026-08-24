@@ -1,0 +1,30 @@
+{
+  "name": "上海中医药大学",
+  "province": "上海市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shutcm.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://yjsy.shutcm.edu.cn",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "https://jy.shutcm.edu.cn/",
+      "title": "就业服务",
+      "phone": [
+        "17875834001"
+      ]
+    },
+    "intl": {
+      "url": "https://gjc.shutcm.edu.cn/",
+      "title": "国际交流合作",
+      "phone": [
+        "021-5132222"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

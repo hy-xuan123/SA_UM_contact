@@ -1,0 +1,28 @@
+{
+  "name": "南京农业大学",
+  "province": "江苏省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.njau.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "http://foreign.njau.edu.cn/",
+      "title": "外国语学院",
+      "phone": [
+        "025-84395755",
+        "025-84396722"
+      ]
+    },
+    "grad": {
+      "url": "http://grasch.njau.edu.cn",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://njau.91job.org.cn/",
+      "title": "就业工作"
+    }
+  },
+  "dept_skipped": false
+}

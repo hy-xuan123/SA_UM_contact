@@ -1,0 +1,30 @@
+{
+  "name": "北京林业大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.bjfu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://graduate.bjfu.edu.cn/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://job.bjfu.edu.cn",
+      "title": "毕业生就业"
+    },
+    "intl": {
+      "url": "http://international.bjfu.edu.cn/",
+      "title": "国际合作",
+      "email": [
+        "gjc@bjfu.edu.cn"
+      ],
+      "phone": [
+        "010-62338095"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

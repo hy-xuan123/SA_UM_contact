@@ -1,0 +1,41 @@
+{
+  "name": "陕西师范大学",
+  "province": "陕西省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.snnu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "http://zsb.snnu.edu.cn/zsxx/zsjh/qtlzs/gatzs.htm",
+      "title": "港澳台招生",
+      "email": [
+        "jwzb@snnu.edu.cn"
+      ],
+      "phone": [
+        "029-85310330"
+      ]
+    },
+    "career": {
+      "url": "http://job.snnu.edu.cn/",
+      "title": "学生就业指导",
+      "email": [
+        "jyzx@snnu.edu.cn"
+      ],
+      "phone": [
+        "029-85310325",
+        "032685310466",
+        "029-85310327"
+      ]
+    },
+    "grad": {
+      "url": "http://newyjs.snnu.edu.cn/",
+      "title": "研究生教育",
+      "phone": [
+        "029-85318713"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

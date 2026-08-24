@@ -1,0 +1,11 @@
+{
+  "name": "西藏大学",
+  "province": "西藏自治区",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.utibet.edu.cn/",
+  "depts": {},
+  "web_fail_reason": "requests失败"
+}

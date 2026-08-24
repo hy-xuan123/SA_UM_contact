@@ -1,0 +1,11 @@
+{
+  "name": "成都理工大学",
+  "province": "四川省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cdut.edu.cn/",
+  "depts": {},
+  "web_fail_reason": "requests失败"
+}

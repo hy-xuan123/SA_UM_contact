@@ -1,0 +1,27 @@
+{
+  "name": "山东大学",
+  "province": "山东省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.sdu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://www.grad.sdu.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "pgs@sdu.edu.cn"
+      ]
+    },
+    "career": {
+      "url": "https://www.job.sdu.edu.cn/",
+      "title": "学生就业"
+    },
+    "intl": {
+      "url": "https://www.ipo.sdu.edu.cn/",
+      "title": "国际合作"
+    }
+  },
+  "dept_skipped": false
+}

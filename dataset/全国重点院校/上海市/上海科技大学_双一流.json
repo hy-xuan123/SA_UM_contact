@@ -1,0 +1,28 @@
+{
+  "name": "上海科技大学",
+  "province": "上海市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shanghaitech.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "http://oia.shanghaitech.edu.cn/",
+      "title": "国际合作",
+      "phone": [
+        "011502006855"
+      ]
+    },
+    "career": {
+      "url": "https://career.shanghaitech.edu.cn/",
+      "title": "就业",
+      "phone": [
+        "18120716234",
+        "032613120834",
+        "032613131827"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

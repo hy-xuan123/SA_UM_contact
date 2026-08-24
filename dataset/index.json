@@ -1490,8 +1490,8 @@
         ]
       },
       "intl": {
-        "url": "http://www.szu.edu.cn/hzjl/gjjl.htm",
-        "title": "国际交流",
+        "url": "https://hmt.szu.edu.cn/",
+        "title": "国际交流与合作部（港澳台事务办公室）",
         "phone": [
           "0755-26536114"
         ]
@@ -4739,7 +4739,9 @@
       "intl": {
         "url": "http://www.hljucm.net/index/dwjl.htm",
         "title": "对外交流",
-        "phone": []
+        "phone": [
+          "011002000482"
+        ]
       },
       "career": {
         "url": "http://zsjyc.hljucm.net/",
@@ -5161,5 +5163,3544 @@
         "title": "就业信息"
       }
     }
+  },
+  {
+    "name": "东南大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.seu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.seu.edu.cn/47291/list.htm",
+        "title": "招生就业"
+      },
+      "grad": {
+        "url": "https://www.seu.edu.cn/yjsy/",
+        "title": "研究生院 - 东南大学"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中南大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.csu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gra.csu.edu.cn",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.csu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "homepage@csu.edu.cn"
+        ],
+        "phone": [
+          "0731-88876114"
+        ]
+      },
+      "intl": {
+        "url": "https://iecd.csu.edu.cn/",
+        "title": "国际合作与交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国人民大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ruc.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.ruc.edu.cn/yanjiushengpeiyang.html",
+        "title": "研究生培养",
+        "phone": [
+          "0402430004"
+        ]
+      },
+      "intl": {
+        "url": "https://pgs.ruc.edu.cn/gats.htm",
+        "title": " 港澳台生",
+        "phone": [
+          "0402430004"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国农业大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cau.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.cau.edu.cn/jyjx/yjsjy/index.htm",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.cau.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "email": [
+          "xwzx@cau.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国海洋大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ouc.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://grad.ouc.edu.cn/13039/list.htm",
+        "title": "博士学位、硕士学位授权学科",
+        "email": [
+          "yjsy@ouc.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "https://www.ouc.edu.cn/31816/list.htm",
+        "title": "教育部国际合作联合实验室",
+        "email": [
+          "news@ouc.edu.cn"
+        ],
+        "phone": [
+          "021202000030"
+        ]
+      },
+      "career": {
+        "url": "http://career.ouc.edu.cn/default.html",
+        "title": "就业信息",
+        "phone": [
+          "15028551517",
+          "13432724776",
+          "15087259867"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国科学技术大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ustc.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://gradschool.ustc.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@ustc.edu.cn"
+        ],
+        "phone": [
+          "0551-63601958"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中央民族大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.muc.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.muc.edu.cn/zsjy/zs/bykzs.htm",
+        "title": "招生就业",
+        "phone": [
+          "010-68932442"
+        ]
+      },
+      "intl": {
+        "url": "https://www.muc.edu.cn/gjjl.htm",
+        "title": "国际交流",
+        "phone": [
+          "010-68932442"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "兰州大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.lzu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "北京大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.pku.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.pku.edu.cn/recruit.html#undergraduate",
+        "title": "本科生",
+        "email": [
+          "its@pku.edu.cn"
+        ],
+        "phone": [
+          "0402430047"
+        ]
+      },
+      "intl": {
+        "url": "https://www.pku.edu.cn/recruit.html#overseasStudent",
+        "title": "留学生",
+        "email": [
+          "its@pku.edu.cn"
+        ],
+        "phone": [
+          "0402430047"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京师范大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://jwb.bnu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "jwb@bnu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "https://www.bnu.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "040102700202"
+        ]
+      },
+      "intl": {
+        "url": "http://oiec.bnu.edu.cn/",
+        "title": "国际交流与合作",
+        "phone": [
+          "010-58808285"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京理工大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bit.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://grd.bit.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "grd@bit.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "http://abroad.bit.edu.cn/",
+        "title": "本科生国际交流",
+        "phone": [
+          "0402430044"
+        ]
+      },
+      "career": {
+        "url": "https://www.bit.edu.cn/zsjysjb/index.htm",
+        "title": "招生就业"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京航空航天大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.buaa.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.buaa.edu.cn/jyjx/yjsjy1.htm",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.buaa.edu.cn/zsjy.htm",
+        "title": "招生就业"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "华东师范大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ecnu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://career.ecnu.edu.cn/",
+        "title": "学生就业"
+      },
+      "grad": {
+        "wechat": "华东师大研招（ECNUyjs）",
+        "url": "https://yjszs.ecnu.edu.cn/",
+        "title": "研究生招生",
+        "email": [
+          "yjszs@admin.ecnu.edu.cn"
+        ],
+        "phone": [
+          "021-54344721"
+        ]
+      },
+      "intl": {
+        "url": "http://lxs.ecnu.edu.cn/",
+        "title": "International Students",
+        "email": [
+          "format",
+          "lxs@ecnu.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "华中科技大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hust.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gs.hust.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yzxx@hust.edu.cn"
+        ],
+        "phone": [
+          "027-87542152"
+        ]
+      },
+      "career": {
+        "url": "https://www.hust.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "027-87541114"
+        ]
+      },
+      "intl": {
+        "url": "https://www.hust.edu.cn/hzjl/gjjl.htm",
+        "title": "国际交流",
+        "phone": [
+          "027-87541114"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nju.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.nju.edu.cn/zsjy/zs.htm",
+        "title": "招生就业",
+        "email": [
+          "webmaster@nju.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "https://wb.nju.edu.cn/main.htm",
+        "title": "国际合作",
+        "email": [
+          "oice@nju.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "https://yzb.nju.edu.cn/47831/list.htm",
+        "title": "研究生招生"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南开大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nankai.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://graduate.nankai.edu.cn",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "https://www.nankai.edu.cn/236/list.htm",
+        "title": "国际交流"
+      },
+      "career": {
+        "url": "https://www.nankai.edu.cn/239/list.htm",
+        "title": "招生就业"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "厦门大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.xmu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gs.xmu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "YJSY@XMU.EDU.CN"
+        ],
+        "phone": [
+          "0592-2186259"
+        ]
+      },
+      "intl": {
+        "url": "https://ice.xmu.edu.cn/",
+        "title": "国际合作与交流",
+        "phone": [
+          "0592-2180240"
+        ]
+      },
+      "career": {
+        "url": "http://jy.xmu.edu.cn/",
+        "title": "就业",
+        "email": [
+          "jiuyezhaopin@xmu.edu.cn"
+        ],
+        "phone": [
+          "0592-2184550"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "同济大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tongji.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gs.tongji.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.tongji.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "newscenter@tongji.edu.cn"
+        ],
+        "phone": [
+          "009102000038"
+        ]
+      },
+      "intl": {
+        "url": "http://fao.tongji.edu.cn/",
+        "title": "外事交流",
+        "phone": [
+          "+8621-65982612"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "四川大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.scu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "国防科技大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nudt.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjszs.nudt.edu.cn/index/index.view",
+        "title": "研究生院"
+      },
+      "career": {
+        "wechat": "国防科大",
+        "url": "https://www.nudt.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "email": [
+          "English"
+        ],
+        "phone": [
+          "0731-84576114",
+          "0731-87027137",
+          "0731-87027139"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "复旦大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.fudan.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.fudan.edu.cn/516/list.htm",
+        "title": "> 研究生教育",
+        "phone": [
+          "021-65642222"
+        ]
+      },
+      "career": {
+        "url": "https://www.fudan.edu.cn/2019/0506/c431a103172/page.htm",
+        "title": "就业指导与生涯发展处",
+        "email": [
+          "career@fudan.edu.cn"
+        ],
+        "phone": [
+          "8621-65642288",
+          "021-65642222"
+        ]
+      },
+      "intl": {
+        "url": "https://ogp.fudan.edu.cn/16077/list.htm",
+        "title": "国际合作与交流处",
+        "phone": [
+          "021-65642260",
+          "021-65649524"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "天津大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tju.edu.cn/",
+    "depts": {
+      "career": {
+        "wechat": "官方微信号",
+        "url": "https://www.tju.edu.cn/zsjy.htm",
+        "title": "招生就业"
+      },
+      "grad": {
+        "wechat": "官方微信号",
+        "url": "https://www.tju.edu.cn/zsjy.htm#zsjy03",
+        "title": "研究生招生"
+      },
+      "intl": {
+        "wechat": "官方微信号",
+        "url": "https://www.tju.edu.cn/gjjl.htm",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "山东大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.sdu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.grad.sdu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "pgs@sdu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "https://www.job.sdu.edu.cn/",
+        "title": "学生就业"
+      },
+      "intl": {
+        "url": "https://www.ipo.sdu.edu.cn/",
+        "title": "国际合作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "武汉大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.whu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.whu.edu.cn/rcpy.htm#md2",
+        "title": "研究生教育",
+        "phone": [
+          "027-68752059"
+        ]
+      },
+      "intl": {
+        "url": "https://www.whu.edu.cn/jlhz.htm#md21",
+        "title": "国际交流",
+        "phone": [
+          "027-68752059"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "浙江大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.zju.edu.cn/",
+    "depts": {},
+    "dept_skipped": true
+  },
+  {
+    "name": "清华大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tsinghua.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.tsinghua.edu.cn/jyjx/yjsjy.htm",
+        "title": "研究生教育",
+        "email": [
+          "webmaster@tsinghua.edu.cn"
+        ],
+        "phone": [
+          "010-62793001",
+          "0402430053"
+        ]
+      },
+      "career": {
+        "url": "https://www.tsinghua.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "webmaster@tsinghua.edu.cn"
+        ],
+        "phone": [
+          "010-62793001",
+          "0402430053"
+        ]
+      },
+      "intl": {
+        "url": "https://www.tsinghua.edu.cn/hzjl/gjhz.htm",
+        "title": "国际合作",
+        "email": [
+          "webmaster@tsinghua.edu.cn"
+        ],
+        "phone": [
+          "010-62793001",
+          "0402430053"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "湖南大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gra.hnu.edu.cn/",
+        "title": "研究生教育教学",
+        "phone": [
+          "0731-88821224（"
+        ]
+      },
+      "career": {
+        "url": "https://www.hnu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "xiaoban@hnu.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "http://wsc.hnu.edu.cn/",
+        "title": "国际交流合作",
+        "phone": [
+          "0731-88823974"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "电子科技大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.uestc.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://gr.uestc.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "wechat": "用人单位",
+        "url": "https://jiuye.uestc.edu.cn/career/",
+        "title": "学生就业",
+        "email": [
+          "jyzdzx@uestc.edu.cn"
+        ],
+        "phone": [
+          "028-61831789"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西北农林科技大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nwafu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjshy.nwsuaf.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "ybgsh@nwafu.edu.cn"
+        ],
+        "phone": [
+          "02504100006",
+          "029-87080155"
+        ]
+      },
+      "intl": {
+        "url": "https://gjc.nwsuaf.edu.cn/",
+        "title": "国际交流",
+        "email": [
+          "ipo@nwsuaf.edu.cn"
+        ],
+        "phone": [
+          "+86-29-87082857"
+        ]
+      },
+      "career": {
+        "url": "https://www.nwafu.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "email": [
+          "zhaoshb@nwafu.edu.cn",
+          "zhsh@nwafu.edu.cn",
+          "admission@nwafu.edu.cn"
+        ],
+        "phone": [
+          "029-87080152",
+          "029-87080151",
+          "029-87080155"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西北工业大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nwpu.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "Copyright",
+        "url": "http://gs.nwpu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "gs@nwpu.edu.cn"
+        ],
+        "phone": [
+          "029-88430620",
+          "029-88493641",
+          "029-88430618"
+        ]
+      },
+      "intl": {
+        "url": "http://npuinternationalcollege.nwpu.edu.cn/",
+        "title": "留学生教育",
+        "email": [
+          "icoffice@nwpu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "http://job.nwpu.edu.cn/home.do",
+        "title": "就业信息网"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西安交通大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.xjtu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.xjtu.edu.cn/rcpy/yjsjy.htm",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "https://www.xjtu.edu.cn/gjjl/gjhzyjlc.htm",
+        "title": "国际合作与交流处"
+      },
+      "career": {
+        "url": "http://job.xjtu.edu.cn/",
+        "title": "就业网"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "重庆大学",
+    "province": "全国重点院校",
+    "tier": "985",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cqu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://graduate.cqu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.cqu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "001060250313",
+          "000004000026"
+        ]
+      },
+      "intl": {
+        "url": "http://intex.cqu.edu.cn/",
+        "title": "国际合作与交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海外国语大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shisu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.shisu.edu.cn/admissions/index.html",
+        "title": "招生就业"
+      },
+      "intl": {
+        "url": "https://www.shisu.edu.cn/global/index.html",
+        "title": "合作交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.shu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "021-96928188",
+          "009102000049"
+        ]
+      },
+      "grad": {
+        "url": "https://yjszs.shu.edu.cn/",
+        "title": "研究生招生",
+        "phone": [
+          "02166133763"
+        ]
+      },
+      "intl": {
+        "wechat": "上海大学留学生公众号",
+        "url": "https://global.shu.edu.cn/",
+        "title": "合作交流",
+        "phone": [
+          "66131383"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海财经大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shufe.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://gs.sufe.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@mail.shufe.edu.cn",
+          "yzb@mail.shufe.edu.cn"
+        ],
+        "phone": [
+          "021-65904625",
+          "021-65903795"
+        ]
+      },
+      "career": {
+        "url": "https://career.sufe.edu.cn/",
+        "title": "就业指导服务",
+        "email": [
+          "jyzd@mail.shufe.edu.cn"
+        ],
+        "phone": [
+          "021-65904215"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "东华大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.dhu.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://ico.dhu.edu.cn/",
+        "title": "国际合作处/港澳台办",
+        "email": [
+          "ico@dhu.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "http://gs.dhu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsdep@dhu.edu.cn"
+        ]
+      },
+      "career": {
+        "wechat": "扫描左侧二维码获取最新资讯",
+        "url": "http://ejob.dhu.edu.cn/",
+        "title": "学生就业",
+        "email": [
+          "pluswin6@pluswin-china.com",
+          "houzhiqi@sh.chinalife-p.com.cn",
+          "job@dhu.edu.cn"
+        ],
+        "phone": [
+          "021-67792486"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中南财经政法大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.zuel.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.zuel.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.zuel.edu.cn/recruit_jobs/",
+        "title": "招生就业",
+        "phone": [
+          "018502002264"
+        ]
+      },
+      "intl": {
+        "url": "https://gjc.zuel.edu.cn/",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国传媒大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cuc.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.cuc.edu.cn/9998/list.htm#rc-main2",
+        "title": "研究生教育",
+        "phone": [
+          "0402430031"
+        ]
+      },
+      "career": {
+        "url": "https://www.cuc.edu.cn/zsjy/list.htm",
+        "title": "招生就业",
+        "phone": [
+          "0402430031"
+        ]
+      },
+      "intl": {
+        "url": "https://international.cuc.edu.cn/",
+        "title": "国际交流",
+        "phone": [
+          "0402430031"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国地质大学（北京）",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cugb.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://graduate.cugb.edu.cn",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "http://jiuye.cugb.edu.cn/",
+        "title": "就业创业",
+        "email": [
+          "jyxsc@126.com"
+        ],
+        "phone": [
+          "909355733"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国地质大学（武汉）",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cug.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://graduate.cug.edu.cn/",
+        "title": "研究生教育",
+        "phone": [
+          "027-67885151"
+        ]
+      },
+      "career": {
+        "url": "https://www.cug.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "011102004169"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国政法大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cupl.edu.cn/",
+    "depts": {},
+    "dept_skipped": true
+  },
+  {
+    "name": "中国石油大学（北京）",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cup.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "邮编",
+        "url": "https://grs.cup.edu.cn/",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "https://www.cup.edu.cn/overseas/index.htm",
+        "title": "来华留学教育",
+        "email": [
+          "admission@cup.edu.cn",
+          "cie.office@cup.edu.cn",
+          "cie.dailyservices@cup.edu.cn"
+        ],
+        "phone": [
+          "+8610-89733796",
+          "+8610-89733474",
+          "+8610-89733979"
+        ]
+      },
+      "career": {
+        "url": "http://career.cup.edu.cn/",
+        "title": "就业指导",
+        "email": [
+          "cupjiuye@qq.com",
+          "job89731016@163.com"
+        ],
+        "phone": [
+          "010-89733499",
+          "010-89731016"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国石油大学（华东）",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.upc.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://career.upc.edu.cn/",
+        "title": "学生就业指导中心"
+      },
+      "grad": {
+        "url": "http://gs.upc.edu.cn/",
+        "title": "研究生院",
+        "phone": [
+          "08403691997"
+        ]
+      },
+      "intl": {
+        "url": "http://io.upc.edu.cn/",
+        "title": "国际合作与交流处、港澳台事务办公室",
+        "email": [
+          "mail@upc.edu.cn"
+        ],
+        "phone": [
+          "0532-86988698"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国矿业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cumt.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "https://global.cumt.edu.cn/",
+        "title": "EN",
+        "email": [
+          "master@cumt.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "http://gs.cumt.edu.cn/",
+        "title": "研究生院"
+      },
+      "career": {
+        "url": "http://www.91job.org.cn/sub-station/home/10290",
+        "title": "就业指导"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国矿业大学（北京）",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cumtb.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjs.cumtb.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.cumtb.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "0402430067"
+        ]
+      },
+      "intl": {
+        "url": "http://international.cumtb.edu.cn/",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国药科大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cpu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.cpu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "http://gjc.cpu.edu.cn/",
+        "title": "港澳台招生"
+      },
+      "career": {
+        "url": "http://cpu.91job.org.cn",
+        "title": "学生就业"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中央财经大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cufe.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://int.cufe.edu.cn/",
+        "title": "国际合作",
+        "phone": [
+          "62288337"
+        ]
+      },
+      "grad": {
+        "url": "http://gs.cufe.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.cufe.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "0402430071"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中央音乐学院",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ccom.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.ccom.edu.cn/zsyjy.htm",
+        "title": "招生与就业",
+        "phone": [
+          "0402430057"
+        ]
+      },
+      "intl": {
+        "url": "https://www.ccom.edu.cn/info/18061/267901.htm",
+        "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳台地区国际学生深入了解中国历史文化及社会发展现状，中央音乐学院部分学生代表于2026年6月26日前往十三朝古都西安，开展“我眼中的音画中国”国情教育专题活动。此次活动是中央音乐学院立足专业特色、贯彻落实党中央对港澳台及国际教育交流工作部署而持续打造的品牌项目，旨在充分依托西安作为丝绸之路起点的独特区位优势与深厚文化底蕴，以中华音乐文化为纽带，将国情教育与专业实践紧密结合。活动以“聆听丝路乐...",
+        "phone": [
+          "0402430057"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "云南大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ynu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.grs.ynu.edu.cn/",
+        "title": "研究生招生"
+      },
+      "career": {
+        "wechat": "微信二维码(单独二维码)",
+        "url": "http://jobs.ynu.edu.cn/",
+        "title": "就业工作",
+        "email": [
+          "ydxsjyzx@126.com"
+        ],
+        "phone": [
+          "0871-65148526",
+          "0871-65033859",
+          "0871-65931992"
+        ]
+      },
+      "intl": {
+        "url": "http://english.ynu.edu.cn/",
+        "title": "国际合作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "内蒙古大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.imu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "http://zhaosheng.imu.edu.cn/",
+        "title": "招生与就业",
+        "email": [
+          "ndzsb@imu.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "https://gs.imu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "ndgs@imu.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "http://ice.imu.edu.cn/",
+        "title": "国际合作",
+        "email": [
+          "fao@imu.edu.cn"
+        ],
+        "phone": [
+          "0471-4995756"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京中医药大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bucm.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.bucm.edu.cn/zsjy1/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "0402430041"
+        ]
+      },
+      "intl": {
+        "url": "http://bkzs.bucm.edu.cn/",
+        "title": "本科生（含港澳台）",
+        "email": [
+          "zs@bucm.edu.cn"
+        ],
+        "phone": [
+          "010-64286231",
+          "0402430041"
+        ]
+      },
+      "grad": {
+        "url": "http://yanjiusheng.bucm.edu.cn/",
+        "title": "研究生",
+        "phone": [
+          "0402430041"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京交通大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bjtu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yzb.bjtu.edu.cn/",
+        "title": "研究生招生",
+        "email": [
+          "bjtuzgxy@bjtu.edu.cn"
+        ],
+        "phone": [
+          "04024300059"
+        ]
+      },
+      "career": {
+        "url": "http://job.bjtu.edu.cn/",
+        "title": "本科生就业",
+        "email": [
+          "jyb113@126.com",
+          "bjtujobwx@126.com",
+          "bjtujob@163.com"
+        ],
+        "phone": [
+          "010-51688431",
+          "010-51685913",
+          "010-51682911"
+        ]
+      },
+      "intl": {
+        "url": "http://intl.bjtu.edu.cn/",
+        "title": "国际交流",
+        "email": [
+          "bjtu-intl@bjtu.edu.cn"
+        ],
+        "phone": [
+          "010-51688312"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京体育大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bsu.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://wsc.bsu.edu.cn/",
+        "title": "留学生培养",
+        "email": [
+          "wsc@bsu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "https://www.bsu.edu.cn/zsjy/index.htm",
+        "title": "招生就业"
+      },
+      "grad": {
+        "url": "https://www.bsu.edu.cn/kxyjsy/index.htm",
+        "title": "更多",
+        "email": [
+          "xiaoban@bsu.edu.cn"
+        ],
+        "phone": [
+          "040202430168",
+          "14015216941",
+          "13585035162"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京化工大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.buct.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://graduate.buct.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.buct.edu.cn/zsjy_11437/list.htm",
+        "title": "招生就业",
+        "email": [
+          "news@mail.buct.edu.cn"
+        ],
+        "phone": [
+          "0402430060"
+        ]
+      },
+      "intl": {
+        "url": "https://iecd.buct.edu.cn",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京外国语大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bfsu.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://global.bfsu.edu.cn/ar/",
+        "title": "اللغة العربية (ar)"
+      },
+      "grad": {
+        "url": "https://graduate.bfsu.edu.cn/",
+        "title": "研究生招生"
+      },
+      "career": {
+        "url": "https://jyzd.bfsu.edu.cn/",
+        "title": "就业创业",
+        "email": [
+          "jyzd@bfsu.edu.cn"
+        ],
+        "phone": [
+          "010-88816211"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京工业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bjut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.bjut.edu.cn/jyjx/yjsjy1.htm",
+        "title": "研究生教育",
+        "phone": [
+          "0402430086",
+          "010000000606"
+        ]
+      },
+      "intl": {
+        "url": "https://www.bjut.edu.cn/hzjl/gjjlgk1.htm",
+        "title": "国际交流概况",
+        "phone": [
+          "0402430086",
+          "010000000606"
+        ]
+      },
+      "career": {
+        "url": "http://admissions.bjut.edu.cn/",
+        "title": "招生就业",
+        "phone": [
+          "010-67391609"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京林业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bjfu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://graduate.bjfu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "http://job.bjfu.edu.cn",
+        "title": "毕业生就业"
+      },
+      "intl": {
+        "url": "http://international.bjfu.edu.cn/",
+        "title": "国际合作",
+        "email": [
+          "gjc@bjfu.edu.cn"
+        ],
+        "phone": [
+          "010-62338095"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京科技大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ustb.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "https://www.ustb.edu.cn/hzjl/index.htm",
+        "title": "国际合作",
+        "phone": [
+          "0402430062"
+        ]
+      },
+      "career": {
+        "url": "https://www.ustb.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "0402430062"
+        ]
+      },
+      "grad": {
+        "url": "http://yzxc.ustb.edu.cn/",
+        "title": "研究生招生",
+        "phone": [
+          "0402430062"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京邮电大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.bupt.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "华东理工大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ecust.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gschool.ecust.edu.cn/",
+        "title": "研究生教育",
+        "phone": [
+          "15710144202"
+        ]
+      },
+      "intl": {
+        "url": "http://kjc.ecust.edu.cn/8373/list.htm",
+        "title": "国际合作研发机构",
+        "phone": [
+          "021-64252925（"
+        ]
+      },
+      "career": {
+        "url": "https://www.ecust.edu.cn/585/list.htm",
+        "title": "招生就业",
+        "phone": [
+          "009102000037"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "华中农业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hzau.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.hzau.edu.cn/jyjx/yjsjy.htm",
+        "title": "研究生教育",
+        "phone": [
+          "027-87282027"
+        ]
+      },
+      "career": {
+        "url": "https://www.hzau.edu.cn/zsjy/bkszs.htm",
+        "title": "招生就业",
+        "phone": [
+          "02787280707",
+          "027-87282027"
+        ]
+      },
+      "intl": {
+        "url": "https://fao.hzau.edu.cn/",
+        "title": "国际合作",
+        "email": [
+          "fao@mail.hzau.edu.cn"
+        ],
+        "phone": [
+          "027-87287573",
+          "027-87281181",
+          "027-87285091---"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "华北电力大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ncepu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjsy.ncepu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "https://www.ncepu.edu.cn/gjjl/index.htm",
+        "title": "国际交流",
+        "phone": [
+          "0402430080"
+        ]
+      },
+      "career": {
+        "url": "https://www.ncepu.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "0402430080"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京农业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njau.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://foreign.njau.edu.cn/",
+        "title": "外国语学院",
+        "phone": [
+          "025-84395755",
+          "025-84396722"
+        ]
+      },
+      "grad": {
+        "url": "http://grasch.njau.edu.cn",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "http://njau.91job.org.cn/",
+        "title": "就业工作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京师范大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njnu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "南京理工大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njust.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "南京航空航天大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nuaa.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.graduate.nuaa.edu.cn/",
+        "title": "> 研究生教育"
+      },
+      "career": {
+        "url": "https://nuaa.91job.org.cn/",
+        "title": "> 就业创业"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南昌大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ncu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.ncu.edu.cn/rcpy/yjsjy.htm",
+        "title": "研究生教育",
+        "phone": [
+          "010802000198"
+        ]
+      },
+      "intl": {
+        "url": "https://www.ncu.edu.cn/hzjl1/gjhz.htm",
+        "title": "国际合作",
+        "phone": [
+          "010802000198"
+        ]
+      },
+      "career": {
+        "url": "https://www.ncu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "010802000198"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "合肥工业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hfut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.hfut.edu.cn/",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "http://international.hfut.edu.cn/",
+        "title": "合作交流"
+      },
+      "career": {
+        "url": "http://bkzs.hfut.edu.cn/",
+        "title": "招生就业",
+        "email": [
+          "length-1"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "四川农业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.sicau.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yan.sicau.edu.cn/",
+        "title": "研究生招生"
+      },
+      "career": {
+        "wechat": "川农就业系统小程序",
+        "url": "https://job.sicau.edu.cn/",
+        "title": "就业服务",
+        "email": [
+          "job2501@163.com",
+          "scndjy@163.com",
+          "djyjiuye@163.com"
+        ],
+        "phone": [
+          "0835-2882800（",
+          "0835-2882800",
+          "028-86290666"
+        ]
+      },
+      "intl": {
+        "url": "http://ghc.sicau.edu.cn/",
+        "title": "国际交流合作",
+        "email": [
+          "aumdwsb@sicau.edu.cn"
+        ],
+        "phone": [
+          "0835-2882280",
+          "028-86293990"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "天津医科大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tmu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "太原理工大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tyut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.gs.tyut.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "tyutgs@tyut.edu.cn"
+        ],
+        "phone": [
+          "14010902001"
+        ]
+      },
+      "career": {
+        "url": "https://www.tyut.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "English",
+          "tyutxcb@tyut.edu.cn"
+        ],
+        "phone": [
+          "14010902001"
+        ]
+      },
+      "intl": {
+        "url": "https://www.tyut.edu.cn/hzjl/gjhz2.htm",
+        "title": "国际合作",
+        "email": [
+          "English",
+          "tyutxcb@tyut.edu.cn"
+        ],
+        "phone": [
+          "14010902001"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "宁夏大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nxu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://graduate.nxu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.nxu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "0951-2077800"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "安徽大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ahu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "对外经济贸易大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.uibe.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjsy.uibe.edu.cn/",
+        "title": "研究生"
+      },
+      "career": {
+        "url": "https://www.uibe.edu.cn/zsjy/index.htm",
+        "title": "招生就业"
+      },
+      "intl": {
+        "url": "https://www.uibe.edu.cn/gjjl/index.htm",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "广西大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.gxu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsc.gxu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@gxu.edu.cn"
+        ],
+        "phone": [
+          "0771-3237012",
+          "0771-3231243",
+          "0771-3232827"
+        ]
+      },
+      "career": {
+        "url": "https://www.gxu.edu.cn/zsjy1.htm",
+        "title": "招生就业",
+        "email": [
+          "webmaster@gxu.edu.cn"
+        ],
+        "phone": [
+          "010702000001",
+          "000000040700"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "新疆大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.xju.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.xju.edu.cn/rcpy1/yjsjy.htm",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.xju.edu.cn/<span style='color:red;font-size:9pt'>转换链接错误</span>",
+        "title": "招生就业"
+      },
+      "intl": {
+        "url": "https://www.xju.edu.cn/hzjl/gjjl.htm",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "武汉理工大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.whut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.whut.edu.cn/rencaipeiyang/yjsjy/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.whut.edu.cn/zhaoshengjiuye/",
+        "title": "招生就业",
+        "email": [
+          "English"
+        ],
+        "phone": [
+          "027-87859017",
+          "027-87651413",
+          "027-87880058"
+        ]
+      },
+      "intl": {
+        "url": "http://sie.whut.edu.cn/zsxxw/",
+        "title": "国际合作教育招生",
+        "email": [
+          "gjzs@whut.edu.cn",
+          "gjzhb@whut.edu.cn"
+        ],
+        "phone": [
+          "027-87854572"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "江南大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.jiangnan.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "官方微博",
+        "url": "http://gs.jiangnan.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@jiangnan.edu.cn"
+        ],
+        "phone": [
+          "0510-85913652（"
+        ]
+      },
+      "career": {
+        "url": "http://jiangnan.91job.org.cn",
+        "title": "就业信息网"
+      },
+      "intl": {
+        "url": "http://guojiaochu.jiangnan.edu.cn/",
+        "title": "国际交流合作",
+        "email": [
+          "gjch@jiangnan.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "河北工业大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hebut.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "河北工业大学",
+        "url": "https://yjs.hebut.edu.cn",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "http://career.hebut.edu.cn",
+        "title": "就业服务"
+      },
+      "intl": {
+        "url": "https://io.hebut.edu.cn/",
+        "title": "国际交流",
+        "phone": [
+          "022--60204053"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "河海大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hhu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.hhu.edu.cn/zsjy/list.htm",
+        "title": "招生就业",
+        "phone": [
+          "010602011857"
+        ]
+      },
+      "grad": {
+        "url": "http://gs.hhu.edu.cn/",
+        "title": "研究生招生"
+      },
+      "intl": {
+        "url": "http://gjhzc.hhu.edu.cn/",
+        "title": "国际合作与交流",
+        "email": [
+          "gjhzc@hhu.edu.cn"
+        ],
+        "phone": [
+          "025-83772107"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "海南大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hainanu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://ha.hainanu.edu.cn/gs/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.hainanu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "phone": [
+          "010802000692"
+        ]
+      },
+      "intl": {
+        "url": "https://www.hainanu.edu.cn/gjhz.htm",
+        "title": "国际合作",
+        "phone": [
+          "010802000692"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "湖南师范大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.hunnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjsy.hunnu.edu.cn",
+        "title": "研究生教育",
+        "email": [
+          "yjsynews@hunnu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "http://zsjy.hunnu.edu.cn/",
+        "title": "招生就业",
+        "phone": [
+          "0648569883",
+          "071451831580",
+          "037237159775"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "石河子大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shzu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "福州大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.fzu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=yjsjy&type=w",
+        "title": "研究生招生"
+      },
+      "intl": {
+        "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w",
+        "title": "港澳台侨生招生"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "第二军医大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": null,
+    "depts": {},
+    "web_fail_reason": "官网未知"
+  },
+  {
+    "name": "第四军医大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": null,
+    "depts": {},
+    "web_fail_reason": "官网未知"
+  },
+  {
+    "name": "苏州大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.suda.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs",
+        "title": "研究生教育",
+        "phone": [
+          "050802010530"
+        ]
+      },
+      "career": {
+        "url": "https://www.suda.edu.cn/enroll_job/?id=1#bk",
+        "title": "招生就业",
+        "email": [
+          "zsb@suda.edu.cn",
+          "sdyzb@suda.edu.cn"
+        ],
+        "phone": [
+          "0512-67507943",
+          "0512-67507941",
+          "0512-65227655"
+        ]
+      },
+      "intl": {
+        "url": "https://www.suda.edu.cn/enroll_job/?id=5#gaot",
+        "title": "港澳台招生",
+        "email": [
+          "zsb@suda.edu.cn",
+          "sdyzb@suda.edu.cn"
+        ],
+        "phone": [
+          "0512-67507943",
+          "0512-67507941",
+          "0512-65227655"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西北大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nwu.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "研究生院",
+        "url": "https://yjs.nwu.edu.cn/index.htm",
+        "title": "研究生教育",
+        "phone": [
+          "029-88308162"
+        ]
+      },
+      "intl": {
+        "url": "https://gj.nwu.edu.cn/index.htm",
+        "title": "国际合作部",
+        "phone": [
+          "029-88303511"
+        ]
+      },
+      "career": {
+        "url": "https://jczx.nwu.edu.cn/",
+        "title": "毕业生就业信息",
+        "email": [
+          "jiuye@nwu.edu.cn"
+        ],
+        "phone": [
+          "029-88302514",
+          "029-88303867"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西南交通大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.swjtu.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "https://fad.swjtu.edu.cn/",
+        "title": "国际合作"
+      },
+      "career": {
+        "url": "https://www.swjtu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "zszx@swjtu.edu.cn",
+          "yzb@home.swjtu.edu.cn",
+          "cjzs@swjtu.edu.cn"
+        ],
+        "phone": [
+          "028-87600332",
+          "028-87634132"
+        ]
+      },
+      "grad": {
+        "url": "https://yz.swjtu.edu.cn/web/index.html",
+        "title": "研究生招生",
+        "phone": [
+          "028-66366757",
+          "028-66366756",
+          "028-66367138"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西南大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.swu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsyygb.swu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yanzong209@swu.edu.cn",
+          "zljdxxk@swu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "https://swu.cqbys.com/",
+        "title": "就业工作"
+      },
+      "intl": {
+        "url": "https://gjc.swu.edu.cn/",
+        "title": "国际合作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西南财经大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.swufe.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://graduate.swufe.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@swufe.edu.cn"
+        ],
+        "phone": [
+          "（028）87092032",
+          "028-87092482"
+        ]
+      },
+      "intl": {
+        "url": "http://international.swufe.edu.cn/",
+        "title": "留学生",
+        "email": [
+          "international@swufe.edu.cn"
+        ],
+        "phone": [
+          "028-87355437"
+        ]
+      },
+      "career": {
+        "url": "https://www.swufe.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "webmaster@swufe.edu.cn"
+        ],
+        "phone": [
+          "010502010087"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西安电子科技大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.xidian.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.xidian.edu.cn/jyjx.htm#C",
+        "title": "研究生教育",
+        "phone": [
+          "029-88201000"
+        ]
+      },
+      "intl": {
+        "url": "https://oice.xidian.edu.cn/",
+        "title": "国际合作与交流部",
+        "email": [
+          "fao@xidian.edu.cn"
+        ],
+        "phone": [
+          "029-81891022"
+        ]
+      },
+      "career": {
+        "url": "https://www.xidian.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "zsb@mail.xidian.edu.cn",
+          "sie@xidian.edu.cn",
+          "xdmba@mail.xidian.edu.cn"
+        ],
+        "phone": [
+          "029-88202335",
+          "029-81891244",
+          "+86-29-81891161"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西藏大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.utibet.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "郑州大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.zzu.edu.cn/",
+    "depts": {
+      "career": {
+        "wechat": "郑州大学-微信",
+        "url": "https://www.zzu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "function"
+        ],
+        "phone": [
+          "019702002177"
+        ]
+      },
+      "grad": {
+        "url": "http://gs.zzu.edu.cn/",
+        "title": " 研究生教育"
+      },
+      "intl": {
+        "url": "http://international.zzu.edu.cn/en/course?cid=4&pid=4",
+        "title": " 留学生招生"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "长安大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.chd.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "版权",
+        "url": "https://graduate.chd.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "javascriot:;",
+        "title": "招生就业"
+      },
+      "intl": {
+        "url": "https://www.chd.edu.cn/info/2181/576691.htm",
+        "title": "15 07 第四届城市与可持续交通国际研讨会在我校召开 7月9日至10日，第四届城市与可持续交通国际研讨会（The 4th International Symposium on Cities and Sustainable Transportation）在我校召开。本次研讨会由长安大学运输工程学院主办，以“面向未来的城市交通——创新、绿色与包容”为主题，会议旨在推进全球城市交通可持续发展，促进跨学科、跨领域学术交流与合作。会议邀请了来自3大洲8个国家的18位交通领域国际知名专家与学者，包括美国工程院院士、佐治亚理工学院Patricia L. Mokhtarian教授，..."
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "陕西师范大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.snnu.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://zsb.snnu.edu.cn/zsxx/zsjh/qtlzs/gatzs.htm",
+        "title": "港澳台招生",
+        "email": [
+          "jwzb@snnu.edu.cn"
+        ],
+        "phone": [
+          "029-85310330"
+        ]
+      },
+      "career": {
+        "url": "http://job.snnu.edu.cn/",
+        "title": "学生就业指导",
+        "email": [
+          "jyzx@snnu.edu.cn"
+        ],
+        "phone": [
+          "029-85310325",
+          "032685310466",
+          "029-85310327"
+        ]
+      },
+      "grad": {
+        "url": "http://newyjs.snnu.edu.cn/",
+        "title": "研究生教育",
+        "phone": [
+          "029-85318713"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "青海大学",
+    "province": "全国重点院校",
+    "tier": "211",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.qhu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.qhu.edu.cn/jxjy/yjsjy/index.htm",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.qhu.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "010502000029"
+        ]
+      },
+      "intl": {
+        "url": "http://wsb1.qhu.edu.cn/",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海中医药大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shutcm.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.shutcm.edu.cn",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://jy.shutcm.edu.cn/",
+        "title": "就业服务",
+        "phone": [
+          "17875834001"
+        ]
+      },
+      "intl": {
+        "url": "https://gjc.shutcm.edu.cn/",
+        "title": "国际交流合作",
+        "phone": [
+          "021-5132222"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海体育学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": null,
+    "depts": {},
+    "web_fail_reason": "官网未知"
+  },
+  {
+    "name": "上海海洋大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shou.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjs.shou.edu.cn/13946/list.htm",
+        "title": "研究生招生"
+      },
+      "career": {
+        "url": "https://jcxt.shou.edu.cn/",
+        "title": "就业信息"
+      },
+      "intl": {
+        "url": "http://ieo.shou.edu.cn/",
+        "title": "国际交流",
+        "email": [
+          "ieo@shou.edu.cn"
+        ],
+        "phone": [
+          "021-61900280"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海科技大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.shanghaitech.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "http://oia.shanghaitech.edu.cn/",
+        "title": "国际合作",
+        "phone": [
+          "011502006855"
+        ]
+      },
+      "career": {
+        "url": "https://career.shanghaitech.edu.cn/",
+        "title": "就业",
+        "phone": [
+          "18120716234",
+          "032613120834",
+          "032613131827"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "上海音乐学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": null,
+    "depts": {},
+    "web_fail_reason": "官网未知"
+  },
+  {
+    "name": "中国人民公安大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ppsuc.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.ppsuc.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "gadx@ppsuc.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "https://yzb.ppsuc.edu.cn/",
+        "title": "研究生招生",
+        "email": [
+          "yzb@ppsuc.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "https://www.ppsuc.edu.cn/dwjl.htm",
+        "title": "对外交流",
+        "email": [
+          "gadx@ppsuc.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国科学院大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ucas.ac.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.ucas.ac.cn/jyjx/yjsjy/index.htm",
+        "title": "研究生教育",
+        "phone": [
+          "010702001635"
+        ]
+      },
+      "intl": {
+        "url": "https://www.ucas.ac.cn/jyjx/gjhzpy/index.htm",
+        "title": "国际合作培养",
+        "phone": [
+          "010702001635"
+        ]
+      },
+      "career": {
+        "url": "https://www.ucas.ac.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "010702001635"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中国音乐学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.ccmusic.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm",
+        "title": "硕士研究生招生",
+        "phone": [
+          "010-64887561"
+        ]
+      },
+      "intl": {
+        "url": "https://www.ccmusic.edu.cn/hzjl/gwjl/index.htm",
+        "title": "国际交流",
+        "phone": [
+          "010-64887561"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "中央戏剧学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.zhongxi.cn/",
+    "depts": {},
+    "dept_skipped": true
+  },
+  {
+    "name": "中央美术学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cafa.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://jy.cafa.edu.cn",
+        "title": "中央美术学院就业创业网 . CAFA"
+      },
+      "grad": {
+        "url": "https://www.cafa.edu.cn/sp/2022clinks/?cs=1201",
+        "title": "研究生院"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "北京协和医学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.pumc.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.pumc.edu.cn/jyjx/zsjy/index.htm",
+        "title": "招生就业",
+        "phone": [
+          "040202450060"
+        ]
+      },
+      "grad": {
+        "wechat": "北京协和医学院研究生院",
+        "url": "http://graduate.pumc.edu.cn/",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm",
+        "title": "国际交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京中医药大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njucm.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gra.njucm.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://njucm.91job.org.cn/sub-station/home/10315",
+        "title": "大学生就业"
+      },
+      "intl": {
+        "url": "http://ice.njucm.edu.cn/",
+        "title": "国际合作交流"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京信息工程大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nuist.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "Copyright",
+        "url": "https://yjs.nuist.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjs@nuist.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "https://www.nuist.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "xb@nuist.edu.cn"
+        ],
+        "phone": [
+          "86-25-58731101"
+        ]
+      },
+      "intl": {
+        "url": "http://ico.nuist.edu.cn/",
+        "title": "国际合作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京医科大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njmu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.njmu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "http://ice.njmu.edu.cn/",
+        "title": "港澳台侨学生招生",
+        "email": [
+          "gjb@njmu.edu.cn"
+        ],
+        "phone": [
+          "86868138"
+        ]
+      },
+      "career": {
+        "url": "http://njmu.91job.org.cn/",
+        "title": "就业指导"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京林业大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njfu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://gsnfu.njfu.edu.cn/",
+        "title": "研究生招生"
+      },
+      "career": {
+        "url": "http://njfu.91job.org.cn/",
+        "title": "就业网"
+      },
+      "intl": {
+        "url": "https://ghc.njfu.edu.cn/",
+        "title": "国际合作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "南京邮电大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.njupt.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.njupt.edu.cn/46/list.htm",
+        "title": "招生就业",
+        "email": [
+          "njupt@njupt.edu.cn"
+        ],
+        "phone": [
+          "（86）-25-85866888"
+        ]
+      },
+      "grad": {
+        "url": "http://yzb.njupt.edu.cn/",
+        "title": "研究生招生",
+        "email": [
+          "yzb@njupt.edu.cn"
+        ],
+        "phone": [
+          "025-83492350"
+        ]
+      },
+      "intl": {
+        "url": "http://overseas.njupt.edu.cn/",
+        "title": "留学生",
+        "email": [
+          "sj-coe@njupt.edu.cn",
+          "coe@njupt.edu.cn"
+        ],
+        "phone": [
+          "025-85866713",
+          "025-85866199"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "外交学院",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cfau.edu.cn/",
+    "depts": {
+      "intl": {
+        "url": "https://wjxx.cfau.edu.cn/",
+        "title": "外交学与外事管理系"
+      },
+      "grad": {
+        "url": "https://yjsb.cfau.edu.cn/",
+        "title": "研究生部"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "天津中医药大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tjutcm.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjsy.tjutcm.edu.cn/",
+        "title": "研究生教学",
+        "phone": [
+          "13472365958"
+        ]
+      },
+      "career": {
+        "url": "https://jiuye.tjutcm.edu.cn/",
+        "title": "本科生就业指导",
+        "phone": [
+          "022-59596207"
+        ]
+      },
+      "intl": {
+        "url": "https://iec.tjutcm.edu.cn/",
+        "title": "国际交流",
+        "email": [
+          "tutcm@hotmail.com"
+        ],
+        "phone": [
+          "86-22-59596555"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "天津工业大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.tjpu.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "宁波大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nbu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://graduate.nbu.edu.cn/",
+        "title": "研究生培养",
+        "phone": [
+          "0574-87609123"
+        ]
+      },
+      "career": {
+        "url": "https://ndjy.nbu.edu.cn/",
+        "title": "就业工作",
+        "email": [
+          "byb@nbu.edu.cn"
+        ],
+        "phone": [
+          "0574-87600228"
+        ]
+      },
+      "intl": {
+        "url": "https://tzb.nbu.edu.cn/gatgz.htm",
+        "title": "港澳台合作"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "山西大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.sxu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "https://www.sxu.edu.cn/zty/zsjy/index.html",
+        "title": "招生就业",
+        "email": [
+          "@sxu.edu.cn",
+          "@email.sxu.edu.cn"
+        ],
+        "phone": [
+          "0351-7010255"
+        ]
+      },
+      "grad": {
+        "url": "http://yjszsw.sxu.edu.cn/",
+        "title": "研究生招生",
+        "phone": [
+          "0351-7010322"
+        ]
+      },
+      "intl": {
+        "url": "http://siee.sxu.edu.cn/zsxx/",
+        "title": "港澳台侨招生",
+        "phone": [
+          "0351-7011934"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "成都中医药大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cdutcm.edu.cn/",
+    "depts": {
+      "career": {
+        "wechat": "成中医微学工",
+        "url": "https://zyd.cdutcm.edu.cn/zsjy",
+        "title": "招生就业",
+        "email": [
+          "cdutcmzsxc@163.com"
+        ],
+        "phone": [
+          "028-61800090"
+        ]
+      },
+      "grad": {
+        "url": "https://zyd.cdutcm.edu.cn/yjs",
+        "title": "研究生招生",
+        "phone": [
+          "82713803",
+          "82717572",
+          "82716812"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "成都理工大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cdut.edu.cn/",
+    "depts": {},
+    "web_fail_reason": "requests失败"
+  },
+  {
+    "name": "河南大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.henu.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "Copyright",
+        "url": "https://grs.henu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@henu.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "https://www.henu.edu.cn/gjjl.htm",
+        "title": "国际交流"
+      },
+      "career": {
+        "url": "https://www.henu.edu.cn/zsjy.htm",
+        "title": "招生就业"
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "湘潭大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.xtu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.xtu.edu.cn/jyjx/yjsjyjx.htm",
+        "title": "研究生教育教学",
+        "phone": [
+          "030202001058"
+        ]
+      },
+      "career": {
+        "url": "https://www.xtu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "zsk@xtu.edu.cn"
+        ],
+        "phone": [
+          "0731-58293807"
+        ]
+      },
+      "intl": {
+        "url": "https://www.xtu.edu.cn/hzjl/gjhz.htm",
+        "title": "国际合作",
+        "phone": [
+          "030202001058"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "西南石油大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.swpu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.swpu.edu.cn/gs/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "wechat": "投递简历时选择",
+        "url": "http://jyzx.swpu.edu.cn/",
+        "title": "就业指导服务",
+        "email": [
+          "swpu_jyjb@163.com",
+          "swpu_jyzx@163.com"
+        ],
+        "phone": [
+          "028-83035257",
+          "028-83037077"
+        ]
+      },
+      "intl": {
+        "url": "https://www.swpu.edu.cn/oice/",
+        "title": "国际合作交流",
+        "email": [
+          "oiaswpu@163.com"
+        ],
+        "phone": [
+          "028-83032848",
+          "028-83032453",
+          "028-83032815"
+        ]
+      }
+    },
+    "dept_skipped": false
+  },
+  {
+    "name": "首都师范大学",
+    "province": "全国重点院校",
+    "tier": "双一流",
+    "city": "",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.cnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.cnu.edu.cn/jyjx/index.htm?mao=b02",
+        "title": "研究生教育",
+        "email": [
+          "info@cnu.edu.cn"
+        ],
+        "phone": [
+          "0402430068"
+        ]
+      },
+      "career": {
+        "url": "https://www.cnu.edu.cn/zsjy/index.htm",
+        "title": "招生就业",
+        "email": [
+          "info@cnu.edu.cn"
+        ],
+        "phone": [
+          "0402430068"
+        ]
+      },
+      "intl": {
+        "url": "https://www.cnu.edu.cn/hzjl/index.htm?mao=b01",
+        "title": "国际及港澳台合作交流",
+        "email": [
+          "info@cnu.edu.cn"
+        ],
+        "phone": [
+          "0402430068"
+        ]
+      }
+    },
+    "dept_skipped": false
   }
 ]

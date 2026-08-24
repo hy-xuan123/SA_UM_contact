@@ -1,0 +1,11 @@
+{
+  "name": "兰州大学",
+  "province": "甘肃省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.lzu.edu.cn/",
+  "depts": {},
+  "web_fail_reason": "requests失败"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "上海海洋大学",
+  "province": "上海市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shou.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://yjs.shou.edu.cn/13946/list.htm",
+      "title": "研究生招生"
+    },
+    "career": {
+      "url": "https://jcxt.shou.edu.cn/",
+      "title": "就业信息"
+    },
+    "intl": {
+      "url": "http://ieo.shou.edu.cn/",
+      "title": "国际交流",
+      "email": [
+        "ieo@shou.edu.cn"
+      ],
+      "phone": [
+        "021-61900280"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

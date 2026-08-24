@@ -1,0 +1,38 @@
+{
+  "name": "西北大学",
+  "province": "陕西省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.nwu.edu.cn/",
+  "depts": {
+    "grad": {
+      "wechat": "研究生院",
+      "url": "https://yjs.nwu.edu.cn/index.htm",
+      "title": "研究生教育",
+      "phone": [
+        "029-88308162"
+      ]
+    },
+    "intl": {
+      "url": "https://gj.nwu.edu.cn/index.htm",
+      "title": "国际合作部",
+      "phone": [
+        "029-88303511"
+      ]
+    },
+    "career": {
+      "url": "https://jczx.nwu.edu.cn/",
+      "title": "毕业生就业信息",
+      "email": [
+        "jiuye@nwu.edu.cn"
+      ],
+      "phone": [
+        "029-88302514",
+        "029-88303867"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "安徽大学",
+  "province": "安徽省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ahu.edu.cn/",
+  "depts": {},
+  "web_fail_reason": "requests失败"
+}

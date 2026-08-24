@@ -1,0 +1,38 @@
+{
+  "name": "中国海洋大学",
+  "province": "山东省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ouc.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://grad.ouc.edu.cn/13039/list.htm",
+      "title": "博士学位、硕士学位授权学科",
+      "email": [
+        "yjsy@ouc.edu.cn"
+      ]
+    },
+    "intl": {
+      "url": "https://www.ouc.edu.cn/31816/list.htm",
+      "title": "教育部国际合作联合实验室",
+      "email": [
+        "news@ouc.edu.cn"
+      ],
+      "phone": [
+        "021202000030"
+      ]
+    },
+    "career": {
+      "url": "http://career.ouc.edu.cn/default.html",
+      "title": "就业信息",
+      "phone": [
+        "15028551517",
+        "13432724776",
+        "15087259867"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

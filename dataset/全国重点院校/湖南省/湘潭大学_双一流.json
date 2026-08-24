@@ -1,0 +1,36 @@
+{
+  "name": "湘潭大学",
+  "province": "湖南省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.xtu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://www.xtu.edu.cn/jyjx/yjsjyjx.htm",
+      "title": "研究生教育教学",
+      "phone": [
+        "030202001058"
+      ]
+    },
+    "career": {
+      "url": "https://www.xtu.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "email": [
+        "zsk@xtu.edu.cn"
+      ],
+      "phone": [
+        "0731-58293807"
+      ]
+    },
+    "intl": {
+      "url": "https://www.xtu.edu.cn/hzjl/gjhz.htm",
+      "title": "国际合作",
+      "phone": [
+        "030202001058"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "南京师范大学",
+  "province": "江苏省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.njnu.edu.cn/",
+  "depts": {},
+  "web_fail_reason": "requests失败"
+}

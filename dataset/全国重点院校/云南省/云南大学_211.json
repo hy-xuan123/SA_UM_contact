@@ -1,0 +1,33 @@
+{
+  "name": "云南大学",
+  "province": "云南省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ynu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://www.grs.ynu.edu.cn/",
+      "title": "研究生招生"
+    },
+    "career": {
+      "wechat": "微信二维码(单独二维码)",
+      "url": "http://jobs.ynu.edu.cn/",
+      "title": "就业工作",
+      "email": [
+        "ydxsjyzx@126.com"
+      ],
+      "phone": [
+        "0871-65148526",
+        "0871-65033859",
+        "0871-65931992"
+      ]
+    },
+    "intl": {
+      "url": "http://english.ynu.edu.cn/",
+      "title": "国际合作"
+    }
+  },
+  "dept_skipped": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "福州大学",
+  "province": "福建省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.fzu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=yjsjy&type=w",
+      "title": "研究生招生"
+    },
+    "intl": {
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w",
+      "title": "港澳台侨生招生"
+    }
+  },
+  "dept_skipped": false
+}

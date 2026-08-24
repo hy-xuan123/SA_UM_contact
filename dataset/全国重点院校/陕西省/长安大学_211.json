@@ -1,0 +1,25 @@
+{
+  "name": "长安大学",
+  "province": "陕西省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.chd.edu.cn/",
+  "depts": {
+    "grad": {
+      "wechat": "版权",
+      "url": "https://graduate.chd.edu.cn/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "javascriot:;",
+      "title": "招生就业"
+    },
+    "intl": {
+      "url": "https://www.chd.edu.cn/info/2181/576691.htm",
+      "title": "15 07 第四届城市与可持续交通国际研讨会在我校召开 7月9日至10日，第四届城市与可持续交通国际研讨会（The 4th International Symposium on Cities and Sustainable Transportation）在我校召开。本次研讨会由长安大学运输工程学院主办，以“面向未来的城市交通——创新、绿色与包容”为主题，会议旨在推进全球城市交通可持续发展，促进跨学科、跨领域学术交流与合作。会议邀请了来自3大洲8个国家的18位交通领域国际知名专家与学者，包括美国工程院院士、佐治亚理工学院Patricia L. Mokhtarian教授，..."
+    }
+  },
+  "dept_skipped": false
+}

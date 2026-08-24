@@ -1,0 +1,11 @@
+{
+  "name": "天津工业大学",
+  "province": "天津市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.tjpu.edu.cn/",
+  "depts": {},
+  "web_fail_reason": "requests失败"
+}

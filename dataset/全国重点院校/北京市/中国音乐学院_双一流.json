@@ -1,0 +1,26 @@
+{
+  "name": "中国音乐学院",
+  "province": "北京市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ccmusic.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm",
+      "title": "硕士研究生招生",
+      "phone": [
+        "010-64887561"
+      ]
+    },
+    "intl": {
+      "url": "https://www.ccmusic.edu.cn/hzjl/gwjl/index.htm",
+      "title": "国际交流",
+      "phone": [
+        "010-64887561"
+      ]
+    }
+  },
+  "dept_skipped": false
+}
