@@ -1,0 +1,32 @@
+{
+  "name": "北京中医药大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.bucm.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.bucm.edu.cn/zsjy1/index.htm",
+      "title": "招生就业",
+      "phone": [
+        "0402430041"
+      ]
+    },
+    "intl": {
+      "url": "https://international.bucm.edu.cn/",
+      "title": "北京中医药大学国际合作处、港澳台办公室"
+    },
+    "grad": {
+      "url": "http://yanjiusheng.bucm.edu.cn/",
+      "title": "研究生",
+      "phone": [
+        "0402430041"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9986,
+  "lon": 116.3476
+}

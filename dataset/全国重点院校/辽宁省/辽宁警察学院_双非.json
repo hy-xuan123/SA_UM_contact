@@ -1,0 +1,27 @@
+{
+  "name": "辽宁警察学院",
+  "city": "大连市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "https://www.lnpc.edu.cn/",
+  "source": "xls",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 38.9626823,
+  "lon": 121.3238286,
+  "school_code": "4121011432",
+  "depts": {
+    "career": {
+      "url": "https://www.lnpc.edu.cn/35/list.htm",
+      "title": "招生就业",
+      "phone": [
+        "0416-3212009"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

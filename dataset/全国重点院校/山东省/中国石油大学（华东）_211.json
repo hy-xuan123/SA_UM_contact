@@ -1,0 +1,29 @@
+{
+  "name": "中国石油大学（华东）",
+  "province": "山东省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.upc.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://career.upc.edu.cn/",
+      "title": "学生就业指导中心"
+    },
+    "grad": {
+      "url": "http://gs.upc.edu.cn/",
+      "title": "研究生院",
+      "phone": [
+        "08403691997"
+      ]
+    },
+    "intl": {
+      "url": "https://io.upc.edu.cn/",
+      "title": "国际合作与交流处、港澳台事务办公室"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 36.6512,
+  "lon": 117.1201
+}

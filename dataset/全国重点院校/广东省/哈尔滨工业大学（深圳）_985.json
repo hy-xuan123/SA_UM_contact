@@ -1,0 +1,32 @@
+{
+  "name": "哈尔滨工业大学（深圳）",
+  "city": "深圳市",
+  "province": "广东省",
+  "tier": "985",
+  "website": "https://www.hitsz.edu.cn/",
+  "school_type": "公办",
+  "level": "本科",
+  "department": "工业和信息化部",
+  "lat": 22.602990381056767,
+  "lon": 113.9625,
+  "source": "branch",
+  "tags": [],
+  "depts": {
+    "intl": {
+      "url": "https://www.hitsz.edu.cn/25/list.htm",
+      "title": "国际合作",
+      "phone": [
+        "0755-26033876"
+      ]
+    },
+    "career": {
+      "url": "https://job.hitsz.edu.cn/zhxy-szxszyfzpt/",
+      "title": "就业服务"
+    },
+    "grad": {
+      "url": "https://yzb.hitsz.edu.cn/zs",
+      "title": "研究生招生网"
+    }
+  },
+  "dept_skipped": false
+}

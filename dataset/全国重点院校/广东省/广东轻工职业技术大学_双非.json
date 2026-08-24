@@ -1,0 +1,35 @@
+{
+  "name": "广东轻工职业技术大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.gdqy.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.141833281056766,
+  "lon": 113.25145810000001,
+  "depts": {
+    "career": {
+      "url": "https://jy.gdipu.edu.cn",
+      "title": "就业",
+      "email": [
+        "1181877691@qq.com",
+        "gqjyb@gdip.edu.cn"
+      ],
+      "phone": [
+        "020-61230822",
+        "0757-88576223"
+      ]
+    },
+    "intl": {
+      "url": "http://www.gdqy.edu.cn/gjjl_gat_.htm",
+      "title": "国际暨港澳台交流 COMMUNICATION",
+      "phone": [
+        "020-61230200"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "中国地质大学（北京）",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cugb.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://graduate.cugb.edu.cn",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://jiuye.cugb.edu.cn/",
+      "title": "就业创业",
+      "email": [
+        "jyxsc@126.com"
+      ],
+      "phone": [
+        "909355733"
+      ]
+    },
+    "intl": {
+      "url": "https://gjhzc.cugb.edu.cn/",
+      "title": "国际合作与交流处"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9926,
+  "lon": 116.3356
+}

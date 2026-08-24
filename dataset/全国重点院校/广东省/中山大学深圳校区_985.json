@@ -1,0 +1,35 @@
+{
+  "name": "中山大学深圳校区",
+  "city": "深圳市",
+  "province": "广东省",
+  "tier": "985",
+  "website": "https://www.sysu.edu.cn/",
+  "school_type": "公办",
+  "level": "本科",
+  "department": "教育部",
+  "lat": 22.75,
+  "lon": 113.97,
+  "source": "branch",
+  "tags": [],
+  "depts": {
+    "grad": {
+      "wechat": "官网二维码",
+      "url": "https://graduate.sysu.edu.cn/",
+      "title": "研究生培养"
+    },
+    "career": {
+      "wechat": "中山大学就业（sysucareer）",
+      "url": "http://career.sysu.edu.cn/",
+      "title": "就业信息网",
+      "phone": [
+        "020-84111150",
+        "020-84111791"
+      ]
+    },
+    "intl": {
+      "url": "https://eao.sysu.edu.cn/",
+      "title": "国际处"
+    }
+  },
+  "dept_skipped": false
+}

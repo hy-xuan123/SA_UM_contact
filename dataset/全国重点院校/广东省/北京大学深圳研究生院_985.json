@@ -1,0 +1,31 @@
+{
+  "name": "北京大学深圳研究生院",
+  "city": "深圳市",
+  "province": "广东省",
+  "tier": "985",
+  "website": "https://www.pkusz.edu.cn/",
+  "school_type": "公办",
+  "level": "研究生",
+  "department": "教育部",
+  "lat": 22.59,
+  "lon": 113.985,
+  "source": "branch",
+  "tags": [],
+  "depts": {
+    "grad": {
+      "url": "https://admission.pkusz.edu.cn/index.html",
+      "title": "研究生招生"
+    },
+    "intl": {
+      "url": "https://hmt.pku.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "its@pkusz.edu.cn"
+      ],
+      "phone": [
+        "030502008554"
+      ]
+    }
+  },
+  "dept_skipped": false
+}

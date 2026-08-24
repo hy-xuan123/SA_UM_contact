@@ -1,0 +1,26 @@
+{
+  "name": "东南大学",
+  "province": "江苏省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.seu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.seu.edu.cn/47291/list.htm",
+      "title": "招生就业"
+    },
+    "grad": {
+      "url": "https://www.seu.edu.cn/yjsy/",
+      "title": "研究生院 - 东南大学"
+    },
+    "intl": {
+      "url": "https://oic.seu.edu.cn/",
+      "title": "国际处"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.8872,
+  "lon": 118.8209
+}

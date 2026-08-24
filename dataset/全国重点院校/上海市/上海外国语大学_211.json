@@ -1,0 +1,22 @@
+{
+  "name": "上海外国语大学",
+  "province": "上海市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shisu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.shisu.edu.cn/admissions/index.html",
+      "title": "招生就业"
+    },
+    "intl": {
+      "url": "https://oice.shisu.edu.cn/",
+      "title": "对外合作交流处"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.2376,
+  "lon": 121.5076
+}

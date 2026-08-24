@@ -1,0 +1,34 @@
+{
+  "name": "辽宁师范大学",
+  "city": "大连市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "https://www.lnnu.edu.cn/",
+  "source": "gx211",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 38.89700961894323,
+  "lon": 121.6025,
+  "depts": {
+    "grad": {
+      "url": "https://master.lnnu.edu.cn/",
+      "title": "研究生院"
+    },
+    "career": {
+      "url": "https://lsdjyw.lnnu.edu.cn/",
+      "title": "本科生就业",
+      "email": [
+        "lszjcscb@163.com"
+      ],
+      "phone": [
+        "0411-82159911"
+      ]
+    },
+    "intl": {
+      "url": "https://wsc.lnnu.edu.cn/",
+      "title": "国际处"
+    }
+  }
+}

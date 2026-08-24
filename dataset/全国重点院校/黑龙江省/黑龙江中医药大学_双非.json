@@ -1,0 +1,34 @@
+{
+  "name": "黑龙江中医药大学",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.hljucm.net/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.7888,
+  "lon": 126.535,
+  "depts": {
+    "intl": {
+      "url": "http://www.hljucm.net/index/dwjl.htm",
+      "title": "对外交流",
+      "phone": [
+        "011002000482"
+      ]
+    },
+    "career": {
+      "url": "http://zsjyc.hljucm.net/",
+      "title": "招生就业"
+    },
+    "grad": {
+      "url": "http://yjsy.hljucm.net/",
+      "title": "研究生系统",
+      "email": [
+        "bozhongyuan@163.com"
+      ]
+    }
+  }
+}

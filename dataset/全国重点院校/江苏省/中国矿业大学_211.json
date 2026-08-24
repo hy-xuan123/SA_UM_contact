@@ -1,0 +1,26 @@
+{
+  "name": "中国矿业大学",
+  "province": "江苏省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cumt.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://international.cumt.edu.cn/",
+      "title": "国际合作交流处"
+    },
+    "grad": {
+      "url": "http://gs.cumt.edu.cn/",
+      "title": "研究生院"
+    },
+    "career": {
+      "url": "http://www.91job.org.cn/sub-station/home/10290",
+      "title": "就业指导"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 32.0603,
+  "lon": 118.8119
+}

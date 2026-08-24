@@ -1,0 +1,26 @@
+{
+  "name": "南京林业大学",
+  "province": "江苏省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.njfu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://gsnfu.njfu.edu.cn/",
+      "title": "研究生招生"
+    },
+    "career": {
+      "url": "http://njfu.91job.org.cn/",
+      "title": "就业网"
+    },
+    "intl": {
+      "url": "https://ghc.njfu.edu.cn/",
+      "title": "国际合作"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 32.04857252776298,
+  "lon": 118.80625234702788
+}

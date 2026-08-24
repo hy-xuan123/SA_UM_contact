@@ -1,0 +1,26 @@
+{
+  "name": "南京医科大学",
+  "province": "江苏省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.njmu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://yjsy.njmu.edu.cn/",
+      "title": "研究生教育"
+    },
+    "intl": {
+      "url": "http://ice.njmu.edu.cn/",
+      "title": "港澳台侨学生招生"
+    },
+    "career": {
+      "url": "http://njmu.91job.org.cn/",
+      "title": "就业指导"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 32.04567608131727,
+  "lon": 118.80023781400934
+}

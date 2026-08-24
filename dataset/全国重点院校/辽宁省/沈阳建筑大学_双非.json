@@ -1,0 +1,24 @@
+{
+  "name": "沈阳建筑大学",
+  "city": "沈阳市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "http://www.sjzu.edu.cn/",
+  "source": "gx211",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 41.79827252776298,
+  "lon": 123.43935234702789,
+  "depts": {
+    "grad": {
+      "url": "http://www.sjzu.edu.cn/rcpy/yjsjy.htm",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "http://zsjy.sjzu.edu.cn/",
+      "title": "招生就业"
+    }
+  }
+}

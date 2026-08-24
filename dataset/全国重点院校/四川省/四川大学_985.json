@@ -1,0 +1,22 @@
+{
+  "name": "四川大学",
+  "province": "四川省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.scu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://international.scu.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "international@scu.edu.cn",
+        "nic8203@scu.edu.cn"
+      ]
+    }
+  },
+  "web_fail_reason": "requests失败",
+  "lat": 30.6276,
+  "lon": 104.0776
+}

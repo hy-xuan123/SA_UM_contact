@@ -1,0 +1,34 @@
+{
+  "name": "北京大学",
+  "province": "北京市",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.pku.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://www.pku.edu.cn/recruit.html#undergraduate",
+      "title": "本科生",
+      "email": [
+        "its@pku.edu.cn"
+      ],
+      "phone": [
+        "0402430047"
+      ]
+    },
+    "intl": {
+      "url": "https://hmt.pku.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "its@pku.edu.cn"
+      ],
+      "phone": [
+        "0402430047"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9921,
+  "lon": 116.3056
+}

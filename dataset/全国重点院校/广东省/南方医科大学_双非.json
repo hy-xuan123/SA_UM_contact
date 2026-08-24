@@ -1,0 +1,42 @@
+{
+  "name": "南方医科大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "http://www.fimmu.com/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 23.14385819298767,
+  "lon": 113.25425974851453,
+  "depts": {
+    "intl": {
+      "url": "http://portal.smu.edu.cn/wsc/",
+      "title": "国际交流与合作处",
+      "email": [
+        "403928103@qq.com"
+      ],
+      "phone": [
+        "61648027"
+      ]
+    },
+    "grad": {
+      "url": "http://yjs.smu.edu.cn",
+      "title": "研究生院(党委研究生工作部)"
+    },
+    "career": {
+      "url": "http://fimmu.jobsys.cn/unijob/index.php/web/index/index",
+      "title": "就业指导中心",
+      "email": [
+        "nydjyzdzx@126.com"
+      ],
+      "phone": [
+        "020-31044165",
+        "020-61648500",
+        "020-61648657"
+      ]
+    }
+  }
+}

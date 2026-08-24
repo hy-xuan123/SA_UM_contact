@@ -1,0 +1,29 @@
+{
+  "name": "贵州大学",
+  "province": "贵州省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.gzu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.gzu.edu.cn/70/list.htm",
+      "title": "招生就业",
+      "phone": [
+        "0851-88292178"
+      ]
+    },
+    "grad": {
+      "url": "https://gs.gzu.edu.cn/zsgz/list.htm",
+      "title": "研究生招生"
+    },
+    "intl": {
+      "url": "https://oir.gzu.edu.cn/",
+      "title": "国际交流与合作处"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 26.647,
+  "lon": 106.6302
+}

@@ -1,0 +1,26 @@
+{
+  "name": "南京航空航天大学",
+  "province": "江苏省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.nuaa.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://www.graduate.nuaa.edu.cn/",
+      "title": "> 研究生教育"
+    },
+    "career": {
+      "url": "https://nuaa.91job.org.cn/",
+      "title": "> 就业创业"
+    },
+    "intl": {
+      "url": "https://ico.nuaa.edu.cn/",
+      "title": "国际合作处"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 32.07202747223702,
+  "lon": 118.78754765297211
+}

@@ -1,0 +1,40 @@
+{
+  "name": "西南交通大学",
+  "province": "四川省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.swjtu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://fad.swjtu.edu.cn/",
+      "title": "国际合作"
+    },
+    "career": {
+      "url": "https://www.swjtu.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "email": [
+        "zszx@swjtu.edu.cn",
+        "yzb@home.swjtu.edu.cn",
+        "cjzs@swjtu.edu.cn"
+      ],
+      "phone": [
+        "028-87600332",
+        "028-87634132"
+      ]
+    },
+    "grad": {
+      "url": "https://yz.swjtu.edu.cn/web/index.html",
+      "title": "研究生招生",
+      "phone": [
+        "028-66366757",
+        "028-66366756",
+        "028-66367138"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 30.585790381056768,
+  "lon": 104.0743
+}

@@ -1,0 +1,19 @@
+{
+  "name": "哈尔滨金融学院",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "https://www.hrbfu.edu.cn/",
+  "source": "xls",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.7172705,
+  "lon": 126.7317956,
+  "school_code": "4123010245",
+  "depts": null,
+  "dept_skipped": true,
+  "web_reachable": false,
+  "web_fail_reason": "全部方式失败"
+}

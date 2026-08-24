@@ -1,0 +1,24 @@
+{
+  "name": "上海交通大学",
+  "province": "上海市",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.sjtu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://global.sjtu.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "globalsjtu@sjtu.edu.cn"
+      ],
+      "phone": [
+        "021-34206753"
+      ]
+    }
+  },
+  "dept_skipped": true,
+  "lat": 31.0276,
+  "lon": 121.4336
+}

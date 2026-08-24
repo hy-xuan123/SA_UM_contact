@@ -1,0 +1,35 @@
+{
+  "name": "中国石油大学（北京）",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cup.edu.cn/",
+  "depts": {
+    "grad": {
+      "wechat": "邮编",
+      "url": "https://grs.cup.edu.cn/",
+      "title": "研究生教育"
+    },
+    "intl": {
+      "url": "https://www.cup.edu.cn/overseas/index.htm",
+      "title": "来华留学教育"
+    },
+    "career": {
+      "url": "http://career.cup.edu.cn/",
+      "title": "就业指导",
+      "email": [
+        "cupjiuye@qq.com",
+        "job89731016@163.com"
+      ],
+      "phone": [
+        "010-89733499",
+        "010-89731016"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 40.0089,
+  "lon": 116.3478
+}

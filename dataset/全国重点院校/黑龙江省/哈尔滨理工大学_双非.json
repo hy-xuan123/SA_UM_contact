@@ -1,0 +1,28 @@
+{
+  "name": "哈尔滨理工大学",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.hrbust.edu.cn/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.8038,
+  "lon": 126.52,
+  "depts": {
+    "career": {
+      "url": "http://www.hrbust.edu.cn/zsjy.htm",
+      "title": "招生就业"
+    },
+    "grad": {
+      "url": "https://graduate.hrbust.edu.cn/3907/list.htm",
+      "title": "研究生招生"
+    },
+    "intl": {
+      "url": "http://www.hrbust.edu.cn/gjhz.htm",
+      "title": "国际合作"
+    }
+  }
+}

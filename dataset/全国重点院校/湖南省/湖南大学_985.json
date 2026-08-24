@@ -1,0 +1,35 @@
+{
+  "name": "湖南大学",
+  "province": "湖南省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.hnu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://gra.hnu.edu.cn/",
+      "title": "研究生教育教学",
+      "phone": [
+        "0731-88821224（"
+      ]
+    },
+    "career": {
+      "url": "https://www.hnu.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "email": [
+        "xiaoban@hnu.edu.cn"
+      ]
+    },
+    "intl": {
+      "url": "http://wsc.hnu.edu.cn/",
+      "title": "国际交流合作",
+      "phone": [
+        "0731-88823974"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 28.1762,
+  "lon": 112.9413
+}

@@ -1,0 +1,25 @@
+{
+  "name": "中央音乐学院",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ccom.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.ccom.edu.cn/zsyjy.htm",
+      "title": "招生与就业",
+      "phone": [
+        "0402430057"
+      ]
+    },
+    "intl": {
+      "url": "https://www.ccom.edu.cn/info/18061/267901.htm",
+      "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9036,
+  "lon": 116.3456
+}

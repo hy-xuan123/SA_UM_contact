@@ -1,0 +1,45 @@
+{
+  "name": "中山大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "教育部",
+  "tags": [
+    "985",
+    "211"
+  ],
+  "website": "http://www.sysu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "985",
+  "lat": 23.13,
+  "lon": 113.275,
+  "depts": {
+    "grad": {
+      "wechat": "官网二维码",
+      "url": "https://graduate.sysu.edu.cn/",
+      "title": "研究生培养",
+      "email": [
+        "yyzhc@mail.sysu.edu.cn"
+      ],
+      "phone": [
+        "020-84111685",
+        "020-84111686",
+        "020-84113696"
+      ]
+    },
+    "career": {
+      "wechat": "中山大学就业（sysucareer）",
+      "url": "http://career.sysu.edu.cn/",
+      "title": "就业信息网",
+      "phone": [
+        "020-84111150",
+        "020-84111791"
+      ]
+    },
+    "intl": {
+      "url": "http://eao.sysu.edu.cn/",
+      "title": "国际处"
+    }
+  }
+}

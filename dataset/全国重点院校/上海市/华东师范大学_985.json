@@ -1,0 +1,36 @@
+{
+  "name": "华东师范大学",
+  "province": "上海市",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ecnu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://career.ecnu.edu.cn/",
+      "title": "学生就业"
+    },
+    "grad": {
+      "wechat": "华东师大研招（ECNUyjs）",
+      "url": "https://yjszs.ecnu.edu.cn/",
+      "title": "研究生招生",
+      "email": [
+        "yjszs@admin.ecnu.edu.cn"
+      ],
+      "phone": [
+        "021-54344721"
+      ]
+    },
+    "intl": {
+      "url": "http://lxs.ecnu.edu.cn/",
+      "title": "International Students",
+      "email": [
+        "lxs@ecnu.edu.cn"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.2276,
+  "lon": 121.4076
+}

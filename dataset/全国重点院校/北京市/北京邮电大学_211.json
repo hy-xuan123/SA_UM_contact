@@ -1,0 +1,18 @@
+{
+  "name": "北京邮电大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.bupt.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://www.bupt.edu.cn/hzjl.htm",
+      "title": "国际处"
+    }
+  },
+  "web_fail_reason": "requests失败",
+  "lat": 39.9636,
+  "lon": 116.3576
+}

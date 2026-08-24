@@ -1,0 +1,37 @@
+{
+  "name": "陕西师范大学",
+  "province": "陕西省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.snnu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://ipo.snnu.edu.cn/",
+      "title": "国际交流与合作处"
+    },
+    "career": {
+      "url": "http://job.snnu.edu.cn/",
+      "title": "学生就业指导",
+      "email": [
+        "jyzx@snnu.edu.cn"
+      ],
+      "phone": [
+        "029-85310325",
+        "032685310466",
+        "029-85310327"
+      ]
+    },
+    "grad": {
+      "url": "http://newyjs.snnu.edu.cn/",
+      "title": "研究生教育",
+      "phone": [
+        "029-85318713"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 34.32861,
+  "lon": 108.9473
+}

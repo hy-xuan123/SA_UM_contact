@@ -1,10 +1,10 @@
-# 仅保留页面与说明文档，其余文件一律忽略
-# 数据文件（dataset/）由脚本本地生成，不纳入版本库
-dataset/
-
 # 构建/临时产物
 *.tmp
 *.log
 __pycache__/
 *.pyc
 .pyc
+
+# 本地状态文件（含抓取断点，无需入库）
+dataset/_state.json
+dataset/全国重点院校/_state.json

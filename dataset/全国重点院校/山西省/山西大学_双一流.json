@@ -1,0 +1,36 @@
+{
+  "name": "山西大学",
+  "province": "山西省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.sxu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.sxu.edu.cn/zty/zsjy/index.html",
+      "title": "招生就业",
+      "email": [
+        "@sxu.edu.cn",
+        "@email.sxu.edu.cn"
+      ],
+      "phone": [
+        "0351-7010255"
+      ]
+    },
+    "grad": {
+      "url": "http://yjszsw.sxu.edu.cn/",
+      "title": "研究生招生",
+      "phone": [
+        "0351-7010322"
+      ]
+    },
+    "intl": {
+      "url": "https://wsc.sxu.edu.cn/",
+      "title": "山西大学国际合作与交流处（港澳台办公室）"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 37.8706,
+  "lon": 112.5339
+}

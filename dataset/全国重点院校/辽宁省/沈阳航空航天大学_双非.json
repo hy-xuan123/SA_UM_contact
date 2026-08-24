@@ -1,0 +1,28 @@
+{
+  "name": "沈阳航空航天大学",
+  "city": "沈阳市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "http://www.sau.edu.cn/",
+  "source": "gx211",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 41.9240499,
+  "lon": 123.3987147,
+  "depts": {
+    "grad": {
+      "url": "http://yjs.sau.edu.cn",
+      "title": "研究生招生"
+    },
+    "career": {
+      "url": "https://sau.jysd.com/",
+      "title": "就业信息"
+    },
+    "intl": {
+      "url": "http://gjgcs.sau.edu.cn",
+      "title": "国际交流"
+    }
+  }
+}

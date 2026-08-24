@@ -1,0 +1,32 @@
+{
+  "name": "天津中医药大学",
+  "province": "天津市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.tjutcm.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://yjsy.tjutcm.edu.cn/",
+      "title": "研究生教学",
+      "phone": [
+        "13472365958"
+      ]
+    },
+    "career": {
+      "url": "https://jiuye.tjutcm.edu.cn/",
+      "title": "本科生就业指导",
+      "phone": [
+        "022-59596207"
+      ]
+    },
+    "intl": {
+      "url": "https://iec.tjutcm.edu.cn/",
+      "title": "国际交流"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.098090381056764,
+  "lon": 117.1919
+}

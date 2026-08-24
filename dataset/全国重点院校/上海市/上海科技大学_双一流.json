@@ -1,0 +1,27 @@
+{
+  "name": "上海科技大学",
+  "province": "上海市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shanghaitech.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://oia.shanghaitech.edu.cn/",
+      "title": "上海科技大学-国际事务处（港澳台办）"
+    },
+    "career": {
+      "url": "https://career.shanghaitech.edu.cn/",
+      "title": "就业",
+      "phone": [
+        "18120716234",
+        "032613120834",
+        "032613131827"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.0276,
+  "lon": 121.6076
+}

@@ -1,0 +1,33 @@
+{
+  "name": "华南师范大学",
+  "city": "广州市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [
+    "211"
+  ],
+  "website": "http://www.scnu.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "211",
+  "lat": 23.135740251485476,
+  "lon": 113.27385819298767,
+  "depts": {
+    "grad": {
+      "url": "http://yz.scnu.edu.cn/",
+      "title": "研究生招生",
+      "phone": [
+        "020-85213863"
+      ]
+    },
+    "career": {
+      "url": "https://www.scnu.edu.cn/a/20151026/34.html",
+      "title": "就业导航"
+    },
+    "intl": {
+      "url": "http://io.scnu.edu.cn/",
+      "title": "华南师范大学国际交流合作处"
+    }
+  }
+}

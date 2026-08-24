@@ -1,0 +1,41 @@
+{
+  "name": "上海财经大学",
+  "province": "上海市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.shufe.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://gs.sufe.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "yjsy@mail.shufe.edu.cn",
+        "yzb@mail.shufe.edu.cn"
+      ],
+      "phone": [
+        "021-65904625",
+        "021-65903795"
+      ]
+    },
+    "career": {
+      "url": "https://career.sufe.edu.cn/",
+      "title": "就业指导服务",
+      "email": [
+        "jyzd@mail.shufe.edu.cn"
+      ],
+      "phone": [
+        "021-65904215"
+      ]
+    },
+    "intl": {
+      "wechat": "相关宣传连接中报名欢迎广大师生积极参与",
+      "url": "https://ieco.shufe.edu.cn/",
+      "title": "上海财经大学国际处（港澳台办）"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.2876,
+  "lon": 121.4976
+}

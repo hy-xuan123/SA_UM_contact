@@ -1,0 +1,22 @@
+{
+  "name": "外交学院",
+  "province": "北京市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cfau.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://wjxx.cfau.edu.cn/",
+      "title": "外交学与外事管理系"
+    },
+    "grad": {
+      "url": "https://yjsb.cfau.edu.cn/",
+      "title": "研究生部"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9136,
+  "lon": 116.3536
+}

@@ -1,0 +1,32 @@
+{
+  "name": "北京外国语大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.bfsu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://international.bfsu.edu.cn/",
+      "title": "国际交流合作处"
+    },
+    "grad": {
+      "url": "https://graduate.bfsu.edu.cn/",
+      "title": "研究生招生"
+    },
+    "career": {
+      "url": "https://jyzd.bfsu.edu.cn/",
+      "title": "就业创业",
+      "email": [
+        "jyzd@bfsu.edu.cn"
+      ],
+      "phone": [
+        "010-88816211"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9536,
+  "lon": 116.3536
+}

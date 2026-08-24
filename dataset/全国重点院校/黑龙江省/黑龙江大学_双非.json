@@ -1,0 +1,41 @@
+{
+  "name": "黑龙江大学",
+  "city": "哈尔滨市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.hlju.edu.cn/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.7066703,
+  "lon": 126.612399,
+  "depts": {
+    "grad": {
+      "url": "http://yjsy.hlju.edu.cn/",
+      "title": "研究生培养",
+      "phone": [
+        "0451-86604902"
+      ]
+    },
+    "career": {
+      "url": "http://job.hlju.edu.cn",
+      "title": "就业信息网",
+      "contact_note": "邮箱域名163.con拼写错误，且为乱码来源",
+      "email": [],
+      "phone": [
+        "0451-86609652",
+        "0451-86608896",
+        "0451-86604215"
+      ]
+    },
+    "intl": {
+      "url": "http://gjjl.hlju.edu.cn/",
+      "title": "国际处",
+      "phone": [
+        "0451-86608376"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "中国科学技术大学",
+  "province": "安徽省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ustc.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://gradschool.ustc.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "yjsy@ustc.edu.cn"
+      ],
+      "phone": [
+        "0551-63601958"
+      ]
+    },
+    "intl": {
+      "url": "https://oic.ustc.edu.cn/",
+      "title": "国际处",
+      "email": [
+        "fanjiangqi@ustc.edu.cn",
+        "oic@ustc.edu.cn"
+      ],
+      "phone": [
+        "0551-63606695"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.8368,
+  "lon": 117.2696
+}

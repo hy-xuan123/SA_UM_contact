@@ -1,0 +1,40 @@
+{
+  "name": "深圳理工大学",
+  "city": "深圳市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.suat-sz.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双非",
+  "lat": 22.54,
+  "lon": 114.045,
+  "depts": {
+    "grad": {
+      "url": "https://www.suat-sz.edu.cn/yjy/ylqxcyjsyjy.htm",
+      "title": "医疗器械产业技术研究院",
+      "email": [
+        "office@suat-sz.edu.cn"
+      ]
+    },
+    "career": {
+      "url": "https://www.suat-sz.edu.cn/zsjy.htm",
+      "title": "招生就业",
+      "email": [
+        "foreign-affairs@siat.ac.cn"
+      ]
+    },
+    "intl": {
+      "url": "https://www.suat-sz.edu.cn/gjhz.htm",
+      "title": "国际合作",
+      "email": [
+        "office@suat-sz.edu.cn"
+      ],
+      "phone": [
+        "030002008114"
+      ]
+    }
+  }
+}

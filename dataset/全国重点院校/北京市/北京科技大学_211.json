@@ -1,0 +1,32 @@
+{
+  "name": "北京科技大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.ustb.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://oice.ustb.edu.cn/",
+      "title": "北京科技大学国际处"
+    },
+    "career": {
+      "url": "https://www.ustb.edu.cn/zsjy/index.htm",
+      "title": "招生就业",
+      "phone": [
+        "0402430062"
+      ]
+    },
+    "grad": {
+      "url": "http://yzxc.ustb.edu.cn/",
+      "title": "研究生招生",
+      "phone": [
+        "0402430062"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9926,
+  "lon": 116.3186
+}

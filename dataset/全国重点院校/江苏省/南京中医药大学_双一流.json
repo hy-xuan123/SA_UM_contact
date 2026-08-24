@@ -1,0 +1,26 @@
+{
+  "name": "南京中医药大学",
+  "province": "江苏省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.njucm.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://gra.njucm.edu.cn/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "https://njucm.91job.org.cn/sub-station/home/10315",
+      "title": "大学生就业"
+    },
+    "intl": {
+      "url": "http://ice.njucm.edu.cn/",
+      "title": "国际合作交流"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 32.04857252776298,
+  "lon": 118.78754765297211
+}

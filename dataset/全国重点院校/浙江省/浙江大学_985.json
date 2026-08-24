@@ -1,0 +1,18 @@
+{
+  "name": "浙江大学",
+  "province": "浙江省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.zju.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "http://www.ir.zju.edu.cn/",
+      "title": "国际处"
+    }
+  },
+  "dept_skipped": true,
+  "lat": 30.3029,
+  "lon": 120.0817
+}

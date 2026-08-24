@@ -1,0 +1,29 @@
+{
+  "name": "营口理工学院",
+  "city": "营口市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "辽宁省",
+  "tags": [],
+  "website": "https://www.yku.edu.cn/",
+  "source": "xls",
+  "province": "辽宁省",
+  "tier": "双非",
+  "lat": 40.6296095,
+  "lon": 122.2396401,
+  "school_code": "4121014435",
+  "depts": {
+    "career": {
+      "url": "https://www.yku.edu.cn/",
+      "title": "招生就业",
+      "phone": []
+    },
+    "intl": {
+      "title": "营口理工学院-对外合作交流处",
+      "url": "https://www.yku.edu.cn/cs/index.htm"
+    }
+  },
+  "dept_skipped": false,
+  "web_reachable": true,
+  "web_fail_reason": ""
+}

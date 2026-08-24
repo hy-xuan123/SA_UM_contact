@@ -1,0 +1,26 @@
+{
+  "name": "对外经济贸易大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.uibe.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://yjsy.uibe.edu.cn/",
+      "title": "研究生"
+    },
+    "career": {
+      "url": "https://www.uibe.edu.cn/zsjy/index.htm",
+      "title": "招生就业"
+    },
+    "intl": {
+      "url": "https://international.uibe.edu.cn/",
+      "title": "对外经济贸易大学国际合作交流处/港澳台办公室"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9886,
+  "lon": 116.4336
+}

@@ -1,0 +1,37 @@
+{
+  "name": "北京体育大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.bsu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "http://wsc.bsu.edu.cn/",
+      "title": "留学生培养",
+      "email": [
+        "wsc@bsu.edu.cn"
+      ]
+    },
+    "career": {
+      "url": "https://www.bsu.edu.cn/zsjy/index.htm",
+      "title": "招生就业"
+    },
+    "grad": {
+      "url": "https://www.bsu.edu.cn/kxyjsy/index.htm",
+      "title": "更多",
+      "email": [
+        "xiaoban@bsu.edu.cn"
+      ],
+      "phone": [
+        "040202430168",
+        "14015216941",
+        "13585035162"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 40.0086,
+  "lon": 116.3226
+}

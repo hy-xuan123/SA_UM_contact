@@ -1,0 +1,18 @@
+{
+  "name": "西藏大学",
+  "province": "西藏自治区",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.utibet.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://gjc.utibet.edu.cn/",
+      "title": "国际处"
+    }
+  },
+  "web_fail_reason": "requests失败",
+  "lat": 29.65,
+  "lon": 91.1409
+}

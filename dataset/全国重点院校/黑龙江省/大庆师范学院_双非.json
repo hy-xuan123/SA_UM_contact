@@ -1,0 +1,21 @@
+{
+  "name": "大庆师范学院",
+  "city": "大庆市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "黑龙江省",
+  "tags": [],
+  "website": "http://www.dqsy.net/",
+  "source": "gx211",
+  "province": "黑龙江省",
+  "tier": "双非",
+  "lat": 45.79081,
+  "lon": 126.5275,
+  "depts": {
+    "career": {
+      "url": "http://www.dqsy.net/zsjy.htm",
+      "title": "招生就业",
+      "phone": []
+    }
+  }
+}

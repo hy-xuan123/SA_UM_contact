@@ -1,0 +1,38 @@
+{
+  "name": "南京邮电大学",
+  "province": "江苏省",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.njupt.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://www.njupt.edu.cn/46/list.htm",
+      "title": "招生就业",
+      "email": [
+        "njupt@njupt.edu.cn"
+      ],
+      "phone": [
+        "（86）-25-85866888"
+      ]
+    },
+    "grad": {
+      "url": "http://yzb.njupt.edu.cn/",
+      "title": "研究生招生",
+      "email": [
+        "yzb@njupt.edu.cn"
+      ],
+      "phone": [
+        "025-83492350"
+      ]
+    },
+    "intl": {
+      "url": "https://dice.njupt.edu.cn/",
+      "title": "外事系统"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 32.05379174391324,
+  "lon": 118.81041453301853
+}

@@ -1,0 +1,31 @@
+{
+  "name": "国防科技大学",
+  "province": "湖南省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.nudt.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://yjszs.nudt.edu.cn/index/index.view",
+      "title": "研究生院"
+    },
+    "career": {
+      "wechat": "国防科大",
+      "url": "https://www.nudt.edu.cn/zsjy/index.htm",
+      "title": "招生就业",
+      "email": [
+        "English"
+      ],
+      "phone": [
+        "0731-84576114",
+        "0731-87027137",
+        "0731-87027139"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 28.2282,
+  "lon": 112.9538
+}

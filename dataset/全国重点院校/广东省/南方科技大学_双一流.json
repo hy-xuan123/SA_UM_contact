@@ -1,0 +1,35 @@
+{
+  "name": "南方科技大学",
+  "city": "深圳市",
+  "level": "本科",
+  "school_type": "公办",
+  "department": "广东省",
+  "tags": [],
+  "website": "https://www.sustech.edu.cn/",
+  "source": "gx211",
+  "province": "广东省",
+  "tier": "双一流",
+  "lat": 22.54,
+  "lon": 114.075,
+  "depts": {
+    "intl": {
+      "wechat": "南方科技大学国际合作部暨港澳台办公室微信公众号",
+      "url": "https://global.sustech.edu.cn/",
+      "title": "SUSTech Global"
+    },
+    "grad": {
+      "url": "https://gs.sustech.edu.cn/#/admission/",
+      "title": "研究生招生"
+    },
+    "career": {
+      "url": "http://career.sustech.edu.cn/",
+      "title": "就业",
+      "email": [
+        "jobs@sustech.edu.cn"
+      ],
+      "phone": [
+        "0755-88010732"
+      ]
+    }
+  }
+}

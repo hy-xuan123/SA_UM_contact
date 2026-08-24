@@ -1,0 +1,41 @@
+{
+  "name": "厦门大学",
+  "province": "福建省",
+  "tier": "985",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.xmu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://gs.xmu.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "YJSY@XMU.EDU.CN"
+      ],
+      "phone": [
+        "0592-2186259"
+      ]
+    },
+    "intl": {
+      "url": "https://ice.xmu.edu.cn/",
+      "title": "国际合作与交流",
+      "phone": [
+        "0592-2180240"
+      ]
+    },
+    "career": {
+      "url": "http://jy.xmu.edu.cn/",
+      "title": "就业",
+      "email": [
+        "jiuyezhaopin@xmu.edu.cn"
+      ],
+      "phone": [
+        "0592-2184550"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 24.4363,
+  "lon": 118.1026
+}

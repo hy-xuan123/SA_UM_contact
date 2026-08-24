@@ -1,0 +1,34 @@
+{
+  "name": "湖南师范大学",
+  "province": "湖南省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.hunnu.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://yjsy.hunnu.edu.cn",
+      "title": "研究生教育",
+      "email": [
+        "yjsynews@hunnu.edu.cn"
+      ]
+    },
+    "career": {
+      "url": "http://zsjy.hunnu.edu.cn/",
+      "title": "招生就业",
+      "phone": [
+        "0648569883",
+        "071451831580",
+        "037237159775"
+      ]
+    },
+    "intl": {
+      "url": "https://oiec.hunnu.edu.cn/",
+      "title": "国际交流合作处"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 28.241190381056768,
+  "lon": 112.93130000000001
+}

@@ -1,0 +1,26 @@
+{
+  "name": "中央美术学院",
+  "province": "北京市",
+  "tier": "双一流",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.cafa.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "https://jy.cafa.edu.cn",
+      "title": "中央美术学院就业创业网 . CAFA"
+    },
+    "grad": {
+      "url": "https://www.cafa.edu.cn/sp/2022clinks/?cs=1201",
+      "title": "研究生院"
+    },
+    "intl": {
+      "url": "https://global.cafa.edu.cn/",
+      "title": "CAFA Global"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9886,
+  "lon": 116.4036
+}

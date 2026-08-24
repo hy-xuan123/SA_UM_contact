@@ -1,0 +1,38 @@
+{
+  "name": "东华大学",
+  "province": "上海市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.dhu.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://ico.dhu.edu.cn/",
+      "title": "国际合作处"
+    },
+    "grad": {
+      "url": "http://gs.dhu.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "yjsdep@dhu.edu.cn"
+      ]
+    },
+    "career": {
+      "wechat": "扫描左侧二维码获取最新资讯",
+      "url": "http://ejob.dhu.edu.cn/",
+      "title": "学生就业",
+      "email": [
+        "pluswin6@pluswin-china.com",
+        "houzhiqi@sh.chinalife-p.com.cn",
+        "job@dhu.edu.cn"
+      ],
+      "phone": [
+        "021-67792486"
+      ]
+    }
+  },
+  "dept_skipped": false,
+  "lat": 31.2076,
+  "lon": 121.4176
+}

@@ -1,0 +1,32 @@
+{
+  "name": "内蒙古大学",
+  "province": "内蒙古自治区",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.imu.edu.cn/",
+  "depts": {
+    "career": {
+      "url": "http://zhaosheng.imu.edu.cn/",
+      "title": "招生与就业",
+      "email": [
+        "ndzsb@imu.edu.cn"
+      ]
+    },
+    "grad": {
+      "url": "https://gs.imu.edu.cn/",
+      "title": "研究生教育",
+      "email": [
+        "ndgs@imu.edu.cn"
+      ]
+    },
+    "intl": {
+      "url": "http://ice.imu.edu.cn/",
+      "title": "国际合作"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 40.8076,
+  "lon": 111.6976
+}

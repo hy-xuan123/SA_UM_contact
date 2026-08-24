@@ -1,0 +1,37 @@
+{
+  "name": "四川农业大学",
+  "province": "四川省",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.sicau.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "https://yan.sicau.edu.cn/",
+      "title": "研究生招生"
+    },
+    "career": {
+      "wechat": "川农就业系统小程序",
+      "url": "https://job.sicau.edu.cn/",
+      "title": "就业服务",
+      "email": [
+        "job2501@163.com",
+        "scndjy@163.com",
+        "djyjiuye@163.com"
+      ],
+      "phone": [
+        "0835-2882800（",
+        "0835-2882800",
+        "028-86290666"
+      ]
+    },
+    "intl": {
+      "url": "https://ic.sicau.edu.cn/",
+      "title": "International College of SAU"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 30.5728,
+  "lon": 104.0818
+}

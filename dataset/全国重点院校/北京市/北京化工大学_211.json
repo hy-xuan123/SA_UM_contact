@@ -1,0 +1,32 @@
+{
+  "name": "北京化工大学",
+  "province": "北京市",
+  "tier": "211",
+  "city": "",
+  "school_type": "公办",
+  "level": "本科",
+  "website": "https://www.buct.edu.cn/",
+  "depts": {
+    "grad": {
+      "url": "http://graduate.buct.edu.cn/",
+      "title": "研究生教育"
+    },
+    "career": {
+      "url": "https://www.buct.edu.cn/zsjy_11437/list.htm",
+      "title": "招生就业",
+      "email": [
+        "news@mail.buct.edu.cn"
+      ],
+      "phone": [
+        "0402430060"
+      ]
+    },
+    "intl": {
+      "url": "https://iecd.buct.edu.cn/",
+      "title": "国际交流与合作处暨港澳台事务办公室"
+    }
+  },
+  "dept_skipped": false,
+  "lat": 39.9986,
+  "lon": 116.3056
+}
