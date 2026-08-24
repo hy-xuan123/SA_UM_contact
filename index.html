@@ -45,15 +45,28 @@
 
   .tabs {
     display: flex;
-    gap: 6px;
-    padding: 10px 24px;
+    flex-direction: column;
+    gap: 10px;
+    padding: 12px 24px;
     background: var(--panel);
     border-bottom: 1px solid var(--border);
-    flex-wrap: wrap;
+  }
+  .tabs .tier-group {
+    display: flex;
+    gap: 10px;
     align-items: center;
+    flex-wrap: wrap;
+  }
+  .tabs .prov-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    border-top: 1px dashed var(--border);
   }
   .tabs .tab {
-    padding: 6px 14px;
+    padding: 6px 16px;
     border-radius: 20px;
     border: 1px solid var(--border);
     background: #fff;
@@ -62,10 +75,13 @@
     color: var(--muted);
     transition: all .15s;
     user-select: none;
+    white-space: nowrap;
   }
-  .tabs .tab:hover { border-color: var(--primary); color: var(--primary); }
+  .tabs .tab:hover { border-color: var(--primary); color: var(--primary); background: #f5f9ff; }
   .tabs .tab.active { background: var(--primary); color: #fff; border-color: var(--primary); }
-  .tabs .sep { width: 1px; height: 22px; background: var(--border); margin: 0 4px; }
+  .tabs .sep { width: 1px; height: 20px; background: var(--border); margin: 0 2px; flex-shrink: 0; }
+  .tabs .prov-group .tab { padding: 5px 14px; font-size: 12.5px; }
+  .tabs .group-label { font-size: 12px; color: var(--muted); font-weight: 600; margin-right: 4px; flex-shrink: 0; }
 
   .main { flex: 1; display: flex; min-height: 0; }
   .sidebar {
@@ -141,14 +157,17 @@
 </header>
 
 <div class="tabs" id="tabs">
-  <span class="tab active" data-p="all">全部</span>
-  <span class="sep"></span>
-  <span id="prov-tabs"></span>
-  <span class="sep"></span>
-  <span class="tab" data-t="985">985</span>
-  <span class="tab" data-t="211">211</span>
-  <span class="tab" data-t="双一流">双一流</span>
-  <span class="tab" data-t="双非">双非</span>
+  <div class="tier-group">
+    <span class="tab active" data-p="all">全部</span>
+    <span class="sep"></span>
+    <span class="tab" data-t="985">985</span>
+    <span class="tab" data-t="211">211</span>
+    <span class="tab" data-t="双一流">双一流</span>
+    <span class="tab" data-t="双非">双非</span>
+  </div>
+  <div class="prov-group" id="prov-tabs">
+    <span class="group-label">省份</span>
+  </div>
 </div>
 
 <div class="main">
@@ -218,7 +237,9 @@ const PROV_SHORT = {
 function buildProvTabs() {
   const provs = [...new Set(ALL.map(u => u.province).filter(Boolean))].sort();
   const container = document.getElementById('prov-tabs');
-  container.innerHTML = provs.map(p => {
+  // 保留已有的"省份"标签，在其后追加省份按钮
+  const label = container.querySelector('.group-label');
+  container.innerHTML = '<span class="group-label">省份</span>' + provs.map(p => {
     const short = PROV_SHORT[p] || p.replace('省', '').replace('市', '').replace('自治区', '').replace('壮族', '').replace('回族', '').replace('维吾尔', '');
     return `<span class="tab" data-p="${p}">${short}</span>`;
   }).join('');
