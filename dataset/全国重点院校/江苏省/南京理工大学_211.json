@@ -10,10 +10,6 @@
     "intl": {
       "url": "https://gjc.njust.edu.cn/",
       "title": "国际处"
-    },
-    "career": {
-      "url": "https://njust.91job.org.cn/",
-      "title": "就业中心"
     }
   },
   "web_fail_reason": "requests失败"

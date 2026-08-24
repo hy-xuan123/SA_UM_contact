@@ -10,10 +10,6 @@
     "intl": {
       "url": "https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm",
       "title": "国际处"
-    },
-    "career": {
-      "url": "https://jyw.tmu.edu.cn/",
-      "title": "就业中心"
     }
   },
   "web_fail_reason": "requests失败"

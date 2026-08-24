@@ -9,7 +9,7 @@
   "depts": {
     "career": {
       "wechat": "成中医微学工",
-      "url": "https://jy.cdutcm.edu.cn/",
+      "url": "https://zyd.cdutcm.edu.cn/zsjy",
       "title": "招生就业",
       "email": [
         "cdutcmzsxc@163.com"
@@ -26,10 +26,6 @@
         "82717572",
         "82716812"
       ]
-    },
-    "intl": {
-      "url": "https://zyd.cdutcm.edu.cn/gjjyxy",
-      "title": "国际处"
     }
   },
   "dept_skipped": false

@@ -10,10 +10,6 @@
     "intl": {
       "url": "https://io.bupt.edu.cn/",
       "title": "国际处"
-    },
-    "career": {
-      "url": "https://job.bupt.edu.cn/",
-      "title": "就业中心"
     }
   },
   "web_fail_reason": "requests失败"

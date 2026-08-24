@@ -8,7 +8,7 @@
   "website": "https://www.sxu.edu.cn/",
   "depts": {
     "career": {
-      "url": "https://job.sxu.edu.cn/",
+      "url": "https://www.sxu.edu.cn/zty/zsjy/index.html",
       "title": "招生就业",
       "email": [
         "@sxu.edu.cn",
@@ -26,7 +26,7 @@
       ]
     },
     "intl": {
-      "url": "http://wsc.sxu.edu.cn/",
+      "url": "http://siee.sxu.edu.cn/zsxx/",
       "title": "港澳台侨招生",
       "phone": [
         "0351-7011934"

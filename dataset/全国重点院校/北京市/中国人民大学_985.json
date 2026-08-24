@@ -15,15 +15,11 @@
       ]
     },
     "intl": {
-      "url": "http://io.ruc.edu.cn/",
+      "url": "https://pgs.ruc.edu.cn/gats.htm",
       "title": " 港澳台生",
       "phone": [
         "0402430004"
       ]
-    },
-    "career": {
-      "url": "https://rdjy.ruc.edu.cn/",
-      "title": "就业中心"
     }
   },
   "dept_skipped": false

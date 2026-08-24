@@ -14,10 +14,6 @@
         "international@scu.edu.cn",
         "nic8203@scu.edu.cn"
       ]
-    },
-    "career": {
-      "url": "https://jy.scu.edu.cn/",
-      "title": "就业中心"
     }
   },
   "web_fail_reason": "requests失败"
