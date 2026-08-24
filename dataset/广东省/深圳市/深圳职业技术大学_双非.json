@@ -18,12 +18,18 @@
       "phone": []
     },
     "intl": {
-      "url": "https://www.szpu.edu.cn/zsjy/gatzs1.htm",
-      "title": "港澳台招生",
+      "url": "https://fao.szpu.edu.cn/",
+      "title": "国际交流与合作处",
       "email": [
-        "liyuanyuan@cucas.cn"
+        "zougeng@szpu.edu.cn",
+        "caidj@szpu.edu.cn",
+        "jingyixia@szpu.edu.cn"
       ],
-      "phone": []
+      "phone": [
+        "0755-26011478",
+        "0755-26018134",
+        "0755-26019693"
+      ]
     }
   }
 }
