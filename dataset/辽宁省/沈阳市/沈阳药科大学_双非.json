@@ -25,7 +25,13 @@
     },
     "intl": {
       "url": "https://dir.syphu.edu.cn/",
-      "title": "国际合作"
+      "title": "国际合作",
+      "email": [
+        "International@syphu.edu.cn"
+      ],
+      "phone": [
+        "+86-24-43520132"
+      ]
     }
   }
 }

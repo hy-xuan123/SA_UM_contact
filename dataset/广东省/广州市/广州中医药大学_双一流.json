@@ -20,7 +20,10 @@
     "intl": {
       "url": "https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm",
       "title": "国际教育及港澳台侨学生培养",
-      "contact_note": "邮箱为校长信箱，非国际处专属"
+      "contact_note": "邮箱为校长信箱，非国际处专属",
+      "email": [
+        "xiaozhangxx@gzucm.edu.cn"
+      ]
     },
     "career": {
       "url": "https://www.gzucm.edu.cn/zsjy/zs.htm",

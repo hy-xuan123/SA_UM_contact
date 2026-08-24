@@ -30,7 +30,10 @@
     },
     "intl": {
       "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",
-      "title": "国际合作"
+      "title": "国际合作",
+      "phone": [
+        "0402430053"
+      ]
     }
   },
   "dept_skipped": false

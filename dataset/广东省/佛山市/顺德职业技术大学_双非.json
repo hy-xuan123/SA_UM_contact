@@ -15,11 +15,24 @@
   "depts": {
     "career": {
       "url": "https://jy.sdpt.edu.cn/",
-      "title": "就业信息网"
+      "title": "就业信息网",
+      "email": [
+        "1617576514@qq.com"
+      ],
+      "phone": [
+        "0757-22323795",
+        "0757-22323796",
+        "0757-22323760"
+      ]
     },
     "intl": {
       "url": "https://www.sdpt.edu.cn/jlhz1/gjhz.htm",
-      "title": "国际合作"
+      "title": "国际合作",
+      "phone": [
+        "0757-22329901",
+        "0757-22327209",
+        "060602001413"
+      ]
     }
   },
   "dept_skipped": false,

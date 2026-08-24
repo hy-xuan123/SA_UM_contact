@@ -18,7 +18,10 @@
     },
     "intl": {
       "url": "http://www.gduf.edu.cn/hzjl/gjjl.htm",
-      "title": "国际交流"
+      "title": "国际交流",
+      "phone": [
+        "010602001127"
+      ]
     },
     "career": {
       "url": "https://jy.gduf.edu.cn/unijob/index.php/web/Index/index",

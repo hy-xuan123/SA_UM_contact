@@ -33,7 +33,15 @@
     "intl": {
       "url": "http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm",
       "title": "对外交流与合作信息",
-      "contact_note": "三部门联系方式雷同，为整站统一，非部门专属"
+      "contact_note": "三部门联系方式雷同，为整站统一，非部门专属",
+      "email": [
+        "yjiancha@126.com"
+      ],
+      "phone": [
+        "0451-58597677",
+        "0451-58597656",
+        "0451-58597688"
+      ]
     }
   }
 }

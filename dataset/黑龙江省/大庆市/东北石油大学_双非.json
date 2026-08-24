@@ -31,7 +31,10 @@
     "intl": {
       "url": "http://www.nepu.edu.cn/gjjl/xjjl.htm",
       "title": "国际交流",
-      "contact_note": "邮箱为Webmaster网站管理员，非国际处"
+      "contact_note": "邮箱为Webmaster网站管理员，非国际处",
+      "email": [
+        "Webmaster@nepu.edu.cn"
+      ]
     }
   }
 }

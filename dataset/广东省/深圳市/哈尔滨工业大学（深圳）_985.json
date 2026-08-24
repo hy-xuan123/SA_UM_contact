@@ -14,7 +14,10 @@
   "depts": {
     "intl": {
       "url": "https://www.hitsz.edu.cn/25/list.htm",
-      "title": "国际合作"
+      "title": "国际合作",
+      "phone": [
+        "0755-26033876"
+      ]
     },
     "career": {
       "url": "https://job.hitsz.edu.cn/zhxy-szxszyfzpt/",

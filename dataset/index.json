@@ -124,11 +124,24 @@
     "depts": {
       "career": {
         "url": "https://jy.sdpt.edu.cn/",
-        "title": "就业信息网"
+        "title": "就业信息网",
+        "email": [
+          "1617576514@qq.com"
+        ],
+        "phone": [
+          "0757-22323795",
+          "0757-22323796",
+          "0757-22323760"
+        ]
       },
       "intl": {
         "url": "https://www.sdpt.edu.cn/jlhz1/gjhz.htm",
-        "title": "国际合作"
+        "title": "国际合作",
+        "phone": [
+          "0757-22329901",
+          "0757-22327209",
+          "060602001413"
+        ]
       }
     },
     "dept_skipped": false,
@@ -228,7 +241,10 @@
       },
       "intl": {
         "url": "https://www.scnu.edu.cn/a/20150907/21.html",
-        "title": "国际交流"
+        "title": "国际交流",
+        "phone": [
+          "000000006008"
+        ]
       }
     }
   },
@@ -272,9 +288,7 @@
         "email": [
           "international@jnu.edu.cn"
         ],
-        "phone": [
-          "85220457"
-        ]
+        "phone": []
       }
     }
   },
@@ -336,7 +350,10 @@
       "intl": {
         "url": "https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm",
         "title": "国际教育及港澳台侨学生培养",
-        "contact_note": "邮箱为校长信箱，非国际处专属"
+        "contact_note": "邮箱为校长信箱，非国际处专属",
+        "email": [
+          "xiaozhangxx@gzucm.edu.cn"
+        ]
       },
       "career": {
         "url": "https://www.gzucm.edu.cn/zsjy/zs.htm",
@@ -374,7 +391,10 @@
       },
       "intl": {
         "url": "https://fao.gzhmu.edu.cn/",
-        "title": "国际交流"
+        "title": "国际交流",
+        "email": [
+          "io@gzhmu.edu.cn"
+        ]
       }
     },
     "dept_skipped": false,
@@ -438,10 +458,10 @@
       "intl": {
         "url": "http://portal.smu.edu.cn/wsc/",
         "title": "国际交流与合作处",
-        "email": [],
-        "phone": [
-          "61648027"
-        ]
+        "email": [
+          "403928103@qq.com"
+        ],
+        "phone": []
       },
       "grad": {
         "url": "http://yjs.smu.edu.cn",
@@ -517,7 +537,10 @@
       },
       "intl": {
         "url": "https://wsc.gdut.edu.cn/index.htm",
-        "title": "交流活动"
+        "title": "交流活动",
+        "phone": [
+          "14655015124"
+        ]
       },
       "career": {
         "url": "https://career.gdut.edu.cn",
@@ -554,7 +577,10 @@
       },
       "intl": {
         "url": "http://oice.gpnu.edu.cn/",
-        "title": "国际合作交流"
+        "title": "国际合作交流",
+        "phone": [
+          "16112376637"
+        ]
       },
       "career": {
         "url": "https://www.gpnu.edu.cn/zsjy.htm",
@@ -735,7 +761,10 @@
       },
       "intl": {
         "url": "http://www.gduf.edu.cn/hzjl/gjjl.htm",
-        "title": "国际交流"
+        "title": "国际交流",
+        "phone": [
+          "010602001127"
+        ]
       },
       "career": {
         "url": "https://jy.gduf.edu.cn/unijob/index.php/web/Index/index",
@@ -832,7 +861,8 @@
       },
       "intl": {
         "url": "http://wsc.gzarts.edu.cn/",
-        "title": "留学广美"
+        "title": "留学广美",
+        "email": []
       },
       "career": {
         "url": "http://www.gzarts.edu.cn/index/zsjy/zsxx.htm",
@@ -960,7 +990,12 @@
       "intl": {
         "url": "https://global.hkust-gz.edu.cn/",
         "title": "全球拓展",
-        "phone": []
+        "phone": [
+          "020-88331234",
+          "011502001012",
+          "13800000000"
+        ],
+        "email": []
       }
     }
   },
@@ -1229,7 +1264,13 @@
       },
       "intl": {
         "url": "https://www.pkusz.edu.cn/zspy/gjjl.htm",
-        "title": "国际交流"
+        "title": "国际交流",
+        "email": [
+          "its@pkusz.edu.cn"
+        ],
+        "phone": [
+          "030502008554"
+        ]
       }
     },
     "dept_skipped": false
@@ -1250,7 +1291,10 @@
     "depts": {
       "intl": {
         "url": "https://www.hitsz.edu.cn/25/list.htm",
-        "title": "国际合作"
+        "title": "国际合作",
+        "phone": [
+          "0755-26033876"
+        ]
       },
       "career": {
         "url": "https://job.hitsz.edu.cn/zhxy-szxszyfzpt/",
@@ -1295,7 +1339,10 @@
       },
       "intl": {
         "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",
-        "title": "国际合作"
+        "title": "国际合作",
+        "phone": [
+          "0402430053"
+        ]
       }
     },
     "dept_skipped": false
@@ -1320,6 +1367,9 @@
         "title": "国际办学",
         "email": [
           "global@sustech.edu.cn"
+        ],
+        "phone": [
+          "052083333333"
         ]
       },
       "grad": {
@@ -1408,6 +1458,9 @@
         "title": "国际交流",
         "phone": [
           "0755-28323024"
+        ],
+        "email": [
+          "info@smbu.edu.cn"
         ]
       }
     }
@@ -1478,7 +1531,11 @@
       },
       "intl": {
         "url": "https://www.sztu.edu.cn/dwjl.htm",
-        "title": "对外交流"
+        "title": "对外交流",
+        "phone": [
+          "0755-23256054",
+          "0755-23256666"
+        ]
       },
       "career": {
         "url": "https://www.sztu.edu.cn/zsjy.htm",
@@ -1526,6 +1583,9 @@
         "title": "国际合作",
         "email": [
           "office@suat-sz.edu.cn"
+        ],
+        "phone": [
+          "030002008114"
         ]
       }
     }
@@ -1555,9 +1615,7 @@
         "email": [
           "liyuanyuan@cucas.cn"
         ],
-        "phone": [
-          "26011000"
-        ]
+        "phone": []
       }
     }
   },
@@ -1753,7 +1811,13 @@
       },
       "intl": {
         "url": "https://io.bnuzh.edu.cn/index.htm",
-        "title": "国际交流与合作"
+        "title": "国际交流与合作",
+        "email": [
+          "0000@bnu.edu.cn"
+        ],
+        "phone": [
+          "0756-3621079--"
+        ]
       }
     },
     "dept_skipped": false
@@ -2034,7 +2098,10 @@
       },
       "intl": {
         "url": "https://wsc.jluct.edu.cn/",
-        "title": "国际交流与合作处"
+        "title": "国际交流与合作处",
+        "phone": [
+          "090000000605"
+        ]
       }
     }
   },
@@ -2138,7 +2205,10 @@
       },
       "intl": {
         "url": "https://international.ybu.edu.cn/",
-        "title": "留学生教育"
+        "title": "留学生教育",
+        "email": [
+          "ied@ybu.edu.cn"
+        ]
       },
       "career": {
         "url": "http://www.ybu.edu.cn/zsjy_1.htm",
@@ -2402,10 +2472,7 @@
       "intl": {
         "url": "http://gjjlc.jlenu.edu.cn",
         "title": "国际交流与合作处",
-        "phone": [
-          "86908016",
-          "86908019"
-        ]
+        "phone": []
       },
       "career": {
         "url": "http://jlenu.hjiuye.com/",
@@ -2961,7 +3028,10 @@
       },
       "intl": {
         "url": "http://www.djtu.edu.cn/Redirect?mid=44",
-        "title": "国际合作与交流处（留学生部）"
+        "title": "国际合作与交流处（留学生部）",
+        "phone": [
+          "0411-84106969"
+        ]
       },
       "career": {
         "url": "http://www.djtu.edu.cn/Redirect?mid=55",
@@ -3272,6 +3342,9 @@
         "title": "国际交流",
         "phone": [
           "024-56865000"
+        ],
+        "email": [
+          "Webmaster@lnpu.edu.cn"
         ]
       }
     }
@@ -3786,7 +3859,10 @@
       },
       "intl": {
         "url": "http://gjjlhzc.sylu.edu.cn",
-        "title": "国际交流合作处"
+        "title": "国际交流合作处",
+        "phone": [
+          "86-24-24686045"
+        ]
       }
     }
   },
@@ -3845,7 +3921,13 @@
       },
       "intl": {
         "url": "https://dir.syphu.edu.cn/",
-        "title": "国际合作"
+        "title": "国际合作",
+        "email": [
+          "International@syphu.edu.cn"
+        ],
+        "phone": [
+          "+86-24-43520132"
+        ]
       }
     }
   },
@@ -4426,7 +4508,13 @@
       },
       "intl": {
         "url": "https://gjjyxy.hrbcu.edu.cn/",
-        "title": "国际合作"
+        "title": "国际合作",
+        "email": [
+          "hsdgjhzc@126.com"
+        ],
+        "phone": [
+          "0451-84604831"
+        ]
       },
       "career": {
         "url": "https://www.hrbcu.edu.cn/zsjy.htm",
@@ -4624,7 +4712,15 @@
       "intl": {
         "url": "http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm",
         "title": "对外交流与合作信息",
-        "contact_note": "三部门联系方式雷同，为整站统一，非部门专属"
+        "contact_note": "三部门联系方式雷同，为整站统一，非部门专属",
+        "email": [
+          "yjiancha@126.com"
+        ],
+        "phone": [
+          "0451-58597677",
+          "0451-58597656",
+          "0451-58597688"
+        ]
       }
     }
   },
@@ -4644,7 +4740,8 @@
     "depts": {
       "intl": {
         "url": "http://www.hljucm.net/index/dwjl.htm",
-        "title": "对外交流"
+        "title": "对外交流",
+        "phone": []
       },
       "career": {
         "url": "http://zsjyc.hljucm.net/",
@@ -4765,7 +4862,10 @@
       },
       "intl": {
         "url": "https://iceo.usth.edu.cn/",
-        "title": "国际交流合作处"
+        "title": "国际交流合作处",
+        "phone": [
+          "15639720627"
+        ]
       }
     },
     "dept_skipped": false,
@@ -4805,7 +4905,10 @@
       "intl": {
         "url": "http://www.nepu.edu.cn/gjjl/xjjl.htm",
         "title": "国际交流",
-        "contact_note": "邮箱为Webmaster网站管理员，非国际处"
+        "contact_note": "邮箱为Webmaster网站管理员，非国际处",
+        "email": [
+          "Webmaster@nepu.edu.cn"
+        ]
       }
     }
   },
@@ -4955,7 +5058,8 @@
       },
       "intl": {
         "url": "http://www.hljut.edu.cn/a/guojijiaoliuhezuochu/",
-        "title": "国际交流合作处"
+        "title": "国际交流合作处",
+        "phone": []
       }
     }
   },
@@ -5013,8 +5117,7 @@
         "title": "国际教育",
         "phone": [
           "0452-2663346",
-          "0452-2663370",
-          "2663515"
+          "0452-2663370"
         ]
       },
       "career": {
@@ -5042,7 +5145,14 @@
     "depts": {
       "intl": {
         "url": "https://iec.qqhru.edu.cn/",
-        "title": "国际交流培养"
+        "title": "国际交流培养",
+        "email": [
+          "529729107@qq.com"
+        ],
+        "phone": [
+          "13846215679",
+          "13704654326"
+        ]
       },
       "grad": {
         "url": "https://yjs.qqhru.edu.cn",

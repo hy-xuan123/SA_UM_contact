@@ -18,7 +18,13 @@
     },
     "intl": {
       "url": "https://gjjyxy.hrbcu.edu.cn/",
-      "title": "国际合作"
+      "title": "国际合作",
+      "email": [
+        "hsdgjhzc@126.com"
+      ],
+      "phone": [
+        "0451-84604831"
+      ]
     },
     "career": {
       "url": "https://www.hrbcu.edu.cn/zsjy.htm",

@@ -18,7 +18,13 @@
     },
     "intl": {
       "url": "https://www.pkusz.edu.cn/zspy/gjjl.htm",
-      "title": "国际交流"
+      "title": "国际交流",
+      "email": [
+        "its@pkusz.edu.cn"
+      ],
+      "phone": [
+        "030502008554"
+      ]
     }
   },
   "dept_skipped": false

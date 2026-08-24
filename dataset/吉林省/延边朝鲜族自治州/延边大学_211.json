@@ -23,7 +23,10 @@
     },
     "intl": {
       "url": "https://international.ybu.edu.cn/",
-      "title": "留学生教育"
+      "title": "留学生教育",
+      "email": [
+        "ied@ybu.edu.cn"
+      ]
     },
     "career": {
       "url": "http://www.ybu.edu.cn/zsjy_1.htm",

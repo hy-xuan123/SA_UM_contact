@@ -26,7 +26,10 @@
     },
     "intl": {
       "url": "https://iceo.usth.edu.cn/",
-      "title": "国际交流合作处"
+      "title": "国际交流合作处",
+      "phone": [
+        "15639720627"
+      ]
     }
   },
   "dept_skipped": false,

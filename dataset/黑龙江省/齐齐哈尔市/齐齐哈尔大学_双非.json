@@ -14,7 +14,14 @@
   "depts": {
     "intl": {
       "url": "https://iec.qqhru.edu.cn/",
-      "title": "国际交流培养"
+      "title": "国际交流培养",
+      "email": [
+        "529729107@qq.com"
+      ],
+      "phone": [
+        "13846215679",
+        "13704654326"
+      ]
     },
     "grad": {
       "url": "https://yjs.qqhru.edu.cn",

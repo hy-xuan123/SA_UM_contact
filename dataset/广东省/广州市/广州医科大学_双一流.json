@@ -24,7 +24,10 @@
     },
     "intl": {
       "url": "https://fao.gzhmu.edu.cn/",
-      "title": "国际交流"
+      "title": "国际交流",
+      "email": [
+        "io@gzhmu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,
