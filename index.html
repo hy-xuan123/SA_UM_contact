@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>广东 & 东北三省高校一览 · 硕士招生目标院校</title>
+<title>全国高校一览 · 硕士招生目标院校</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
   :root {
@@ -135,7 +135,7 @@
 </head>
 <body>
 <header>
-  <h1>广东 & 东北三省高校一览</h1>
+  <h1>全国高校一览</h1>
   <span class="sub">澳门大学 · 信息学院 & 工学院 硕士招生目标院校</span>
   <div class="stat" id="stat"></div>
 </header>
@@ -143,10 +143,7 @@
 <div class="tabs" id="tabs">
   <span class="tab active" data-p="all">全部</span>
   <span class="sep"></span>
-  <span class="tab" data-p="广东省">广东</span>
-  <span class="tab" data-p="吉林省">吉林</span>
-  <span class="tab" data-p="辽宁省">辽宁</span>
-  <span class="tab" data-p="黑龙江省">黑龙江</span>
+  <span id="prov-tabs"></span>
   <span class="sep"></span>
   <span class="tab" data-t="985">985</span>
   <span class="tab" data-t="211">211</span>
@@ -198,11 +195,33 @@ let map, markerLayer;
 let activeName = null;
 
 function initMap() {
-  map = L.map('map').setView([30.0, 118.0], 5);
+  map = L.map('map').setView([35.5, 105.0], 4);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18, attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
   markerLayer = L.layerGroup().addTo(map);
+}
+
+// 省份简称映射
+const PROV_SHORT = {
+  '北京市': '北京', '天津市': '天津', '上海市': '上海', '重庆市': '重庆',
+  '广东省': '广东', '吉林省': '吉林', '辽宁省': '辽宁', '黑龙江省': '黑龙江',
+  '江苏省': '江苏', '浙江省': '浙江', '安徽省': '安徽', '福建省': '福建',
+  '江西省': '江西', '山东省': '山东', '河南省': '河南', '湖北省': '湖北',
+  '湖南省': '湖南', '四川省': '四川', '贵州省': '贵州', '云南省': '云南',
+  '陕西省': '陕西', '甘肃省': '甘肃', '青海省': '青海', '海南省': '海南',
+  '河北省': '河北', '山西省': '山西',
+  '广西壮族自治区': '广西', '内蒙古自治区': '内蒙古', '宁夏回族自治区': '宁夏',
+  '新疆维吾尔自治区': '新疆', '西藏自治区': '西藏',
+};
+
+function buildProvTabs() {
+  const provs = [...new Set(ALL.map(u => u.province).filter(Boolean))].sort();
+  const container = document.getElementById('prov-tabs');
+  container.innerHTML = provs.map(p => {
+    const short = PROV_SHORT[p] || p.replace('省', '').replace('市', '').replace('自治区', '').replace('壮族', '').replace('回族', '').replace('维吾尔', '');
+    return `<span class="tab" data-p="${p}">${short}</span>`;
+  }).join('');
 }
 
 function tierColor(t) { return TIER_COLOR[t] || '#64748b'; }
@@ -384,7 +403,7 @@ document.getElementById('search').addEventListener('input', e => {
 
 fetch('dataset/index.json')
   .then(r => r.json())
-  .then(data => { ALL = data; initMap(); applyFilter(); })
+  .then(data => { ALL = data; initMap(); buildProvTabs(); applyFilter(); })
   .catch(err => {
     document.getElementById('list').innerHTML = '<div class="empty">数据加载失败：' + err.message + '</div>';
   });
