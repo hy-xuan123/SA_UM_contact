@@ -14,7 +14,12 @@
     },
     "intl": {
       "url": "https://www.cup.edu.cn/overseas/index.htm",
-      "title": "来华留学教育"
+      "title": "来华留学教育",
+      "email": [
+        "admission@cup.edu.cn",
+        "cie.office@cup.edu.cn",
+        "cie.dailyservices@cup.edu.cn"
+      ]
     },
     "career": {
       "url": "http://career.cup.edu.cn/",

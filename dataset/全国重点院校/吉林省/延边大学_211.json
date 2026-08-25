@@ -23,7 +23,10 @@
     },
     "intl": {
       "url": "http://international.ybu.edu.cn/",
-      "title": "国际交流合作处"
+      "title": "国际交流合作处",
+      "email": [
+        "ied@ybu.edu.cn"
+      ]
     },
     "career": {
       "url": "http://www.ybu.edu.cn/zsjy_1.htm",

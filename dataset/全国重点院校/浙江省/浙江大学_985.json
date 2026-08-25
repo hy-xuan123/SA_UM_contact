@@ -9,7 +9,11 @@
   "depts": {
     "intl": {
       "url": "http://www.ir.zju.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "oge@zju.edu.cn",
+        "hmt@zju.edu.cn"
+      ]
     }
   },
   "dept_skipped": true,

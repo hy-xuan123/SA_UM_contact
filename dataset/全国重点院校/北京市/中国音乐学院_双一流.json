@@ -16,7 +16,11 @@
     },
     "intl": {
       "url": "https://gjjl.ccmusic.edu.cn/",
-      "title": "中国音乐学院国际交流合作处（港澳台事务办公室）"
+      "title": "中国音乐学院国际交流合作处（港澳台事务办公室）",
+      "email": [
+        "zyywb@126.com",
+        "gmel_ccmjec@163.com"
+      ]
     }
   },
   "dept_skipped": false,

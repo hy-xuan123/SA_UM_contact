@@ -15,7 +15,10 @@
     "intl": {
       "wechat": "南方科技大学国际合作部暨港澳台办公室微信公众号",
       "url": "https://global.sustech.edu.cn/",
-      "title": "SUSTech Global"
+      "title": "SUSTech Global",
+      "email": [
+        "global@sustech.edu.cn"
+      ]
     },
     "grad": {
       "url": "https://gs.sustech.edu.cn/#/admission/",

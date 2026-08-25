@@ -16,7 +16,10 @@
     },
     "intl": {
       "url": "https://gjc.ncu.edu.cn/",
-      "title": "南昌大学国际交流处 - Office of Internat"
+      "title": "南昌大学国际交流处 - Office of Internat",
+      "email": [
+        "gjjlc@ncu.edu.cn"
+      ]
     },
     "career": {
       "url": "https://www.ncu.edu.cn/zsjy.htm",

@@ -13,7 +13,10 @@
     },
     "intl": {
       "url": "http://ice.njmu.edu.cn/",
-      "title": "港澳台侨学生招生"
+      "title": "港澳台侨学生招生",
+      "email": [
+        "gjb@njmu.edu.cn"
+      ]
     },
     "career": {
       "url": "http://njmu.91job.org.cn/",

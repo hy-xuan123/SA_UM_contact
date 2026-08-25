@@ -23,7 +23,10 @@
     },
     "intl": {
       "url": "https://iec.tjutcm.edu.cn/",
-      "title": "国际交流"
+      "title": "国际交流",
+      "email": [
+        "tutcm@hotmail.com"
+      ]
     }
   },
   "dept_skipped": false,

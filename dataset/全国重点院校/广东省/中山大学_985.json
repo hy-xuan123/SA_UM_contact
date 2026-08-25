@@ -39,7 +39,12 @@
     },
     "intl": {
       "url": "http://eao.sysu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "xujy3@mail.sysu.edu.cn",
+        "hanying6@mail.sysu.edu.cn",
+        "liuweiw9@mail.sysu.edu.cn"
+      ]
     }
   }
 }

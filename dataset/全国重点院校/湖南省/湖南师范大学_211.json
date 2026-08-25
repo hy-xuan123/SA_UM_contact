@@ -25,7 +25,10 @@
     },
     "intl": {
       "url": "https://oiec.hunnu.edu.cn/",
-      "title": "国际交流合作处"
+      "title": "国际交流合作处",
+      "email": [
+        "OIEC@HUNNU.EDU.CN"
+      ]
     }
   },
   "dept_skipped": false,

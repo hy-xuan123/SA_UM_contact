@@ -27,7 +27,12 @@
     },
     "intl": {
       "url": "http://io.scnu.edu.cn/",
-      "title": "华南师范大学国际交流合作处"
+      "title": "华南师范大学国际交流合作处",
+      "email": [
+        "wsh3@scnu.edu.cn",
+        "wsh4@scnu.edu.cn",
+        "wsh9@scnu.edu.cn"
+      ]
     }
   }
 }

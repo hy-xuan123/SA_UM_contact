@@ -30,7 +30,10 @@
     },
     "intl": {
       "url": "https://www.tyut.edu.cn/hzjl/gjhz2.htm",
-      "title": "国际合作"
+      "title": "国际合作",
+      "email": [
+        "tyutxcb@tyut.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

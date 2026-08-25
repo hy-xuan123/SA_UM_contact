@@ -20,7 +20,10 @@
     },
     "intl": {
       "url": "https://gjhzc.hhu.edu.cn/",
-      "title": "河海大学-国际合作处、港澳台办公室"
+      "title": "河海大学-国际合作处、港澳台办公室",
+      "email": [
+        "gjhzc@hhu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

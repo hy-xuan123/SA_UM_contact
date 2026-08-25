@@ -19,7 +19,10 @@
     },
     "intl": {
       "url": "https://international.cuc.edu.cn/",
-      "title": "国际交流与合作处"
+      "title": "国际交流与合作处",
+      "email": [
+        "kzxy@cuc.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

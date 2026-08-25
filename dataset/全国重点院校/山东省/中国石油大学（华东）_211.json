@@ -20,7 +20,10 @@
     },
     "intl": {
       "url": "https://io.upc.edu.cn/",
-      "title": "国际合作与交流处、港澳台事务办公室"
+      "title": "国际合作与交流处、港澳台事务办公室",
+      "email": [
+        "mail@upc.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

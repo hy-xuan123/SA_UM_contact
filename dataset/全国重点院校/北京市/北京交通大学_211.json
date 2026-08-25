@@ -31,7 +31,10 @@
     },
     "intl": {
       "url": "https://intl.bjtu.edu.cn/",
-      "title": "北京交通大学国际合作交流处"
+      "title": "北京交通大学国际合作交流处",
+      "email": [
+        "bjtu-intl@bjtu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

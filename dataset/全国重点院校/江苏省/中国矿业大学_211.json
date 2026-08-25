@@ -9,7 +9,10 @@
   "depts": {
     "intl": {
       "url": "https://international.cumt.edu.cn/",
-      "title": "国际合作交流处"
+      "title": "国际合作交流处",
+      "email": [
+        "international@cumt.edu.cn"
+      ]
     },
     "grad": {
       "url": "http://gs.cumt.edu.cn/",

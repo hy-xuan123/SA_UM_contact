@@ -25,7 +25,10 @@
     },
     "intl": {
       "url": "https://io-hkmt.cnu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "info@cnu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

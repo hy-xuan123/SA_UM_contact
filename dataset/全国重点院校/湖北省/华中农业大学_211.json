@@ -24,7 +24,10 @@
     },
     "intl": {
       "url": "https://fao.hzau.edu.cn/",
-      "title": "华中农业大学国际合作与交流部"
+      "title": "华中农业大学国际合作与交流部",
+      "email": [
+        "fao@mail.hzau.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

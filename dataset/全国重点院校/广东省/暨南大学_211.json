@@ -34,7 +34,10 @@
     },
     "intl": {
       "url": "https://wsc.jnu.edu.cn/",
-      "title": "国际交流"
+      "title": "国际交流",
+      "email": [
+        "international@jnu.edu.cn"
+      ]
     }
   }
 }

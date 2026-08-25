@@ -33,7 +33,12 @@
     },
     "intl": {
       "url": "https://www.dlmu.edu.cn/wzsy/hzjl/lxwm.htm",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "danyangliu@dlmu.edu.cn",
+        "nanli@dlmu.edu.cn",
+        "amberwu@dlmu.edu.cn"
+      ]
     }
   }
 }
