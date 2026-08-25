@@ -26,7 +26,15 @@
     },
     "intl": {
       "url": "https://gjjlc.xtu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "leaders": [
+        {
+          "name": "夏卓琼",
+          "title": "副处长",
+          "duty": "职责:主持行政全面工作；分管综合行政、宣传等工作",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

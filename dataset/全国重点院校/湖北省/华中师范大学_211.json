@@ -25,7 +25,15 @@
     },
     "intl": {
       "url": "https://hmt.ccnu.edu.cn/",
-      "title": "港澳台事务办公室-华中师范大学"
+      "title": "港澳台事务办公室-华中师范大学",
+      "leaders": [
+        {
+          "name": "邢军志",
+          "title": "副主任",
+          "duty": "负责人樊…",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

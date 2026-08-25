@@ -27,7 +27,45 @@
     },
     "intl": {
       "url": "https://gjjl.neau.edu.cn/",
-      "title": "国际交流合作处"
+      "title": "国际交流合作处",
+      "leaders": [
+        {
+          "name": "迟勇",
+          "title": "副处长",
+          "duty": "会议。会谈伊始，陈庆山代表学校对代表团来访表示欢迎，对两校长期以来紧密合作取得的",
+          "email": ""
+        },
+        {
+          "name": "迟勇办",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "卢铁光",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "陈致广",
+          "title": "副科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "李银女",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "迟勇及",
+          "title": "副处长",
+          "duty": "负责人热情接待了代表团一行",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

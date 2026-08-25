@@ -19,6 +19,26 @@
       "title": "西安电子科技大学-国际合作交流处港澳台事务办公室",
       "email": [
         "fao@xidian.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "学中方",
+          "title": "院长",
+          "duty": "负责合作办学和孔子学院相关工作",
+          "email": ""
+        },
+        {
+          "name": "与交流",
+          "title": "副部长",
+          "duty": "负责国际学生学历生教育管理相关工作",
+          "email": "yangzhang1984@gmail.com"
+        },
+        {
+          "name": "与交流",
+          "title": "副部长",
+          "duty": "负责国际培训、国际教育项目、出国留学服务、国际科技创新与成果转化",
+          "email": "wangx@xidian.edu.cn"
+        }
       ]
     },
     "career": {

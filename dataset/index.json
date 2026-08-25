@@ -6477,7 +6477,15 @@
       },
       "intl": {
         "url": "https://global.hainanu.edu.cn/",
-        "title": "国际合作交流处(国际教育学院、港澳台办公室)"
+        "title": "国际合作交流处(国际教育学院、港澳台办公室)",
+        "leaders": [
+          {
+            "name": "信箱校",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6518,6 +6526,44 @@
         ],
         "email": [
           "international@hust.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "开展工",
+            "title": "副主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "陈洁",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "盛静波",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "江静",
+            "title": "副处长",
+            "duty": "分管交流事务一",
+            "email": ""
+          },
+          {
+            "name": "韩晶",
+            "title": "副处长",
+            "duty": "分管综合事务",
+            "email": ""
+          },
+          {
+            "name": "彭雨蒙",
+            "title": "副处长",
+            "duty": "分管交流事务二",
+            "email": ""
+          }
         ]
       }
     },
@@ -6546,6 +6592,44 @@
         "title": "国际处",
         "phone": [
           "027-68752059"
+        ],
+        "leaders": [
+          {
+            "name": "彭国晖",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "邓鹤翔",
+            "title": "部长",
+            "duty": "全面负责国际交流部工作， 分管 综合",
+            "email": ""
+          },
+          {
+            "name": "刘晓黎",
+            "title": "副部长",
+            "duty": "分管 欧亚非事务",
+            "email": ""
+          },
+          {
+            "name": "何小英",
+            "title": "副部长",
+            "duty": "分管 法国、法语区国家交流工作 、武汉法语",
+            "email": ""
+          },
+          {
+            "name": "章臣",
+            "title": "副部长",
+            "duty": "分管美大事务",
+            "email": ""
+          },
+          {
+            "name": "张卫星",
+            "title": "副部长",
+            "duty": "分管 外国专家工作",
+            "email": ""
+          }
         ]
       }
     },
@@ -6607,7 +6691,21 @@
       },
       "intl": {
         "url": "https://gjhzc.cug.edu.cn/",
-        "title": "中国地质大学国际合作处_港澳台事务办公室"
+        "title": "中国地质大学国际合作处_港澳台事务办公室",
+        "leaders": [
+          {
+            "name": "兼港澳",
+            "title": "处长",
+            "duty": "主持国际合作处、港澳台地区事务管理等相关工作",
+            "email": ""
+          },
+          {
+            "name": "关庆锋",
+            "title": "处长",
+            "duty": "圆桌会议。他介绍了我校的学科布局、科研进展与国际合作概况。目前学校有近200位学",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6691,7 +6789,15 @@
       },
       "intl": {
         "url": "https://hmt.ccnu.edu.cn/",
-        "title": "港澳台事务办公室-华中师范大学"
+        "title": "港澳台事务办公室-华中师范大学",
+        "leaders": [
+          {
+            "name": "邢军志",
+            "title": "副主任",
+            "duty": "负责人樊…",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6765,6 +6871,38 @@
           "csuwsb@126.com",
           "ied-csu@csu.edu.cn",
           "summerschool@csu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "项目办",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "引智办",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "交流办",
+            "title": "副主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "入境办",
+            "title": "副主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "综合办",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          }
         ]
       }
     },
@@ -6831,6 +6969,38 @@
         "title": "国际交流合作",
         "phone": [
           "0731-88823974"
+        ],
+        "leaders": [
+          {
+            "name": "职责",
+            "title": "处长",
+            "duty": "全面工作",
+            "email": "luozhuowa@hnu.edu.cn"
+          },
+          {
+            "name": "职责",
+            "title": "副处长",
+            "duty": "合作拓展、学生交流、孔子学院活动、港澳台事务",
+            "email": "luozhuowa@hnu.edu.cn"
+          },
+          {
+            "name": "职责",
+            "title": "副处长",
+            "duty": "综合事务、因",
+            "email": "katrina_liu@hnu.edu.cn"
+          },
+          {
+            "name": "职责",
+            "title": "科长",
+            "duty": "学生赴国（境）外交流项目、孔子学院事务、港澳台交流事务",
+            "email": "chejianing@hnu.edu.cn"
+          },
+          {
+            "name": "职责",
+            "title": "科长",
+            "duty": "综合事务、国际会议申报、国（境）外人员来访审批、孔子学院事务",
+            "email": "chenwenyi@hnu.edu.cn"
+          }
         ]
       }
     },
@@ -6868,6 +7038,56 @@
         "title": "国际交流合作处",
         "email": [
           "OIEC@HUNNU.EDU.CN"
+        ],
+        "leaders": [
+          {
+            "name": "国际合",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "导服务",
+            "title": "副主任",
+            "duty": "分管国际学生工作、孔子学院工作（已任我校驻村帮扶工作队队长",
+            "email": ""
+          },
+          {
+            "name": "生管理",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "生管理",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "生招生",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "生招生",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "交流",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "交流",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          }
         ]
       }
     },
@@ -6903,7 +7123,15 @@
       },
       "intl": {
         "url": "https://gjjlc.xtu.edu.cn/",
-        "title": "国际处"
+        "title": "国际处",
+        "leaders": [
+          {
+            "name": "夏卓琼",
+            "title": "副处长",
+            "duty": "职责:主持行政全面工作；分管综合行政、宣传等工作",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -7202,6 +7430,20 @@
         ],
         "phone": [
           "0411-84708702"
+        ],
+        "leaders": [
+          {
+            "name": "王莲",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "分管",
+            "title": "副处长",
+            "duty": "",
+            "email": "menglinxi@dlut.edu.cn"
+          }
         ]
       }
     }
@@ -7282,7 +7524,27 @@
       },
       "intl": {
         "url": "http://gjjlc.lnu.edu.cn/",
-        "title": "辽宁大学 国际交流处"
+        "title": "辽宁大学 国际交流处",
+        "leaders": [
+          {
+            "name": "曲艺",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "谢名一",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "尹如玉",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     }
   },
@@ -8752,6 +9014,26 @@
         "title": "国际处",
         "email": [
           "icoffice@nwpu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "教授工",
+            "title": "顾问",
+            "duty": "负责聘请外籍专家、学者为我校兼职、荣誉、顾问教授工作",
+            "email": ""
+          },
+          {
+            "name": "国际教",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "国际教",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
         ]
       },
       "career": {
@@ -8821,7 +9103,51 @@
       },
       "intl": {
         "url": "https://gj.nwu.edu.cn/index.htm",
-        "title": "国际合作部"
+        "title": "国际合作部",
+        "leaders": [
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "20165061@nwu.edu.cn"
+          },
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "hejing0917@nwu.edu.cn"
+          },
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "zzh@nwu.edu.cn"
+          },
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "fanxiaodan@nwu.edu.cn"
+          },
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "jizhe@nwu.edu.cn"
+          },
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "20195422@nwu.edu.cn"
+          },
+          {
+            "name": "李鹏飞",
+            "title": "主任",
+            "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+            "email": "sunpeng@nwu.edu.cn"
+          }
+        ]
       },
       "career": {
         "url": "https://jczx.nwu.edu.cn/",
@@ -8860,6 +9186,26 @@
         "title": "西安电子科技大学-国际合作交流处港澳台事务办公室",
         "email": [
           "fao@xidian.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "学中方",
+            "title": "院长",
+            "duty": "负责合作办学和孔子学院相关工作",
+            "email": ""
+          },
+          {
+            "name": "与交流",
+            "title": "副部长",
+            "duty": "负责国际学生学历生教育管理相关工作",
+            "email": "yangzhang1984@gmail.com"
+          },
+          {
+            "name": "与交流",
+            "title": "副部长",
+            "duty": "负责国际培训、国际教育项目、出国留学服务、国际科技创新与成果转化",
+            "email": "wangx@xidian.edu.cn"
+          }
         ]
       },
       "career": {
@@ -8901,7 +9247,33 @@
       },
       "intl": {
         "url": "https://gjhz.chd.edu.cn/",
-        "title": "长安大学"
+        "title": "长安大学",
+        "leaders": [
+          {
+            "name": "周珍珍",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "杜轶群",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "王菲儿",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "李培月",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -9052,7 +9424,45 @@
       },
       "intl": {
         "url": "https://gjjl.neau.edu.cn/",
-        "title": "国际交流合作处"
+        "title": "国际交流合作处",
+        "leaders": [
+          {
+            "name": "迟勇",
+            "title": "副处长",
+            "duty": "会议。会谈伊始，陈庆山代表学校对代表团来访表示欢迎，对两校长期以来紧密合作取得的",
+            "email": ""
+          },
+          {
+            "name": "迟勇办",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "卢铁光",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "陈致广",
+            "title": "副科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "李银女",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "迟勇及",
+            "title": "副处长",
+            "duty": "负责人热情接待了代表团一行",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -9097,6 +9507,32 @@
         "title": "东北林业大学国际合作处、港澳台办公室",
         "email": [
           "nefu_gjhzc@163.com"
+        ],
+        "leaders": [
+          {
+            "name": "计晓艳",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "孙治平",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "计晓艳",
+            "title": "副处长",
+            "duty": "",
+            "email": "nefu_gjhzc@163.com"
+          },
+          {
+            "name": "的选聘",
+            "title": "助理",
+            "duty": "负责学生助理的选聘、考核和日常管理工作；",
+            "email": ""
+          }
         ]
       }
     }

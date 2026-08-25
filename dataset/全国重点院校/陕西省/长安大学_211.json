@@ -18,7 +18,33 @@
     },
     "intl": {
       "url": "https://gjhz.chd.edu.cn/",
-      "title": "长安大学"
+      "title": "长安大学",
+      "leaders": [
+        {
+          "name": "周珍珍",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "杜轶群",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "王菲儿",
+          "title": "主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "李培月",
+          "title": "书记",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

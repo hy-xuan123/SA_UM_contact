@@ -20,7 +20,15 @@
     },
     "intl": {
       "url": "https://global.hainanu.edu.cn/",
-      "title": "国际合作交流处(国际教育学院、港澳台办公室)"
+      "title": "国际合作交流处(国际教育学院、港澳台办公室)",
+      "leaders": [
+        {
+          "name": "信箱校",
+          "title": "书记",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

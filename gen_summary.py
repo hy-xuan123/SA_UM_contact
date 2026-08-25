@@ -137,8 +137,8 @@ def leaders_str(v):
         if email:
             lines.append(f"{head}: {email}" if head else email)
         else:
-            lines.append(head)
-    return "\n".join(lines)
+            lines.append(f"{head}（邮箱未公开）" if head else "")
+    return "\n".join(x for x in lines if x)
 
 
 def main():

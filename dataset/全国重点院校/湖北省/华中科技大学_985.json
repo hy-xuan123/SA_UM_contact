@@ -32,6 +32,44 @@
       ],
       "email": [
         "international@hust.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "开展工",
+          "title": "副主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "陈洁",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "盛静波",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "江静",
+          "title": "副处长",
+          "duty": "分管交流事务一",
+          "email": ""
+        },
+        {
+          "name": "韩晶",
+          "title": "副处长",
+          "duty": "分管综合事务",
+          "email": ""
+        },
+        {
+          "name": "彭雨蒙",
+          "title": "副处长",
+          "duty": "分管交流事务二",
+          "email": ""
+        }
       ]
     }
   },

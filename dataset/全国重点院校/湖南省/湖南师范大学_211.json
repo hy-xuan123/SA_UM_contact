@@ -28,6 +28,56 @@
       "title": "国际交流合作处",
       "email": [
         "OIEC@HUNNU.EDU.CN"
+      ],
+      "leaders": [
+        {
+          "name": "国际合",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "导服务",
+          "title": "副主任",
+          "duty": "分管国际学生工作、孔子学院工作（已任我校驻村帮扶工作队队长",
+          "email": ""
+        },
+        {
+          "name": "生管理",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "生管理",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "生招生",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "生招生",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "交流",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "交流",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        }
       ]
     }
   },
