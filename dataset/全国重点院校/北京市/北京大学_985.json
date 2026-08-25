@@ -13,9 +13,7 @@
       "email": [
         "its@pku.edu.cn"
       ],
-      "phone": [
-        "0402430047"
-      ]
+      "phone": []
     },
     "intl": {
       "url": "https://hmt.pku.edu.cn/",
@@ -23,9 +21,7 @@
       "email": [
         "its@pku.edu.cn"
       ],
-      "phone": [
-        "0402430047"
-      ]
+      "phone": []
     }
   },
   "dept_skipped": false,

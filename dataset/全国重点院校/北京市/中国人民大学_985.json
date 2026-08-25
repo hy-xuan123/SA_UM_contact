@@ -10,16 +10,12 @@
     "grad": {
       "url": "https://www.ruc.edu.cn/yanjiushengpeiyang.html",
       "title": "研究生培养",
-      "phone": [
-        "0402430004"
-      ]
+      "phone": []
     },
     "intl": {
       "url": "https://pgs.ruc.edu.cn/gats.htm",
-      "title": " 港澳台生",
-      "phone": [
-        "0402430004"
-      ]
+      "title": "港澳台生",
+      "phone": []
     }
   },
   "dept_skipped": false,
