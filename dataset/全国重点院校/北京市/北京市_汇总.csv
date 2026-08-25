@@ -1,35 +1,51 @@
-﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-电话,备注
-1,中国人民大学,,985,公办,,,,,,https://www.ruc.edu.cn/yanjiushengpeiyang.html,,,,https://pgs.ruc.edu.cn/gats.htm,,,,
-2,中国农业大学,,985,公办,,https://www.cau.edu.cn/zsjy/index.htm,,xwzx@cau.edu.cn,,https://www.cau.edu.cn/jyjx/yjsjy/index.htm,,,,https://global.cau.edu.cn/,,,,
-3,中央民族大学,,985,公办,,https://www.muc.edu.cn/zsjy/zs/bykzs.htm,,,010-68932442,,,,,https://www.muc.edu.cn/gjjl.htm,,,010-68932442,
-4,北京大学,,985,公办,,,,,,https://www.pku.edu.cn/recruit.html#undergraduate,,its@pku.edu.cn,,https://hmt.pku.edu.cn/,,its@pku.edu.cn,,
-5,北京师范大学,,985,公办,,https://www.bnu.edu.cn/zsjy/index.htm,,,040102700202,http://jwb.bnu.edu.cn/,,jwb@bnu.edu.cn,,http://oiec.bnu.edu.cn/,,,010-58808285,
-6,北京理工大学,,985,公办,,https://www.bit.edu.cn/zsjysjb/index.htm,,,,http://grd.bit.edu.cn/,,grd@bit.edu.cn,,https://www.bit.edu.cn/,,,,
-7,北京航空航天大学,,985,公办,,https://www.buaa.edu.cn/zsjy.htm,,,,https://www.buaa.edu.cn/jyjx/yjsjy1.htm,,,,https://global.buaa.edu.cn/,,,,
-8,清华大学,,985,公办,,https://www.tsinghua.edu.cn/zsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/jyjx/yjsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/hzjl/gjhz.htm,,webmaster@tsinghua.edu.cn,010-62793001,
-9,中国传媒大学,,211,公办,,https://www.cuc.edu.cn/zsjy/list.htm,,,,http://www.cuc.edu.cn/9998/list.htm#rc-main2,,,,https://international.cuc.edu.cn/,,kzxy@cuc.edu.cn,,
-10,中国地质大学（北京）,,211,公办,,http://jiuye.cugb.edu.cn/,,jyxsc@126.com,909355733,https://graduate.cugb.edu.cn,,,,https://gjhzc.cugb.edu.cn/,,,,
-11,中国政法大学,,211,公办,,,,,,,,,,http://gjhzjlc.cupl.edu.cn/,,,,
-12,中国石油大学（北京）,,211,公办,,http://career.cup.edu.cn/,,cupjiuye@qq.com; job89731016@163.com,010-89733499; 010-89731016,https://grs.cup.edu.cn/,邮编,,,https://www.cup.edu.cn/overseas/index.htm,,admission@cup.edu.cn; cie.office@cup.edu.cn; cie.dailyservices@cup.edu.cn,,
-13,中国矿业大学（北京）,,211,公办,,https://www.cumtb.edu.cn/zsjy.htm,,,,http://yjs.cumtb.edu.cn/,,,,https://international.cumtb.edu.cn/,,,,
-14,中央财经大学,,211,公办,,https://www.cufe.edu.cn/zsjy.htm,,,,http://gs.cufe.edu.cn/,,,,http://int.cufe.edu.cn/,,,,
-15,中央音乐学院,,211,公办,,https://www.ccom.edu.cn/zsyjy.htm,,,,,,,,https://www.ccom.edu.cn/info/18061/267901.htm,,,,
-16,北京中医药大学,,211,公办,,https://www.bucm.edu.cn/zsjy1/index.htm,,,,http://yanjiusheng.bucm.edu.cn/,,,,https://international.bucm.edu.cn/,,,,
-17,北京交通大学,,211,公办,,http://job.bjtu.edu.cn/,,jyb113@126.com; bjtujobwx@126.com; bjtujob@163.com,010-51688431; 010-51685913; 010-51682911,https://yzb.bjtu.edu.cn/,,bjtuzgxy@bjtu.edu.cn,,https://intl.bjtu.edu.cn/,,bjtu-intl@bjtu.edu.cn,,
-18,北京体育大学,,211,公办,,https://www.bsu.edu.cn/zsjy/index.htm,,,,https://www.bsu.edu.cn/kxyjsy/index.htm,,xiaoban@bsu.edu.cn,040202430168; 14015216941; 13585035162,http://wsc.bsu.edu.cn/,,wsc@bsu.edu.cn,,
-19,北京化工大学,,211,公办,,https://www.buct.edu.cn/zsjy_11437/list.htm,,news@mail.buct.edu.cn,,http://graduate.buct.edu.cn/,,,,https://iecd.buct.edu.cn/,,,,
-20,北京外国语大学,,211,公办,,https://jyzd.bfsu.edu.cn/,,jyzd@bfsu.edu.cn,010-88816211,https://graduate.bfsu.edu.cn/,,,,https://international.bfsu.edu.cn/,,,,
-21,北京工业大学,,211,公办,,http://admissions.bjut.edu.cn/,,,010-67391609,https://www.bjut.edu.cn/jyjx/yjsjy1.htm,,,010000000606,https://international.bjut.edu.cn/,,,,
-22,北京林业大学,,211,公办,,http://job.bjfu.edu.cn,,,,http://graduate.bjfu.edu.cn/,,,,https://international.bjfu.edu.cn/,,gjc@bjfu.edu.cn,,
-23,北京科技大学,,211,公办,,https://www.ustb.edu.cn/zsjy/index.htm,,,,http://yzxc.ustb.edu.cn/,,,,https://oice.ustb.edu.cn/,,,,
-24,北京邮电大学,,211,公办,,,,,,,,,,https://www.bupt.edu.cn/hzjl.htm,,,,官网不可达：requests失败
-25,华北电力大学,,211,公办,,https://www.ncepu.edu.cn/zsjy/index.htm,,,,https://yjsy.ncepu.edu.cn/,,,,https://icd.ncepu.edu.cn/,,,,
-26,对外经济贸易大学,,211,公办,,https://www.uibe.edu.cn/zsjy/index.htm,,,,https://yjsy.uibe.edu.cn/,,,,https://international.uibe.edu.cn/,,,,
-27,中国人民公安大学,,双一流,公办,,https://www.ppsuc.edu.cn/zsjy.htm,,gadx@ppsuc.edu.cn,,https://yzb.ppsuc.edu.cn/,,yzb@ppsuc.edu.cn,,https://www.ppsuc.edu.cn/dwjl.htm,,gadx@ppsuc.edu.cn,,
-28,中国科学院大学,,双一流,公办,,https://www.ucas.ac.cn/zsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/jyjx/yjsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/hzjl/gjhz/index.htm,,,,
-29,中国音乐学院,,双一流,公办,,,,,,http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm,,,010-64887561,https://gjjl.ccmusic.edu.cn/,,zyywb@126.com; gmel_ccmjec@163.com,,
-30,中央戏剧学院,,双一流,公办,,,,,,,,,,https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html,,zhongxi@zhongxi.cn,,
-31,中央美术学院,,双一流,公办,,https://jy.cafa.edu.cn,,,,https://www.cafa.edu.cn/sp/2022clinks/?cs=1201,,,,https://global.cafa.edu.cn/,,lxs@cafa.edu.cn,,
-32,北京协和医学院,,双一流,公办,,https://www.pumc.edu.cn/jyjx/zsjy/index.htm,,,040202450060,http://graduate.pumc.edu.cn/,北京协和医学院研究生院,,,https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm,,,,
-33,外交学院,,双一流,公办,,,,,,https://yjsb.cfau.edu.cn/,,,,https://wjxx.cfau.edu.cn/,,,,
-34,首都师范大学,,双一流,公办,,https://www.cnu.edu.cn/zsjy/index.htm,,info@cnu.edu.cn,,https://www.cnu.edu.cn/jyjx/index.htm?mao=b02,,info@cnu.edu.cn,,https://io-hkmt.cnu.edu.cn/,,info@cnu.edu.cn,,
+﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-领导及邮箱,国际处-电话,备注
+1,中国人民大学,,985,公办,,,,,,https://www.ruc.edu.cn/yanjiushengpeiyang.html,,,,https://pgs.ruc.edu.cn/gats.htm,,,,,
+2,中国农业大学,,985,公办,,https://www.cau.edu.cn/zsjy/index.htm,,xwzx@cau.edu.cn,,https://www.cau.edu.cn/jyjx/yjsjy/index.htm,,,,https://global.cau.edu.cn/,,,,,
+3,中央民族大学,,985,公办,,https://www.muc.edu.cn/zsjy/zs/bykzs.htm,,,010-68932442,,,,,https://www.muc.edu.cn/gjjl.htm,,,,010-68932442,
+4,北京大学,,985,公办,,,,,,https://www.pku.edu.cn/recruit.html#undergraduate,,its@pku.edu.cn,,https://hmt.pku.edu.cn/,,its@pku.edu.cn,"副主任: gangaotai@pku.edu.cn
+副主任: liyun@pku.edu.cn
+副主任: jzhou@pku.edu.cn
+主任: lin2009@pku.edu.cn",,
+5,北京师范大学,,985,公办,,https://www.bnu.edu.cn/zsjy/index.htm,,,040102700202,http://jwb.bnu.edu.cn/,,jwb@bnu.edu.cn,,http://oiec.bnu.edu.cn/,,,"孔管理 主任: tengjun1983@bnu.edu.cn
+李中山 副处长（负责留学生管理、国际学生短期项目、学生境外交流、中外合作办学）: lzs@bnu.edu.cn
+戴淑君 副处长（负责因公派出、规划和综合业务、英文润色）: daisj@bnu.edu.cn",010-58808285,
+6,北京理工大学,,985,公办,,https://www.bit.edu.cn/zsjysjb/index.htm,,,,http://grd.bit.edu.cn/,,grd@bit.edu.cn,,https://www.bit.edu.cn/,,,,,
+7,北京航空航天大学,,985,公办,,https://www.buaa.edu.cn/zsjy.htm,,,,https://www.buaa.edu.cn/jyjx/yjsjy1.htm,,,,https://global.buaa.edu.cn/,,,"白琳 部长（主持全面工作）: international@buaa.edu.cn
+吴晓君 副部长（分管全校国际学生招生工作、国际学生研究生教学工作）: xiaojunwu@buaa.edu.cn
+金天 副部长（分管国际化战略制定、国际关系拓展、校级来访出访大型外事活动、学生）: jintian@buaa.edu.cn
+刘娜 副部长（分管全校教工及学生因公出国（境）业务、国际学生管理工作）: liuna@buaa.edu.cn
+苏力 副部长（分管引智项目建设、国际会议管理、外籍专家学者来华管理服务、国际学）: suli@buaa.edu.cn
+廖伟骏 副部长: liaowj18@buaa.edu.cn
+略合作 主任（负责大型外事活动、涉外合作协议、国际组织及大学联盟等）: fanhang@buaa.edu.cn
+出工作 主任: cgk@buaa.edu.cn
+生管理 主任（负责国际本科生管理事务 传）: zhao_shuang@buaa.edu.cn
+生教务 主任（负责国际学生招生及奖学金事务）: gaoyuan@buaa.edu.cn
+文教育 主任（负责中文国际教育项目与教学）: is_office@buaa.edu.cn",,
+8,清华大学,,985,公办,,https://www.tsinghua.edu.cn/zsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/jyjx/yjsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/hzjl/gjhz.htm,,webmaster@tsinghua.edu.cn,,010-62793001,
+9,中国传媒大学,,211,公办,,https://www.cuc.edu.cn/zsjy/list.htm,,,,http://www.cuc.edu.cn/9998/list.htm#rc-main2,,,,https://international.cuc.edu.cn/,,kzxy@cuc.edu.cn,,,
+10,中国地质大学（北京）,,211,公办,,http://jiuye.cugb.edu.cn/,,jyxsc@126.com,909355733,https://graduate.cugb.edu.cn,,,,https://gjhzc.cugb.edu.cn/,,,,,
+11,中国政法大学,,211,公办,,,,,,,,,,http://gjhzjlc.cupl.edu.cn/,,,,,
+12,中国石油大学（北京）,,211,公办,,http://career.cup.edu.cn/,,cupjiuye@qq.com; job89731016@163.com,010-89733499; 010-89731016,https://grs.cup.edu.cn/,邮编,,,https://www.cup.edu.cn/overseas/index.htm,,admission@cup.edu.cn; cie.office@cup.edu.cn; cie.dailyservices@cup.edu.cn,,,
+13,中国矿业大学（北京）,,211,公办,,https://www.cumtb.edu.cn/zsjy.htm,,,,http://yjs.cumtb.edu.cn/,,,,https://international.cumtb.edu.cn/,,,,,
+14,中央财经大学,,211,公办,,https://www.cufe.edu.cn/zsjy.htm,,,,http://gs.cufe.edu.cn/,,,,http://int.cufe.edu.cn/,,,,,
+15,中央音乐学院,,211,公办,,https://www.ccom.edu.cn/zsyjy.htm,,,,,,,,https://www.ccom.edu.cn/info/18061/267901.htm,,,,,
+16,北京中医药大学,,211,公办,,https://www.bucm.edu.cn/zsjy1/index.htm,,,,http://yanjiusheng.bucm.edu.cn/,,,,https://international.bucm.edu.cn/,,,,,
+17,北京交通大学,,211,公办,,http://job.bjtu.edu.cn/,,jyb113@126.com; bjtujobwx@126.com; bjtujob@163.com,010-51688431; 010-51685913; 010-51682911,https://yzb.bjtu.edu.cn/,,bjtuzgxy@bjtu.edu.cn,,https://intl.bjtu.edu.cn/,,bjtu-intl@bjtu.edu.cn,,,
+18,北京体育大学,,211,公办,,https://www.bsu.edu.cn/zsjy/index.htm,,,,https://www.bsu.edu.cn/kxyjsy/index.htm,,xiaoban@bsu.edu.cn,040202430168; 14015216941; 13585035162,http://wsc.bsu.edu.cn/,,wsc@bsu.edu.cn,,,
+19,北京化工大学,,211,公办,,https://www.buct.edu.cn/zsjy_11437/list.htm,,news@mail.buct.edu.cn,,http://graduate.buct.edu.cn/,,,,https://iecd.buct.edu.cn/,,,"处长（主管国际处及港澳台事务办公室全面工作）: zhangbing@buct.edu.cn
+副处长: fengjh@buct.edu.cn",,
+20,北京外国语大学,,211,公办,,https://jyzd.bfsu.edu.cn/,,jyzd@bfsu.edu.cn,010-88816211,https://graduate.bfsu.edu.cn/,,,,https://international.bfsu.edu.cn/,,,,,
+21,北京工业大学,,211,公办,,http://admissions.bjut.edu.cn/,,,010-67391609,https://www.bjut.edu.cn/jyjx/yjsjy1.htm,,,010000000606,https://international.bjut.edu.cn/,,,,,
+22,北京林业大学,,211,公办,,http://job.bjfu.edu.cn,,,,http://graduate.bjfu.edu.cn/,,,,https://international.bjfu.edu.cn/,,gjc@bjfu.edu.cn,,,
+23,北京科技大学,,211,公办,,https://www.ustb.edu.cn/zsjy/index.htm,,,,http://yzxc.ustb.edu.cn/,,,,https://oice.ustb.edu.cn/,,,,,
+24,北京邮电大学,,211,公办,,,,,,,,,,https://www.bupt.edu.cn/hzjl.htm,,,,,官网不可达：requests失败
+25,华北电力大学,,211,公办,,https://www.ncepu.edu.cn/zsjy/index.htm,,,,https://yjsy.ncepu.edu.cn/,,,,https://icd.ncepu.edu.cn/,,,,,
+26,对外经济贸易大学,,211,公办,,https://www.uibe.edu.cn/zsjy/index.htm,,,,https://yjsy.uibe.edu.cn/,,,,https://international.uibe.edu.cn/,,,,,
+27,中国人民公安大学,,双一流,公办,,https://www.ppsuc.edu.cn/zsjy.htm,,gadx@ppsuc.edu.cn,,https://yzb.ppsuc.edu.cn/,,yzb@ppsuc.edu.cn,,https://www.ppsuc.edu.cn/dwjl.htm,,gadx@ppsuc.edu.cn,,,
+28,中国科学院大学,,双一流,公办,,https://www.ucas.ac.cn/zsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/jyjx/yjsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/hzjl/gjhz/index.htm,,,,,
+29,中国音乐学院,,双一流,公办,,,,,,http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm,,,010-64887561,https://gjjl.ccmusic.edu.cn/,,zyywb@126.com; gmel_ccmjec@163.com,,,
+30,中央戏剧学院,,双一流,公办,,,,,,,,,,https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html,,zhongxi@zhongxi.cn,,,
+31,中央美术学院,,双一流,公办,,https://jy.cafa.edu.cn,,,,https://www.cafa.edu.cn/sp/2022clinks/?cs=1201,,,,https://global.cafa.edu.cn/,,lxs@cafa.edu.cn,,,
+32,北京协和医学院,,双一流,公办,,https://www.pumc.edu.cn/jyjx/zsjy/index.htm,,,040202450060,http://graduate.pumc.edu.cn/,北京协和医学院研究生院,,,https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm,,,,,
+33,外交学院,,双一流,公办,,,,,,https://yjsb.cfau.edu.cn/,,,,https://wjxx.cfau.edu.cn/,,,,,
+34,首都师范大学,,双一流,公办,,https://www.cnu.edu.cn/zsjy/index.htm,,info@cnu.edu.cn,,https://www.cnu.edu.cn/jyjx/index.htm?mao=b02,,info@cnu.edu.cn,,https://io-hkmt.cnu.edu.cn/,,info@cnu.edu.cn,,,

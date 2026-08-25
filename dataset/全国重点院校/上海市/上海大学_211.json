@@ -25,7 +25,21 @@
     "intl": {
       "wechat": "上海大学留学生公众号",
       "url": "https://global.shu.edu.cn/",
-      "title": "上海大学国际部中文网站"
+      "title": "上海大学国际部中文网站",
+      "leaders": [
+        {
+          "name": "党委",
+          "title": "书记",
+          "duty": "",
+          "email": "shwlna@t.shu.edu.cn"
+        },
+        {
+          "name": "综合",
+          "title": "主任",
+          "duty": "",
+          "email": "jinxiao98@163.com"
+        }
+      ]
     }
   },
   "dept_skipped": false,

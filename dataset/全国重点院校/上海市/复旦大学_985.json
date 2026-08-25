@@ -31,6 +31,14 @@
       "phone": [
         "021-65642260",
         "021-65649524"
+      ],
+      "leaders": [
+        {
+          "name": "孔子学",
+          "title": "副主任",
+          "duty": "",
+          "email": "confucius@fudan.edu.cn"
+        }
       ]
     }
   },

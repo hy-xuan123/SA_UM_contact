@@ -26,6 +26,26 @@
       "title": "国际交流与合作",
       "phone": [
         "010-58808285"
+      ],
+      "leaders": [
+        {
+          "name": "孔管理",
+          "title": "主任",
+          "duty": "",
+          "email": "tengjun1983@bnu.edu.cn"
+        },
+        {
+          "name": "李中山",
+          "title": "副处长",
+          "duty": "负责留学生管理、国际学生短期项目、学生境外交流、中外合作办学",
+          "email": "lzs@bnu.edu.cn"
+        },
+        {
+          "name": "戴淑君",
+          "title": "副处长",
+          "duty": "负责因公派出、规划和综合业务、英文润色",
+          "email": "daisj@bnu.edu.cn"
+        }
       ]
     }
   },

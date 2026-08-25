@@ -17,7 +17,75 @@
     },
     "intl": {
       "url": "https://global.buaa.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "leaders": [
+        {
+          "name": "白琳",
+          "title": "部长",
+          "duty": "主持全面工作",
+          "email": "international@buaa.edu.cn"
+        },
+        {
+          "name": "吴晓君",
+          "title": "副部长",
+          "duty": "分管全校国际学生招生工作、国际学生研究生教学工作",
+          "email": "xiaojunwu@buaa.edu.cn"
+        },
+        {
+          "name": "金天",
+          "title": "副部长",
+          "duty": "分管国际化战略制定、国际关系拓展、校级来访出访大型外事活动、学生",
+          "email": "jintian@buaa.edu.cn"
+        },
+        {
+          "name": "刘娜",
+          "title": "副部长",
+          "duty": "分管全校教工及学生因公出国（境）业务、国际学生管理工作",
+          "email": "liuna@buaa.edu.cn"
+        },
+        {
+          "name": "苏力",
+          "title": "副部长",
+          "duty": "分管引智项目建设、国际会议管理、外籍专家学者来华管理服务、国际学",
+          "email": "suli@buaa.edu.cn"
+        },
+        {
+          "name": "廖伟骏",
+          "title": "副部长",
+          "duty": "",
+          "email": "liaowj18@buaa.edu.cn"
+        },
+        {
+          "name": "略合作",
+          "title": "主任",
+          "duty": "负责大型外事活动、涉外合作协议、国际组织及大学联盟等",
+          "email": "fanhang@buaa.edu.cn"
+        },
+        {
+          "name": "出工作",
+          "title": "主任",
+          "duty": "",
+          "email": "cgk@buaa.edu.cn"
+        },
+        {
+          "name": "生管理",
+          "title": "主任",
+          "duty": "负责国际本科生管理事务 传",
+          "email": "zhao_shuang@buaa.edu.cn"
+        },
+        {
+          "name": "生教务",
+          "title": "主任",
+          "duty": "负责国际学生招生及奖学金事务",
+          "email": "gaoyuan@buaa.edu.cn"
+        },
+        {
+          "name": "文教育",
+          "title": "主任",
+          "duty": "负责中文国际教育项目与教学",
+          "email": "is_office@buaa.edu.cn"
+        }
+      ]
     }
   },
   "dept_skipped": false,
