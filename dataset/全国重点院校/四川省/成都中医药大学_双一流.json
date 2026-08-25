@@ -26,9 +26,24 @@
         "82717572",
         "82716812"
       ]
+    },
+    "intl": {
+      "url": "https://zyd.cdutcm.edu.cn/gjjyxy",
+      "title": "国际合作与交流处",
+      "email": [
+        "info@cdutcm.edu.cn",
+        "IEC.GATQ@cdutcm.edu.cn",
+        "training@cdutcm.edu.cn"
+      ],
+      "phone": [
+        "028-87784542",
+        "028-87717870",
+        "028-82682484"
+      ]
     }
   },
   "dept_skipped": false,
   "lat": 30.5728,
-  "lon": 104.0518
+  "lon": 104.0518,
+  "web_fail_reason": ""
 }
