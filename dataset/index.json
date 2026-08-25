@@ -506,16 +506,12 @@
       "grad": {
         "url": "https://www.ruc.edu.cn/yanjiushengpeiyang.html",
         "title": "研究生培养",
-        "phone": [
-          "0402430004"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://pgs.ruc.edu.cn/gats.htm",
-        "title": " 港澳台生",
-        "phone": [
-          "0402430004"
-        ]
+        "title": "港澳台生",
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -594,9 +590,7 @@
         "email": [
           "its@pku.edu.cn"
         ],
-        "phone": [
-          "0402430047"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://hmt.pku.edu.cn/",
@@ -604,9 +598,7 @@
         "email": [
           "its@pku.edu.cn"
         ],
-        "phone": [
-          "0402430047"
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -667,9 +659,7 @@
       "intl": {
         "url": "https://www.bit.edu.cn/",
         "title": "国际处",
-        "phone": [
-          "0402430044"
-        ]
+        "phone": []
       },
       "career": {
         "url": "https://www.bit.edu.cn/zsjysjb/index.htm",
@@ -722,8 +712,7 @@
           "webmaster@tsinghua.edu.cn"
         ],
         "phone": [
-          "010-62793001",
-          "0402430053"
+          "010-62793001"
         ]
       },
       "career": {
@@ -733,8 +722,7 @@
           "webmaster@tsinghua.edu.cn"
         ],
         "phone": [
-          "010-62793001",
-          "0402430053"
+          "010-62793001"
         ]
       },
       "intl": {
@@ -744,8 +732,7 @@
           "webmaster@tsinghua.edu.cn"
         ],
         "phone": [
-          "010-62793001",
-          "0402430053"
+          "010-62793001"
         ]
       }
     },
@@ -765,16 +752,12 @@
       "grad": {
         "url": "http://www.cuc.edu.cn/9998/list.htm#rc-main2",
         "title": "研究生教育",
-        "phone": [
-          "0402430031"
-        ]
+        "phone": []
       },
       "career": {
         "url": "https://www.cuc.edu.cn/zsjy/list.htm",
         "title": "招生就业",
-        "phone": [
-          "0402430031"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://international.cuc.edu.cn/",
@@ -886,9 +869,7 @@
       "career": {
         "url": "https://www.cumtb.edu.cn/zsjy.htm",
         "title": "招生就业",
-        "phone": [
-          "0402430067"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://international.cumtb.edu.cn/",
@@ -919,9 +900,7 @@
       "career": {
         "url": "https://www.cufe.edu.cn/zsjy.htm",
         "title": "招生就业",
-        "phone": [
-          "0402430071"
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -940,9 +919,7 @@
       "career": {
         "url": "https://www.ccom.edu.cn/zsyjy.htm",
         "title": "招生与就业",
-        "phone": [
-          "0402430057"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://www.ccom.edu.cn/info/18061/267901.htm",
@@ -965,9 +942,7 @@
       "career": {
         "url": "https://www.bucm.edu.cn/zsjy1/index.htm",
         "title": "招生就业",
-        "phone": [
-          "0402430041"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://international.bucm.edu.cn/",
@@ -976,9 +951,7 @@
       "grad": {
         "url": "http://yanjiusheng.bucm.edu.cn/",
         "title": "研究生",
-        "phone": [
-          "0402430041"
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -1000,9 +973,7 @@
         "email": [
           "bjtuzgxy@bjtu.edu.cn"
         ],
-        "phone": [
-          "04024300059"
-        ]
+        "phone": []
       },
       "career": {
         "url": "http://job.bjtu.edu.cn/",
@@ -1083,9 +1054,7 @@
         "email": [
           "news@mail.buct.edu.cn"
         ],
-        "phone": [
-          "0402430060"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://iecd.buct.edu.cn/",
@@ -1141,7 +1110,6 @@
         "url": "https://www.bjut.edu.cn/jyjx/yjsjy1.htm",
         "title": "研究生教育",
         "phone": [
-          "0402430086",
           "010000000606"
         ]
       },
@@ -1203,16 +1171,12 @@
       "career": {
         "url": "https://www.ustb.edu.cn/zsjy/index.htm",
         "title": "招生就业",
-        "phone": [
-          "0402430062"
-        ]
+        "phone": []
       },
       "grad": {
         "url": "http://yzxc.ustb.edu.cn/",
         "title": "研究生招生",
-        "phone": [
-          "0402430062"
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -1257,9 +1221,7 @@
       "career": {
         "url": "https://www.ncepu.edu.cn/zsjy/index.htm",
         "title": "招生就业",
-        "phone": [
-          "0402430080"
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -1495,9 +1457,7 @@
         "email": [
           "info@cnu.edu.cn"
         ],
-        "phone": [
-          "0402430068"
-        ]
+        "phone": []
       },
       "career": {
         "url": "https://www.cnu.edu.cn/zsjy/index.htm",
@@ -1505,9 +1465,7 @@
         "email": [
           "info@cnu.edu.cn"
         ],
-        "phone": [
-          "0402430068"
-        ]
+        "phone": []
       },
       "intl": {
         "url": "https://www.cnu.edu.cn/hzjl/index.htm?mao=b01",
@@ -3303,9 +3261,7 @@
       "intl": {
         "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",
         "title": "国际合作",
-        "phone": [
-          "0402430053"
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false
@@ -5665,11 +5621,11 @@
       },
       "grad": {
         "url": "http://gs.zzu.edu.cn/",
-        "title": " 研究生教育"
+        "title": "研究生教育"
       },
       "intl": {
         "url": "http://international.zzu.edu.cn/en/course?cid=4&pid=4",
-        "title": " 留学生招生"
+        "title": "留学生招生"
       }
     },
     "dept_skipped": false,
@@ -6784,7 +6740,7 @@
       },
       "grad": {
         "url": "https://new.dlnu.edu.cn/gs/",
-        "title": " 研究生教育",
+        "title": "研究生教育",
         "email": [
           "yzb@dlnu.edu.cn"
         ],
