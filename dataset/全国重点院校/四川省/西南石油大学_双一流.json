@@ -26,7 +26,10 @@
     },
     "intl": {
       "url": "https://www.swpu.edu.cn/oice/",
-      "title": "留学生教育"
+      "title": "留学生教育",
+      "email": [
+        "oiaswpu@163.com"
+      ]
     }
   },
   "dept_skipped": false,

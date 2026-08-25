@@ -23,7 +23,10 @@
     },
     "intl": {
       "url": "http://ice.imu.edu.cn/",
-      "title": "国际合作"
+      "title": "国际合作",
+      "email": [
+        "fao@imu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

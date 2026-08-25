@@ -17,7 +17,10 @@
     },
     "intl": {
       "url": "https://gjjlc.xju.edu.cn/",
-      "title": "国际交流与合作处"
+      "title": "国际交流与合作处",
+      "email": [
+        "xjdxgjc@xju.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

@@ -33,7 +33,10 @@
     },
     "intl": {
       "url": "https://ico.nefu.edu.cn/",
-      "title": "东北林业大学国际合作处、港澳台办公室"
+      "title": "东北林业大学国际合作处、港澳台办公室",
+      "email": [
+        "nefu_gjhzc@163.com"
+      ]
     }
   }
 }

@@ -25,7 +25,10 @@
     },
     "intl": {
       "url": "https://gjc.whut.edu.cn/",
-      "title": "武汉理工大学（国际交流与合作处港澳台事务办公室）-首页"
+      "title": "武汉理工大学（国际交流与合作处港澳台事务办公室）-首页",
+      "email": [
+        "waishi@whut.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

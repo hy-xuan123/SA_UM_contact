@@ -9,7 +9,10 @@
   "depts": {
     "intl": {
       "url": "https://ico.dhu.edu.cn/",
-      "title": "国际合作处"
+      "title": "国际合作处",
+      "email": [
+        "ico@dhu.edu.cn"
+      ]
     },
     "grad": {
       "url": "http://gs.dhu.edu.cn/",

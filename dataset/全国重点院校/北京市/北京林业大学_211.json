@@ -17,7 +17,10 @@
     },
     "intl": {
       "url": "https://international.bjfu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "gjc@bjfu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

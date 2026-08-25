@@ -16,7 +16,10 @@
     },
     "intl": {
       "url": "https://oice.xidian.edu.cn/",
-      "title": "西安电子科技大学-国际合作交流处港澳台事务办公室"
+      "title": "西安电子科技大学-国际合作交流处港澳台事务办公室",
+      "email": [
+        "fao@xidian.edu.cn"
+      ]
     },
     "career": {
       "url": "https://www.xidian.edu.cn/zsjy.htm",

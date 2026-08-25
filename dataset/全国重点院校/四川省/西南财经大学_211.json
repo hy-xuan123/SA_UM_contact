@@ -20,7 +20,10 @@
     },
     "intl": {
       "url": "https://oiec.swufe.edu.cn/",
-      "title": "西南财经大学国际合作与交流处"
+      "title": "西南财经大学国际合作与交流处",
+      "email": [
+        "oiec@swufe.edu.cn"
+      ]
     },
     "career": {
       "url": "https://www.swufe.edu.cn/zsjy.htm",

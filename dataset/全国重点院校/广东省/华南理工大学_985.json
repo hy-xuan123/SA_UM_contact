@@ -21,7 +21,10 @@
     },
     "intl": {
       "url": "https://www2.scut.edu.cn/io/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "HKMT@scut.edu.cn"
+      ]
     }
   }
 }

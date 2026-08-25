@@ -20,7 +20,10 @@
     },
     "intl": {
       "url": "https://international.qhu.edu.cn/",
-      "title": "Global Cooperation & Exchange"
+      "title": "Global Cooperation & Exchange",
+      "email": [
+        "qhuwsb@126.com"
+      ]
     }
   },
   "dept_skipped": false,

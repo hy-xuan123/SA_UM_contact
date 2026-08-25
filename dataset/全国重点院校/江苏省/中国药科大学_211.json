@@ -13,7 +13,10 @@
     },
     "intl": {
       "url": "https://international.cpu.edu.cn/",
-      "title": "国际交流合作处英文版"
+      "title": "国际交流合作处英文版",
+      "email": [
+        "admission@cpu.edu.cn"
+      ]
     },
     "career": {
       "url": "http://cpu.91job.org.cn",

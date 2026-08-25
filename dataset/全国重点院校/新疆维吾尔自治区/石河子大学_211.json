@@ -9,7 +9,10 @@
   "depts": {
     "intl": {
       "url": "https://wsbm.shzu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "webmaster@shzu.edu.cn"
+      ]
     }
   },
   "web_fail_reason": "requests失败",

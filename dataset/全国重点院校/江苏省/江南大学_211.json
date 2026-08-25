@@ -24,7 +24,10 @@
     },
     "intl": {
       "url": "http://guojiaochu.jiangnan.edu.cn/",
-      "title": "国际交流合作"
+      "title": "国际交流合作",
+      "email": [
+        "gjch@jiangnan.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

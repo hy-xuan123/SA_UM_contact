@@ -13,7 +13,10 @@
     },
     "intl": {
       "url": "https://international.nankai.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "exchange@nankai.edu.cn"
+      ]
     },
     "career": {
       "url": "https://www.nankai.edu.cn/239/list.htm",

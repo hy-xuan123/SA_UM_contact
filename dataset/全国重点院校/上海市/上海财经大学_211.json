@@ -32,7 +32,10 @@
     "intl": {
       "wechat": "相关宣传连接中报名欢迎广大师生积极参与",
       "url": "https://ieco.shufe.edu.cn/",
-      "title": "上海财经大学国际处（港澳台办）"
+      "title": "上海财经大学国际处（港澳台办）",
+      "email": [
+        "ieco@mail.sufe.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

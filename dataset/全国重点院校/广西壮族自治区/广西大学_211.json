@@ -32,7 +32,10 @@
     },
     "intl": {
       "url": "https://gjjl.gxu.edu.cn/",
-      "title": "广西大学国际合作与交流处"
+      "title": "广西大学国际合作与交流处",
+      "email": [
+        "gjc@gxu.edu.cn"
+      ]
     }
   },
   "dept_skipped": false,

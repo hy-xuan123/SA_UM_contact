@@ -27,7 +27,10 @@
     },
     "intl": {
       "url": "https://ic.dmu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "international@dmu.edu.cn"
+      ]
     }
   }
 }

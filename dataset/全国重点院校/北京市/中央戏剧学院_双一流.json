@@ -9,7 +9,10 @@
   "depts": {
     "intl": {
       "url": "https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html",
-      "title": "国际处"
+      "title": "国际处",
+      "email": [
+        "zhongxi@zhongxi.cn"
+      ]
     }
   },
   "dept_skipped": true,
