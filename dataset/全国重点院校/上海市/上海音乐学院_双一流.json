@@ -5,9 +5,19 @@
   "city": "",
   "school_type": "公办",
   "level": "本科",
-  "website": null,
-  "depts": {},
-  "web_fail_reason": "官网未知",
+  "website": "https://www.shcmusic.edu.cn/",
+  "depts": {
+    "intl": {
+      "url": "https://www.shcmusic.edu.cn/1449/list.htm",
+      "title": "国际处",
+      "phone": [
+        "17816874",
+        "7889684",
+        "67262574"
+      ]
+    }
+  },
+  "web_fail_reason": "",
   "lat": 31.2076,
   "lon": 121.4376
 }
