@@ -18,39 +18,7 @@
     },
     "intl": {
       "url": "https://io.hebut.edu.cn/",
-      "title": "国际交流与合作处",
-      "leaders": [
-        {
-          "name": "",
-          "title": "处长",
-          "duty": "职责：主持全面工作",
-          "email": "luckyzhaoyy@126.com"
-        },
-        {
-          "name": "",
-          "title": "副处长",
-          "duty": "职责：分管中外合作办学、外专引智、公派留学、出国境及校际交流",
-          "email": "fengyong@hebut.edu.cn"
-        },
-        {
-          "name": "",
-          "title": "主任",
-          "duty": "职责：出国境审批、综合事务",
-          "email": "maxinxing@hebut.edu.cn"
-        },
-        {
-          "name": "",
-          "title": "干事",
-          "duty": "职责：外国专家和引才引智、国家公派留学",
-          "email": "yhtian@hebut.edu.cn"
-        },
-        {
-          "name": "",
-          "title": "干事",
-          "duty": "职责：中外合作办学项目、出国境审批",
-          "email": "2021093@hebut.edu.cn"
-        }
-      ]
+      "title": "国际交流与合作处"
     }
   },
   "dept_skipped": false,

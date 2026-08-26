@@ -13,15 +13,7 @@
     },
     "intl": {
       "url": "https://oce.fzu.edu.cn/",
-      "title": "港澳台侨生招生",
-      "leaders": [
-        {
-          "name": "做好处",
-          "title": "处长",
-          "duty": "",
-          "email": ""
-        }
-      ]
+      "title": "港澳台侨生招生"
     }
   },
   "dept_skipped": false,
