@@ -1,286 +1,434 @@
-﻿序号,省份,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-电话,备注
-1,广东省,中山大学,广州市,985,公办,11,http://career.sysu.edu.cn/,中山大学就业（sysucareer）,,020-84111150; 020-84111791,https://graduate.sysu.edu.cn/,公众号二维码: qrcodes\中山大学_grad.jpg,yyzhc@mail.sysu.edu.cn,020-84111685; 020-84111686; 020-84113696,http://eao.sysu.edu.cn/,,xujy3@mail.sysu.edu.cn; hanying6@mail.sysu.edu.cn; liuweiw9@mail.sysu.edu.cn,,
-2,广东省,华南理工大学,广州市,985,公办,30,,,,,http://www.scut.edu.cn/graduate/,,,,https://www2.scut.edu.cn/io/,,HKMT@scut.edu.cn,,
-3,广东省,中山大学深圳校区,深圳市,985,公办,11,http://career.sysu.edu.cn/,中山大学就业（sysucareer）,,020-84111150; 020-84111791,https://graduate.sysu.edu.cn/,公众号二维码: qrcodes\中山大学深圳校区_grad.jpg,,,https://eao.sysu.edu.cn/,,,,
-4,广东省,北京大学深圳研究生院,深圳市,985,公办,2,,,,,https://admission.pkusz.edu.cn/index.html,,,,https://hmt.pku.edu.cn/,,its@pkusz.edu.cn,030502008554,
-5,广东省,哈尔滨工业大学（深圳）,深圳市,985,公办,14,https://job.hitsz.edu.cn/zhxy-szxszyfzpt/,,,,https://yzb.hitsz.edu.cn/zs,,,,https://www.hitsz.edu.cn/25/list.htm,,,0755-26033876,
-6,广东省,清华大学深圳国际研究生院,深圳市,985,公办,1,https://www.sigs.tsinghua.edu.cn/7631/list.htm,,zhaosheng@sz.tsinghua.edu.cn,0755-26036460; 0755-26924345; 0755-86543994,https://www.sigs.tsinghua.edu.cn/7646/list.htm,,,,https://www.sigs.tsinghua.edu.cn/7666/list.htm,,,,
-7,广东省,北京师范大学珠海校区,珠海市,985,公办,19,https://career.bnuzh.edu.cn/,,jiuye@bnu.edu.cn; jyjdzh@bnu.edu.cn,0756-3683696; 0756-3621018; 0756-3683772,,,,,https://io.bnuzh.edu.cn/index.htm,,,0756-3621079,
-8,广东省,华南师范大学,广州市,211,公办,70,https://www.scnu.edu.cn/a/20151026/34.html,,,,http://yz.scnu.edu.cn/,,,020-85213863,http://io.scnu.edu.cn/,,wsh3@scnu.edu.cn; wsh4@scnu.edu.cn; wsh9@scnu.edu.cn,,
-9,广东省,暨南大学,广州市,211,公办,55,https://scdc.jnu.edu.cn/,暨大就业公众号,ojy-jnu@163.com,020-85226956,https://yz.jnu.edu.cn,,oyzb@jnu.edu.cn,,https://wsc.jnu.edu.cn/,,international@jnu.edu.cn,,
-10,广东省,华南农业大学,广州市,双一流,公办,94,http://jyzx.scau.edu.cn/,,,,https://yjsy.scau.edu.cn/,,,020-85280065; 020-85280066; 020-85280067,http://fao.scau.edu.cn/,,,,
-11,广东省,广州中医药大学,广州市,双一流,公办,242,https://www.gzucm.edu.cn/zsjy/zs.htm,,xiaozhangxx@gzucm.edu.cn,,https://www.gzucm.edu.cn/jyjx/yjsjy.htm,,,,https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm,,xiaozhangxx@gzucm.edu.cn,,
-12,广东省,广州医科大学,广州市,双一流,公办,221,https://zs.gzhmu.edu.cn/bkzn/zsdt.htm,广州医科大学本科招生微信公众号,,,https://yjs.gzhmu.edu.cn/,,,,https://fao.gzhmu.edu.cn/,,,,
-13,广东省,南方科技大学,深圳市,双一流,公办,32,http://career.sustech.edu.cn/,,jobs@sustech.edu.cn,0755-88010732,https://gs.sustech.edu.cn/#/admission/,,,,https://global.sustech.edu.cn/,南方科技大学国际合作部暨港澳台办公室微信公众号,global@sustech.edu.cn,,
-14,广东省,东莞理工学院,东莞市,双非,公办,258,http://job.dgut.edu.cn/,广东大学生就业创业小程序,jiuye@dgut.edu.cn,0769-22861918,https://yjs.dgut.edu.cn/,,,,http://www.dgut.edu.cn/info/1019/94112.htm,,,,
-15,广东省,大湾区大学,东莞市,双非,公办,,,,,,https://www.gbu.edu.cn/educational_teaching.html#yjsjy,公众号二维码（未获取图片）,,,,,,,
-16,广东省,香港城市大学（东莞）,东莞市,双非,中外合作办学,63（QS）,,,,,,,,,,,,,
-17,广东省,佛山大学,佛山市,双非,公办,271,,,,,https://www.fosu.edu.cn/yanjiusheng/,,fosuyzb@fosu.edu.cn,0757-82771159,,,,,
-18,广东省,顺德职业技术大学,佛山市,双非,公办,,https://jy.sdpt.edu.cn/,,1617576514@qq.com,0757-22323795; 0757-22323796; 0757-22323760,,,,,https://www.sdpt.edu.cn/jlhz1/gjhz.htm,,,0757-22329901; 0757-22327209; 060602001413,
-19,广东省,仲恺农业工程学院,广州市,双非,公办,265,http://www.zhku.edu.cn/zsjy.htm,,,020-89003030,http://yjs.zhku.edu.cn/,,,020-89002097,http://waishi.zhku.edu.cn/,,international@zhku.edu.cn,020-89003275,
-20,广东省,南方医科大学,广州市,双非,公办,,http://fimmu.jobsys.cn/unijob/index.php/web/index/index,,nydjyzdzx@126.com,020-31044165; 020-61648500; 020-61648657,http://yjs.smu.edu.cn,,,,http://portal.smu.edu.cn/wsc/,,403928103@qq.com,61648027,
-21,广东省,广东外语外贸大学,广州市,双非,公办,124,https://career.gdufs.edu.cn/,,36207021@163.com; 39328007@163.com,020-36207021; 020-39328007,http://gwyjs.gdufs.edu.cn/,,,,https://internationaloffice.gdufs.edu.cn/,,,,
-22,广东省,广东工业大学,广州市,双非,公办,85,https://career.gdut.edu.cn,,gdutjob@126.com,020-39322210,https://yjs.gdut.edu.cn,,,,https://wsc.gdut.edu.cn/index.htm,,,14655015124,
-23,广东省,广东技术师范大学,广州市,双非,公办,229,https://www.gpnu.edu.cn/zsjy.htm,,jysf@gpnu.edu.cn,020-38256601; 020-89285371,https://yjsc.gpnu.edu.cn/info/1443/6179.htm,,gsyjsc@gpnu.edu.cn,,http://oice.gpnu.edu.cn/,,,16112376637,
-24,广东省,广东第二师范学院,广州市,双非,公办,461,,,,,,,,,,,,,官网不可达：全部方式失败
-25,广东省,广东药科大学,广州市,双非,公办,317,http://www.gdpu.edu.cn/zsyjy/yjszs.htm,,,,https://yjsxy.gdpu.edu.cn/,公众号二维码: qrcodes\广东药科大学_grad.jpg,yjsc@gdpu.edu.cn,020-39352613,https://gjjlhzc.gdpu.edu.cn/lxgyd/gatzs.htm,,,,
-26,广东省,广东警官学院,广州市,双非,公办,,,,,,,,,,,,,,官网不可达：全部方式失败
-27,广东省,广东财经大学,广州市,双非,公办,188,http://www.gdufe.edu.cn/11032/list.htm,,,,http://yjsc.gdufe.edu.cn,,,,http://fao.gdufe.edu.cn/,,fao3@gdufe.edu.cn,,
-28,广东省,广东轻工职业技术大学,广州市,双非,公办,,https://jy.gdipu.edu.cn,,1181877691@qq.com; gqjyb@gdip.edu.cn,020-61230822; 0757-88576223,,,,,http://www.gdqy.edu.cn/gjjl_gat_.htm,,,020-61230200,
-29,广东省,广东金融学院,广州市,双非,公办,,https://jy.gduf.edu.cn/unijob/index.php/web/Index/index,,gdufjy@163.com,020-87053902,https://yjs.gduf.edu.cn/,,,,http://www.gduf.edu.cn/hzjl/gjjl.htm,,,010602001127,
-30,广东省,广州体育学院,广州市,双非,公办,未上榜/独立榜,http://www.gzsport.edu.cn:80/node/104,,,020-38024301; 020-38025613; 020-38024685,,,,,https://fao.gzsport.edu.cn/,,,,
-31,广东省,广州大学,广州市,双非,公办,105,http://www.gzhu.edu.cn/zsjy1.htm,,webmaster@gzhu.edu.cn,,http://yjsy.gzhu.edu.cn/,,yjsy@gzhu.edu.cn,020-39366238; 020-39366199,http://wsc.gzhu.edu.cn/,,,,
-32,广东省,广州美术学院,广州市,双非,公办,未上榜/独立榜,http://www.gzarts.edu.cn/index/zsjy/zsxx.htm,,,,http://yjs.gzarts.edu.cn,,,,http://wsc.gzarts.edu.cn/,,wsc@gzarts.edu.cn,,
-33,广东省,广州职业技术大学,广州市,双非,公办,,http://www.gzpyp.edu.cn/zsjy,,gzpyp@gzpyp.edu.cn,020-84736666; 020-34874086,,,,,,,,,
-34,广东省,广州航海学院,广州市,双非,公办,448,http://www.gzmtu.edu.cn/zsjy.htm,,,020-32083010,,,,,https://gjjlxy.gzmtu.edu.cn/gjjl.htm,,gjjlsh@gzmtu.edu.cn,020-82003167,
-35,广东省,星海音乐学院,广州市,双非,公办,未上榜/独立榜,https://xsjy.xhcom.edu.cn/,,,,https://zs.xhcom.edu.cn/yjszs.htm,,,020-39363636,http://gjjy.xhcom.edu.cn/,,icxhcm_xf@163.com,,
-36,广东省,香港科技大学（广州）,广州市,双非,中外合作办学,44（QS）,,,,,https://fytgs.hkust-gz.edu.cn/,,,,https://global.hkust-gz.edu.cn/,,,020-88331234; 011502001012; 13800000000,
-37,广东省,惠州学院,惠州市,双非,公办,329,http://www.hzu.edu.cn/543/list.htm,,,0752-2527099,http://www.hzu.edu.cn/yjszs/list.htm,,,0752-2529000,https://fao.hzu.edu.cn/gatsw/list.htm,,fao@hzu.edu.cn,0752-2529210,
-38,广东省,嘉应学院,梅州市,双非,公办,421,https://jyzx.jyu.edu.cn/,,jygz@jyu.edu.cn,0753-2186665,https://yjs.jyu.edu.cn/,,jyuyjs@jyu.edu.cn,0753-2188296,https://waishi.jyu.edu.cn/,,fao@jyu.edu.cn,0753-2186662; 0753-2363398,
-39,广东省,广东以色列理工学院,汕头市,双非,中外合作办学,392（QS）,,,,,https://sites.gtiit.edu.cn/research/graduate-studies/,,,,https://www.gtiit.edu.cn/student-china.aspx,,,0754-88077088,
-40,广东省,汕头大学,汕头市,双非,公办,,https://gdc.stu.edu.cn/,,job@stu.edu.cn,0754-86502252; 0754-82522372,https://www.gs.stu.edu.cn/,,o_yzb@stu.edu.cn; o_pyb@stu.edu.cn; o_yjsgzb@stu.edu.cn,0754-86502424; 0754-86504743; 0754-86504000,https://icd.stu.edu.cn/,,icd@stu.edu.cn,0754-86502316; 0754-86502131,
-41,广东省,五邑大学,江门市,双非,公办,236,https://career.wyu.edu.cn,,wyujob@163.com,0750-3296252,http://www.wyu.edu.cn/yjscx,,,,http://www.wyu.edu.cn/wsc/,,wyufao@wyu.edu.cn,0750-3296188,
-42,广东省,深圳信息职业技术大学,深圳市,双非,公办,,http://career.sziit.edu.cn/,,,0755-89226738; 0755-89226367,,,,,https://www.suit-sz.edu.cn/hzjl/gjjlyhz.htm,,,0755-89226555,
-43,广东省,深圳北理莫斯科大学,深圳市,双非,中外合作办学,94（QS）,https://admission.smbu.edu.cn/,,admission@smbu.edu.cn,0755-28323360; 0755-28323398,https://gradadmissions.smbu.edu.cn/,,,,http://www.smbu.edu.cn/gjjl/gjjl.htm,,info@smbu.edu.cn,0755-28323024,
-44,广东省,深圳大学,深圳市,双非,公办,68,https://jobszu.jysd.com/,,szjobcenter@163.com,0755-26536106; 0755-26535652; 0755-86931632,http://gra.szu.edu.cn/,,gra@szu.edu.cn,0755-26536177,https://hmt.szu.edu.cn/,,,0755-26536114,
-45,广东省,深圳技术大学,深圳市,双非,公办,未上榜/独立榜,https://www.sztu.edu.cn/zsjy.htm,,,0755-23256054; 0755-23256666,https://gra.sztu.edu.cn/zsxx/zsz.htm,,,,https://www.sztu.edu.cn/dwjl.htm,,,0755-23256054; 0755-23256666,
-46,广东省,深圳理工大学,深圳市,双非,公办,未上榜/独立榜,https://www.suat-sz.edu.cn/zsjy.htm,,foreign-affairs@siat.ac.cn,,https://www.suat-sz.edu.cn/yjy/ylqxcyjsyjy.htm,,office@suat-sz.edu.cn,,https://www.suat-sz.edu.cn/gjhz.htm,,office@suat-sz.edu.cn,030002008114,
-47,广东省,深圳职业技术大学,深圳市,双非,公办,,https://www.szpu.edu.cn/zsjy.htm,,,,,,,,https://fao.szpu.edu.cn/,,zougeng@szpu.edu.cn; caidj@szpu.edu.cn; jingyixia@szpu.edu.cn,0755-26011478; 0755-26018134; 0755-26019693,
-48,广东省,香港中文大学（深圳）,深圳市,双非,中外合作办学,32（QS）,https://career.cuhk.edu.cn/,,CareerService@cuhk.edu.cn,0755-23515888,https://gs.cuhk.edu.cn/,,,,,,,,
-49,广东省,岭南师范学院,湛江市,双非,公办,384,http://www.lingnan.edu.cn/zsjy.htm,,,0759-3183226,https://d.lingnan.edu.cn/yjsc/,,lnsfyz@lingnan.edu.cn,0759-3183072,http://d.lingnan.edu.cn/gjc/,,,,
-50,广东省,广东医科大学,湛江市,双非,公办,,https://www.gdmu.edu.cn/zsjy/zsxx1.htm,,,0769-22896175,http://yjsxy.gdmu.edu.cn/,,,,,,,,
-51,广东省,广东海洋大学,湛江市,双非,公办,292,https://www.gdou.edu.cn/zjzx/,,,,https://grs.gdou.edu.cn/,,Yjs@gdou.edu.cn,0759-2396185,https://iod.gdou.edu.cn/,,,0759-2396202,
-52,广东省,韩山师范学院,潮州市,双非,公办,415,https://jyb.hstc.edu.cn/,,,,,,,,https://wsb.hstc.edu.cn/,,,,
-53,广东省,北京师范大学－香港浸会大联合国际学院,珠海市,双非,内地与港澳台合作办学,244（QS）,https://www.uic.edu.cn/admissions_and_placement.htm,,,0756-3620000,https://www.uic.edu.cn/faculties_and_schools.htm,,,0756-3620000,http://admission.bnbu.edu.cn/gatq/twxcsqz.htm,,bnbuhko@hkbu.edu.hk,,
-54,广东省,肇庆医学院,肇庆市,双非,公办,,,,,,,,,,,,,,官网不可达：全部方式失败
-55,广东省,肇庆学院,肇庆市,双非,公办,346,https://jyzd.zqu.edu.cn,,,0758-2716242,https://yjsc.zqu.edu.cn/,,zquyzb@zqu.edu.cn; yjsy@zqu.edu.cn,0758-2716770,https://wsc.zqu.edu.cn/,,global3@zqu.edu.cn,,
-56,广东省,广东石油化工学院,茂名市,双非,公办,428,http://xueshengchu.gdupt.edu.cn,,,,http://www.gdupt.edu.cn/jgsz/dzgljg1/fzghb_yjsb_.htm,,,0668-2923508; 0668-2923758,https://site.gdupt.edu.cn/oiec/,,,,
-57,广东省,韶关学院,韶关市,双非,公办,405,http://www.sgu.edu.cn/zsxxw,,,0751-8120066,http://www.sgu.edu.cn/yjsb,,,0751-8120049,http://www.sgu.edu.cn/dwjlhzb,,,0751-8121371; 0751-8121661; 0751-8120781,
-58,吉林省,吉林大学,长春市,985,公办,26,http://www.jlu.edu.cn/zsjy.htm,,,0431-85166420; 0431-85166226; 0431-85166371,http://yjsy.jlu.edu.cn/,,yzhc@jlu.edu.cn,0431-85166175,https://oic.jlu.edu.cn/,,OGE@jlu.edu.cn,0431-85166657,
-59,吉林省,延边大学,延边朝鲜族自治州,211,公办,132,http://www.ybu.edu.cn/zsjy_1.htm,,xcb@ybu.edu.cn,,https://grad.ybu.edu.cn/,,,0433-2732079,http://international.ybu.edu.cn/,,ied@ybu.edu.cn,,
-60,吉林省,东北师范大学,长春市,211,公办,45,http://www.nenu.edu.cn/zsjy/xsjy.htm,,dsxxw@nenu.edu.cn,,http://www.nenu.edu.cn/jyjx/yjsjy.htm,,dsxxw@nenu.edu.cn,,http://oice.nenu.edu.cn/,,,,
-61,吉林省,东北电力大学,吉林市,双非,公办,220,https://zsjyc.neepu.edu.cn/,,,,http://grad.neepu.edu.cn,,,,http://oice.neepu.edu.cn/index.htm,,,,
-62,吉林省,北华大学,吉林市,双非,公办,300,,,,,,,,,,,,,官网不可达：全部方式失败
-63,吉林省,吉林农业科技学院,吉林市,双非,公办,,http://hjiuye.jlnku.edu.cn/,,jiuye11439@163.com,0432-63509058; 0432-63509929,,,,,https://foreign.jlnku.edu.cn/,,,0432-63509783,
-64,吉林省,吉林化工大学,吉林市,双非,公办,,http://www.jlict.edu.cn/zsjy.htm,,,,http://yjs.jluct.edu.cn/,,,,https://wsc.jluct.edu.cn/,,,090000000605,
-65,吉林省,吉林医药学院,吉林市,双非,公办,,http://www.jlmu.cn/zsjy1.htm,,,,http://www.jlmu.cn/info/1471/70451.htm,,,,http://www.jlmu.cn/jlhz/gjhz.htm,,,,
-66,吉林省,吉林铁道职业技术大学,吉林市,双非,公办,,https://jyxx.jty.edu.cn/,,,0432-66137555,,,,,http://iec.jtpt.cn,,,,
-67,吉林省,吉林师范大学,四平市,双非,公办,230,,,,,,,,,,,,,官网不可达：全部方式失败
-68,吉林省,白城师范学院,白城市,双非,公办,470,,,,,,,,,,,,,官网不可达：全部方式失败
-69,吉林省,通化师范学院,通化市,双非,公办,450,https://thnucareer.hjiuye.com/,学生就业小程序,thsyzsb@163.com,0435-3208040,,,,,https://gjjl.thnu.edu.cn/,,,,
-70,吉林省,吉林体育学院,长春市,双非,公办,未上榜/独立榜,,,,,,,,,,,,,官网不可达：全部方式失败
-71,吉林省,吉林农业大学,长春市,双非,公办,165,https://www.jlau.edu.cn/zsjy.htm,,webmaster@jlau.edu.cn,,https://www.jlau.edu.cn/jyjx/yjsjy1.htm,,,,http://gjjy.jlau.edu.cn,,,,
-72,吉林省,吉林工商学院,长春市,双非,公办,,https://jlbtcjy.mh.chaoxing.com/,,,0431-82306222,,,,,https://hzjl.jlbtc.edu.cn/,,,,
-73,吉林省,吉林工程技术师范学院,长春市,双非,公办,430,http://jlenu.hjiuye.com/,,,0431-86908057; 0431-86907028,http://yjs.jlenu.edu.cn,,,0431-86908108,http://gjjlc.jlenu.edu.cn,,,86908016; 86908019,
-74,吉林省,吉林建筑大学,长春市,双非,公办,320,http://jlju.hjiuye.com/,学生就业小程序,jy84566069@163.com,0431-84566069,http://yjs.jlju.edu.cn/,,,0431-84566037; 0431-84566306; 0431-84566329,,,,,
-75,吉林省,吉林艺术学院,长春市,双非,公办,未上榜/独立榜,http://jy.jlart.edu.cn/,学生就业小程序,jlysxyjy@126.com,0431-85618360; 17600673259,http://yjs.jlart.edu.cn/,,,,https://gjhz.jlart.edu.cn/index.htm,,jua_international@qq.com,0431-85633961,
-76,吉林省,吉林警察学院,长春市,双非,公办,,https://zsw.jljcxy.com/,,jljcxyjy@163.com,0431-85001234; 0431-85001799; 0431-85001157,http://www.jljcxy.com/rcpy/yjsjy.htm,,,0431-85001110; 0431-85001234; 0431-85001370,http://www.jljcxy.com/info/2601/34811.htm,,,0431-85001110; 0431-85001234; 0431-85001370,
-77,吉林省,吉林财经大学,长春市,双非,公办,270,http://newzs.jlufe.edu.cn/,,,17202000216,https://yjsy.jlufe.edu.cn/,,,17202000216,,,,,
-78,吉林省,长春中医药大学,长春市,双非,公办,260,,,,,,,,,,,,,官网不可达：全部方式失败
-79,吉林省,长春大学,长春市,双非,公办,350,https://jyzx.ccu.edu.cn/,,,0431-85250026; 0431-82533039,https://yjsb.ccu.edu.cn/,长春大学公众号,,0431-85251786,http://wsc.ccu.edu.cn/,,gjjlhzc@ccu.edu.cn,0431-85250122,
-80,吉林省,长春工业大学,长春市,双非,公办,190,http://www.ccut.edu.cn/zsjy.htm,,,,https://yjsy.ccut.edu.cn/zsgz/a2024yzxxgk.htm,,,,,,,,
-81,吉林省,长春工程学院,长春市,双非,公办,,http://zsb.ccit.edu.cn/,,,0431-80578555,https://yjsgzc.ccit.edu.cn/,,,,http://gjhzyjlc.ccit.edu.cn/,,,,
-82,吉林省,长春师范大学,长春市,双非,公办,,https://www.ccsfu.edu.cn/zsjy1.htm,,,,https://yjs.ccsfu.edu.cn/zsgz.htm,,,0431-86168695; 0431-86168864; 0431-86168134,https://www.ccsfu.edu.cn/gjjl.htm,,,,
-83,吉林省,长春汽车职业技术大学,长春市,双非,公办,,,,,,,,,,,,,,官网不可达：全部方式失败
-84,吉林省,长春理工大学,长春市,双非,公办,140,http://www.cust.edu.cn/zsjy2026/index.htm,,cust@cust.edu.cn,,http://www.cust.edu.cn/zsjy2026/yjszs20261/index.htm,,cust@cust.edu.cn,,http://www.cust.edu.cn/jlhz2026/gjhz20261/index.htm,,cust@cust.edu.cn,,
-85,吉林省,长春职业技术大学,长春市,双非,公办,,http://www.cvit.edu.cn/zsjy.htm,,,,,,,,http://www.cvit.edu.cn/gjjl.htm,,,,
-86,辽宁省,大连理工大学,大连市,985,公办,28,http://job.dlut.edu.cn/index.html,,career@dlut.edu.cn; dlutjy@dlut.edu.cn; pjjy@dlut.edu.cn,0411-84708222; 0411-84709222; 0411-84706641,http://gs.dlut.edu.cn/,,yjsyzhb@dlut.edu.cn,0411-84708330,http://dutdice.dlut.edu.cn/,,dutfao@dlut.edu.cn,0411-84708702,
-87,辽宁省,东北大学,沈阳市,985,公办,39,http://job.neu.edu.cn/,,neujiuye@163.com; NEU83681260@163.com; NEUcareer@163.com,024-83687393; 024-83689881; 024-83681260,http://www.graduate.neu.edu.cn,,,,http://int.neu.edu.cn/,,,,
-88,辽宁省,大连海事大学,大连市,211,公办,100,https://myjob.dlmu.edu.cn/,,haishijiuye@163.com; dmujobzixun@163.com,0411-84724185; 0411-84729209; 0411-84728536,https://grs.dlmu.edu.cn/,,,,https://www.dlmu.edu.cn/wzsy/hzjl/lxwm.htm,,danyangliu@dlmu.edu.cn; nanli@dlmu.edu.cn; amberwu@dlmu.edu.cn,,
-89,辽宁省,辽宁大学,沈阳市,211,公办,105,http://job.lnu.edu.cn,,,024-62602250,http://grs.lnu.edu.cn/zsgz.htm,,,024-62202353,http://gjjlc.lnu.edu.cn/,,,,
-90,辽宁省,辽东学院,丹东市,双非,公办,520,,,,,,,,,,,,,官网不可达：全部方式失败
-91,辽宁省,东北财经大学,大连市,双非,公办,90,,,,,http://www.dufe.edu.cn/rcpy/yjs/,,advice@dufe.edu.cn,,http://www.dufe.edu.cn/content_100605.html,,advice@dufe.edu.cn,080000000414,
-92,辽宁省,大连交通大学,大连市,双非,公办,,http://www.djtu.edu.cn/Redirect?mid=55,,,0411-84109958; 0411-86226500,http://www.djtu.edu.cn/Redirect?mid=29,,,,http://www.djtu.edu.cn/Redirect?mid=44,,,0411-84106969,
-93,辽宁省,大连医科大学,大连市,双非,公办,190,https://rcd.dmu.edu.cn/,,,0411-86110222; 0411-86110221; 0411-86110223,https://yjs.dmu.edu.cn/,,,,https://ic.dmu.edu.cn/,,international@dmu.edu.cn,,
-94,辽宁省,大连外国语大学,大连市,双非,公办,,http://www.dlufl.edu.cn/zsjy.htm,,xzxx@dlufl.edu.cn,,http://www.dlufl.edu.cn/info/1121/11447.htm,,xzxx@dlufl.edu.cn,,http://ieo.dlufl.edu.cn/,,,0411-86112222,
-95,辽宁省,大连大学,大连市,双非,公办,,,,,,,,,,,,,,官网不可达：全部方式失败
-96,辽宁省,大连工业大学,大连市,双非,公办,250,https://jygl.dep.dlpu.edu.cn/,,jyzx@dlpu.edu.cn,0411-86323338; 15940873211,http://yjs.dep.dlpu.edu.cn/,,,,http://fao.dlpu.edu.cn/,,iced@dlpu.edu.cn,0411-86324486,
-97,辽宁省,大连民族大学,大连市,双非,公办,410,http://www.dlnu.edu.cn/zsjy.htm,大连民族大学-微信,,,https://new.dlnu.edu.cn/gs/,,yzb@dlnu.edu.cn,0411-87630448,,,,,
-98,辽宁省,大连海洋大学,大连市,双非,公办,350,http://dlou.jysd.com/,,10158@dlou.edu.cn,0411-84762679,http://master.dlou.edu.cn/,,,0411-84762652; 0411-84762665,http://gjjlc.dlou.edu.cn/,,iecd@dlou.edu.cn,,
-99,辽宁省,辽宁师范大学,大连市,双非,公办,220,https://lsdjyw.lnnu.edu.cn/,,lszjcscb@163.com,0411-82159911,https://master.lnnu.edu.cn/,,,,https://wsc.lnnu.edu.cn/,,,,
-100,辽宁省,辽宁警察学院,大连市,双非,公办,未上榜/独立榜,https://www.lnpc.edu.cn/35/list.htm,,,0416-3212009,,,,,,,,,
-101,辽宁省,辽宁石油化工大学,抚顺市,双非,公办,,http://www.lnpu.edu.cn/zsjy/bkszs.htm,,Webmaster@lnpu.edu.cn,024-56865000,http://www.lnpu.edu.cn/rcpy/yjsjy.htm,,,024-56865000,http://www.lnpu.edu.cn/hzjl/gjjl.htm,,Webmaster@lnpu.edu.cn,024-56865000,
-102,辽宁省,朝阳师范学院,朝阳市,双非,公办,540,,,,,,,,,,,,,
-103,辽宁省,辽宁科技学院,本溪市,双非,公办,530,http://www.lnist.edu.cn/zsjy/zsgl.htm,,,,,,,,,,,,
-104,辽宁省,中国刑事警察学院,沈阳市,双非,公办,,https://zsjy.cipuc.edu.cn/,,zsb@cipuc.edu.cn; yjsc_npuc@163.com; npucjy@163.com,024-86982292; 024-86982692,http://www.cipuc.edu.cn/rcpy/yjsjy/xkzy.htm,,,,http://www.cipuc.edu.cn/dwjl.htm,,,,
-105,辽宁省,中国医科大学,沈阳市,双非,公办,130,,,,,,,,,https://www.cmu.edu.cn/gjhzyjlc/,,,,官网不可达：全部方式失败
-106,辽宁省,沈阳体育学院,沈阳市,双非,公办,未上榜/独立榜,http://sytyxy.bysjy.com.cn/,,stzsjyc@163.com,,http://yjs.syty.edu.cn/zsgong_z/tzgg.htm,,sytyyzb@163.com,,,,,,
-107,辽宁省,沈阳农业大学,沈阳市,双非,公办,210,https://jobsyau.jysd.com/,沈农就业,,024-88487218,http://grs.syau.edu.cn/,,,024-88487139,https://gjjlc.syau.edu.cn/,,gjjlc@syau.edu.cn,,
-108,辽宁省,沈阳化工大学,沈阳市,双非,公办,400,http://syuct.bysjy.com.cn/,,sy89388470@163.com,,https://grszs.syuct.edu.cn,,,024-89386567,http://www.syuct.edu.cn/gjjl/yhyx.htm,,,,
-109,辽宁省,沈阳医学院,沈阳市,双非,公办,,http://www.symc.edu.cn/zsjy.htm,,,,https://yjsjy.symc.edu.cn/,,,,http://www.symc.edu.cn/info/1083/72801.htm,,,,
-110,辽宁省,沈阳大学,沈阳市,双非,公办,420,http://www.syu.edu.cn/zsjy.htm,,xxzx@syu.edu.cn,024-62268315; 024-67853071,http://yjs.syu.edu.cn/,,,,http://wsc.syu.edu.cn,,,,
-111,辽宁省,沈阳工业大学,沈阳市,双非,公办,180,https://jynet.sut.edu.cn/,,zhaoban_sut@163.com; jynet@sut.edu.cn,024-25496072; 024-25494802; 024-25691226,https://yjsxy.sut.edu.cn/,,,024-25496253; 024-25496252; 024-25494900,https://www.sut.edu.cn/gjjl.htm,,,,
-112,辽宁省,沈阳工程学院,沈阳市,双非,公办,,http://job.sie.edu.cn/,,,024-31975266,http://yjsb.sie.edu.cn/,,,,https://gjjyxy.sie.edu.cn/index.jsp,,,,
-113,辽宁省,沈阳师范大学,沈阳市,双非,公办,,https://www.synu.edu.cn/zsjy_6737/list.htm,,dzb@synu.edu.cn,024-86592995,http://yjs.synu.edu.cn/main.htm,,,,https://www.synu.edu.cn/2026/0814/c6740a115984/page.htm,,dzb@synu.edu.cn,,
-114,辽宁省,沈阳建筑大学,沈阳市,双非,公办,320,http://zsjy.sjzu.edu.cn/,,,,http://www.sjzu.edu.cn/rcpy/yjsjy.htm,,,,,,,,
-115,辽宁省,沈阳理工大学,沈阳市,双非,公办,,https://job.sylu.edu.cn,,24686098@163.com,024-24686098,http://yanjiusheng.sylu.edu.cn,,,,http://gjjlhzc.sylu.edu.cn,,,2424686045,
-116,辽宁省,沈阳航空航天大学,沈阳市,双非,公办,,https://sau.jysd.com/,,,,http://yjs.sau.edu.cn,,,,http://gjgcs.sau.edu.cn,,,,
-117,辽宁省,沈阳药科大学,沈阳市,双非,公办,260,https://syphu.jysd.com/,,,024-43520888,https://grs.syphu.edu.cn,,,,https://dir.syphu.edu.cn/,,International@syphu.edu.cn,2443520132,
-118,辽宁省,沈阳音乐学院,沈阳市,双非,公办,未上榜/独立榜,,,,,,,,,,,,,官网不可达：全部方式失败
-119,辽宁省,辽宁中医药大学,沈阳市,双非,公办,360,http://jy.lnutcm.edu.cn/,,lnzyydxzsjyc@163.com,024-31207238; 0411-85890136,http://yjs.lnutcm.edu.cn,,,,http://gjhzjlc.lnutcm.edu.cn/,,,,
-120,辽宁省,鲁迅美术学院,沈阳市,双非,公办,未上榜/独立榜,http://www.lumei.edu.cn/zsjy/bkszs.htm,,,,http://www.lumei.edu.cn/jyjx/yjsjy.htm,,,,,,,,
-121,辽宁省,营口理工学院,营口市,双非,公办,500,https://www.yku.edu.cn/,,,,,,,,https://www.yku.edu.cn/cs/index.htm,,,,
-122,辽宁省,渤海大学,锦州市,双非,公办,380,https://jy.bhu.edu.cn/,,bhdxjyb@126.com,0416-3406688,https://yjsxy.bhu.edu.cn/,,bhuyjszs@163.com,0416-3400137; 0416-3400139,https://www.bhuwsc.com/,,,0416-3400213,
-123,辽宁省,辽宁工业大学,锦州市,双非,公办,430,http://lngydx.bysjy.com.cn/,,lngydxjy@lnut.edu.cn,,http://yjsxy.lnut.edu.cn,,,0416-4198179,,,,,
-124,辽宁省,锦州医科大学,锦州市,双非,公办,440,http://jy.jzmu.edu.cn,,zsjyc@jzmu.edu.cn,0416-3675051; 0416-4673436,https://yjsc.jzmu.edu.cn/,,,0416-3675207; 0416-3675209; 0416-3675210,,,,,
-125,辽宁省,辽宁工程技术大学,阜新市,双非,公办,300,https://zsjy.lntu.edu.cn,,,,https://yjsy.lntu.edu.cn/,,,,https://gjxy.lntu.edu.cn/,,,0418-5110396; 0418-5110397; 0418-5110401,
-126,辽宁省,辽宁科技大学,鞍山市,双非,公办,,http://zsjy.ustl.edu.cn/index.htm,,,0412-5929096; 0412-5929092; 0412-5928097,http://www.ustl.edu.cn/yjs/,辽科大研究生,lkdyjsyzhb@ustl.edu.cn,,http://www.ustl.edu.cn/international/,,,0412-5929089,
-127,辽宁省,鞍山师范学院,鞍山市,双非,公办,480,http://www.asnc.edu.cn/zsjy/index.htm,,,,http://www.asnc.edu.cn/rcpy/yjsjy/index.htm,,,,http://gjjl.asnc.edu.cn/,,,,
-128,黑龙江省,哈尔滨工业大学,哈尔滨市,985,公办,14,http://www.hit.edu.cn/11537/list.htm,,,,http://hitgs.hit.edu.cn/,,,0451-86412296,http://www.hit.edu.cn/11555/list.htm,,,,
-129,黑龙江省,东北农业大学,哈尔滨市,211,公办,115,https://www.neau.edu.cn/zsjy.htm,,shuji@neau.edu.cn; xiaozhang@neau.edu.cn,,https://graduate.neau.edu.cn/,,,,https://gjjl.neau.edu.cn/,,,,
-130,黑龙江省,东北林业大学,哈尔滨市,211,公办,105,http://job.nefu.edu.cn/,,Jiuye@nefu.edu.cn,0451-82192212,https://gra.nefu.edu.cn/,,yjsy@nefu.edu.cn,,https://ico.nefu.edu.cn/,,nefu_gjhzc@163.com,,
-131,黑龙江省,哈尔滨工程大学,哈尔滨市,211,公办,43,http://www.hrbeu.edu.cn/zsjy1.htm,,,0451-82519222,https://yjsy.hrbeu.edu.cn,,,0451-82518910,https://fao.hrbeu.edu.cn/,,,,
-132,黑龙江省,佳木斯大学,佳木斯市,双非,公办,400,https://jmsu.gxbys.org.cn/,,,0454-8618138; 0454-8618867,https://yjs.jmsu.edu.cn/,,,0454-8618805; 0454-8618499,https://iecd.jmsu.edu.cn/,,,,
-133,黑龙江省,哈尔滨体育学院,哈尔滨市,双非,公办,未上榜/独立榜,http://www.hrbipe.edu.cn/zzsjy/bsszsh.htm,,,0451-82733741,http://www.hrbipe.edu.cn/yjsy/,,,,,,,,
-134,黑龙江省,哈尔滨医科大学,哈尔滨市,双非,公办,120,http://www.hrbmu.edu.cn/zsjy1.htm,,,,http://yjsy.hrbmu.edu.cn,,,,http://www.hrbmu.edu.cn/gjjlc/,,,,
-135,黑龙江省,哈尔滨商业大学,哈尔滨市,双非,公办,320,https://www.hrbcu.edu.cn/zsjy.htm,,,,https://yjsc.hrbcu.edu.cn/,,,,https://gjjyxy.hrbcu.edu.cn/,,hsdgjhzc@126.com,0451-84604831,
-136,黑龙江省,哈尔滨学院,哈尔滨市,双非,公办,,http://jypt.hrbu.edu.cn/frontpage/hrbu/html/index.html,,,0451-86658318; 0451-87081201,http://www.hrbu.edu.cn/yjsc/index.htm,,,,http://www.hrbu.edu.cn/ws/,,,,
-137,黑龙江省,哈尔滨师范大学,哈尔滨市,双非,公办,240,,,,,,,,,,,,,官网不可达：全部方式失败
-138,黑龙江省,哈尔滨建筑科技职业大学,哈尔滨市,双非,公办,,,,,,,,,,,,,,官网不可达：全部方式失败
-139,黑龙江省,哈尔滨理工大学,哈尔滨市,双非,公办,200,http://www.hrbust.edu.cn/zsjy.htm,,,,https://graduate.hrbust.edu.cn/3907/list.htm,,,,http://www.hrbust.edu.cn/gjhz.htm,,,,
-140,黑龙江省,哈尔滨职业技术大学,哈尔滨市,双非,公办,,http://hzjxy.jysd.com,,,0451-58971201,,,,,http://www.hrbzy.edu.cn/gjxy,,hvtcgjhzjlc@163.com,0451-86662281; 0451-86669663,
-141,黑龙江省,哈尔滨金融学院,哈尔滨市,双非,公办,560,,,,,,,,,,,,,官网不可达：全部方式失败
-142,黑龙江省,哈尔滨音乐学院,哈尔滨市,双非,公办,,http://www.hrbcm.edu.cn/jycs.htm,,yjiancha@126.com,0451-58597677; 0451-58597656; 0451-58597688,http://www.hrbcm.edu.cn/zsgz/yjszs.htm,,,,http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm,,yjiancha@126.com,0451-58597677; 0451-58597656; 0451-58597688,
-143,黑龙江省,黑龙江中医药大学,哈尔滨市,双非,公办,270,http://zsjyc.hljucm.net/,,,,http://yjsy.hljucm.net/,,bozhongyuan@163.com,,http://www.hljucm.net/index/dwjl.htm,,,011002000482,
-144,黑龙江省,黑龙江农业工程职业技术大学,哈尔滨市,双非,公办,,,,,,https://mp.weixin.qq.com/s/E2a4ndPa1YJsCLfefgdWLA,公众号二维码（未获取图片）,,,,,,,
-145,黑龙江省,黑龙江大学,哈尔滨市,双非,公办,145,http://job.hlju.edu.cn,,,0451-86609652; 0451-86608896; 0451-86604215,http://yjsy.hlju.edu.cn/,,,0451-86604902,http://gjjl.hlju.edu.cn/,,,0451-86608376,
-146,黑龙江省,黑龙江工程学院,哈尔滨市,双非,公办,570,,,,,,,,,,,,,官网不可达：全部方式失败
-147,黑龙江省,黑龙江科技大学,哈尔滨市,双非,公办,350,http://job.usth.edu.cn/,,,0451-88036988,https://gs.usth.edu.cn/,,,,https://iceo.usth.edu.cn/,,,15639720627,
-148,黑龙江省,东北石油大学,大庆市,双非,公办,230,http://www.nepu.edu.cn/zsjy1.htm,,Webmaster@nepu.edu.cn,,http://yjsb.nepu.edu.cn,,,19210459783,http://www.nepu.edu.cn/gjjl/xjjl.htm,,Webmaster@nepu.edu.cn,,
-149,黑龙江省,大庆师范学院,大庆市,双非,公办,490,http://www.dqsy.net/zsjy.htm,,,,,,,,,,,,
-150,黑龙江省,黑龙江八一农垦大学,大庆市,双非,公办,420,http://www.byau.edu.cn/900/list.htm,,,,http://www.byau.edu.cn/932/list.htm,,,,http://www.byau.edu.cn/934/list.htm,,,,
-151,黑龙江省,牡丹江医科大学,牡丹江市,双非,公办,,https://www.hljbys.org.cn/school/index?mark=mdjmu,,,,http://www.mdjmu.cn/yjsc/,,,,,,,,
-152,黑龙江省,牡丹江师范学院,牡丹江市,双非,公办,480,https://mdjnu.gxbys.org.cn/,,,,http://yjs.mdjnu.cn/,,ascmdj@126.com,,,,,,
-153,黑龙江省,绥化学院,绥化市,双非,公办,510,http://www.shxy.edu.cn/jyzl.htm,,,,,,,,http://www.shxy.edu.cn/xxgk1/dwjlyhzxx.htm,,,,
-154,黑龙江省,黑龙江工业学院,鸡西市,双非,公办,550,http://www.hljut.edu.cn/a/zsjy/jiuyechuangye/,,,,,,,,http://www.hljut.edu.cn/a/guojijiaoliuhezuochu/,,,030202000019,
-155,黑龙江省,黑河学院,黑河市,双非,公办,530,https://zsxx.hhxy.edu.cn/,,,,,,,,https://gjjlhzc.hhxy.edu.cn/,,,,
-156,黑龙江省,齐齐哈尔医学院,齐齐哈尔市,双非,公办,,https://www.hljbys.org.cn/school/index?mark=qmu,,,0452-2663508,https://yjs.qmu.edu.cn/,,qyyzb@qmu.edu.cn,0452-2663828,https://foreignfairs.qmu.edu.cn/,,iesqmu1601@qmu.edu.cn,0452-2663346; 0452-2663370,
-157,黑龙江省,齐齐哈尔大学,齐齐哈尔市,双非,公办,380,http://job.qqhru.edu.cn/,,,,https://yjs.qqhru.edu.cn,,,,https://iec.qqhru.edu.cn/,,529729107@qq.com,13846215679; 13704654326,
-158,上海市,上海交通大学,,985,公办,,,,,,,,,,https://global.sjtu.edu.cn/,,globalsjtu@sjtu.edu.cn,021-34206753,
-159,上海市,华东师范大学,,985,公办,,https://career.ecnu.edu.cn/,,,,https://yjszs.ecnu.edu.cn/,华东师大研招（ECNUyjs）,yjszs@admin.ecnu.edu.cn,021-54344721,http://lxs.ecnu.edu.cn/,,lxs@ecnu.edu.cn,,
-160,上海市,同济大学,,985,公办,,https://www.tongji.edu.cn/zsjy.htm,,newscenter@tongji.edu.cn,009102000038,http://gs.tongji.edu.cn/,,,,http://fao.tongji.edu.cn/,,,2165982612,
-161,上海市,复旦大学,,985,公办,,https://www.fudan.edu.cn/2019/0506/c431a103172/page.htm,,career@fudan.edu.cn,8621-65642288; 021-65642222,https://www.fudan.edu.cn/516/list.htm,,,021-65642222,https://ogp.fudan.edu.cn/16077/list.htm,,,021-65642260; 021-65649524,
-162,上海市,上海外国语大学,,211,公办,,https://www.shisu.edu.cn/admissions/index.html,,,,,,,,https://oice.shisu.edu.cn/,,,,
-163,上海市,上海大学,,211,公办,,https://www.shu.edu.cn/zsjy.htm,,,021-96928188; 009102000049,https://yjszs.shu.edu.cn/,,,02166133763,https://global.shu.edu.cn/,上海大学留学生公众号,,,
-164,上海市,上海财经大学,,211,公办,,https://career.sufe.edu.cn/,,jyzd@mail.shufe.edu.cn,021-65904215,https://gs.sufe.edu.cn/,,yjsy@mail.shufe.edu.cn; yzb@mail.shufe.edu.cn,021-65904625; 021-65903795,https://ieco.shufe.edu.cn/,相关宣传连接中报名欢迎广大师生积极参与,ieco@mail.sufe.edu.cn,,
-165,上海市,东华大学,,211,公办,,http://ejob.dhu.edu.cn/,扫描左侧二维码获取最新资讯,pluswin6@pluswin-china.com; houzhiqi@sh.chinalife-p.com.cn; job@dhu.edu.cn,021-67792486,http://gs.dhu.edu.cn/,,yjsdep@dhu.edu.cn,,https://ico.dhu.edu.cn/,,ico@dhu.edu.cn,,
-166,上海市,华东理工大学,,211,公办,,https://www.ecust.edu.cn/585/list.htm,,,009102000037,http://gschool.ecust.edu.cn/,,,15710144202,http://kjc.ecust.edu.cn/8373/list.htm,,,,
-167,上海市,第二军医大学,,211,公办,,,,,,,,,,,,,,官网不可达：军队院校，国际处信息不公开
-168,上海市,上海中医药大学,,双一流,公办,,https://jy.shutcm.edu.cn/,,,17875834001,http://yjsy.shutcm.edu.cn,,,,https://gjc.shutcm.edu.cn/,,,,
-169,上海市,上海体育学院,,双一流,公办,,,,,,,,,,https://wsc.sus.edu.cn/,,,,官网不可达：官网未知
-170,上海市,上海海洋大学,,双一流,公办,,https://jcxt.shou.edu.cn/,,,,http://yjs.shou.edu.cn/13946/list.htm,,,,https://ieo.shou.edu.cn/,,ieo@shou.edu.cn,,
-171,上海市,上海科技大学,,双一流,公办,,https://career.shanghaitech.edu.cn/,,,18120716234; 032613120834; 032613131827,,,,,https://oia.shanghaitech.edu.cn/,,,,
-172,上海市,上海音乐学院,,双一流,公办,,,,,,,,,,https://www.shcmusic.edu.cn/1449/list.htm,,,17816874; 7889684; 67262574,
-173,云南省,云南大学,,211,公办,,http://jobs.ynu.edu.cn/,微信二维码(单独二维码),ydxsjyzx@126.com,0871-65148526; 0871-65033859; 0871-65931992,http://www.grs.ynu.edu.cn/,,,,http://english.ynu.edu.cn/,,,,
-174,内蒙古自治区,内蒙古大学,,211,公办,,http://zhaosheng.imu.edu.cn/,,ndzsb@imu.edu.cn,,https://gs.imu.edu.cn/,,ndgs@imu.edu.cn,,http://ice.imu.edu.cn/,,fao@imu.edu.cn,,
-175,北京市,中国人民大学,,985,公办,,,,,,https://www.ruc.edu.cn/yanjiushengpeiyang.html,,,,https://pgs.ruc.edu.cn/gats.htm,,,,
-176,北京市,中国农业大学,,985,公办,,https://www.cau.edu.cn/zsjy/index.htm,,xwzx@cau.edu.cn,,https://www.cau.edu.cn/jyjx/yjsjy/index.htm,,,,https://global.cau.edu.cn/,,,,
-177,北京市,中央民族大学,,985,公办,,https://www.muc.edu.cn/zsjy/zs/bykzs.htm,,,010-68932442,,,,,https://www.muc.edu.cn/gjjl.htm,,,010-68932442,
-178,北京市,北京大学,,985,公办,,,,,,https://www.pku.edu.cn/recruit.html#undergraduate,,its@pku.edu.cn,,https://hmt.pku.edu.cn/,,its@pku.edu.cn,,
-179,北京市,北京师范大学,,985,公办,,https://www.bnu.edu.cn/zsjy/index.htm,,,040102700202,http://jwb.bnu.edu.cn/,,jwb@bnu.edu.cn,,http://oiec.bnu.edu.cn/,,,010-58808285,
-180,北京市,北京理工大学,,985,公办,,https://www.bit.edu.cn/zsjysjb/index.htm,,,,http://grd.bit.edu.cn/,,grd@bit.edu.cn,,https://www.bit.edu.cn/,,,,
-181,北京市,北京航空航天大学,,985,公办,,https://www.buaa.edu.cn/zsjy.htm,,,,https://www.buaa.edu.cn/jyjx/yjsjy1.htm,,,,https://global.buaa.edu.cn/,,,,
-182,北京市,清华大学,,985,公办,,https://www.tsinghua.edu.cn/zsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/jyjx/yjsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/hzjl/gjhz.htm,,webmaster@tsinghua.edu.cn,010-62793001,
-183,北京市,中国传媒大学,,211,公办,,https://www.cuc.edu.cn/zsjy/list.htm,,,,http://www.cuc.edu.cn/9998/list.htm#rc-main2,,,,https://international.cuc.edu.cn/,,kzxy@cuc.edu.cn,,
-184,北京市,中国地质大学（北京）,,211,公办,,http://jiuye.cugb.edu.cn/,,jyxsc@126.com,909355733,https://graduate.cugb.edu.cn,,,,https://gjhzc.cugb.edu.cn/,,,,
-185,北京市,中国政法大学,,211,公办,,,,,,,,,,http://gjhzjlc.cupl.edu.cn/,,,,
-186,北京市,中国石油大学（北京）,,211,公办,,http://career.cup.edu.cn/,,cupjiuye@qq.com; job89731016@163.com,010-89733499; 010-89731016,https://grs.cup.edu.cn/,邮编,,,https://www.cup.edu.cn/overseas/index.htm,,admission@cup.edu.cn; cie.office@cup.edu.cn; cie.dailyservices@cup.edu.cn,,
-187,北京市,中国矿业大学（北京）,,211,公办,,https://www.cumtb.edu.cn/zsjy.htm,,,,http://yjs.cumtb.edu.cn/,,,,https://international.cumtb.edu.cn/,,,,
-188,北京市,中央财经大学,,211,公办,,https://www.cufe.edu.cn/zsjy.htm,,,,http://gs.cufe.edu.cn/,,,,http://int.cufe.edu.cn/,,,,
-189,北京市,中央音乐学院,,211,公办,,https://www.ccom.edu.cn/zsyjy.htm,,,,,,,,https://www.ccom.edu.cn/info/18061/267901.htm,,,,
-190,北京市,北京中医药大学,,211,公办,,https://www.bucm.edu.cn/zsjy1/index.htm,,,,http://yanjiusheng.bucm.edu.cn/,,,,https://international.bucm.edu.cn/,,,,
-191,北京市,北京交通大学,,211,公办,,http://job.bjtu.edu.cn/,,jyb113@126.com; bjtujobwx@126.com; bjtujob@163.com,010-51688431; 010-51685913; 010-51682911,https://yzb.bjtu.edu.cn/,,bjtuzgxy@bjtu.edu.cn,,https://intl.bjtu.edu.cn/,,bjtu-intl@bjtu.edu.cn,,
-192,北京市,北京体育大学,,211,公办,,https://www.bsu.edu.cn/zsjy/index.htm,,,,https://www.bsu.edu.cn/kxyjsy/index.htm,,xiaoban@bsu.edu.cn,040202430168; 14015216941; 13585035162,http://wsc.bsu.edu.cn/,,wsc@bsu.edu.cn,,
-193,北京市,北京化工大学,,211,公办,,https://www.buct.edu.cn/zsjy_11437/list.htm,,news@mail.buct.edu.cn,,http://graduate.buct.edu.cn/,,,,https://iecd.buct.edu.cn/,,,,
-194,北京市,北京外国语大学,,211,公办,,https://jyzd.bfsu.edu.cn/,,jyzd@bfsu.edu.cn,010-88816211,https://graduate.bfsu.edu.cn/,,,,https://international.bfsu.edu.cn/,,,,
-195,北京市,北京工业大学,,211,公办,,http://admissions.bjut.edu.cn/,,,010-67391609,https://www.bjut.edu.cn/jyjx/yjsjy1.htm,,,010000000606,https://international.bjut.edu.cn/,,,,
-196,北京市,北京林业大学,,211,公办,,http://job.bjfu.edu.cn,,,,http://graduate.bjfu.edu.cn/,,,,https://international.bjfu.edu.cn/,,gjc@bjfu.edu.cn,,
-197,北京市,北京科技大学,,211,公办,,https://www.ustb.edu.cn/zsjy/index.htm,,,,http://yzxc.ustb.edu.cn/,,,,https://oice.ustb.edu.cn/,,,,
-198,北京市,北京邮电大学,,211,公办,,,,,,,,,,https://www.bupt.edu.cn/hzjl.htm,,,,官网不可达：requests失败
-199,北京市,华北电力大学,,211,公办,,https://www.ncepu.edu.cn/zsjy/index.htm,,,,https://yjsy.ncepu.edu.cn/,,,,https://icd.ncepu.edu.cn/,,,,
-200,北京市,对外经济贸易大学,,211,公办,,https://www.uibe.edu.cn/zsjy/index.htm,,,,https://yjsy.uibe.edu.cn/,,,,https://international.uibe.edu.cn/,,,,
-201,北京市,中国人民公安大学,,双一流,公办,,https://www.ppsuc.edu.cn/zsjy.htm,,gadx@ppsuc.edu.cn,,https://yzb.ppsuc.edu.cn/,,yzb@ppsuc.edu.cn,,https://www.ppsuc.edu.cn/dwjl.htm,,gadx@ppsuc.edu.cn,,
-202,北京市,中国科学院大学,,双一流,公办,,https://www.ucas.ac.cn/zsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/jyjx/yjsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/hzjl/gjhz/index.htm,,,,
-203,北京市,中国音乐学院,,双一流,公办,,,,,,http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm,,,010-64887561,https://gjjl.ccmusic.edu.cn/,,zyywb@126.com; gmel_ccmjec@163.com,,
-204,北京市,中央戏剧学院,,双一流,公办,,,,,,,,,,https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html,,zhongxi@zhongxi.cn,,
-205,北京市,中央美术学院,,双一流,公办,,https://jy.cafa.edu.cn,,,,https://www.cafa.edu.cn/sp/2022clinks/?cs=1201,,,,https://global.cafa.edu.cn/,,lxs@cafa.edu.cn,,
-206,北京市,北京协和医学院,,双一流,公办,,https://www.pumc.edu.cn/jyjx/zsjy/index.htm,,,040202450060,http://graduate.pumc.edu.cn/,北京协和医学院研究生院,,,https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm,,,,
-207,北京市,外交学院,,双一流,公办,,,,,,https://yjsb.cfau.edu.cn/,,,,https://wjxx.cfau.edu.cn/,,,,
-208,北京市,首都师范大学,,双一流,公办,,https://www.cnu.edu.cn/zsjy/index.htm,,info@cnu.edu.cn,,https://www.cnu.edu.cn/jyjx/index.htm?mao=b02,,info@cnu.edu.cn,,https://io-hkmt.cnu.edu.cn/,,info@cnu.edu.cn,,
-209,四川省,四川大学,,985,公办,,,,,,,,,,https://international.scu.edu.cn/,,international@scu.edu.cn; nic8203@scu.edu.cn,,官网不可达：requests失败
-210,四川省,电子科技大学,,985,公办,,https://jiuye.uestc.edu.cn/career/,用人单位,jyzdzx@uestc.edu.cn,028-61831789,https://gr.uestc.edu.cn/,,,,http://www.oice.uestc.edu.cn/,,,,
-211,四川省,四川农业大学,,211,公办,,https://job.sicau.edu.cn/,川农就业系统小程序,job2501@163.com; scndjy@163.com; djyjiuye@163.com,0835-2882800（; 0835-2882800; 028-86290666,https://yan.sicau.edu.cn/,,,,https://ic.sicau.edu.cn/,,,,
-212,四川省,西南交通大学,,211,公办,,https://www.swjtu.edu.cn/zsjy.htm,,zszx@swjtu.edu.cn; yzb@home.swjtu.edu.cn; cjzs@swjtu.edu.cn,028-87600332; 028-87634132,https://yz.swjtu.edu.cn/web/index.html,,,028-66366757; 028-66366756; 028-66367138,https://fad.swjtu.edu.cn/,,,,
-213,四川省,西南财经大学,,211,公办,,https://www.swufe.edu.cn/zsjy.htm,,webmaster@swufe.edu.cn,010502010087,https://graduate.swufe.edu.cn/,,yjsy@swufe.edu.cn,（028）87092032; 028-87092482,https://oiec.swufe.edu.cn/,,oiec@swufe.edu.cn,,
-214,四川省,成都中医药大学,,双一流,公办,,https://zyd.cdutcm.edu.cn/zsjy,成中医微学工,cdutcmzsxc@163.com,028-61800090,https://zyd.cdutcm.edu.cn/yjs,,,82713803; 82717572; 82716812,https://zyd.cdutcm.edu.cn/gjjyxy,,info@cdutcm.edu.cn; IEC.CWCM@cdutcm.edu.cn; IEC.GATQ@cdutcm.edu.cn,89461393; 55211931; 82845489,
-215,四川省,成都理工大学,,双一流,公办,,,,,,,,,,https://dice.cdut.edu.cn/,,,,官网不可达：requests失败
-216,四川省,西南石油大学,,双一流,公办,,http://jyzx.swpu.edu.cn/,投递简历时选择,swpu_jyjb@163.com; swpu_jyzx@163.com,028-83035257; 028-83037077,https://www.swpu.edu.cn/gs/,,,,https://www.swpu.edu.cn/oice/,,oiaswpu@163.com,,
-217,天津市,南开大学,,985,公办,,https://www.nankai.edu.cn/239/list.htm,,,,http://graduate.nankai.edu.cn,,,,https://international.nankai.edu.cn/,,exchange@nankai.edu.cn,,
-218,天津市,天津大学,,985,公办,,https://www.tju.edu.cn/zsjy.htm,官方微信号,,,https://www.tju.edu.cn/zsjy.htm#zsjy03,官方微信号,,,https://www.tju.edu.cn/gjjl.htm,官方微信号,,,
-219,天津市,天津医科大学,,211,公办,,,,,,,,,,https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm,,,,官网不可达：requests失败
-220,天津市,天津中医药大学,,双一流,公办,,https://jiuye.tjutcm.edu.cn/,,,022-59596207,https://yjsy.tjutcm.edu.cn/,,,13472365958,https://iec.tjutcm.edu.cn/,,tutcm@hotmail.com,,
-221,天津市,天津工业大学,,双一流,公办,,,,,,,,,,https://io.tiangong.edu.cn/,,,,官网不可达：requests失败
-222,宁夏回族自治区,宁夏大学,,211,公办,,https://www.nxu.edu.cn/zsjy.htm,,,0951-2077800,http://graduate.nxu.edu.cn/,,,,https://hzjl.nxu.edu.cn/,,,,
-223,安徽省,中国科学技术大学,,985,公办,,,,,,https://gradschool.ustc.edu.cn/,,yjsy@ustc.edu.cn,0551-63601958,https://oic.ustc.edu.cn/,,fanjiangqi@ustc.edu.cn; oic@ustc.edu.cn,0551-63606695,
-224,安徽省,合肥工业大学,,211,公办,,http://bkzs.hfut.edu.cn/,,length-1,,http://yjsy.hfut.edu.cn/,,,,https://international.hfut.edu.cn/,,,,
-225,安徽省,安徽大学,,211,公办,,,,,,,,,,http://gjc.ahu.edu.cn/,,,,官网不可达：requests失败
-226,山东省,中国海洋大学,,985,公办,,http://career.ouc.edu.cn/default.html,,,15028551517; 13432724776; 15087259867,http://grad.ouc.edu.cn/13039/list.htm,,yjsy@ouc.edu.cn,,https://intl.ouc.edu.cn/,,news@ouc.edu.cn,021202000030,
-227,山东省,山东大学,,985,公办,,https://www.job.sdu.edu.cn/,,,,https://www.grad.sdu.edu.cn/,,pgs@sdu.edu.cn,,https://www.ipo.sdu.edu.cn/,,,,
-228,山东省,中国石油大学（华东）,,211,公办,,https://career.upc.edu.cn/,,,,http://gs.upc.edu.cn/,,,08403691997,https://io.upc.edu.cn/,,mail@upc.edu.cn,,
-229,山西省,太原理工大学,,211,公办,,https://www.tyut.edu.cn/zsjy.htm,,English; tyutxcb@tyut.edu.cn,14010902001,http://www.gs.tyut.edu.cn/,,tyutgs@tyut.edu.cn,14010902001,https://www.tyut.edu.cn/hzjl/gjhz2.htm,,tyutxcb@tyut.edu.cn,,
-230,山西省,山西大学,,双一流,公办,,https://www.sxu.edu.cn/zty/zsjy/index.html,,@sxu.edu.cn; @email.sxu.edu.cn,0351-7010255,http://yjszsw.sxu.edu.cn/,,,0351-7010322,https://wsc.sxu.edu.cn/,,,,
-231,广西壮族自治区,广西大学,,211,公办,,https://www.gxu.edu.cn/zsjy1.htm,,webmaster@gxu.edu.cn,010702000001; 000000040700,http://yjsc.gxu.edu.cn/,,yjsy@gxu.edu.cn,0771-3237012; 0771-3231243; 0771-3232827,https://gjjl.gxu.edu.cn/,,gjc@gxu.edu.cn,,
-232,新疆维吾尔自治区,新疆大学,,211,公办,,https://www.xju.edu.cn/<span style='color:red;font-size:9pt'>转换链接错误</span>,,,,https://www.xju.edu.cn/rcpy1/yjsjy.htm,,,,https://gjjlc.xju.edu.cn/,,xjdxgjc@xju.edu.cn,,
-233,新疆维吾尔自治区,石河子大学,,211,公办,,,,,,,,,,https://wsbm.shzu.edu.cn/,,webmaster@shzu.edu.cn,,官网不可达：requests失败
-234,江苏省,东南大学,,985,公办,,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,https://oic.seu.edu.cn/,,,,
-235,江苏省,南京大学,,985,公办,,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,,
-236,江苏省,中国矿业大学,,211,公办,,http://www.91job.org.cn/sub-station/home/10290,,,,http://gs.cumt.edu.cn/,,,,https://international.cumt.edu.cn/,,international@cumt.edu.cn,,
-237,江苏省,中国药科大学,,211,公办,,http://cpu.91job.org.cn,,,,http://yjsy.cpu.edu.cn/,,,,https://international.cpu.edu.cn/,,admission@cpu.edu.cn,,
-238,江苏省,南京农业大学,,211,公办,,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,https://intl.njau.edu.cn/,南农国际教育,,,
-239,江苏省,南京师范大学,,211,公办,,,,,,,,,,https://gjc.njnu.edu.cn/,,,,官网不可达：requests失败
-240,江苏省,南京理工大学,,211,公办,,,,,,,,,,https://gjc.njust.edu.cn/,,,,官网不可达：requests失败
-241,江苏省,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,,
-242,江苏省,江南大学,,211,公办,,http://jiangnan.91job.org.cn,,,,http://gs.jiangnan.edu.cn/,官方微博,yjsy@jiangnan.edu.cn,0510-85913652（,http://guojiaochu.jiangnan.edu.cn/,,gjch@jiangnan.edu.cn,,
-243,江苏省,河海大学,,211,公办,,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,https://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,,
-244,江苏省,苏州大学,,211,公办,,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://international.suda.edu.cn/,Copyright,,,
-245,江苏省,南京中医药大学,,双一流,公办,,https://njucm.91job.org.cn/sub-station/home/10315,,,,http://gra.njucm.edu.cn/,,,,http://ice.njucm.edu.cn/,,,,
-246,江苏省,南京信息工程大学,,双一流,公办,,https://www.nuist.edu.cn/zsjy.htm,,xb@nuist.edu.cn,86-25-58731101,https://yjs.nuist.edu.cn/,Copyright,yjs@nuist.edu.cn,,http://ico.nuist.edu.cn/,,,,
-247,江苏省,南京医科大学,,双一流,公办,,http://njmu.91job.org.cn/,,,,http://yjsy.njmu.edu.cn/,,,,http://ice.njmu.edu.cn/,,gjb@njmu.edu.cn,,
-248,江苏省,南京林业大学,,双一流,公办,,http://njfu.91job.org.cn/,,,,https://gsnfu.njfu.edu.cn/,,,,https://ghc.njfu.edu.cn/,,,,
-249,江苏省,南京邮电大学,,双一流,公办,,https://www.njupt.edu.cn/46/list.htm,,njupt@njupt.edu.cn,（86）-25-85866888,http://yzb.njupt.edu.cn/,,yzb@njupt.edu.cn,025-83492350,https://dice.njupt.edu.cn/,,,,
-250,江西省,南昌大学,,211,公办,,https://www.ncu.edu.cn/zsjy.htm,,,010802000198,https://www.ncu.edu.cn/rcpy/yjsjy.htm,,,010802000198,https://gjc.ncu.edu.cn/,,gjjlc@ncu.edu.cn,,
-251,河北省,河北工业大学,,211,公办,,http://career.hebut.edu.cn,,,,https://yjs.hebut.edu.cn,河北工业大学,,,https://io.hebut.edu.cn/,,,,
-252,河南省,郑州大学,,211,公办,,https://www.zzu.edu.cn/zsjy.htm,郑州大学-微信,function,019702002177,http://gs.zzu.edu.cn/,,,,http://international.zzu.edu.cn/en/course?cid=4&pid=4,,,,
-253,河南省,河南大学,,双一流,公办,,https://www.henu.edu.cn/zsjy.htm,,,,https://grs.henu.edu.cn/,Copyright,yjsy@henu.edu.cn,,https://www.henu.edu.cn/gjjl.htm,,,,
-254,浙江省,浙江大学,,985,公办,,,,,,,,,,http://www.ir.zju.edu.cn/,,oge@zju.edu.cn; hmt@zju.edu.cn,,
-255,浙江省,中国美术学院,,双一流,公办,,,,,,,,,,,,,,
-256,浙江省,宁波大学,,双一流,公办,,https://ndjy.nbu.edu.cn/,,byb@nbu.edu.cn,0574-87600228,https://graduate.nbu.edu.cn/,,,0574-87609123,https://iso.nbu.edu.cn/,,,,
-257,海南省,海南大学,,211,公办,,https://www.hainanu.edu.cn/zsjy.htm,,,010802000692,https://ha.hainanu.edu.cn/gs/,,,,https://global.hainanu.edu.cn/,,,,
-258,湖北省,华中科技大学,,985,公办,,https://www.hust.edu.cn/zsjy.htm,,,027-87541114,http://gs.hust.edu.cn/,,yzxx@hust.edu.cn,027-87542152,https://oia.hust.edu.cn/,,international@hust.edu.cn,027-87541114,
-259,湖北省,武汉大学,,985,公办,,,,,,https://www.whu.edu.cn/rcpy.htm#md2,,,027-68752059,https://oir.whu.edu.cn/,,,027-68752059,
-260,湖北省,中南财经政法大学,,211,公办,,https://www.zuel.edu.cn/recruit_jobs/,,,018502002264,http://yjsy.zuel.edu.cn/,,,,https://gjc.zuel.edu.cn/,,,,
-261,湖北省,中国地质大学（武汉）,,211,公办,,https://www.cug.edu.cn/zsjy.htm,,,011102004169,http://graduate.cug.edu.cn/,,,027-67885151,https://gjhzc.cug.edu.cn/,,,,
-262,湖北省,华中农业大学,,211,公办,,https://www.hzau.edu.cn/zsjy/bkszs.htm,,,02787280707; 027-87282027,https://www.hzau.edu.cn/jyjx/yjsjy.htm,,,027-87282027,https://fao.hzau.edu.cn/,,fao@mail.hzau.edu.cn,,
-263,湖北省,华中师范大学,,211,公办,,https://www.ccnu.edu.cn/zsjy/bysjy.htm,,,027-67868046; 027-67867020; 011102000286,https://www.ccnu.edu.cn/rcpy/yjsjy.htm,,,027-67866926,https://hmt.ccnu.edu.cn/,,,,
-264,湖北省,武汉理工大学,,211,公办,,https://www.whut.edu.cn/zhaoshengjiuye/,,English,027-87859017; 027-87651413; 027-87880058,https://www.whut.edu.cn/rencaipeiyang/yjsjy/,,,,https://gjc.whut.edu.cn/,,waishi@whut.edu.cn,,
-265,湖南省,中南大学,,985,公办,,https://www.csu.edu.cn/zsjy.htm,,homepage@csu.edu.cn,0731-88876114,http://gra.csu.edu.cn,,,,https://iecd.csu.edu.cn/,,csuwsb@126.com; ied-csu@csu.edu.cn; summerschool@csu.edu.cn,,
-266,湖南省,国防科技大学,,985,公办,,https://www.nudt.edu.cn/zsjy/index.htm,国防科大,English,0731-84576114; 0731-87027137; 0731-87027139,http://yjszs.nudt.edu.cn/index/index.view,,,,,,,,
-267,湖南省,湖南大学,,985,公办,,https://www.hnu.edu.cn/zsjy.htm,,xiaoban@hnu.edu.cn,,http://gra.hnu.edu.cn/,,,0731-88821224（,http://wsc.hnu.edu.cn/,,,0731-88823974,
-268,湖南省,湖南师范大学,,211,公办,,http://zsjy.hunnu.edu.cn/,,,0648569883; 071451831580; 037237159775,https://yjsy.hunnu.edu.cn,,yjsynews@hunnu.edu.cn,,https://oiec.hunnu.edu.cn/,,OIEC@HUNNU.EDU.CN,,
-269,湖南省,湘潭大学,,双一流,公办,,https://www.xtu.edu.cn/zsjy.htm,,zsk@xtu.edu.cn,0731-58293807,https://www.xtu.edu.cn/jyjx/yjsjyjx.htm,,,030202001058,https://gjjlc.xtu.edu.cn/,,,,
-270,甘肃省,兰州大学,,985,公办,,,,,,,,,,https://faoffice.lzu.edu.cn/,,,,官网不可达：requests失败
-271,福建省,厦门大学,,985,公办,,http://jy.xmu.edu.cn/,,jiuyezhaopin@xmu.edu.cn,0592-2184550,http://gs.xmu.edu.cn/,,YJSY@XMU.EDU.CN,0592-2186259,https://ice.xmu.edu.cn/,,,0592-2180240,
-272,福建省,福州大学,,211,公办,,,,,,https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=yjsjy&type=w,,,,https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w,,,,
-273,西藏自治区,西藏大学,,211,公办,,,,,,,,,,https://gjc.utibet.edu.cn/,,,,官网不可达：requests失败
-274,贵州省,贵州大学,,211,公办,,https://www.gzu.edu.cn/70/list.htm,,,0851-88292178,https://gs.gzu.edu.cn/zsgz/list.htm,,,,https://oir.gzu.edu.cn/,,,,
-275,重庆市,重庆大学,,985,公办,,https://www.cqu.edu.cn/zsjy.htm,,,001060250313; 000004000026,http://graduate.cqu.edu.cn/,,,,http://intex.cqu.edu.cn/,,,,
-276,重庆市,西南大学,,211,公办,,https://swu.cqbys.com/,,,,http://yjsyygb.swu.edu.cn/,,yanzong209@swu.edu.cn; zljdxxk@swu.edu.cn,,https://gjc.swu.edu.cn/,,,,
-277,陕西省,西北农林科技大学,,985,公办,,https://www.nwafu.edu.cn/zsjy/index.htm,,zhaoshb@nwafu.edu.cn; zhsh@nwafu.edu.cn; admission@nwafu.edu.cn,029-87080152; 029-87080151; 029-87080155,http://yjshy.nwsuaf.edu.cn/,,ybgsh@nwafu.edu.cn,02504100006; 029-87080155,https://gjc.nwsuaf.edu.cn/,,ipo@nwsuaf.edu.cn,2987082857,
-278,陕西省,西北工业大学,,985,公办,,http://job.nwpu.edu.cn/home.do,,,,http://gs.nwpu.edu.cn/,Copyright,gs@nwpu.edu.cn,029-88430620; 029-88493641; 029-88430618,https://guoji.nwpu.edu.cn/,,icoffice@nwpu.edu.cn,,
-279,陕西省,西安交通大学,,985,公办,,http://job.xjtu.edu.cn/,,,,https://www.xjtu.edu.cn/rcpy/yjsjy.htm,,,,https://international.xjtu.edu.cn/,,,,
-280,陕西省,第四军医大学,,211,公办,,,,,,,,,,,,,,官网不可达：官网未知
-281,陕西省,西北大学,,211,公办,,https://jczx.nwu.edu.cn/,,jiuye@nwu.edu.cn,029-88302514; 029-88303867,https://yjs.nwu.edu.cn/index.htm,研究生院,,029-88308162,https://gj.nwu.edu.cn/index.htm,,,,
-282,陕西省,西安电子科技大学,,211,公办,,https://www.xidian.edu.cn/zsjy.htm,,zsb@mail.xidian.edu.cn; sie@xidian.edu.cn; xdmba@mail.xidian.edu.cn,029-88202335; 029-81891244; +86-29-81891161,https://www.xidian.edu.cn/jyjx.htm#C,,,029-88201000,https://oice.xidian.edu.cn/,,fao@xidian.edu.cn,,
-283,陕西省,长安大学,,211,公办,,javascriot:;,,,,https://graduate.chd.edu.cn/,版权,,,https://gjhz.chd.edu.cn/,,,,
-284,陕西省,陕西师范大学,,211,公办,,http://job.snnu.edu.cn/,,jyzx@snnu.edu.cn,029-85310325; 032685310466; 029-85310327,http://newyjs.snnu.edu.cn/,,,029-85318713,https://ipo.snnu.edu.cn/,,ipo@snnu.edu.cn,,
-285,青海省,青海大学,,211,公办,,https://www.qhu.edu.cn/zsjy/index.htm,,,010502000029,https://www.qhu.edu.cn/jxjy/yjsjy/index.htm,,,,https://international.qhu.edu.cn/,,qhuwsb@126.com,,
+﻿序号,省份,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-领导及邮箱,国际处-电话,备注
+1,广东省,中山大学,广州市,985,公办,11,http://career.sysu.edu.cn/,中山大学就业（sysucareer）,,020-84111150; 020-84111791,https://graduate.sysu.edu.cn/,公众号二维码: qrcodes\中山大学_grad.jpg,yyzhc@mail.sysu.edu.cn,020-84111685; 020-84111686; 020-84113696,http://eao.sysu.edu.cn/,,xujy3@mail.sysu.edu.cn; hanying6@mail.sysu.edu.cn; liuweiw9@mail.sysu.edu.cn,,,
+2,广东省,华南理工大学,广州市,985,公办,30,,,,,http://www.scut.edu.cn/graduate/,,,,https://www2.scut.edu.cn/io/,,HKMT@scut.edu.cn,"科员: ykx20241149@scut.edu.cn
+助理: glzjh@scut.edu.cn
+副科长（负责港澳台事务和处内综合事务）: glskyang@scut.edu.cn
+助理: gllxzhang@scut.edu.cn
+助理: glghxu@scut.edu.cn
+助理（负责学生项目的管理实施（美国）、中美创新学院的协管工作及教育部出）: scutpm@scut.edu
+助理（负责教职工因公临时出国证件办理及证件收缴保管工作）: 16933961@qq.com
+助理（负责校级引智项目管理）: experts@scut.edu.cn",,
+3,广东省,中山大学深圳校区,深圳市,985,公办,11,http://career.sysu.edu.cn/,中山大学就业（sysucareer）,,020-84111150; 020-84111791,https://graduate.sysu.edu.cn/,公众号二维码: qrcodes\中山大学深圳校区_grad.jpg,,,https://eao.sysu.edu.cn/,,,,,
+4,广东省,北京大学深圳研究生院,深圳市,985,公办,2,,,,,https://admission.pkusz.edu.cn/index.html,,,,https://hmt.pku.edu.cn/,,its@pkusz.edu.cn,"副主任: gangaotai@pku.edu.cn
+副主任: liyun@pku.edu.cn
+副主任: jzhou@pku.edu.cn
+主任: lin2009@pku.edu.cn",030502008554,
+5,广东省,哈尔滨工业大学（深圳）,深圳市,985,公办,14,https://job.hitsz.edu.cn/zhxy-szxszyfzpt/,,,,https://yzb.hitsz.edu.cn/zs,,,,https://www.hitsz.edu.cn/25/list.htm,,,,0755-26033876,
+6,广东省,清华大学深圳国际研究生院,深圳市,985,公办,1,https://www.sigs.tsinghua.edu.cn/7631/list.htm,,zhaosheng@sz.tsinghua.edu.cn,0755-26036460; 0755-26924345; 0755-86543994,https://www.sigs.tsinghua.edu.cn/7646/list.htm,,,,https://www.sigs.tsinghua.edu.cn/7666/list.htm,,,,,
+7,广东省,北京师范大学珠海校区,珠海市,985,公办,19,https://career.bnuzh.edu.cn/,,jiuye@bnu.edu.cn; jyjdzh@bnu.edu.cn,0756-3683696; 0756-3621018; 0756-3683772,,,,,https://io.bnuzh.edu.cn/index.htm,,,"主任（主持全面工作）: guokanjun008@bnu.edu.cn
+副主任（分管国际学生工作、学生境外交流）: qiuyue@bnu.edu.cn
+副主任（分管中外合作办学工作）: zhengwang@bnu.edu.cn",0756-3621079,
+8,广东省,华南师范大学,广州市,211,公办,70,https://www.scnu.edu.cn/a/20151026/34.html,,,,http://yz.scnu.edu.cn/,,,020-85213863,http://io.scnu.edu.cn/,,wsh3@scnu.edu.cn; wsh4@scnu.edu.cn; wsh9@scnu.edu.cn,,,
+9,广东省,暨南大学,广州市,211,公办,55,https://scdc.jnu.edu.cn/,暨大就业公众号,ojy-jnu@163.com,020-85226956,https://yz.jnu.edu.cn,,oyzb@jnu.edu.cn,,https://wsc.jnu.edu.cn/,,international@jnu.edu.cn,何睿弘 副处长（负责国际交流与合作工作）: truihong@jnu.edu.cn,,
+10,广东省,华南农业大学,广州市,双一流,公办,94,http://jyzx.scau.edu.cn/,,,,https://yjsy.scau.edu.cn/,,,020-85280065; 020-85280066; 020-85280067,http://fao.scau.edu.cn/,,,,,
+11,广东省,广州中医药大学,广州市,双一流,公办,242,https://www.gzucm.edu.cn/zsjy/zs.htm,,xiaozhangxx@gzucm.edu.cn,,https://www.gzucm.edu.cn/jyjx/yjsjy.htm,,,,https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm,,xiaozhangxx@gzucm.edu.cn,,,
+12,广东省,广州医科大学,广州市,双一流,公办,221,https://zs.gzhmu.edu.cn/bkzn/zsdt.htm,广州医科大学本科招生微信公众号,,,https://yjs.gzhmu.edu.cn/,,,,https://fao.gzhmu.edu.cn/,,,,,
+13,广东省,南方科技大学,深圳市,双一流,公办,32,http://career.sustech.edu.cn/,,jobs@sustech.edu.cn,0755-88010732,https://gs.sustech.edu.cn/#/admission/,,,,https://global.sustech.edu.cn/,南方科技大学国际合作部暨港澳台办公室微信公众号,global@sustech.edu.cn,,,
+14,广东省,东莞理工学院,东莞市,双非,公办,258,http://job.dgut.edu.cn/,广东大学生就业创业小程序,jiuye@dgut.edu.cn,0769-22861918,https://yjs.dgut.edu.cn/,,,,http://www.dgut.edu.cn/info/1019/94112.htm,,,,,
+15,广东省,大湾区大学,东莞市,双非,公办,,,,,,https://www.gbu.edu.cn/educational_teaching.html#yjsjy,公众号二维码（未获取图片）,,,,,,,,
+16,广东省,香港城市大学（东莞）,东莞市,双非,中外合作办学,63（QS）,,,,,,,,,,,,,,
+17,广东省,佛山大学,佛山市,双非,公办,271,,,,,https://www.fosu.edu.cn/yanjiusheng/,,fosuyzb@fosu.edu.cn,0757-82771159,,,,,,
+18,广东省,顺德职业技术大学,佛山市,双非,公办,,https://jy.sdpt.edu.cn/,,1617576514@qq.com,0757-22323795; 0757-22323796; 0757-22323760,,,,,https://www.sdpt.edu.cn/jlhz1/gjhz.htm,,,,0757-22329901; 0757-22327209; 060602001413,
+19,广东省,仲恺农业工程学院,广州市,双非,公办,265,http://www.zhku.edu.cn/zsjy.htm,,,020-89003030,http://yjs.zhku.edu.cn/,,,020-89002097,http://waishi.zhku.edu.cn/,,international@zhku.edu.cn,,020-89003275,
+20,广东省,南方医科大学,广州市,双非,公办,,http://fimmu.jobsys.cn/unijob/index.php/web/index/index,,nydjyzdzx@126.com,020-31044165; 020-61648500; 020-61648657,http://yjs.smu.edu.cn,,,,http://portal.smu.edu.cn/wsc/,,403928103@qq.com,,61648027,
+21,广东省,广东外语外贸大学,广州市,双非,公办,124,https://career.gdufs.edu.cn/,,36207021@163.com; 39328007@163.com,020-36207021; 020-39328007,http://gwyjs.gdufs.edu.cn/,,,,https://internationaloffice.gdufs.edu.cn/,,,,,
+22,广东省,广东工业大学,广州市,双非,公办,85,https://career.gdut.edu.cn,,gdutjob@126.com,020-39322210,https://yjs.gdut.edu.cn,,,,https://wsc.gdut.edu.cn/index.htm,,,,14655015124,
+23,广东省,广东技术师范大学,广州市,双非,公办,229,https://www.gpnu.edu.cn/zsjy.htm,,jysf@gpnu.edu.cn,020-38256601; 020-89285371,https://yjsc.gpnu.edu.cn/info/1443/6179.htm,,gsyjsc@gpnu.edu.cn,,http://oice.gpnu.edu.cn/,,,,16112376637,
+24,广东省,广东第二师范学院,广州市,双非,公办,461,,,,,,,,,,,,,,官网不可达：全部方式失败
+25,广东省,广东药科大学,广州市,双非,公办,317,http://www.gdpu.edu.cn/zsyjy/yjszs.htm,,,,https://yjsxy.gdpu.edu.cn/,公众号二维码: qrcodes\广东药科大学_grad.jpg,yjsc@gdpu.edu.cn,020-39352613,https://gjjlhzc.gdpu.edu.cn/lxgyd/gatzs.htm,,,,,
+26,广东省,广东警官学院,广州市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
+27,广东省,广东财经大学,广州市,双非,公办,188,http://www.gdufe.edu.cn/11032/list.htm,,,,http://yjsc.gdufe.edu.cn,,,,http://fao.gdufe.edu.cn/,,fao3@gdufe.edu.cn,,,
+28,广东省,广东轻工职业技术大学,广州市,双非,公办,,https://jy.gdipu.edu.cn,,1181877691@qq.com; gqjyb@gdip.edu.cn,020-61230822; 0757-88576223,,,,,http://www.gdqy.edu.cn/gjjl_gat_.htm,,,,020-61230200,
+29,广东省,广东金融学院,广州市,双非,公办,,https://jy.gduf.edu.cn/unijob/index.php/web/Index/index,,gdufjy@163.com,020-87053902,https://yjs.gduf.edu.cn/,,,,http://www.gduf.edu.cn/hzjl/gjjl.htm,,,,010602001127,
+30,广东省,广州体育学院,广州市,双非,公办,未上榜/独立榜,http://www.gzsport.edu.cn:80/node/104,,,020-38024301; 020-38025613; 020-38024685,,,,,https://fao.gzsport.edu.cn/,,,,,
+31,广东省,广州大学,广州市,双非,公办,105,http://www.gzhu.edu.cn/zsjy1.htm,,webmaster@gzhu.edu.cn,,http://yjsy.gzhu.edu.cn/,,yjsy@gzhu.edu.cn,020-39366238; 020-39366199,http://wsc.gzhu.edu.cn/,,,,,
+32,广东省,广州美术学院,广州市,双非,公办,未上榜/独立榜,http://www.gzarts.edu.cn/index/zsjy/zsxx.htm,,,,http://yjs.gzarts.edu.cn,,,,http://wsc.gzarts.edu.cn/,,wsc@gzarts.edu.cn,,,
+33,广东省,广州职业技术大学,广州市,双非,公办,,http://www.gzpyp.edu.cn/zsjy,,gzpyp@gzpyp.edu.cn,020-84736666; 020-34874086,,,,,,,,,,
+34,广东省,广州航海学院,广州市,双非,公办,448,http://www.gzmtu.edu.cn/zsjy.htm,,,020-32083010,,,,,https://gjjlxy.gzmtu.edu.cn/gjjl.htm,,gjjlsh@gzmtu.edu.cn,,020-82003167,
+35,广东省,星海音乐学院,广州市,双非,公办,未上榜/独立榜,https://xsjy.xhcom.edu.cn/,,,,https://zs.xhcom.edu.cn/yjszs.htm,,,020-39363636,http://gjjy.xhcom.edu.cn/,,icxhcm_xf@163.com,,,
+36,广东省,香港科技大学（广州）,广州市,双非,中外合作办学,44（QS）,,,,,https://fytgs.hkust-gz.edu.cn/,,,,https://global.hkust-gz.edu.cn/,,,,020-88331234; 011502001012; 13800000000,
+37,广东省,惠州学院,惠州市,双非,公办,329,http://www.hzu.edu.cn/543/list.htm,,,0752-2527099,http://www.hzu.edu.cn/yjszs/list.htm,,,0752-2529000,https://fao.hzu.edu.cn/gatsw/list.htm,,fao@hzu.edu.cn,,0752-2529210,
+38,广东省,嘉应学院,梅州市,双非,公办,421,https://jyzx.jyu.edu.cn/,,jygz@jyu.edu.cn,0753-2186665,https://yjs.jyu.edu.cn/,,jyuyjs@jyu.edu.cn,0753-2188296,https://waishi.jyu.edu.cn/,,fao@jyu.edu.cn,,0753-2186662; 0753-2363398,
+39,广东省,广东以色列理工学院,汕头市,双非,中外合作办学,392（QS）,,,,,https://sites.gtiit.edu.cn/research/graduate-studies/,,,,https://www.gtiit.edu.cn/student-china.aspx,,,,0754-88077088,
+40,广东省,汕头大学,汕头市,双非,公办,,https://gdc.stu.edu.cn/,,job@stu.edu.cn,0754-86502252; 0754-82522372,https://www.gs.stu.edu.cn/,,o_yzb@stu.edu.cn; o_pyb@stu.edu.cn; o_yjsgzb@stu.edu.cn,0754-86502424; 0754-86504743; 0754-86504000,https://icd.stu.edu.cn/,,icd@stu.edu.cn,,0754-86502316; 0754-86502131,
+41,广东省,五邑大学,江门市,双非,公办,236,https://career.wyu.edu.cn,,wyujob@163.com,0750-3296252,http://www.wyu.edu.cn/yjscx,,,,http://www.wyu.edu.cn/wsc/,,wyufao@wyu.edu.cn,,0750-3296188,
+42,广东省,深圳信息职业技术大学,深圳市,双非,公办,,http://career.sziit.edu.cn/,,,0755-89226738; 0755-89226367,,,,,https://www.suit-sz.edu.cn/hzjl/gjjlyhz.htm,,,,0755-89226555,
+43,广东省,深圳北理莫斯科大学,深圳市,双非,中外合作办学,94（QS）,https://admission.smbu.edu.cn/,,admission@smbu.edu.cn,0755-28323360; 0755-28323398,https://gradadmissions.smbu.edu.cn/,,,,http://www.smbu.edu.cn/gjjl/gjjl.htm,,info@smbu.edu.cn,,0755-28323024,
+44,广东省,深圳大学,深圳市,双非,公办,68,https://jobszu.jysd.com/,,szjobcenter@163.com,0755-26536106; 0755-26535652; 0755-86931632,http://gra.szu.edu.cn/,,gra@szu.edu.cn,0755-26536177,https://hmt.szu.edu.cn/,,,,0755-26536114,
+45,广东省,深圳技术大学,深圳市,双非,公办,未上榜/独立榜,https://www.sztu.edu.cn/zsjy.htm,,,0755-23256054; 0755-23256666,https://gra.sztu.edu.cn/zsxx/zsz.htm,,,,https://www.sztu.edu.cn/dwjl.htm,,,,0755-23256054; 0755-23256666,
+46,广东省,深圳理工大学,深圳市,双非,公办,未上榜/独立榜,https://www.suat-sz.edu.cn/zsjy.htm,,foreign-affairs@siat.ac.cn,,https://www.suat-sz.edu.cn/yjy/ylqxcyjsyjy.htm,,office@suat-sz.edu.cn,,https://www.suat-sz.edu.cn/gjhz.htm,,office@suat-sz.edu.cn,,030002008114,
+47,广东省,深圳职业技术大学,深圳市,双非,公办,,https://www.szpu.edu.cn/zsjy.htm,,,,,,,,https://fao.szpu.edu.cn/,,zougeng@szpu.edu.cn; caidj@szpu.edu.cn; jingyixia@szpu.edu.cn,,0755-26011478; 0755-26018134; 0755-26019693,
+48,广东省,香港中文大学（深圳）,深圳市,双非,中外合作办学,32（QS）,https://career.cuhk.edu.cn/,,CareerService@cuhk.edu.cn,0755-23515888,https://gs.cuhk.edu.cn/,,,,,,,,,
+49,广东省,岭南师范学院,湛江市,双非,公办,384,http://www.lingnan.edu.cn/zsjy.htm,,,0759-3183226,https://d.lingnan.edu.cn/yjsc/,,lnsfyz@lingnan.edu.cn,0759-3183072,http://d.lingnan.edu.cn/gjc/,,,,,
+50,广东省,广东医科大学,湛江市,双非,公办,,https://www.gdmu.edu.cn/zsjy/zsxx1.htm,,,0769-22896175,http://yjsxy.gdmu.edu.cn/,,,,,,,,,
+51,广东省,广东海洋大学,湛江市,双非,公办,292,https://www.gdou.edu.cn/zjzx/,,,,https://grs.gdou.edu.cn/,,Yjs@gdou.edu.cn,0759-2396185,https://iod.gdou.edu.cn/,,,,0759-2396202,
+52,广东省,韩山师范学院,潮州市,双非,公办,415,https://jyb.hstc.edu.cn/,,,,,,,,https://wsb.hstc.edu.cn/,,,,,
+53,广东省,北京师范大学－香港浸会大联合国际学院,珠海市,双非,内地与港澳台合作办学,244（QS）,https://www.uic.edu.cn/admissions_and_placement.htm,,,0756-3620000,https://www.uic.edu.cn/faculties_and_schools.htm,,,0756-3620000,http://admission.bnbu.edu.cn/gatq/twxcsqz.htm,,bnbuhko@hkbu.edu.hk,,,
+54,广东省,肇庆医学院,肇庆市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
+55,广东省,肇庆学院,肇庆市,双非,公办,346,https://jyzd.zqu.edu.cn,,,0758-2716242,https://yjsc.zqu.edu.cn/,,zquyzb@zqu.edu.cn; yjsy@zqu.edu.cn,0758-2716770,https://wsc.zqu.edu.cn/,,global3@zqu.edu.cn,,,
+56,广东省,广东石油化工学院,茂名市,双非,公办,428,http://xueshengchu.gdupt.edu.cn,,,,http://www.gdupt.edu.cn/jgsz/dzgljg1/fzghb_yjsb_.htm,,,0668-2923508; 0668-2923758,https://site.gdupt.edu.cn/oiec/,,,,,
+57,广东省,韶关学院,韶关市,双非,公办,405,http://www.sgu.edu.cn/zsxxw,,,0751-8120066,http://www.sgu.edu.cn/yjsb,,,0751-8120049,http://www.sgu.edu.cn/dwjlhzb,,,,0751-8121371; 0751-8121661; 0751-8120781,
+58,吉林省,吉林大学,长春市,985,公办,26,http://www.jlu.edu.cn/zsjy.htm,,,0431-85166420; 0431-85166226; 0431-85166371,http://yjsy.jlu.edu.cn/,,yzhc@jlu.edu.cn,0431-85166175,https://oic.jlu.edu.cn/,,OGE@jlu.edu.cn,"主任兼 副处长（职责： 分管外国专家工作、综合与信息管理科工作）: li_yun@jlu.edu.cn
+目管理 科长（职责：负责交流与学生项目管理科全面工作）: liushuang524@jlu.edu.cn
+专家 科长（职责：负责专家科全面工作）: qucz@jlu.edu.cn
+派出 科长（职责: 负责派出科整体工作）: nianxueni@jlu.edu.cn
+协助 科长（职责: 负责教职工因公临时出国（境）任务立卷；教职工因公临时出国）: liujh1030@jlu.edu.cn
+作办学 科长（职责：负责合作办学科全面工作）: renxiuyu@jlu.edu.cn
+港澳台 科长（职责：负责港澳台科全面工作）: hsf@jlu.edu.cn
+息管理 科长（职责：负责综合与信息管理科全面工作）: lichunyi@jlu.edu.cn",0431-85166657,
+59,吉林省,延边大学,延边朝鲜族自治州,211,公办,132,http://www.ybu.edu.cn/zsjy_1.htm,,xcb@ybu.edu.cn,,https://grad.ybu.edu.cn/,,,0433-2732079,http://international.ybu.edu.cn/,,ied@ybu.edu.cn,,,
+60,吉林省,东北师范大学,长春市,211,公办,45,http://www.nenu.edu.cn/zsjy/xsjy.htm,,dsxxw@nenu.edu.cn,,http://www.nenu.edu.cn/jyjx/yjsjy.htm,,dsxxw@nenu.edu.cn,,http://oice.nenu.edu.cn/,,,"李阳光 处长（主持国际合作与交流处、港澳台事务办公室工作）: liyg658@nenu.edu.cn
+汪晓波 副处长（分管合作科、汉语推广办公室）: wangxb453@nenu.edu.cn
+张晗 副处长（分管出国留学科、交流科）: zhangh836@nenu.edu.cn
+张拓 副处长（分管留学生科）: zhangt492@nenu.edu.cn
+合作 科长（职责： 1. 主持合作科工作）: zhanghw100@nenu.edu.cn
+交流 科长（职责： 1. 主持交流科工作）: yanjh691@nenu.edu.cn
+语推广 主任（职责： 1. 全面负责汉语国际推广办公室的工作）: lingj493@nenu.edu.cn",,
+61,吉林省,东北电力大学,吉林市,双非,公办,220,https://zsjyc.neepu.edu.cn/,,,,http://grad.neepu.edu.cn,,,,http://oice.neepu.edu.cn/index.htm,,,,,
+62,吉林省,北华大学,吉林市,双非,公办,300,,,,,,,,,,,,,,官网不可达：全部方式失败
+63,吉林省,吉林农业科技学院,吉林市,双非,公办,,http://hjiuye.jlnku.edu.cn/,,jiuye11439@163.com,0432-63509058; 0432-63509929,,,,,https://foreign.jlnku.edu.cn/,,,,0432-63509783,
+64,吉林省,吉林化工大学,吉林市,双非,公办,,http://www.jlict.edu.cn/zsjy.htm,,,,http://yjs.jluct.edu.cn/,,,,https://wsc.jluct.edu.cn/,,,,090000000605,
+65,吉林省,吉林医药学院,吉林市,双非,公办,,http://www.jlmu.cn/zsjy1.htm,,,,http://www.jlmu.cn/info/1471/70451.htm,,,,http://www.jlmu.cn/jlhz/gjhz.htm,,,,,
+66,吉林省,吉林铁道职业技术大学,吉林市,双非,公办,,https://jyxx.jty.edu.cn/,,,0432-66137555,,,,,http://iec.jtpt.cn,,,,,
+67,吉林省,吉林师范大学,四平市,双非,公办,230,,,,,,,,,,,,,,官网不可达：全部方式失败
+68,吉林省,白城师范学院,白城市,双非,公办,470,,,,,,,,,,,,,,官网不可达：全部方式失败
+69,吉林省,通化师范学院,通化市,双非,公办,450,https://thnucareer.hjiuye.com/,学生就业小程序,thsyzsb@163.com,0435-3208040,,,,,https://gjjl.thnu.edu.cn/,,,,,
+70,吉林省,吉林体育学院,长春市,双非,公办,未上榜/独立榜,,,,,,,,,,,,,,官网不可达：全部方式失败
+71,吉林省,吉林农业大学,长春市,双非,公办,165,https://www.jlau.edu.cn/zsjy.htm,,webmaster@jlau.edu.cn,,https://www.jlau.edu.cn/jyjx/yjsjy1.htm,,,,http://gjjy.jlau.edu.cn,,,,,
+72,吉林省,吉林工商学院,长春市,双非,公办,,https://jlbtcjy.mh.chaoxing.com/,,,0431-82306222,,,,,https://hzjl.jlbtc.edu.cn/,,,,,
+73,吉林省,吉林工程技术师范学院,长春市,双非,公办,430,http://jlenu.hjiuye.com/,,,0431-86908057; 0431-86907028,http://yjs.jlenu.edu.cn,,,0431-86908108,http://gjjlc.jlenu.edu.cn,,,,86908016; 86908019,
+74,吉林省,吉林建筑大学,长春市,双非,公办,320,http://jlju.hjiuye.com/,学生就业小程序,jy84566069@163.com,0431-84566069,http://yjs.jlju.edu.cn/,,,0431-84566037; 0431-84566306; 0431-84566329,,,,,,
+75,吉林省,吉林艺术学院,长春市,双非,公办,未上榜/独立榜,http://jy.jlart.edu.cn/,学生就业小程序,jlysxyjy@126.com,0431-85618360; 17600673259,http://yjs.jlart.edu.cn/,,,,https://gjhz.jlart.edu.cn/index.htm,,jua_international@qq.com,,0431-85633961,
+76,吉林省,吉林警察学院,长春市,双非,公办,,https://zsw.jljcxy.com/,,jljcxyjy@163.com,0431-85001234; 0431-85001799; 0431-85001157,http://www.jljcxy.com/rcpy/yjsjy.htm,,,0431-85001110; 0431-85001234; 0431-85001370,http://www.jljcxy.com/info/2601/34811.htm,,,,0431-85001110; 0431-85001234; 0431-85001370,
+77,吉林省,吉林财经大学,长春市,双非,公办,270,http://newzs.jlufe.edu.cn/,,,17202000216,https://yjsy.jlufe.edu.cn/,,,17202000216,,,,,,
+78,吉林省,长春中医药大学,长春市,双非,公办,260,,,,,,,,,,,,,,官网不可达：全部方式失败
+79,吉林省,长春大学,长春市,双非,公办,350,https://jyzx.ccu.edu.cn/,,,0431-85250026; 0431-82533039,https://yjsb.ccu.edu.cn/,长春大学公众号,,0431-85251786,http://wsc.ccu.edu.cn/,,gjjlhzc@ccu.edu.cn,,0431-85250122,
+80,吉林省,长春工业大学,长春市,双非,公办,190,http://www.ccut.edu.cn/zsjy.htm,,,,https://yjsy.ccut.edu.cn/zsgz/a2024yzxxgk.htm,,,,,,,,,
+81,吉林省,长春工程学院,长春市,双非,公办,,http://zsb.ccit.edu.cn/,,,0431-80578555,https://yjsgzc.ccit.edu.cn/,,,,http://gjhzyjlc.ccit.edu.cn/,,,,,
+82,吉林省,长春师范大学,长春市,双非,公办,,https://www.ccsfu.edu.cn/zsjy1.htm,,,,https://yjs.ccsfu.edu.cn/zsgz.htm,,,0431-86168695; 0431-86168864; 0431-86168134,https://www.ccsfu.edu.cn/gjjl.htm,,,,,
+83,吉林省,长春汽车职业技术大学,长春市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
+84,吉林省,长春理工大学,长春市,双非,公办,140,http://www.cust.edu.cn/zsjy2026/index.htm,,cust@cust.edu.cn,,http://www.cust.edu.cn/zsjy2026/yjszs20261/index.htm,,cust@cust.edu.cn,,http://www.cust.edu.cn/jlhz2026/gjhz20261/index.htm,,cust@cust.edu.cn,,,
+85,吉林省,长春职业技术大学,长春市,双非,公办,,http://www.cvit.edu.cn/zsjy.htm,,,,,,,,http://www.cvit.edu.cn/gjjl.htm,,,,,
+86,辽宁省,大连理工大学,大连市,985,公办,28,http://job.dlut.edu.cn/index.html,,career@dlut.edu.cn; dlutjy@dlut.edu.cn; pjjy@dlut.edu.cn,0411-84708222; 0411-84709222; 0411-84706641,http://gs.dlut.edu.cn/,,yjsyzhb@dlut.edu.cn,0411-84708330,http://dutdice.dlut.edu.cn/,,dutfao@dlut.edu.cn,"王莲 主任（邮箱未公开）
+分管 副处长: menglinxi@dlut.edu.cn",0411-84708702,
+87,辽宁省,东北大学,沈阳市,985,公办,39,http://job.neu.edu.cn/,,neujiuye@163.com; NEU83681260@163.com; NEUcareer@163.com,024-83687393; 024-83689881; 024-83681260,http://www.graduate.neu.edu.cn,,,,http://int.neu.edu.cn/,,,,,
+88,辽宁省,大连海事大学,大连市,211,公办,100,https://myjob.dlmu.edu.cn/,,haishijiuye@163.com; dmujobzixun@163.com,0411-84724185; 0411-84729209; 0411-84728536,https://grs.dlmu.edu.cn/,,,,https://www.dlmu.edu.cn/wzsy/hzjl/lxwm.htm,,danyangliu@dlmu.edu.cn; nanli@dlmu.edu.cn; amberwu@dlmu.edu.cn,,,
+89,辽宁省,辽宁大学,沈阳市,211,公办,105,http://job.lnu.edu.cn,,,024-62602250,http://grs.lnu.edu.cn/zsgz.htm,,,024-62202353,http://gjjlc.lnu.edu.cn/,,,"曲艺 副处长（邮箱未公开）
+谢名一 处长（邮箱未公开）
+尹如玉 副处长（邮箱未公开）",,
+90,辽宁省,辽东学院,丹东市,双非,公办,520,,,,,,,,,,,,,,官网不可达：全部方式失败
+91,辽宁省,东北财经大学,大连市,双非,公办,90,,,,,http://www.dufe.edu.cn/rcpy/yjs/,,advice@dufe.edu.cn,,http://www.dufe.edu.cn/content_100605.html,,advice@dufe.edu.cn,,080000000414,
+92,辽宁省,大连交通大学,大连市,双非,公办,,http://www.djtu.edu.cn/Redirect?mid=55,,,0411-84109958; 0411-86226500,http://www.djtu.edu.cn/Redirect?mid=29,,,,http://www.djtu.edu.cn/Redirect?mid=44,,,,0411-84106969,
+93,辽宁省,大连医科大学,大连市,双非,公办,190,https://rcd.dmu.edu.cn/,,,0411-86110222; 0411-86110221; 0411-86110223,https://yjs.dmu.edu.cn/,,,,https://ic.dmu.edu.cn/,,international@dmu.edu.cn,,,
+94,辽宁省,大连外国语大学,大连市,双非,公办,,http://www.dlufl.edu.cn/zsjy.htm,,xzxx@dlufl.edu.cn,,http://www.dlufl.edu.cn/info/1121/11447.htm,,xzxx@dlufl.edu.cn,,http://ieo.dlufl.edu.cn/,,,,0411-86112222,
+95,辽宁省,大连大学,大连市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
+96,辽宁省,大连工业大学,大连市,双非,公办,250,https://jygl.dep.dlpu.edu.cn/,,jyzx@dlpu.edu.cn,0411-86323338; 15940873211,http://yjs.dep.dlpu.edu.cn/,,,,http://fao.dlpu.edu.cn/,,iced@dlpu.edu.cn,,0411-86324486,
+97,辽宁省,大连民族大学,大连市,双非,公办,410,http://www.dlnu.edu.cn/zsjy.htm,大连民族大学-微信,,,https://new.dlnu.edu.cn/gs/,,yzb@dlnu.edu.cn,0411-87630448,,,,,,
+98,辽宁省,大连海洋大学,大连市,双非,公办,350,http://dlou.jysd.com/,,10158@dlou.edu.cn,0411-84762679,http://master.dlou.edu.cn/,,,0411-84762652; 0411-84762665,http://gjjlc.dlou.edu.cn/,,iecd@dlou.edu.cn,,,
+99,辽宁省,辽宁师范大学,大连市,双非,公办,220,https://lsdjyw.lnnu.edu.cn/,,lszjcscb@163.com,0411-82159911,https://master.lnnu.edu.cn/,,,,https://wsc.lnnu.edu.cn/,,,,,
+100,辽宁省,辽宁警察学院,大连市,双非,公办,未上榜/独立榜,https://www.lnpc.edu.cn/35/list.htm,,,0416-3212009,,,,,,,,,,
+101,辽宁省,辽宁石油化工大学,抚顺市,双非,公办,,http://www.lnpu.edu.cn/zsjy/bkszs.htm,,Webmaster@lnpu.edu.cn,024-56865000,http://www.lnpu.edu.cn/rcpy/yjsjy.htm,,,024-56865000,http://www.lnpu.edu.cn/hzjl/gjjl.htm,,Webmaster@lnpu.edu.cn,,024-56865000,
+102,辽宁省,朝阳师范学院,朝阳市,双非,公办,540,,,,,,,,,,,,,,
+103,辽宁省,辽宁科技学院,本溪市,双非,公办,530,http://www.lnist.edu.cn/zsjy/zsgl.htm,,,,,,,,,,,,,
+104,辽宁省,中国刑事警察学院,沈阳市,双非,公办,,https://zsjy.cipuc.edu.cn/,,zsb@cipuc.edu.cn; yjsc_npuc@163.com; npucjy@163.com,024-86982292; 024-86982692,http://www.cipuc.edu.cn/rcpy/yjsjy/xkzy.htm,,,,http://www.cipuc.edu.cn/dwjl.htm,,,,,
+105,辽宁省,中国医科大学,沈阳市,双非,公办,130,,,,,,,,,https://www.cmu.edu.cn/gjhzyjlc/,,,,,官网不可达：全部方式失败
+106,辽宁省,沈阳体育学院,沈阳市,双非,公办,未上榜/独立榜,http://sytyxy.bysjy.com.cn/,,stzsjyc@163.com,,http://yjs.syty.edu.cn/zsgong_z/tzgg.htm,,sytyyzb@163.com,,,,,,,
+107,辽宁省,沈阳农业大学,沈阳市,双非,公办,210,https://jobsyau.jysd.com/,沈农就业,,024-88487218,http://grs.syau.edu.cn/,,,024-88487139,https://gjjlc.syau.edu.cn/,,gjjlc@syau.edu.cn,,,
+108,辽宁省,沈阳化工大学,沈阳市,双非,公办,400,http://syuct.bysjy.com.cn/,,sy89388470@163.com,,https://grszs.syuct.edu.cn,,,024-89386567,http://www.syuct.edu.cn/gjjl/yhyx.htm,,,,,
+109,辽宁省,沈阳医学院,沈阳市,双非,公办,,http://www.symc.edu.cn/zsjy.htm,,,,https://yjsjy.symc.edu.cn/,,,,http://www.symc.edu.cn/info/1083/72801.htm,,,,,
+110,辽宁省,沈阳大学,沈阳市,双非,公办,420,http://www.syu.edu.cn/zsjy.htm,,xxzx@syu.edu.cn,024-62268315; 024-67853071,http://yjs.syu.edu.cn/,,,,http://wsc.syu.edu.cn,,,,,
+111,辽宁省,沈阳工业大学,沈阳市,双非,公办,180,https://jynet.sut.edu.cn/,,zhaoban_sut@163.com; jynet@sut.edu.cn,024-25496072; 024-25494802; 024-25691226,https://yjsxy.sut.edu.cn/,,,024-25496253; 024-25496252; 024-25494900,https://www.sut.edu.cn/gjjl.htm,,,,,
+112,辽宁省,沈阳工程学院,沈阳市,双非,公办,,http://job.sie.edu.cn/,,,024-31975266,http://yjsb.sie.edu.cn/,,,,https://gjjyxy.sie.edu.cn/index.jsp,,,,,
+113,辽宁省,沈阳师范大学,沈阳市,双非,公办,,https://www.synu.edu.cn/zsjy_6737/list.htm,,dzb@synu.edu.cn,024-86592995,http://yjs.synu.edu.cn/main.htm,,,,https://www.synu.edu.cn/2026/0814/c6740a115984/page.htm,,dzb@synu.edu.cn,,,
+114,辽宁省,沈阳建筑大学,沈阳市,双非,公办,320,http://zsjy.sjzu.edu.cn/,,,,http://www.sjzu.edu.cn/rcpy/yjsjy.htm,,,,,,,,,
+115,辽宁省,沈阳理工大学,沈阳市,双非,公办,,https://job.sylu.edu.cn,,24686098@163.com,024-24686098,http://yanjiusheng.sylu.edu.cn,,,,http://gjjlhzc.sylu.edu.cn,,,,2424686045,
+116,辽宁省,沈阳航空航天大学,沈阳市,双非,公办,,https://sau.jysd.com/,,,,http://yjs.sau.edu.cn,,,,http://gjgcs.sau.edu.cn,,,,,
+117,辽宁省,沈阳药科大学,沈阳市,双非,公办,260,https://syphu.jysd.com/,,,024-43520888,https://grs.syphu.edu.cn,,,,https://dir.syphu.edu.cn/,,International@syphu.edu.cn,,2443520132,
+118,辽宁省,沈阳音乐学院,沈阳市,双非,公办,未上榜/独立榜,,,,,,,,,,,,,,官网不可达：全部方式失败
+119,辽宁省,辽宁中医药大学,沈阳市,双非,公办,360,http://jy.lnutcm.edu.cn/,,lnzyydxzsjyc@163.com,024-31207238; 0411-85890136,http://yjs.lnutcm.edu.cn,,,,http://gjhzjlc.lnutcm.edu.cn/,,,,,
+120,辽宁省,鲁迅美术学院,沈阳市,双非,公办,未上榜/独立榜,http://www.lumei.edu.cn/zsjy/bkszs.htm,,,,http://www.lumei.edu.cn/jyjx/yjsjy.htm,,,,,,,,,
+121,辽宁省,营口理工学院,营口市,双非,公办,500,https://www.yku.edu.cn/,,,,,,,,https://www.yku.edu.cn/cs/index.htm,,,,,
+122,辽宁省,渤海大学,锦州市,双非,公办,380,https://jy.bhu.edu.cn/,,bhdxjyb@126.com,0416-3406688,https://yjsxy.bhu.edu.cn/,,bhuyjszs@163.com,0416-3400137; 0416-3400139,https://www.bhuwsc.com/,,,,0416-3400213,
+123,辽宁省,辽宁工业大学,锦州市,双非,公办,430,http://lngydx.bysjy.com.cn/,,lngydxjy@lnut.edu.cn,,http://yjsxy.lnut.edu.cn,,,0416-4198179,,,,,,
+124,辽宁省,锦州医科大学,锦州市,双非,公办,440,http://jy.jzmu.edu.cn,,zsjyc@jzmu.edu.cn,0416-3675051; 0416-4673436,https://yjsc.jzmu.edu.cn/,,,0416-3675207; 0416-3675209; 0416-3675210,,,,,,
+125,辽宁省,辽宁工程技术大学,阜新市,双非,公办,300,https://zsjy.lntu.edu.cn,,,,https://yjsy.lntu.edu.cn/,,,,https://gjxy.lntu.edu.cn/,,,,0418-5110396; 0418-5110397; 0418-5110401,
+126,辽宁省,辽宁科技大学,鞍山市,双非,公办,,http://zsjy.ustl.edu.cn/index.htm,,,0412-5929096; 0412-5929092; 0412-5928097,http://www.ustl.edu.cn/yjs/,辽科大研究生,lkdyjsyzhb@ustl.edu.cn,,http://www.ustl.edu.cn/international/,,,,0412-5929089,
+127,辽宁省,鞍山师范学院,鞍山市,双非,公办,480,http://www.asnc.edu.cn/zsjy/index.htm,,,,http://www.asnc.edu.cn/rcpy/yjsjy/index.htm,,,,http://gjjl.asnc.edu.cn/,,,,,
+128,黑龙江省,哈尔滨工业大学,哈尔滨市,985,公办,14,http://www.hit.edu.cn/11537/list.htm,,,,http://hitgs.hit.edu.cn/,,,0451-86412296,http://www.hit.edu.cn/11555/list.htm,,,,,
+129,黑龙江省,东北农业大学,哈尔滨市,211,公办,115,https://www.neau.edu.cn/zsjy.htm,,shuji@neau.edu.cn; xiaozhang@neau.edu.cn,,https://graduate.neau.edu.cn/,,,,https://gjjl.neau.edu.cn/,,,"迟勇 副处长（会议。会谈伊始，陈庆山代表学校对代表团来访表示欢迎，对两校长期以来紧密合作取得的）（邮箱未公开）
+迟勇办 副处长（邮箱未公开）
+卢铁光 处长（邮箱未公开）
+陈致广 副科长（邮箱未公开）
+李银女 科长（邮箱未公开）
+迟勇及 副处长（负责人热情接待了代表团一行）（邮箱未公开）",,
+130,黑龙江省,东北林业大学,哈尔滨市,211,公办,105,http://job.nefu.edu.cn/,,Jiuye@nefu.edu.cn,0451-82192212,https://gra.nefu.edu.cn/,,yjsy@nefu.edu.cn,,https://ico.nefu.edu.cn/,,nefu_gjhzc@163.com,"计晓艳 副处长（邮箱未公开）
+孙治平 处长（邮箱未公开）
+计晓艳 副处长: nefu_gjhzc@163.com
+的选聘 助理（负责学生助理的选聘、考核和日常管理工作；）（邮箱未公开）",,
+131,黑龙江省,哈尔滨工程大学,哈尔滨市,211,公办,43,http://www.hrbeu.edu.cn/zsjy1.htm,,,0451-82519222,https://yjsy.hrbeu.edu.cn,,,0451-82518910,https://fao.hrbeu.edu.cn/,,,,,
+132,黑龙江省,佳木斯大学,佳木斯市,双非,公办,400,https://jmsu.gxbys.org.cn/,,,0454-8618138; 0454-8618867,https://yjs.jmsu.edu.cn/,,,0454-8618805; 0454-8618499,https://iecd.jmsu.edu.cn/,,,,,
+133,黑龙江省,哈尔滨体育学院,哈尔滨市,双非,公办,未上榜/独立榜,http://www.hrbipe.edu.cn/zzsjy/bsszsh.htm,,,0451-82733741,http://www.hrbipe.edu.cn/yjsy/,,,,,,,,,
+134,黑龙江省,哈尔滨医科大学,哈尔滨市,双非,公办,120,http://www.hrbmu.edu.cn/zsjy1.htm,,,,http://yjsy.hrbmu.edu.cn,,,,http://www.hrbmu.edu.cn/gjjlc/,,,,,
+135,黑龙江省,哈尔滨商业大学,哈尔滨市,双非,公办,320,https://www.hrbcu.edu.cn/zsjy.htm,,,,https://yjsc.hrbcu.edu.cn/,,,,https://gjjyxy.hrbcu.edu.cn/,,hsdgjhzc@126.com,,0451-84604831,
+136,黑龙江省,哈尔滨学院,哈尔滨市,双非,公办,,http://jypt.hrbu.edu.cn/frontpage/hrbu/html/index.html,,,0451-86658318; 0451-87081201,http://www.hrbu.edu.cn/yjsc/index.htm,,,,http://www.hrbu.edu.cn/ws/,,,,,
+137,黑龙江省,哈尔滨师范大学,哈尔滨市,双非,公办,240,,,,,,,,,,,,,,官网不可达：全部方式失败
+138,黑龙江省,哈尔滨建筑科技职业大学,哈尔滨市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
+139,黑龙江省,哈尔滨理工大学,哈尔滨市,双非,公办,200,http://www.hrbust.edu.cn/zsjy.htm,,,,https://graduate.hrbust.edu.cn/3907/list.htm,,,,http://www.hrbust.edu.cn/gjhz.htm,,,,,
+140,黑龙江省,哈尔滨职业技术大学,哈尔滨市,双非,公办,,http://hzjxy.jysd.com,,,0451-58971201,,,,,http://www.hrbzy.edu.cn/gjxy,,hvtcgjhzjlc@163.com,,0451-86662281; 0451-86669663,
+141,黑龙江省,哈尔滨金融学院,哈尔滨市,双非,公办,560,,,,,,,,,,,,,,官网不可达：全部方式失败
+142,黑龙江省,哈尔滨音乐学院,哈尔滨市,双非,公办,,http://www.hrbcm.edu.cn/jycs.htm,,yjiancha@126.com,0451-58597677; 0451-58597656; 0451-58597688,http://www.hrbcm.edu.cn/zsgz/yjszs.htm,,,,http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm,,yjiancha@126.com,,0451-58597677; 0451-58597656; 0451-58597688,
+143,黑龙江省,黑龙江中医药大学,哈尔滨市,双非,公办,270,http://zsjyc.hljucm.net/,,,,http://yjsy.hljucm.net/,,bozhongyuan@163.com,,http://www.hljucm.net/index/dwjl.htm,,,,011002000482,
+144,黑龙江省,黑龙江农业工程职业技术大学,哈尔滨市,双非,公办,,,,,,https://mp.weixin.qq.com/s/E2a4ndPa1YJsCLfefgdWLA,公众号二维码（未获取图片）,,,,,,,,
+145,黑龙江省,黑龙江大学,哈尔滨市,双非,公办,145,http://job.hlju.edu.cn,,,0451-86609652; 0451-86608896; 0451-86604215,http://yjsy.hlju.edu.cn/,,,0451-86604902,http://gjjl.hlju.edu.cn/,,,,0451-86608376,
+146,黑龙江省,黑龙江工程学院,哈尔滨市,双非,公办,570,,,,,,,,,,,,,,官网不可达：全部方式失败
+147,黑龙江省,黑龙江科技大学,哈尔滨市,双非,公办,350,http://job.usth.edu.cn/,,,0451-88036988,https://gs.usth.edu.cn/,,,,https://iceo.usth.edu.cn/,,,,15639720627,
+148,黑龙江省,东北石油大学,大庆市,双非,公办,230,http://www.nepu.edu.cn/zsjy1.htm,,Webmaster@nepu.edu.cn,,http://yjsb.nepu.edu.cn,,,19210459783,http://www.nepu.edu.cn/gjjl/xjjl.htm,,Webmaster@nepu.edu.cn,,,
+149,黑龙江省,大庆师范学院,大庆市,双非,公办,490,http://www.dqsy.net/zsjy.htm,,,,,,,,,,,,,
+150,黑龙江省,黑龙江八一农垦大学,大庆市,双非,公办,420,http://www.byau.edu.cn/900/list.htm,,,,http://www.byau.edu.cn/932/list.htm,,,,http://www.byau.edu.cn/934/list.htm,,,,,
+151,黑龙江省,牡丹江医科大学,牡丹江市,双非,公办,,https://www.hljbys.org.cn/school/index?mark=mdjmu,,,,http://www.mdjmu.cn/yjsc/,,,,,,,,,
+152,黑龙江省,牡丹江师范学院,牡丹江市,双非,公办,480,https://mdjnu.gxbys.org.cn/,,,,http://yjs.mdjnu.cn/,,ascmdj@126.com,,,,,,,
+153,黑龙江省,绥化学院,绥化市,双非,公办,510,http://www.shxy.edu.cn/jyzl.htm,,,,,,,,http://www.shxy.edu.cn/xxgk1/dwjlyhzxx.htm,,,,,
+154,黑龙江省,黑龙江工业学院,鸡西市,双非,公办,550,http://www.hljut.edu.cn/a/zsjy/jiuyechuangye/,,,,,,,,http://www.hljut.edu.cn/a/guojijiaoliuhezuochu/,,,,030202000019,
+155,黑龙江省,黑河学院,黑河市,双非,公办,530,https://zsxx.hhxy.edu.cn/,,,,,,,,https://gjjlhzc.hhxy.edu.cn/,,,,,
+156,黑龙江省,齐齐哈尔医学院,齐齐哈尔市,双非,公办,,https://www.hljbys.org.cn/school/index?mark=qmu,,,0452-2663508,https://yjs.qmu.edu.cn/,,qyyzb@qmu.edu.cn,0452-2663828,https://foreignfairs.qmu.edu.cn/,,iesqmu1601@qmu.edu.cn,,0452-2663346; 0452-2663370,
+157,黑龙江省,齐齐哈尔大学,齐齐哈尔市,双非,公办,380,http://job.qqhru.edu.cn/,,,,https://yjs.qqhru.edu.cn,,,,https://iec.qqhru.edu.cn/,,529729107@qq.com,,13846215679; 13704654326,
+158,上海市,上海交通大学,,985,公办,,,,,,,,,,https://global.sjtu.edu.cn/,,globalsjtu@sjtu.edu.cn,"尹海涛 处长: htyin@sjtu.edu.cn
+马威 副处长: mawei@sjtu.edu.cn
+王茜 副处长: wang_qian@sjtu.edu.cn
+谢玮 副处长: wxie@sjtu.edu.cn
+王冲 副处长: chongwang@sjtu.edu.cn",021-34206753,
+159,上海市,华东师范大学,,985,公办,,https://career.ecnu.edu.cn/,,,,https://yjszs.ecnu.edu.cn/,华东师大研招（ECNUyjs）,yjszs@admin.ecnu.edu.cn,021-54344721,http://lxs.ecnu.edu.cn/,,lxs@ecnu.edu.cn,,,
+160,上海市,同济大学,,985,公办,,https://www.tongji.edu.cn/zsjy.htm,,newscenter@tongji.edu.cn,009102000038,http://gs.tongji.edu.cn/,,,,http://fao.tongji.edu.cn/,,,,2165982612,
+161,上海市,复旦大学,,985,公办,,https://www.fudan.edu.cn/2019/0506/c431a103172/page.htm,,career@fudan.edu.cn,8621-65642288; 021-65642222,https://www.fudan.edu.cn/516/list.htm,,,021-65642222,https://ogp.fudan.edu.cn/16077/list.htm,,,孔子学 副主任: confucius@fudan.edu.cn,021-65642260; 021-65649524,
+162,上海市,上海外国语大学,,211,公办,,https://www.shisu.edu.cn/admissions/index.html,,,,,,,,https://oice.shisu.edu.cn/,,,,,
+163,上海市,上海大学,,211,公办,,https://www.shu.edu.cn/zsjy.htm,,,021-96928188; 009102000049,https://yjszs.shu.edu.cn/,,,02166133763,https://global.shu.edu.cn/,上海大学留学生公众号,,"党委 书记: shwlna@t.shu.edu.cn
+综合 主任: jinxiao98@163.com",,
+164,上海市,上海财经大学,,211,公办,,https://career.sufe.edu.cn/,,jyzd@mail.shufe.edu.cn,021-65904215,https://gs.sufe.edu.cn/,,yjsy@mail.shufe.edu.cn; yzb@mail.shufe.edu.cn,021-65904625; 021-65903795,https://ieco.shufe.edu.cn/,相关宣传连接中报名欢迎广大师生积极参与,ieco@mail.sufe.edu.cn,,,
+165,上海市,东华大学,,211,公办,,http://ejob.dhu.edu.cn/,扫描左侧二维码获取最新资讯,pluswin6@pluswin-china.com; houzhiqi@sh.chinalife-p.com.cn; job@dhu.edu.cn,021-67792486,http://gs.dhu.edu.cn/,,yjsdep@dhu.edu.cn,,https://ico.dhu.edu.cn/,,ico@dhu.edu.cn,"处长: xhqin@dhu.edu.cn
+副处长: snow@dhu.edu.cn",,
+166,上海市,华东理工大学,,211,公办,,https://www.ecust.edu.cn/585/list.htm,,,009102000037,http://gschool.ecust.edu.cn/,,,15710144202,http://kjc.ecust.edu.cn/8373/list.htm,,,"院长（职责： 负责科研院全面工作）: qyang@ecust.edu.cn
+副院长（职责： 分管 先进技术与 装备研究院、先进技术项目与平台管理部）: qxzhuang@ecust.edu.cn
+副院长（职责： 分管 基础研究部 、 成果奖励部、科创中心（上海）建设与）: yfjia@ecust.edu.cn
+副院长（职责： 分管 产学研合作部、知识产权运营部、产业科创平台管理部）: yinwei@ecust.edu.cn
+主任（职责：科研院综合事务管理）: maxiaolei@ecust.edu.cn
+主任（职责： 科技创新战略规划与政策研究）: liukaizhen@ecust.edu.cn
+主任（职责： 国家自然科学基金委项目管理）: nsfc@ecust.edu.cn
+主任（职责 ： 纵向科研基地与平台及开放基金项目管理）: gxzhang@ecust.edu.cn
+主任（职责： 国家部委纵向项目管理）: gxjs@ecust.edu.cn
+主任（职责： 国家奖、省部级奖、社会力量设奖）: xlwang@ecust.edu.cn
+主任（职责： 上海市项目管理）: shst@ecust.edu.cn
+主任（职责： 产学研合作）: boshih@ecust.edu.cn
+主任（职责： 成果转化项目管理）: wangsuli@ecust.edu.cn
+主任（职责： 校企校地产业科创平台筹建与管理）: ligang@ecust.edu.cn
+副院长（职责： 先进技术与合作）: sulin@ecust.edu.cn
+主任（职责： 先进技术项目与平台管理）: tanggz@ecust.edu.cn
+主任（职责： 《华东理工大学学报（自然科学版）》与《功能高分子学报》的）: liuyaping@ecust.edu.cn",,
+167,上海市,第二军医大学,,211,公办,,,,,,,,,,,,,,,官网不可达：军队院校，国际处信息不公开
+168,上海市,上海中医药大学,,双一流,公办,,https://jy.shutcm.edu.cn/,,,17875834001,http://yjsy.shutcm.edu.cn,,,,https://gjc.shutcm.edu.cn/,,,,,
+169,上海市,上海体育学院,,双一流,公办,,,,,,,,,,https://wsc.sus.edu.cn/,,,,,官网不可达：官网未知
+170,上海市,上海海洋大学,,双一流,公办,,https://jcxt.shou.edu.cn/,,,,http://yjs.shou.edu.cn/13946/list.htm,,,,https://ieo.shou.edu.cn/,,ieo@shou.edu.cn,,,
+171,上海市,上海科技大学,,双一流,公办,,https://career.shanghaitech.edu.cn/,,,18120716234; 032613120834; 032613131827,,,,,https://oia.shanghaitech.edu.cn/,,,,,
+172,上海市,上海音乐学院,,双一流,公办,,,,,,,,,,https://www.shcmusic.edu.cn/1449/list.htm,,,,17816874; 7889684; 67262574,
+173,云南省,云南大学,,211,公办,,http://jobs.ynu.edu.cn/,微信二维码(单独二维码),ydxsjyzx@126.com,0871-65148526; 0871-65033859; 0871-65931992,http://www.grs.ynu.edu.cn/,,,,http://english.ynu.edu.cn/,,,,,
+174,内蒙古自治区,内蒙古大学,,211,公办,,http://zhaosheng.imu.edu.cn/,,ndzsb@imu.edu.cn,,https://gs.imu.edu.cn/,,ndgs@imu.edu.cn,,http://ice.imu.edu.cn/,,fao@imu.edu.cn,,,
+175,北京市,中国人民大学,,985,公办,,,,,,https://www.ruc.edu.cn/yanjiushengpeiyang.html,,,,https://pgs.ruc.edu.cn/gats.htm,,,,,
+176,北京市,中国农业大学,,985,公办,,https://www.cau.edu.cn/zsjy/index.htm,,xwzx@cau.edu.cn,,https://www.cau.edu.cn/jyjx/yjsjy/index.htm,,,,https://global.cau.edu.cn/,,,,,
+177,北京市,中央民族大学,,985,公办,,https://www.muc.edu.cn/zsjy/zs/bykzs.htm,,,010-68932442,,,,,https://www.muc.edu.cn/gjjl.htm,,,,010-68932442,
+178,北京市,北京大学,,985,公办,,,,,,https://www.pku.edu.cn/recruit.html#undergraduate,,its@pku.edu.cn,,https://hmt.pku.edu.cn/,,its@pku.edu.cn,"副主任: gangaotai@pku.edu.cn
+副主任: liyun@pku.edu.cn
+副主任: jzhou@pku.edu.cn
+主任: lin2009@pku.edu.cn",,
+179,北京市,北京师范大学,,985,公办,,https://www.bnu.edu.cn/zsjy/index.htm,,,040102700202,http://jwb.bnu.edu.cn/,,jwb@bnu.edu.cn,,http://oiec.bnu.edu.cn/,,,"孔管理 主任: tengjun1983@bnu.edu.cn
+李中山 副处长（负责留学生管理、国际学生短期项目、学生境外交流、中外合作办学）: lzs@bnu.edu.cn
+戴淑君 副处长（负责因公派出、规划和综合业务、英文润色）: daisj@bnu.edu.cn",010-58808285,
+180,北京市,北京理工大学,,985,公办,,https://www.bit.edu.cn/zsjysjb/index.htm,,,,http://grd.bit.edu.cn/,,grd@bit.edu.cn,,https://www.bit.edu.cn/,,,,,
+181,北京市,北京航空航天大学,,985,公办,,https://www.buaa.edu.cn/zsjy.htm,,,,https://www.buaa.edu.cn/jyjx/yjsjy1.htm,,,,https://global.buaa.edu.cn/,,,"白琳 部长（主持全面工作）: international@buaa.edu.cn
+吴晓君 副部长（分管全校国际学生招生工作、国际学生研究生教学工作）: xiaojunwu@buaa.edu.cn
+金天 副部长（分管国际化战略制定、国际关系拓展、校级来访出访大型外事活动、学生）: jintian@buaa.edu.cn
+刘娜 副部长（分管全校教工及学生因公出国（境）业务、国际学生管理工作）: liuna@buaa.edu.cn
+苏力 副部长（分管引智项目建设、国际会议管理、外籍专家学者来华管理服务、国际学）: suli@buaa.edu.cn
+廖伟骏 副部长: liaowj18@buaa.edu.cn
+略合作 主任（负责大型外事活动、涉外合作协议、国际组织及大学联盟等）: fanhang@buaa.edu.cn
+出工作 主任: cgk@buaa.edu.cn
+生管理 主任（负责国际本科生管理事务 传）: zhao_shuang@buaa.edu.cn
+生教务 主任（负责国际学生招生及奖学金事务）: gaoyuan@buaa.edu.cn
+文教育 主任（负责中文国际教育项目与教学）: is_office@buaa.edu.cn",,
+182,北京市,清华大学,,985,公办,,https://www.tsinghua.edu.cn/zsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/jyjx/yjsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/hzjl/gjhz.htm,,webmaster@tsinghua.edu.cn,,010-62793001,
+183,北京市,中国传媒大学,,211,公办,,https://www.cuc.edu.cn/zsjy/list.htm,,,,http://www.cuc.edu.cn/9998/list.htm#rc-main2,,,,https://international.cuc.edu.cn/,,kzxy@cuc.edu.cn,,,
+184,北京市,中国地质大学（北京）,,211,公办,,http://jiuye.cugb.edu.cn/,,jyxsc@126.com,909355733,https://graduate.cugb.edu.cn,,,,https://gjhzc.cugb.edu.cn/,,,,,
+185,北京市,中国政法大学,,211,公办,,,,,,,,,,http://gjhzjlc.cupl.edu.cn/,,,,,
+186,北京市,中国石油大学（北京）,,211,公办,,http://career.cup.edu.cn/,,cupjiuye@qq.com; job89731016@163.com,010-89733499; 010-89731016,https://grs.cup.edu.cn/,邮编,,,https://www.cup.edu.cn/overseas/index.htm,,admission@cup.edu.cn; cie.office@cup.edu.cn; cie.dailyservices@cup.edu.cn,,,
+187,北京市,中国矿业大学（北京）,,211,公办,,https://www.cumtb.edu.cn/zsjy.htm,,,,http://yjs.cumtb.edu.cn/,,,,https://international.cumtb.edu.cn/,,,,,
+188,北京市,中央财经大学,,211,公办,,https://www.cufe.edu.cn/zsjy.htm,,,,http://gs.cufe.edu.cn/,,,,http://int.cufe.edu.cn/,,,,,
+189,北京市,中央音乐学院,,211,公办,,https://www.ccom.edu.cn/zsyjy.htm,,,,,,,,https://www.ccom.edu.cn/info/18061/267901.htm,,,,,
+190,北京市,北京中医药大学,,211,公办,,https://www.bucm.edu.cn/zsjy1/index.htm,,,,http://yanjiusheng.bucm.edu.cn/,,,,https://international.bucm.edu.cn/,,,,,
+191,北京市,北京交通大学,,211,公办,,http://job.bjtu.edu.cn/,,jyb113@126.com; bjtujobwx@126.com; bjtujob@163.com,010-51688431; 010-51685913; 010-51682911,https://yzb.bjtu.edu.cn/,,bjtuzgxy@bjtu.edu.cn,,https://intl.bjtu.edu.cn/,,bjtu-intl@bjtu.edu.cn,,,
+192,北京市,北京体育大学,,211,公办,,https://www.bsu.edu.cn/zsjy/index.htm,,,,https://www.bsu.edu.cn/kxyjsy/index.htm,,xiaoban@bsu.edu.cn,040202430168; 14015216941; 13585035162,http://wsc.bsu.edu.cn/,,wsc@bsu.edu.cn,,,
+193,北京市,北京化工大学,,211,公办,,https://www.buct.edu.cn/zsjy_11437/list.htm,,news@mail.buct.edu.cn,,http://graduate.buct.edu.cn/,,,,https://iecd.buct.edu.cn/,,,"处长（主管国际处及港澳台事务办公室全面工作）: zhangbing@buct.edu.cn
+副处长: fengjh@buct.edu.cn",,
+194,北京市,北京外国语大学,,211,公办,,https://jyzd.bfsu.edu.cn/,,jyzd@bfsu.edu.cn,010-88816211,https://graduate.bfsu.edu.cn/,,,,https://international.bfsu.edu.cn/,,,,,
+195,北京市,北京工业大学,,211,公办,,http://admissions.bjut.edu.cn/,,,010-67391609,https://www.bjut.edu.cn/jyjx/yjsjy1.htm,,,010000000606,https://international.bjut.edu.cn/,,,,,
+196,北京市,北京林业大学,,211,公办,,http://job.bjfu.edu.cn,,,,http://graduate.bjfu.edu.cn/,,,,https://international.bjfu.edu.cn/,,gjc@bjfu.edu.cn,,,
+197,北京市,北京科技大学,,211,公办,,https://www.ustb.edu.cn/zsjy/index.htm,,,,http://yzxc.ustb.edu.cn/,,,,https://oice.ustb.edu.cn/,,,,,
+198,北京市,北京邮电大学,,211,公办,,,,,,,,,,https://www.bupt.edu.cn/hzjl.htm,,,,,官网不可达：requests失败
+199,北京市,华北电力大学,,211,公办,,https://www.ncepu.edu.cn/zsjy/index.htm,,,,https://yjsy.ncepu.edu.cn/,,,,https://icd.ncepu.edu.cn/,,,,,
+200,北京市,对外经济贸易大学,,211,公办,,https://www.uibe.edu.cn/zsjy/index.htm,,,,https://yjsy.uibe.edu.cn/,,,,https://international.uibe.edu.cn/,,,,,
+201,北京市,中国人民公安大学,,双一流,公办,,https://www.ppsuc.edu.cn/zsjy.htm,,gadx@ppsuc.edu.cn,,https://yzb.ppsuc.edu.cn/,,yzb@ppsuc.edu.cn,,https://www.ppsuc.edu.cn/dwjl.htm,,gadx@ppsuc.edu.cn,,,
+202,北京市,中国科学院大学,,双一流,公办,,https://www.ucas.ac.cn/zsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/jyjx/yjsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/hzjl/gjhz/index.htm,,,,,
+203,北京市,中国音乐学院,,双一流,公办,,,,,,http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm,,,010-64887561,https://gjjl.ccmusic.edu.cn/,,zyywb@126.com; gmel_ccmjec@163.com,,,
+204,北京市,中央戏剧学院,,双一流,公办,,,,,,,,,,https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html,,zhongxi@zhongxi.cn,,,
+205,北京市,中央美术学院,,双一流,公办,,https://jy.cafa.edu.cn,,,,https://www.cafa.edu.cn/sp/2022clinks/?cs=1201,,,,https://global.cafa.edu.cn/,,lxs@cafa.edu.cn,,,
+206,北京市,北京协和医学院,,双一流,公办,,https://www.pumc.edu.cn/jyjx/zsjy/index.htm,,,040202450060,http://graduate.pumc.edu.cn/,北京协和医学院研究生院,,,https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm,,,,,
+207,北京市,外交学院,,双一流,公办,,,,,,https://yjsb.cfau.edu.cn/,,,,https://wjxx.cfau.edu.cn/,,,,,
+208,北京市,首都师范大学,,双一流,公办,,https://www.cnu.edu.cn/zsjy/index.htm,,info@cnu.edu.cn,,https://www.cnu.edu.cn/jyjx/index.htm?mao=b02,,info@cnu.edu.cn,,https://io-hkmt.cnu.edu.cn/,,info@cnu.edu.cn,,,
+209,四川省,四川大学,,985,公办,,,,,,,,,,https://international.scu.edu.cn/,,international@scu.edu.cn; nic8203@scu.edu.cn,,,官网不可达：requests失败
+210,四川省,电子科技大学,,985,公办,,https://jiuye.uestc.edu.cn/career/,用人单位,jyzdzx@uestc.edu.cn,028-61831789,https://gr.uestc.edu.cn/,,,,http://www.oice.uestc.edu.cn/,,,,,
+211,四川省,四川农业大学,,211,公办,,https://job.sicau.edu.cn/,川农就业系统小程序,job2501@163.com; scndjy@163.com; djyjiuye@163.com,0835-2882800（; 0835-2882800; 028-86290666,https://yan.sicau.edu.cn/,,,,https://ic.sicau.edu.cn/,,,,,
+212,四川省,西南交通大学,,211,公办,,https://www.swjtu.edu.cn/zsjy.htm,,zszx@swjtu.edu.cn; yzb@home.swjtu.edu.cn; cjzs@swjtu.edu.cn,028-87600332; 028-87634132,https://yz.swjtu.edu.cn/web/index.html,,,028-66366757; 028-66366756; 028-66367138,https://fad.swjtu.edu.cn/,,,,,
+213,四川省,西南财经大学,,211,公办,,https://www.swufe.edu.cn/zsjy.htm,,webmaster@swufe.edu.cn,010502010087,https://graduate.swufe.edu.cn/,,yjsy@swufe.edu.cn,（028）87092032; 028-87092482,https://oiec.swufe.edu.cn/,,oiec@swufe.edu.cn,,,
+214,四川省,成都中医药大学,,双一流,公办,,https://zyd.cdutcm.edu.cn/zsjy,成中医微学工,cdutcmzsxc@163.com,028-61800090,https://zyd.cdutcm.edu.cn/yjs,,,82713803; 82717572; 82716812,https://zyd.cdutcm.edu.cn/gjjyxy,,info@cdutcm.edu.cn; IEC.CWCM@cdutcm.edu.cn; IEC.GATQ@cdutcm.edu.cn,,89461393; 55211931; 82845489,
+215,四川省,成都理工大学,,双一流,公办,,,,,,,,,,https://dice.cdut.edu.cn/,,,,,官网不可达：requests失败
+216,四川省,西南石油大学,,双一流,公办,,http://jyzx.swpu.edu.cn/,投递简历时选择,swpu_jyjb@163.com; swpu_jyzx@163.com,028-83035257; 028-83037077,https://www.swpu.edu.cn/gs/,,,,https://www.swpu.edu.cn/oice/,,oiaswpu@163.com,,,
+217,天津市,南开大学,,985,公办,,https://www.nankai.edu.cn/239/list.htm,,,,http://graduate.nankai.edu.cn,,,,https://international.nankai.edu.cn/,,exchange@nankai.edu.cn,"袁明鉴 处长（职责： 全面主持处内工作 办公）: yuanmj@nankai.edu.cn
+李华 副处长（职责： 分管日韩交流工作、师生服务科事务、孔子学院工作管理科事务）: lihua@nankai.edu.cn
+罗景山 副处长（职责： 分管对外交流工作、港澳台工作、国际胜任力服务科工作）: jingshan.luo@nankai.edu.cn",,
+218,天津市,天津大学,,985,公办,,https://www.tju.edu.cn/zsjy.htm,官方微信号,,,https://www.tju.edu.cn/zsjy.htm#zsjy03,官方微信号,,,https://www.tju.edu.cn/gjjl.htm,官方微信号,,,,
+219,天津市,天津医科大学,,211,公办,,,,,,,,,,https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm,,,,,官网不可达：requests失败
+220,天津市,天津中医药大学,,双一流,公办,,https://jiuye.tjutcm.edu.cn/,,,022-59596207,https://yjsy.tjutcm.edu.cn/,,,13472365958,https://iec.tjutcm.edu.cn/,,tutcm@hotmail.com,,,
+221,天津市,天津工业大学,,双一流,公办,,,,,,,,,,https://io.tiangong.edu.cn/,,,面工作 副主任（主持港澳台事务办公室全面工作 副主任 赵世怀 分管涉港澳台校际交）: andyzhang@tiangong.edu.cn,,官网不可达：requests失败
+222,宁夏回族自治区,宁夏大学,,211,公办,,https://www.nxu.edu.cn/zsjy.htm,,,0951-2077800,http://graduate.nxu.edu.cn/,,,,https://hzjl.nxu.edu.cn/,,,,,
+223,安徽省,中国科学技术大学,,985,公办,,,,,,https://gradschool.ustc.edu.cn/,,yjsy@ustc.edu.cn,0551-63601958,https://oic.ustc.edu.cn/,,fanjiangqi@ustc.edu.cn; oic@ustc.edu.cn,,0551-63606695,
+224,安徽省,合肥工业大学,,211,公办,,http://bkzs.hfut.edu.cn/,,length-1,,http://yjsy.hfut.edu.cn/,,,,https://international.hfut.edu.cn/,,,,,
+225,安徽省,安徽大学,,211,公办,,,,,,,,,,http://gjc.ahu.edu.cn/,,,,,官网不可达：requests失败
+226,山东省,中国海洋大学,,985,公办,,http://career.ouc.edu.cn/default.html,,,15028551517; 13432724776; 15087259867,http://grad.ouc.edu.cn/13039/list.htm,,yjsy@ouc.edu.cn,,https://intl.ouc.edu.cn/,,news@ouc.edu.cn,,021202000030,
+227,山东省,山东大学,,985,公办,,https://www.job.sdu.edu.cn/,,,,https://www.grad.sdu.edu.cn/,,pgs@sdu.edu.cn,,https://www.ipo.sdu.edu.cn/,,,,,
+228,山东省,中国石油大学（华东）,,211,公办,,https://career.upc.edu.cn/,,,,http://gs.upc.edu.cn/,,,08403691997,https://io.upc.edu.cn/,,mail@upc.edu.cn,,,
+229,山西省,太原理工大学,,211,公办,,https://www.tyut.edu.cn/zsjy.htm,,English; tyutxcb@tyut.edu.cn,14010902001,http://www.gs.tyut.edu.cn/,,tyutgs@tyut.edu.cn,14010902001,https://www.tyut.edu.cn/hzjl/gjhz2.htm,,tyutxcb@tyut.edu.cn,,,
+230,山西省,山西大学,,双一流,公办,,https://www.sxu.edu.cn/zty/zsjy/index.html,,@sxu.edu.cn; @email.sxu.edu.cn,0351-7010255,http://yjszsw.sxu.edu.cn/,,,0351-7010322,https://wsc.sxu.edu.cn/,,,,,
+231,广西壮族自治区,广西大学,,211,公办,,https://www.gxu.edu.cn/zsjy1.htm,,webmaster@gxu.edu.cn,010702000001; 000000040700,http://yjsc.gxu.edu.cn/,,yjsy@gxu.edu.cn,0771-3237012; 0771-3231243; 0771-3232827,https://gjjl.gxu.edu.cn/,,gjc@gxu.edu.cn,,,
+232,新疆维吾尔自治区,新疆大学,,211,公办,,https://www.xju.edu.cn/<span style='color:red;font-size:9pt'>转换链接错误</span>,,,,https://www.xju.edu.cn/rcpy1/yjsjy.htm,,,,https://gjjlc.xju.edu.cn/,,xjdxgjc@xju.edu.cn,副处长: xjdxgjc@xju.edu.cn,,
+233,新疆维吾尔自治区,石河子大学,,211,公办,,,,,,,,,,https://wsbm.shzu.edu.cn/,,webmaster@shzu.edu.cn,,,官网不可达：requests失败
+234,江苏省,东南大学,,985,公办,,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,https://oic.seu.edu.cn/,,,,,
+235,江苏省,南京大学,,985,公办,,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,,,
+236,江苏省,中国矿业大学,,211,公办,,http://www.91job.org.cn/sub-station/home/10290,,,,http://gs.cumt.edu.cn/,,,,https://international.cumt.edu.cn/,,international@cumt.edu.cn,,,
+237,江苏省,中国药科大学,,211,公办,,http://cpu.91job.org.cn,,,,http://yjsy.cpu.edu.cn/,,,,https://international.cpu.edu.cn/,,admission@cpu.edu.cn,,,
+238,江苏省,南京农业大学,,211,公办,,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,https://intl.njau.edu.cn/,南农国际教育,,,,
+239,江苏省,南京师范大学,,211,公办,,,,,,,,,,https://gjc.njnu.edu.cn/,,,,,官网不可达：requests失败
+240,江苏省,南京理工大学,,211,公办,,,,,,,,,,https://gjc.njust.edu.cn/,,,,,官网不可达：requests失败
+241,江苏省,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,,,
+242,江苏省,江南大学,,211,公办,,http://jiangnan.91job.org.cn,,,,http://gs.jiangnan.edu.cn/,官方微博,yjsy@jiangnan.edu.cn,0510-85913652（,http://guojiaochu.jiangnan.edu.cn/,,gjch@jiangnan.edu.cn,"副处长: cherrycai@jiangnan.edu.cn
+副处长: jqin@jiangnan.edu.cn",,
+243,江苏省,河海大学,,211,公办,,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,https://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,,,
+244,江苏省,苏州大学,,211,公办,,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://international.suda.edu.cn/,Copyright,,,,
+245,江苏省,南京中医药大学,,双一流,公办,,https://njucm.91job.org.cn/sub-station/home/10315,,,,http://gra.njucm.edu.cn/,,,,http://ice.njucm.edu.cn/,,,,,
+246,江苏省,南京信息工程大学,,双一流,公办,,https://www.nuist.edu.cn/zsjy.htm,,xb@nuist.edu.cn,86-25-58731101,https://yjs.nuist.edu.cn/,Copyright,yjs@nuist.edu.cn,,http://ico.nuist.edu.cn/,,,,,
+247,江苏省,南京医科大学,,双一流,公办,,http://njmu.91job.org.cn/,,,,http://yjsy.njmu.edu.cn/,,,,http://ice.njmu.edu.cn/,,gjb@njmu.edu.cn,,,
+248,江苏省,南京林业大学,,双一流,公办,,http://njfu.91job.org.cn/,,,,https://gsnfu.njfu.edu.cn/,,,,https://ghc.njfu.edu.cn/,,,,,
+249,江苏省,南京邮电大学,,双一流,公办,,https://www.njupt.edu.cn/46/list.htm,,njupt@njupt.edu.cn,（86）-25-85866888,http://yzb.njupt.edu.cn/,,yzb@njupt.edu.cn,025-83492350,https://dice.njupt.edu.cn/,,,"院长: sj-coe@njupt.edu.cn
+院长: coe@njupt.edu.cn",,
+250,江西省,南昌大学,,211,公办,,https://www.ncu.edu.cn/zsjy.htm,,,010802000198,https://www.ncu.edu.cn/rcpy/yjsjy.htm,,,010802000198,https://gjc.ncu.edu.cn/,,gjjlc@ncu.edu.cn,,,
+251,河北省,河北工业大学,,211,公办,,http://career.hebut.edu.cn,,,,https://yjs.hebut.edu.cn,河北工业大学,,,https://io.hebut.edu.cn/,,,"处长（职责：主持全面工作）: luckyzhaoyy@126.com
+副处长（职责：分管中外合作办学、外专引智、公派留学、出国境及校际交流）: fengyong@hebut.edu.cn
+主任（职责：出国境审批、综合事务）: maxinxing@hebut.edu.cn
+干事（职责：外国专家和引才引智、国家公派留学）: yhtian@hebut.edu.cn
+干事（职责：中外合作办学项目、出国境审批）: 2021093@hebut.edu.cn",,
+252,河南省,郑州大学,,211,公办,,https://www.zzu.edu.cn/zsjy.htm,郑州大学-微信,function,019702002177,http://gs.zzu.edu.cn/,,,,http://international.zzu.edu.cn/en/course?cid=4&pid=4,,,,,
+253,河南省,河南大学,,双一流,公办,,https://www.henu.edu.cn/zsjy.htm,,,,https://grs.henu.edu.cn/,Copyright,yjsy@henu.edu.cn,,https://www.henu.edu.cn/gjjl.htm,,,,,
+254,浙江省,浙江大学,,985,公办,,,,,,,,,,http://www.ir.zju.edu.cn/,,oge@zju.edu.cn; hmt@zju.edu.cn,,,
+255,浙江省,中国美术学院,,双一流,公办,,,,,,,,,,,,,,,
+256,浙江省,宁波大学,,双一流,公办,,https://ndjy.nbu.edu.cn/,,byb@nbu.edu.cn,0574-87600228,https://graduate.nbu.edu.cn/,,,0574-87609123,https://iso.nbu.edu.cn/,,,,,
+257,海南省,海南大学,,211,公办,,https://www.hainanu.edu.cn/zsjy.htm,,,010802000692,https://ha.hainanu.edu.cn/gs/,,,,https://global.hainanu.edu.cn/,,,信箱校 书记（邮箱未公开）,,
+258,湖北省,华中科技大学,,985,公办,,https://www.hust.edu.cn/zsjy.htm,,,027-87541114,http://gs.hust.edu.cn/,,yzxx@hust.edu.cn,027-87542152,https://oia.hust.edu.cn/,,international@hust.edu.cn,"开展工 副主任（邮箱未公开）
+陈洁 处长（邮箱未公开）
+盛静波 副处长（邮箱未公开）
+江静 副处长（分管交流事务一）（邮箱未公开）
+韩晶 副处长（分管综合事务）（邮箱未公开）
+彭雨蒙 副处长（分管交流事务二）（邮箱未公开）",027-87541114,
+259,湖北省,武汉大学,,985,公办,,,,,,https://www.whu.edu.cn/rcpy.htm#md2,,,027-68752059,https://oir.whu.edu.cn/,,,"彭国晖 主任（邮箱未公开）
+邓鹤翔 部长（全面负责国际交流部工作， 分管 综合）（邮箱未公开）
+刘晓黎 副部长（分管 欧亚非事务）（邮箱未公开）
+何小英 副部长（分管 法国、法语区国家交流工作 、武汉法语）（邮箱未公开）
+章臣 副部长（分管美大事务）（邮箱未公开）
+张卫星 副部长（分管 外国专家工作）（邮箱未公开）",027-68752059,
+260,湖北省,中南财经政法大学,,211,公办,,https://www.zuel.edu.cn/recruit_jobs/,,,018502002264,http://yjsy.zuel.edu.cn/,,,,https://gjc.zuel.edu.cn/,,,,,
+261,湖北省,中国地质大学（武汉）,,211,公办,,https://www.cug.edu.cn/zsjy.htm,,,011102004169,http://graduate.cug.edu.cn/,,,027-67885151,https://gjhzc.cug.edu.cn/,,,"兼港澳 处长（主持国际合作处、港澳台地区事务管理等相关工作）（邮箱未公开）
+关庆锋 处长（圆桌会议。他介绍了我校的学科布局、科研进展与国际合作概况。目前学校有近200位学）（邮箱未公开）",,
+262,湖北省,华中农业大学,,211,公办,,https://www.hzau.edu.cn/zsjy/bkszs.htm,,,02787280707; 027-87282027,https://www.hzau.edu.cn/jyjx/yjsjy.htm,,,027-87282027,https://fao.hzau.edu.cn/,,fao@mail.hzau.edu.cn,"部长（职责分工： 全面主持国际合作与交流部工作）: zenghx@mail.hzau.edu.cn
+副部长（职责分工： 主管海外合作关系维护与拓展）: caozhen@mail.hzau.edu.cn",,
+263,湖北省,华中师范大学,,211,公办,,https://www.ccnu.edu.cn/zsjy/bysjy.htm,,,027-67868046; 027-67867020; 011102000286,https://www.ccnu.edu.cn/rcpy/yjsjy.htm,,,027-67866926,https://hmt.ccnu.edu.cn/,,,邢军志 副主任（负责人樊…）（邮箱未公开）,,
+264,湖北省,武汉理工大学,,211,公办,,https://www.whut.edu.cn/zhaoshengjiuye/,,English,027-87859017; 027-87651413; 027-87880058,https://www.whut.edu.cn/rencaipeiyang/yjsjy/,,,,https://gjc.whut.edu.cn/,,waishi@whut.edu.cn,,,
+265,湖南省,中南大学,,985,公办,,https://www.csu.edu.cn/zsjy.htm,,homepage@csu.edu.cn,0731-88876114,http://gra.csu.edu.cn,,,,https://iecd.csu.edu.cn/,,csuwsb@126.com; ied-csu@csu.edu.cn; summerschool@csu.edu.cn,"项目办 主任（邮箱未公开）
+引智办 主任（邮箱未公开）
+交流办 副主任（邮箱未公开）
+入境办 副主任（邮箱未公开）
+综合办 科员（邮箱未公开）",,
+266,湖南省,国防科技大学,,985,公办,,https://www.nudt.edu.cn/zsjy/index.htm,国防科大,English,0731-84576114; 0731-87027137; 0731-87027139,http://yjszs.nudt.edu.cn/index/index.view,,,,,,,,,
+267,湖南省,湖南大学,,985,公办,,https://www.hnu.edu.cn/zsjy.htm,,xiaoban@hnu.edu.cn,,http://gra.hnu.edu.cn/,,,0731-88821224（,http://wsc.hnu.edu.cn/,,,"职责 处长（全面工作）: luozhuowa@hnu.edu.cn
+职责 副处长（合作拓展、学生交流、孔子学院活动、港澳台事务）: luozhuowa@hnu.edu.cn
+职责 副处长（综合事务、因）: katrina_liu@hnu.edu.cn
+职责 科长（学生赴国（境）外交流项目、孔子学院事务、港澳台交流事务）: chejianing@hnu.edu.cn
+职责 科长（综合事务、国际会议申报、国（境）外人员来访审批、孔子学院事务）: chenwenyi@hnu.edu.cn",0731-88823974,
+268,湖南省,湖南师范大学,,211,公办,,http://zsjy.hunnu.edu.cn/,,,0648569883; 071451831580; 037237159775,https://yjsy.hunnu.edu.cn,,yjsynews@hunnu.edu.cn,,https://oiec.hunnu.edu.cn/,,OIEC@HUNNU.EDU.CN,"国际合 处长（邮箱未公开）
+导服务 副主任（分管国际学生工作、孔子学院工作（已任我校驻村帮扶工作队队长）（邮箱未公开）
+生管理 科长（邮箱未公开）
+生管理 科员（邮箱未公开）
+生招生 科长（邮箱未公开）
+生招生 科员（邮箱未公开）
+交流 科长（邮箱未公开）
+交流 科员（邮箱未公开）",,
+269,湖南省,湘潭大学,,双一流,公办,,https://www.xtu.edu.cn/zsjy.htm,,zsk@xtu.edu.cn,0731-58293807,https://www.xtu.edu.cn/jyjx/yjsjyjx.htm,,,030202001058,https://gjjlc.xtu.edu.cn/,,,夏卓琼 副处长（职责:主持行政全面工作；分管综合行政、宣传等工作）（邮箱未公开）,,
+270,甘肃省,兰州大学,,985,公办,,,,,,,,,,https://faoffice.lzu.edu.cn/,,,,,官网不可达：requests失败
+271,福建省,厦门大学,,985,公办,,http://jy.xmu.edu.cn/,,jiuyezhaopin@xmu.edu.cn,0592-2184550,http://gs.xmu.edu.cn/,,YJSY@XMU.EDU.CN,0592-2186259,https://ice.xmu.edu.cn/,,,"处长（主持全处工作）: wzhong@xmu.edu.cn
+副处长（分管海外办学、综合科相关事务）: grace@xmu.edu.cn
+副处长（分管台港澳合作与交流事务）: lijiamian@xmu.edu.cn
+科长（负责综合科日常工作安排、督办与协调；统筹台港澳事务；教职工因公赴）: hxy@xmu.edu.cn
+副科长（负责教职工因公赴欧洲、非洲、南极洲手续；文稿与数据统计）: ylruan@xmu.edu.cn
+科员（负责教职工因公赴美洲、大洋洲及亚洲（非免签国家）手续）: zhangbm@xmu.edu.cn
+科员: wangjl2021@xmu.edu.cn
+科员（负责教职工因公赴港澳手续及亚洲（免签国家）手续）: lms@xmu.edu.cn
+科员（负责国际会议、两岸会议申报；涉外学术活动审批；学生出国（境）审批）: liyinan@xmu.edu.cn
+科员（负责外籍教师和学者签证手续；组织外籍教师交流活动；教职工因私出国）: liujinlong@xmu.edu.cn
+科长（负责交流科协调管理；英国地区交流事宜；口笔译事务）: ltj@xmu.edu.cn
+副科长（负责中外合作办学事务；各类法律文书起草和审核；文稿与数据统计；国）: ymliao@xmu.edu.cn",0592-2180240,
+272,福建省,福州大学,,211,公办,,,,,,https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=yjsjy&type=w,,,,https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w,,,,,
+273,西藏自治区,西藏大学,,211,公办,,,,,,,,,,https://gjc.utibet.edu.cn/,,,,,官网不可达：requests失败
+274,贵州省,贵州大学,,211,公办,,https://www.gzu.edu.cn/70/list.htm,,,0851-88292178,https://gs.gzu.edu.cn/zsgz/list.htm,,,,https://oir.gzu.edu.cn/,,,,,
+275,重庆市,重庆大学,,985,公办,,https://www.cqu.edu.cn/zsjy.htm,,,001060250313; 000004000026,http://graduate.cqu.edu.cn/,,,,http://intex.cqu.edu.cn/,,,,,
+276,重庆市,西南大学,,211,公办,,https://swu.cqbys.com/,,,,http://yjsyygb.swu.edu.cn/,,yanzong209@swu.edu.cn; zljdxxk@swu.edu.cn,,https://gjc.swu.edu.cn/,,,,,
+277,陕西省,西北农林科技大学,,985,公办,,https://www.nwafu.edu.cn/zsjy/index.htm,,zhaoshb@nwafu.edu.cn; zhsh@nwafu.edu.cn; admission@nwafu.edu.cn,029-87080152; 029-87080151; 029-87080155,http://yjshy.nwsuaf.edu.cn/,,ybgsh@nwafu.edu.cn,02504100006; 029-87080155,https://gjc.nwsuaf.edu.cn/,,ipo@nwsuaf.edu.cn,"处长（主持国际合作与交流处（港澳台办、上合项目办公室、丝路联盟办公室）: xiaolongwang@nwafu.edu
+副处长: hxh1977@163.com
+副处长（负责校际交流、合作办学、外籍人员入境管理、教职工出国（境）、留学）: qiaozhe@nwafu.edu.cn
+副处长（负责上合基地建设及 “一带一路”相关 工作）: zouyufeng@nwafu.edu.cn
+副处长（负责 综合管理 、外专引智、 国际科技合作 、港澳台事务）: xuye16@nwafu.edu.cn
+科长（负责行政管理、宣传、港澳台事务和国际会议）: zhuhongqiang@nwafu.edu.cn
+科员: zhouyijuan@nwafu.edu.cn
+科长（负责校际合作）: daiyu@nwafu.edu.cn
+科员: yaoyupei@nwafu.edu.cn
+科员: yuemu@nwafu.edu.cn
+科长（负责师生 因公出国（境） 、 学生公派 留学）: blmgwk@nwafu.edu.cn
+科员: chijinghui@nwafu.edu.cn
+科员: czling@nwafu.edu.cn
+科员: silkroad@nwafu.edu.cn
+科长（负责外专引智、国际科技合作项目和访学项目）: leiyuan@nwafu.edu.cn
+科员: xiaoleitong@nwafu.edu.cn",2987082857,
+278,陕西省,西北工业大学,,985,公办,,http://job.nwpu.edu.cn/home.do,,,,http://gs.nwpu.edu.cn/,Copyright,gs@nwpu.edu.cn,029-88430620; 029-88493641; 029-88430618,https://guoji.nwpu.edu.cn/,,icoffice@nwpu.edu.cn,"教授工 顾问（负责聘请外籍专家、学者为我校兼职、荣誉、顾问教授工作）（邮箱未公开）
+国际教 处长（邮箱未公开）
+国际教 副处长（邮箱未公开）",,
+279,陕西省,西安交通大学,,985,公办,,http://job.xjtu.edu.cn/,,,,https://www.xjtu.edu.cn/rcpy/yjsjy.htm,,,,https://international.xjtu.edu.cn/,,,,,
+280,陕西省,第四军医大学,,211,公办,,,,,,,,,,,,,,,官网不可达：官网未知
+281,陕西省,西北大学,,211,公办,,https://jczx.nwu.edu.cn/,,jiuye@nwu.edu.cn,029-88302514; 029-88303867,https://yjs.nwu.edu.cn/index.htm,研究生院,,029-88308162,https://gj.nwu.edu.cn/index.htm,,,"李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: 20165061@nwu.edu.cn
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: hejing0917@nwu.edu.cn
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: zzh@nwu.edu.cn
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: fanxiaodan@nwu.edu.cn
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: jizhe@nwu.edu.cn
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: 20195422@nwu.edu.cn
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: sunpeng@nwu.edu.cn",,
+282,陕西省,西安电子科技大学,,211,公办,,https://www.xidian.edu.cn/zsjy.htm,,zsb@mail.xidian.edu.cn; sie@xidian.edu.cn; xdmba@mail.xidian.edu.cn,029-88202335; 029-81891244; +86-29-81891161,https://www.xidian.edu.cn/jyjx.htm#C,,,029-88201000,https://oice.xidian.edu.cn/,,fao@xidian.edu.cn,"学中方 院长（负责合作办学和孔子学院相关工作）（邮箱未公开）
+与交流 副部长（负责国际学生学历生教育管理相关工作）: yangzhang1984@gmail.com
+与交流 副部长（负责国际培训、国际教育项目、出国留学服务、国际科技创新与成果转化）: wangx@xidian.edu.cn",,
+283,陕西省,长安大学,,211,公办,,javascriot:;,,,,https://graduate.chd.edu.cn/,版权,,,https://gjhz.chd.edu.cn/,,,"周珍珍 副处长（邮箱未公开）
+杜轶群 副处长（邮箱未公开）
+王菲儿 主任（邮箱未公开）
+李培月 书记（邮箱未公开）",,
+284,陕西省,陕西师范大学,,211,公办,,http://job.snnu.edu.cn/,,jyzx@snnu.edu.cn,029-85310325; 032685310466; 029-85310327,http://newyjs.snnu.edu.cn/,,,029-85318713,https://ipo.snnu.edu.cn/,,ipo@snnu.edu.cn,挂职 副处长: tangkexin880315@163.com,,
+285,青海省,青海大学,,211,公办,,https://www.qhu.edu.cn/zsjy/index.htm,,,010502000029,https://www.qhu.edu.cn/jxjy/yjsjy/index.htm,,,,https://international.qhu.edu.cn/,,qhuwsb@126.com,,,

@@ -31,7 +31,51 @@
     },
     "intl": {
       "url": "http://oice.nenu.edu.cn/",
-      "title": "东北师范大学国际合作与交流处"
+      "title": "东北师范大学国际合作与交流处",
+      "leaders": [
+        {
+          "name": "李阳光",
+          "title": "处长",
+          "duty": "主持国际合作与交流处、港澳台事务办公室工作",
+          "email": "liyg658@nenu.edu.cn"
+        },
+        {
+          "name": "汪晓波",
+          "title": "副处长",
+          "duty": "分管合作科、汉语推广办公室",
+          "email": "wangxb453@nenu.edu.cn"
+        },
+        {
+          "name": "张晗",
+          "title": "副处长",
+          "duty": "分管出国留学科、交流科",
+          "email": "zhangh836@nenu.edu.cn"
+        },
+        {
+          "name": "张拓",
+          "title": "副处长",
+          "duty": "分管留学生科",
+          "email": "zhangt492@nenu.edu.cn"
+        },
+        {
+          "name": "合作",
+          "title": "科长",
+          "duty": "职责： 1. 主持合作科工作",
+          "email": "zhanghw100@nenu.edu.cn"
+        },
+        {
+          "name": "交流",
+          "title": "科长",
+          "duty": "职责： 1. 主持交流科工作",
+          "email": "yanjh691@nenu.edu.cn"
+        },
+        {
+          "name": "语推广",
+          "title": "主任",
+          "duty": "职责： 1. 全面负责汉语国际推广办公室的工作",
+          "email": "lingj493@nenu.edu.cn"
+        }
+      ]
     }
   }
 }

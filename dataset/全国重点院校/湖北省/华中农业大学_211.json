@@ -27,6 +27,20 @@
       "title": "华中农业大学国际合作与交流部",
       "email": [
         "fao@mail.hzau.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "",
+          "title": "部长",
+          "duty": "职责分工： 全面主持国际合作与交流部工作",
+          "email": "zenghx@mail.hzau.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副部长",
+          "duty": "职责分工： 主管海外合作关系维护与拓展",
+          "email": "caozhen@mail.hzau.edu.cn"
+        }
       ]
     }
   },

@@ -15,6 +15,38 @@
       ],
       "phone": [
         "021-34206753"
+      ],
+      "leaders": [
+        {
+          "name": "尹海涛",
+          "title": "处长",
+          "duty": "",
+          "email": "htyin@sjtu.edu.cn"
+        },
+        {
+          "name": "马威",
+          "title": "副处长",
+          "duty": "",
+          "email": "mawei@sjtu.edu.cn"
+        },
+        {
+          "name": "王茜",
+          "title": "副处长",
+          "duty": "",
+          "email": "wang_qian@sjtu.edu.cn"
+        },
+        {
+          "name": "谢玮",
+          "title": "副处长",
+          "duty": "",
+          "email": "wxie@sjtu.edu.cn"
+        },
+        {
+          "name": "王冲",
+          "title": "副处长",
+          "duty": "",
+          "email": "chongwang@sjtu.edu.cn"
+        }
       ]
     }
   },

@@ -16,6 +16,26 @@
       "title": "国际处",
       "email": [
         "exchange@nankai.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "袁明鉴",
+          "title": "处长",
+          "duty": "职责： 全面主持处内工作 办公",
+          "email": "yuanmj@nankai.edu.cn"
+        },
+        {
+          "name": "李华",
+          "title": "副处长",
+          "duty": "职责： 分管日韩交流工作、师生服务科事务、孔子学院工作管理科事务",
+          "email": "lihua@nankai.edu.cn"
+        },
+        {
+          "name": "罗景山",
+          "title": "副处长",
+          "duty": "职责： 分管对外交流工作、港澳台工作、国际胜任力服务科工作",
+          "email": "jingshan.luo@nankai.edu.cn"
+        }
       ]
     },
     "career": {

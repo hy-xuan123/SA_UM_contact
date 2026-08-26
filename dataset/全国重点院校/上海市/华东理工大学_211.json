@@ -16,7 +16,111 @@
     },
     "intl": {
       "url": "http://kjc.ecust.edu.cn/8373/list.htm",
-      "title": "国际合作研发机构"
+      "title": "国际合作研发机构",
+      "leaders": [
+        {
+          "name": "",
+          "title": "院长",
+          "duty": "职责： 负责科研院全面工作",
+          "email": "qyang@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副院长",
+          "duty": "职责： 分管 先进技术与 装备研究院、先进技术项目与平台管理部",
+          "email": "qxzhuang@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副院长",
+          "duty": "职责： 分管 基础研究部 、 成果奖励部、科创中心（上海）建设与",
+          "email": "yfjia@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副院长",
+          "duty": "职责： 分管 产学研合作部、知识产权运营部、产业科创平台管理部",
+          "email": "yinwei@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责：科研院综合事务管理",
+          "email": "maxiaolei@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 科技创新战略规划与政策研究",
+          "email": "liukaizhen@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 国家自然科学基金委项目管理",
+          "email": "nsfc@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责 ： 纵向科研基地与平台及开放基金项目管理",
+          "email": "gxzhang@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 国家部委纵向项目管理",
+          "email": "gxjs@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 国家奖、省部级奖、社会力量设奖",
+          "email": "xlwang@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 上海市项目管理",
+          "email": "shst@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 产学研合作",
+          "email": "boshih@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 成果转化项目管理",
+          "email": "wangsuli@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 校企校地产业科创平台筹建与管理",
+          "email": "ligang@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副院长",
+          "duty": "职责： 先进技术与合作",
+          "email": "sulin@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 先进技术项目与平台管理",
+          "email": "tanggz@ecust.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "职责： 《华东理工大学学报（自然科学版）》与《功能高分子学报》的",
+          "email": "liuyaping@ecust.edu.cn"
+        }
+      ]
     },
     "career": {
       "url": "https://www.ecust.edu.cn/585/list.htm",

@@ -33,6 +33,56 @@
       ],
       "phone": [
         "0431-85166657"
+      ],
+      "leaders": [
+        {
+          "name": "主任兼",
+          "title": "副处长",
+          "duty": "职责： 分管外国专家工作、综合与信息管理科工作",
+          "email": "li_yun@jlu.edu.cn"
+        },
+        {
+          "name": "目管理",
+          "title": "科长",
+          "duty": "职责：负责交流与学生项目管理科全面工作",
+          "email": "liushuang524@jlu.edu.cn"
+        },
+        {
+          "name": "专家",
+          "title": "科长",
+          "duty": "职责：负责专家科全面工作",
+          "email": "qucz@jlu.edu.cn"
+        },
+        {
+          "name": "派出",
+          "title": "科长",
+          "duty": "职责: 负责派出科整体工作",
+          "email": "nianxueni@jlu.edu.cn"
+        },
+        {
+          "name": "协助",
+          "title": "科长",
+          "duty": "职责: 负责教职工因公临时出国（境）任务立卷；教职工因公临时出国",
+          "email": "liujh1030@jlu.edu.cn"
+        },
+        {
+          "name": "作办学",
+          "title": "科长",
+          "duty": "职责：负责合作办学科全面工作",
+          "email": "renxiuyu@jlu.edu.cn"
+        },
+        {
+          "name": "港澳台",
+          "title": "科长",
+          "duty": "职责：负责港澳台科全面工作",
+          "email": "hsf@jlu.edu.cn"
+        },
+        {
+          "name": "息管理",
+          "title": "科长",
+          "duty": "职责：负责综合与信息管理科全面工作",
+          "email": "lichunyi@jlu.edu.cn"
+        }
       ]
     },
     "career": {

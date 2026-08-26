@@ -30,7 +30,27 @@
     },
     "intl": {
       "url": "http://gjjlc.lnu.edu.cn/",
-      "title": "辽宁大学 国际交流处"
+      "title": "辽宁大学 国际交流处",
+      "leaders": [
+        {
+          "name": "曲艺",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "谢名一",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "尹如玉",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   }
 }

@@ -17,7 +17,51 @@
     },
     "intl": {
       "url": "https://gj.nwu.edu.cn/index.htm",
-      "title": "国际合作部"
+      "title": "国际合作部",
+      "leaders": [
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "20165061@nwu.edu.cn"
+        },
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "hejing0917@nwu.edu.cn"
+        },
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "zzh@nwu.edu.cn"
+        },
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "fanxiaodan@nwu.edu.cn"
+        },
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "jizhe@nwu.edu.cn"
+        },
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "20195422@nwu.edu.cn"
+        },
+        {
+          "name": "李鹏飞",
+          "title": "主任",
+          "duty": "职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.",
+          "email": "sunpeng@nwu.edu.cn"
+        }
+      ]
     },
     "career": {
       "url": "https://jczx.nwu.edu.cn/",

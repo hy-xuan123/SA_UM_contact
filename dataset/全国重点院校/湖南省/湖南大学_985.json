@@ -26,6 +26,38 @@
       "title": "国际交流合作",
       "phone": [
         "0731-88823974"
+      ],
+      "leaders": [
+        {
+          "name": "职责",
+          "title": "处长",
+          "duty": "全面工作",
+          "email": "luozhuowa@hnu.edu.cn"
+        },
+        {
+          "name": "职责",
+          "title": "副处长",
+          "duty": "合作拓展、学生交流、孔子学院活动、港澳台事务",
+          "email": "luozhuowa@hnu.edu.cn"
+        },
+        {
+          "name": "职责",
+          "title": "副处长",
+          "duty": "综合事务、因",
+          "email": "katrina_liu@hnu.edu.cn"
+        },
+        {
+          "name": "职责",
+          "title": "科长",
+          "duty": "学生赴国（境）外交流项目、孔子学院事务、港澳台交流事务",
+          "email": "chejianing@hnu.edu.cn"
+        },
+        {
+          "name": "职责",
+          "title": "科长",
+          "duty": "综合事务、国际会议申报、国（境）外人员来访审批、孔子学院事务",
+          "email": "chenwenyi@hnu.edu.cn"
+        }
       ]
     }
   },

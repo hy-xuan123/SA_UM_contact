@@ -21,7 +21,33 @@
       "email": [
         "its@pku.edu.cn"
       ],
-      "phone": []
+      "phone": [],
+      "leaders": [
+        {
+          "name": "",
+          "title": "副主任",
+          "duty": "",
+          "email": "gangaotai@pku.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副主任",
+          "duty": "",
+          "email": "liyun@pku.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副主任",
+          "duty": "",
+          "email": "jzhou@pku.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "",
+          "email": "lin2009@pku.edu.cn"
+        }
+      ]
     }
   },
   "dept_skipped": false,

@@ -37,6 +37,14 @@
       "title": "国际交流",
       "email": [
         "international@jnu.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "何睿弘",
+          "title": "副处长",
+          "duty": "负责国际交流与合作工作",
+          "email": "truihong@jnu.edu.cn"
+        }
       ]
     }
   }

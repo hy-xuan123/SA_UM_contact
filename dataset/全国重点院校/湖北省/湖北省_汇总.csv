@@ -1,8 +1,20 @@
-﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-电话,备注
-1,华中科技大学,,985,公办,,https://www.hust.edu.cn/zsjy.htm,,,027-87541114,http://gs.hust.edu.cn/,,yzxx@hust.edu.cn,027-87542152,https://oia.hust.edu.cn/,,international@hust.edu.cn,027-87541114,
-2,武汉大学,,985,公办,,,,,,https://www.whu.edu.cn/rcpy.htm#md2,,,027-68752059,https://oir.whu.edu.cn/,,,027-68752059,
-3,中南财经政法大学,,211,公办,,https://www.zuel.edu.cn/recruit_jobs/,,,018502002264,http://yjsy.zuel.edu.cn/,,,,https://gjc.zuel.edu.cn/,,,,
-4,中国地质大学（武汉）,,211,公办,,https://www.cug.edu.cn/zsjy.htm,,,011102004169,http://graduate.cug.edu.cn/,,,027-67885151,https://gjhzc.cug.edu.cn/,,,,
-5,华中农业大学,,211,公办,,https://www.hzau.edu.cn/zsjy/bkszs.htm,,,02787280707; 027-87282027,https://www.hzau.edu.cn/jyjx/yjsjy.htm,,,027-87282027,https://fao.hzau.edu.cn/,,fao@mail.hzau.edu.cn,,
-6,华中师范大学,,211,公办,,https://www.ccnu.edu.cn/zsjy/bysjy.htm,,,027-67868046; 027-67867020; 011102000286,https://www.ccnu.edu.cn/rcpy/yjsjy.htm,,,027-67866926,https://hmt.ccnu.edu.cn/,,,,
-7,武汉理工大学,,211,公办,,https://www.whut.edu.cn/zhaoshengjiuye/,,English,027-87859017; 027-87651413; 027-87880058,https://www.whut.edu.cn/rencaipeiyang/yjsjy/,,,,https://gjc.whut.edu.cn/,,waishi@whut.edu.cn,,
+﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-领导及邮箱,国际处-电话,备注
+1,华中科技大学,,985,公办,,https://www.hust.edu.cn/zsjy.htm,,,027-87541114,http://gs.hust.edu.cn/,,yzxx@hust.edu.cn,027-87542152,https://oia.hust.edu.cn/,,international@hust.edu.cn,"开展工 副主任（邮箱未公开）
+陈洁 处长（邮箱未公开）
+盛静波 副处长（邮箱未公开）
+江静 副处长（分管交流事务一）（邮箱未公开）
+韩晶 副处长（分管综合事务）（邮箱未公开）
+彭雨蒙 副处长（分管交流事务二）（邮箱未公开）",027-87541114,
+2,武汉大学,,985,公办,,,,,,https://www.whu.edu.cn/rcpy.htm#md2,,,027-68752059,https://oir.whu.edu.cn/,,,"彭国晖 主任（邮箱未公开）
+邓鹤翔 部长（全面负责国际交流部工作， 分管 综合）（邮箱未公开）
+刘晓黎 副部长（分管 欧亚非事务）（邮箱未公开）
+何小英 副部长（分管 法国、法语区国家交流工作 、武汉法语）（邮箱未公开）
+章臣 副部长（分管美大事务）（邮箱未公开）
+张卫星 副部长（分管 外国专家工作）（邮箱未公开）",027-68752059,
+3,中南财经政法大学,,211,公办,,https://www.zuel.edu.cn/recruit_jobs/,,,018502002264,http://yjsy.zuel.edu.cn/,,,,https://gjc.zuel.edu.cn/,,,,,
+4,中国地质大学（武汉）,,211,公办,,https://www.cug.edu.cn/zsjy.htm,,,011102004169,http://graduate.cug.edu.cn/,,,027-67885151,https://gjhzc.cug.edu.cn/,,,"兼港澳 处长（主持国际合作处、港澳台地区事务管理等相关工作）（邮箱未公开）
+关庆锋 处长（圆桌会议。他介绍了我校的学科布局、科研进展与国际合作概况。目前学校有近200位学）（邮箱未公开）",,
+5,华中农业大学,,211,公办,,https://www.hzau.edu.cn/zsjy/bkszs.htm,,,02787280707; 027-87282027,https://www.hzau.edu.cn/jyjx/yjsjy.htm,,,027-87282027,https://fao.hzau.edu.cn/,,fao@mail.hzau.edu.cn,"部长（职责分工： 全面主持国际合作与交流部工作）: zenghx@mail.hzau.edu.cn
+副部长（职责分工： 主管海外合作关系维护与拓展）: caozhen@mail.hzau.edu.cn",,
+6,华中师范大学,,211,公办,,https://www.ccnu.edu.cn/zsjy/bysjy.htm,,,027-67868046; 027-67867020; 011102000286,https://www.ccnu.edu.cn/rcpy/yjsjy.htm,,,027-67866926,https://hmt.ccnu.edu.cn/,,,邢军志 副主任（负责人樊…）（邮箱未公开）,,
+7,武汉理工大学,,211,公办,,https://www.whut.edu.cn/zhaoshengjiuye/,,English,027-87859017; 027-87651413; 027-87880058,https://www.whut.edu.cn/rencaipeiyang/yjsjy/,,,,https://gjc.whut.edu.cn/,,waishi@whut.edu.cn,,,

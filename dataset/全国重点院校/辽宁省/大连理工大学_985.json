@@ -47,6 +47,20 @@
       ],
       "phone": [
         "0411-84708702"
+      ],
+      "leaders": [
+        {
+          "name": "王莲",
+          "title": "主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "分管",
+          "title": "副处长",
+          "duty": "",
+          "email": "menglinxi@dlut.edu.cn"
+        }
       ]
     }
   }

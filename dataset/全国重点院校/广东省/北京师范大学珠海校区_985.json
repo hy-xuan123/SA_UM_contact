@@ -30,6 +30,26 @@
       "title": "国际交流与合作",
       "phone": [
         "0756-3621079"
+      ],
+      "leaders": [
+        {
+          "name": "",
+          "title": "主任",
+          "duty": "主持全面工作",
+          "email": "guokanjun008@bnu.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副主任",
+          "duty": "分管国际学生工作、学生境外交流",
+          "email": "qiuyue@bnu.edu.cn"
+        },
+        {
+          "name": "",
+          "title": "副主任",
+          "duty": "分管中外合作办学工作",
+          "email": "zhengwang@bnu.edu.cn"
+        }
       ]
     }
   },

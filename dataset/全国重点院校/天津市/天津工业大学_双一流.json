@@ -9,7 +9,15 @@
   "depts": {
     "intl": {
       "url": "https://io.tiangong.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "leaders": [
+        {
+          "name": "面工作",
+          "title": "副主任",
+          "duty": "主持港澳台事务办公室全面工作 副主任 赵世怀 分管涉港澳台校际交",
+          "email": "andyzhang@tiangong.edu.cn"
+        }
+      ]
     }
   },
   "web_fail_reason": "requests失败",
