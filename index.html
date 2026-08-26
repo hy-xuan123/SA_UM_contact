@@ -478,18 +478,32 @@ fetch('dataset/index.json')
     document.getElementById('list').innerHTML = '<div class="empty">数据加载失败：' + err.message + '</div>';
   });
 
-// 更新标注：读取 update_meta.json，若最近有更新则显示 new! 并标注更新时间
+// 更新标注：读取 update_meta.json，计算相对时间（日/月），近期更新则显示 new!
+function relativeTime(lastStr) {
+  const last = new Date(lastStr.replace(' ', 'T'));
+  const diffMs = Date.now() - last.getTime();
+  const days = Math.floor(diffMs / 86400000);
+  if (days < 1) {
+    const hours = Math.floor(diffMs / 3600000);
+    return hours < 1 ? '刚刚' : hours + '小时前';
+  }
+  if (days < 30) return days + '天前';
+  const months = Math.floor(days / 30);
+  return months + '个月前';
+}
+
 fetch('dataset/update_meta.json')
   .then(r => r.json())
   .then(meta => {
     const last = new Date(meta.last_update.replace(' ', 'T'));
     const days = Math.floor((Date.now() - last.getTime()) / 86400000);
-    if (days < meta.recent_days) {
+    // new! 判定：30 天内视为近期更新
+    if (days < 30) {
       document.getElementById('new-summary').style.display = 'inline';
       document.getElementById('new-update').style.display = 'inline';
-      const stat = document.getElementById('stat');
-      stat.innerHTML += `<span style="color:#e11d48;font-weight:700"> · 更新于 ${meta.last_update.slice(5,16)}</span>`;
     }
+    const stat = document.getElementById('stat');
+    stat.innerHTML += `<span style="color:#e11d48;font-weight:700"> · ${relativeTime(meta.last_update)}更新</span>`;
   })
   .catch(() => {});
 </script>
