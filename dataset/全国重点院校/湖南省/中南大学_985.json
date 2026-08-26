@@ -28,38 +28,6 @@
         "csuwsb@126.com",
         "ied-csu@csu.edu.cn",
         "summerschool@csu.edu.cn"
-      ],
-      "leaders": [
-        {
-          "name": "项目办",
-          "title": "主任",
-          "duty": "",
-          "email": ""
-        },
-        {
-          "name": "引智办",
-          "title": "主任",
-          "duty": "",
-          "email": ""
-        },
-        {
-          "name": "交流办",
-          "title": "副主任",
-          "duty": "",
-          "email": ""
-        },
-        {
-          "name": "入境办",
-          "title": "副主任",
-          "duty": "",
-          "email": ""
-        },
-        {
-          "name": "综合办",
-          "title": "科员",
-          "duty": "",
-          "email": ""
-        }
       ]
     }
   },

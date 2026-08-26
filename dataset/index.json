@@ -276,12 +276,6 @@
         "title": "上海大学国际部中文网站",
         "leaders": [
           {
-            "name": "党委",
-            "title": "书记",
-            "duty": "",
-            "email": "shwlna@t.shu.edu.cn"
-          },
-          {
             "name": "综合",
             "title": "主任",
             "duty": "",
@@ -352,20 +346,6 @@
         "title": "国际合作处",
         "email": [
           "ico@dhu.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "处长",
-            "duty": "",
-            "email": "xhqin@dhu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "",
-            "email": "snow@dhu.edu.cn"
-          }
         ]
       },
       "grad": {
@@ -411,111 +391,7 @@
       },
       "intl": {
         "url": "http://kjc.ecust.edu.cn/8373/list.htm",
-        "title": "国际合作研发机构",
-        "leaders": [
-          {
-            "name": "",
-            "title": "院长",
-            "duty": "职责： 负责科研院全面工作",
-            "email": "qyang@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副院长",
-            "duty": "职责： 分管 先进技术与 装备研究院、先进技术项目与平台管理部",
-            "email": "qxzhuang@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副院长",
-            "duty": "职责： 分管 基础研究部 、 成果奖励部、科创中心（上海）建设与",
-            "email": "yfjia@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副院长",
-            "duty": "职责： 分管 产学研合作部、知识产权运营部、产业科创平台管理部",
-            "email": "yinwei@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责：科研院综合事务管理",
-            "email": "maxiaolei@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 科技创新战略规划与政策研究",
-            "email": "liukaizhen@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 国家自然科学基金委项目管理",
-            "email": "nsfc@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责 ： 纵向科研基地与平台及开放基金项目管理",
-            "email": "gxzhang@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 国家部委纵向项目管理",
-            "email": "gxjs@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 国家奖、省部级奖、社会力量设奖",
-            "email": "xlwang@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 上海市项目管理",
-            "email": "shst@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 产学研合作",
-            "email": "boshih@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 成果转化项目管理",
-            "email": "wangsuli@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 校企校地产业科创平台筹建与管理",
-            "email": "ligang@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副院长",
-            "duty": "职责： 先进技术与合作",
-            "email": "sulin@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 先进技术项目与平台管理",
-            "email": "tanggz@ecust.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责： 《华东理工大学学报（自然科学版）》与《功能高分子学报》的",
-            "email": "liuyaping@ecust.edu.cn"
-          }
-        ]
+        "title": "国际合作研发机构"
       },
       "career": {
         "url": "https://www.ecust.edu.cn/585/list.htm",
@@ -882,33 +758,7 @@
         "email": [
           "its@pku.edu.cn"
         ],
-        "phone": [],
-        "leaders": [
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "",
-            "email": "gangaotai@pku.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "",
-            "email": "liyun@pku.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "",
-            "email": "jzhou@pku.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "",
-            "email": "lin2009@pku.edu.cn"
-          }
-        ]
+        "phone": []
       }
     },
     "dept_skipped": false,
@@ -1286,7 +1136,7 @@
         "phone": []
       },
       "intl": {
-        "url": "https://international.cumtb.edu.cn/",
+        "url": "https://international.cumtb.edu.cn/gywm/jgsz.htm",
         "title": "中国矿业大学（北京）——国际合作与交流处"
       }
     },
@@ -1304,7 +1154,7 @@
     "website": "https://www.cufe.edu.cn/",
     "depts": {
       "intl": {
-        "url": "http://int.cufe.edu.cn/",
+        "url": "http://int.cufe.edu.cn/gywm.htm",
         "title": "国际合作"
       },
       "grad": {
@@ -1337,15 +1187,7 @@
       },
       "intl": {
         "url": "https://www.ccom.edu.cn/info/18061/267901.htm",
-        "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳",
-        "leaders": [
-          {
-            "name": "党委",
-            "title": "院长",
-            "duty": "",
-            "email": ""
-          }
-        ]
+        "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳"
       }
     },
     "dept_skipped": false,
@@ -1491,21 +1333,7 @@
       },
       "intl": {
         "url": "https://iecd.buct.edu.cn/",
-        "title": "国际交流与合作处暨港澳台事务办公室",
-        "leaders": [
-          {
-            "name": "",
-            "title": "处长",
-            "duty": "主管国际处及港澳台事务办公室全面工作",
-            "email": "zhangbing@buct.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "",
-            "email": "fengjh@buct.edu.cn"
-          }
-        ]
+        "title": "国际交流与合作处暨港澳台事务办公室"
       }
     },
     "dept_skipped": false,
@@ -1810,19 +1638,7 @@
         "title": "国际处",
         "leaders": [
           {
-            "name": "党委",
-            "title": "书记",
-            "duty": "",
-            "email": ""
-          },
-          {
             "name": "王艳芬",
-            "title": "副书记",
-            "duty": "",
-            "email": ""
-          },
-          {
-            "name": "党委",
             "title": "副书记",
             "duty": "",
             "email": ""
@@ -2075,12 +1891,6 @@
             "title": "科长",
             "duty": "职责: 负责派出科整体工作",
             "email": "nianxueni@jlu.edu.cn"
-          },
-          {
-            "name": "协助",
-            "title": "科长",
-            "duty": "职责: 负责教职工因公临时出国（境）任务立卷；教职工因公临时出国",
-            "email": "liujh1030@jlu.edu.cn"
           },
           {
             "name": "作办学",
@@ -3509,12 +3319,6 @@
             "email": ""
           },
           {
-            "name": "信箱办",
-            "title": "院长",
-            "duty": "",
-            "email": ""
-          },
-          {
             "name": "信箱共",
             "title": "院长",
             "duty": "",
@@ -4008,32 +3812,6 @@
         ],
         "phone": [
           "030502008554"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "",
-            "email": "gangaotai@pku.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "",
-            "email": "liyun@pku.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "",
-            "email": "jzhou@pku.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "",
-            "email": "lin2009@pku.edu.cn"
-          }
         ]
       }
     },
@@ -4071,26 +3849,6 @@
         "title": "国际交流与合作",
         "phone": [
           "0756-3621079"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "主持全面工作",
-            "email": "guokanjun008@bnu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "分管国际学生工作、学生境外交流",
-            "email": "qiuyue@bnu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副主任",
-            "duty": "分管中外合作办学工作",
-            "email": "zhengwang@bnu.edu.cn"
-          }
         ]
       }
     },
@@ -4122,56 +3880,6 @@
         "title": "国际处",
         "email": [
           "HKMT@scut.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "ykx20241149@scut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "助理",
-            "duty": "",
-            "email": "glzjh@scut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副科长",
-            "duty": "负责港澳台事务和处内综合事务",
-            "email": "glskyang@scut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "助理",
-            "duty": "",
-            "email": "gllxzhang@scut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "助理",
-            "duty": "",
-            "email": "glghxu@scut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "助理",
-            "duty": "负责学生项目的管理实施（美国）、中美创新学院的协管工作及教育部出",
-            "email": "scutpm@scut.edu"
-          },
-          {
-            "name": "",
-            "title": "助理",
-            "duty": "负责教职工因公临时出国证件办理及证件收缴保管工作",
-            "email": "16933961@qq.com"
-          },
-          {
-            "name": "",
-            "title": "助理",
-            "duty": "负责校级引智项目管理",
-            "email": "experts@scut.edu.cn"
-          }
         ]
       }
     }
@@ -4197,12 +3905,6 @@
           "0755-26033876"
         ],
         "leaders": [
-          {
-            "name": "党委",
-            "title": "书记",
-            "duty": "负责校区党委全面工作",
-            "email": ""
-          },
           {
             "name": "张国宏",
             "title": "副书记",
@@ -4433,12 +4135,6 @@
         "title": "对外交流",
         "leaders": [
           {
-            "name": "主持全",
-            "title": "处长",
-            "duty": "主持全面工作",
-            "email": ""
-          },
-          {
             "name": "刘傲冬",
             "title": "副处长",
             "duty": "负责外事接待、资产、档案、离退休、工会等工作；分管综合业务和港澳",
@@ -4480,12 +4176,6 @@
           "global@sustech.edu.cn"
         ],
         "leaders": [
-          {
-            "name": "委员会",
-            "title": "顾问",
-            "duty": "",
-            "email": ""
-          },
           {
             "name": "等研究",
             "title": "院长",
@@ -6179,14 +5869,6 @@
         "title": "国际交流与合作处",
         "email": [
           "xjdxgjc@xju.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "",
-            "email": "xjdxgjc@xju.edu.cn"
-          }
         ]
       }
     },
@@ -6551,20 +6233,6 @@
         "title": "国际交流合作",
         "email": [
           "gjch@jiangnan.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "",
-            "email": "cherrycai@jiangnan.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "",
-            "email": "jqin@jiangnan.edu.cn"
-          }
         ]
       }
     },
@@ -6883,21 +6551,7 @@
       },
       "intl": {
         "url": "https://dice.njupt.edu.cn/",
-        "title": "外事系统",
-        "leaders": [
-          {
-            "name": "",
-            "title": "院长",
-            "duty": "",
-            "email": "sj-coe@njupt.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "院长",
-            "duty": "",
-            "email": "coe@njupt.edu.cn"
-          }
-        ]
+        "title": "外事系统"
       }
     },
     "dept_skipped": false,
@@ -7003,39 +6657,7 @@
       },
       "intl": {
         "url": "https://io.hebut.edu.cn/",
-        "title": "国际交流与合作处",
-        "leaders": [
-          {
-            "name": "",
-            "title": "处长",
-            "duty": "职责：主持全面工作",
-            "email": "luckyzhaoyy@126.com"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "职责：分管中外合作办学、外专引智、公派留学、出国境及校际交流",
-            "email": "fengyong@hebut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "主任",
-            "duty": "职责：出国境审批、综合事务",
-            "email": "maxinxing@hebut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "干事",
-            "duty": "职责：外国专家和引才引智、国家公派留学",
-            "email": "yhtian@hebut.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "干事",
-            "duty": "职责：中外合作办学项目、出国境审批",
-            "email": "2021093@hebut.edu.cn"
-          }
-        ]
+        "title": "国际交流与合作处"
       }
     },
     "dept_skipped": false,
@@ -7303,12 +6925,6 @@
         ],
         "leaders": [
           {
-            "name": "开展工",
-            "title": "副主任",
-            "duty": "",
-            "email": ""
-          },
-          {
             "name": "陈洁",
             "title": "处长",
             "duty": "",
@@ -7515,20 +7131,6 @@
         "title": "华中农业大学国际合作与交流部",
         "email": [
           "fao@mail.hzau.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "部长",
-            "duty": "职责分工： 全面主持国际合作与交流部工作",
-            "email": "zenghx@mail.hzau.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副部长",
-            "duty": "职责分工： 主管海外合作关系维护与拓展",
-            "email": "caozhen@mail.hzau.edu.cn"
-          }
         ]
       }
     },
@@ -7645,38 +7247,6 @@
           "csuwsb@126.com",
           "ied-csu@csu.edu.cn",
           "summerschool@csu.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "项目办",
-            "title": "主任",
-            "duty": "",
-            "email": ""
-          },
-          {
-            "name": "引智办",
-            "title": "主任",
-            "duty": "",
-            "email": ""
-          },
-          {
-            "name": "交流办",
-            "title": "副主任",
-            "duty": "",
-            "email": ""
-          },
-          {
-            "name": "入境办",
-            "title": "副主任",
-            "duty": "",
-            "email": ""
-          },
-          {
-            "name": "综合办",
-            "title": "科员",
-            "duty": "",
-            "email": ""
-          }
         ]
       }
     },
@@ -7954,80 +7524,6 @@
         "title": "国际合作与交流",
         "phone": [
           "0592-2180240"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "处长",
-            "duty": "主持全处工作",
-            "email": "wzhong@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "分管海外办学、综合科相关事务",
-            "email": "grace@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "分管台港澳合作与交流事务",
-            "email": "lijiamian@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科长",
-            "duty": "负责综合科日常工作安排、督办与协调；统筹台港澳事务；教职工因公赴",
-            "email": "hxy@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副科长",
-            "duty": "负责教职工因公赴欧洲、非洲、南极洲手续；文稿与数据统计",
-            "email": "ylruan@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "负责教职工因公赴美洲、大洋洲及亚洲（非免签国家）手续",
-            "email": "zhangbm@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "wangjl2021@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "负责教职工因公赴港澳手续及亚洲（免签国家）手续",
-            "email": "lms@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "负责国际会议、两岸会议申报；涉外学术活动审批；学生出国（境）审批",
-            "email": "liyinan@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "负责外籍教师和学者签证手续；组织外籍教师交流活动；教职工因私出国",
-            "email": "liujinlong@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科长",
-            "duty": "负责交流科协调管理；英国地区交流事宜；口笔译事务",
-            "email": "ltj@xmu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副科长",
-            "duty": "负责中外合作办学事务；各类法律文书起草和审核；文稿与数据统计；国",
-            "email": "ymliao@xmu.edu.cn"
-          }
         ]
       },
       "career": {
@@ -8060,15 +7556,7 @@
       },
       "intl": {
         "url": "https://oce.fzu.edu.cn/",
-        "title": "港澳台侨生招生",
-        "leaders": [
-          {
-            "name": "做好处",
-            "title": "处长",
-            "duty": "",
-            "email": ""
-          }
-        ]
+        "title": "港澳台侨生招生"
       }
     },
     "dept_skipped": false,
@@ -8219,12 +7707,6 @@
             "title": "主任",
             "duty": "",
             "email": ""
-          },
-          {
-            "name": "分管",
-            "title": "副处长",
-            "duty": "",
-            "email": "menglinxi@dlut.edu.cn"
           }
         ]
       }
@@ -8270,26 +7752,6 @@
           "danyangliu@dlmu.edu.cn",
           "nanli@dlmu.edu.cn",
           "amberwu@dlmu.edu.cn"
-        ],
-        "leaders": [
-          {
-            "name": "主持党",
-            "title": "书记",
-            "duty": "主持党委全面工作",
-            "email": ""
-          },
-          {
-            "name": "主持行",
-            "title": "副书记",
-            "duty": "主持行政全面工作",
-            "email": ""
-          },
-          {
-            "name": "主持纪",
-            "title": "书记",
-            "duty": "主持纪委工作",
-            "email": ""
-          }
         ]
       }
     }
@@ -9720,104 +9182,6 @@
         ],
         "phone": [
           "2987082857"
-        ],
-        "leaders": [
-          {
-            "name": "",
-            "title": "处长",
-            "duty": "主持国际合作与交流处（港澳台办、上合项目办公室、丝路联盟办公室",
-            "email": "xiaolongwang@nwafu.edu"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "",
-            "email": "hxh1977@163.com"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "负责校际交流、合作办学、外籍人员入境管理、教职工出国（境）、留学",
-            "email": "qiaozhe@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "负责上合基地建设及 “一带一路”相关 工作",
-            "email": "zouyufeng@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "副处长",
-            "duty": "负责 综合管理 、外专引智、 国际科技合作 、港澳台事务",
-            "email": "xuye16@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科长",
-            "duty": "负责行政管理、宣传、港澳台事务和国际会议",
-            "email": "zhuhongqiang@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "zhouyijuan@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科长",
-            "duty": "负责校际合作",
-            "email": "daiyu@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "yaoyupei@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "yuemu@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科长",
-            "duty": "负责师生 因公出国（境） 、 学生公派 留学",
-            "email": "blmgwk@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "chijinghui@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "czling@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "silkroad@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科长",
-            "duty": "负责外专引智、国际科技合作项目和访学项目",
-            "email": "leiyuan@nwafu.edu.cn"
-          },
-          {
-            "name": "",
-            "title": "科员",
-            "duty": "",
-            "email": "xiaoleitong@nwafu.edu.cn"
-          }
         ]
       },
       "career": {
@@ -9868,12 +9232,6 @@
           "icoffice@nwpu.edu.cn"
         ],
         "leaders": [
-          {
-            "name": "教授工",
-            "title": "顾问",
-            "duty": "负责聘请外籍专家、学者为我校兼职、荣誉、顾问教授工作",
-            "email": ""
-          },
           {
             "name": "国际教",
             "title": "处长",
@@ -10246,19 +9604,7 @@
         "title": "国际合作",
         "leaders": [
           {
-            "name": "党委",
-            "title": "书记",
-            "duty": "",
-            "email": ""
-          },
-          {
             "name": "委常务",
-            "title": "副书记",
-            "duty": "",
-            "email": ""
-          },
-          {
-            "name": "党委",
             "title": "副书记",
             "duty": "",
             "email": ""
@@ -10308,12 +9654,6 @@
             "name": "迟勇",
             "title": "副处长",
             "duty": "会议。会谈伊始，陈庆山代表学校对代表团来访表示欢迎，对两校长期以来紧密合作取得的",
-            "email": ""
-          },
-          {
-            "name": "迟勇办",
-            "title": "副处长",
-            "duty": "",
             "email": ""
           },
           {

@@ -381,6 +381,7 @@ def grab_school(school, do_screenshot=True, use_playwright=True):
     leaders = []
     shots = []
     sources = []
+    officer_url = ""   # 领导信息实际来源的 URL（与国际处主站不一致时记录）
 
     # ---- 路径1：国际处主站 + 关于我们/部门领导子页面（二级递归）----
     html, reason = fetch_requests(intl_url)
@@ -388,6 +389,7 @@ def grab_school(school, do_screenshot=True, use_playwright=True):
         l = extract_leaders(html)
         if l:
             leaders.extend(l)
+            officer_url = intl_url
             sources.append(f"intl首页({reason})")
         # 一级子页面（关于我们/部门领导/机构设置等）
         for sub in find_about_links(html, intl_url)[:8]:
@@ -397,6 +399,8 @@ def grab_school(school, do_screenshot=True, use_playwright=True):
             sl = extract_leaders(shtml)
             if sl:
                 leaders.extend(sl)
+                if not officer_url:
+                    officer_url = sub
                 sources.append(f"子页{sub.split('/')[-1][:20]}")
                 if len(leaders) >= 25:
                     break
@@ -409,6 +413,8 @@ def grab_school(school, do_screenshot=True, use_playwright=True):
                     sl2 = extract_leaders(s2html)
                     if sl2:
                         leaders.extend(sl2)
+                        if not officer_url:
+                            officer_url = sub2
                         sources.append(f"二级子页{sub2.split('/')[-1][:20]}")
                         if len(leaders) >= 25:
                             break
@@ -488,7 +494,11 @@ def grab_school(school, do_screenshot=True, use_playwright=True):
         if path:
             with open(path, encoding="utf-8") as f:
                 data = json.load(f)
-            data.setdefault("depts", {}).setdefault("intl", {})["leaders"] = leaders
+            intl_d = data.setdefault("depts", {}).setdefault("intl", {})
+            intl_d["leaders"] = leaders
+            # 领导信息网址与国际处主站不一致时，分别标注 international / international_officer
+            if officer_url and officer_url.rstrip("/") != intl_url.rstrip("/"):
+                intl_d["officer_url"] = officer_url
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 

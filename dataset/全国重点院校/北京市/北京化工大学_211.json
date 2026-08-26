@@ -21,21 +21,7 @@
     },
     "intl": {
       "url": "https://iecd.buct.edu.cn/",
-      "title": "国际交流与合作处暨港澳台事务办公室",
-      "leaders": [
-        {
-          "name": "",
-          "title": "处长",
-          "duty": "主管国际处及港澳台事务办公室全面工作",
-          "email": "zhangbing@buct.edu.cn"
-        },
-        {
-          "name": "",
-          "title": "副处长",
-          "duty": "",
-          "email": "fengjh@buct.edu.cn"
-        }
-      ]
+      "title": "国际交流与合作处暨港澳台事务办公室"
     }
   },
   "dept_skipped": false,

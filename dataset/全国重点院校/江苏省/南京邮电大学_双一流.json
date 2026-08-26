@@ -29,21 +29,7 @@
     },
     "intl": {
       "url": "https://dice.njupt.edu.cn/",
-      "title": "外事系统",
-      "leaders": [
-        {
-          "name": "",
-          "title": "院长",
-          "duty": "",
-          "email": "sj-coe@njupt.edu.cn"
-        },
-        {
-          "name": "",
-          "title": "院长",
-          "duty": "",
-          "email": "coe@njupt.edu.cn"
-        }
-      ]
+      "title": "外事系统"
     }
   },
   "dept_skipped": false,
