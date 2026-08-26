@@ -10,7 +10,21 @@
     "intl": {
       "wechat": "南农国际教育",
       "url": "https://intl.njau.edu.cn/",
-      "title": "国际合作与交流处"
+      "title": "国际合作与交流处",
+      "leaders": [
+        {
+          "name": "刘营军",
+          "title": "副书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "党总支",
+          "title": "书记",
+          "duty": "",
+          "email": ""
+        }
+      ]
     },
     "grad": {
       "url": "http://grasch.njau.edu.cn",

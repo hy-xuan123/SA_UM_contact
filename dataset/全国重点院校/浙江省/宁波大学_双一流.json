@@ -25,8 +25,34 @@
       ]
     },
     "intl": {
-      "url": "https://iso.nbu.edu.cn/",
-      "title": "Ningbo University"
+      "url": "https://wsc.nbu.edu.cn/",
+      "title": "Ningbo University",
+      "leaders": [
+        {
+          "name": "任友群",
+          "title": "副部长",
+          "duty": "会议，中法两国百余所高校的负责人和专家参与论坛。中法多所大学负责人围绕构建面向未",
+          "email": ""
+        },
+        {
+          "name": "联合学",
+          "title": "院长",
+          "duty": "主持会议",
+          "email": ""
+        },
+        {
+          "name": "纪尧姆",
+          "title": "主任",
+          "duty": "负责人列席会议",
+          "email": ""
+        },
+        {
+          "name": "奥勒夫",
+          "title": "院长",
+          "duty": "负责人出席会议",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

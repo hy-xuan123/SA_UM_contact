@@ -1,19 +1,42 @@
 ﻿序号,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-领导及邮箱,国际处-电话,备注
 1,东南大学,,985,公办,,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,https://oic.seu.edu.cn/,,,,,
-2,南京大学,,985,公办,,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,,,
+2,南京大学,,985,公办,,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,"代表 助理（邮箱未公开）
+手机 助理（邮箱未公开）",,
 3,中国矿业大学,,211,公办,,http://www.91job.org.cn/sub-station/home/10290,,,,http://gs.cumt.edu.cn/,,,,https://international.cumt.edu.cn/,,international@cumt.edu.cn,,,
 4,中国药科大学,,211,公办,,http://cpu.91job.org.cn,,,,http://yjsy.cpu.edu.cn/,,,,https://international.cpu.edu.cn/,,admission@cpu.edu.cn,,,
-5,南京农业大学,,211,公办,,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,https://intl.njau.edu.cn/,南农国际教育,,,,
+5,南京农业大学,,211,公办,,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,https://intl.njau.edu.cn/,南农国际教育,,"刘营军 副书记（邮箱未公开）
+党总支 书记（邮箱未公开）",,
 6,南京师范大学,,211,公办,,,,,,,,,,https://gjc.njnu.edu.cn/,,,,,官网不可达：requests失败
 7,南京理工大学,,211,公办,,,,,,,,,,https://gjc.njust.edu.cn/,,,,,官网不可达：requests失败
-8,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,,,
+8,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,"赖际舟 处长（主持工作）（邮箱未公开）
+张国权 副处长（负责高层次校际合作关系拓展及维护、教职工因公出国境工作等）（邮箱未公开）
+徐智鑫 副处长（负责引智工作、国际合作平台建设（含中外合作办学、引智基地、国际合）（邮箱未公开）
+祖语嫣 科长（负责综合事务、国际学术交流、外事接待、国际会议申报、暑期国际课程）（邮箱未公开）
+处理相 科长（邮箱未公开）
+单晶 科长（负责国际合作平台和项目建设（含中外合作办学、引智基地、国际合作联）（邮箱未公开）
+做好项 科长（负责外国专家项目相关工作）（邮箱未公开）
+做好外 科长（邮箱未公开）
+唐崟捷 科长（邮箱未公开）
+申雅梅 科员（邮箱未公开）
+王芮欣 科员（邮箱未公开）
+洪滔 科员（邮箱未公开）",,
 9,江南大学,,211,公办,,http://jiangnan.91job.org.cn,,,,http://gs.jiangnan.edu.cn/,官方微博,yjsy@jiangnan.edu.cn,0510-85913652（,http://guojiaochu.jiangnan.edu.cn/,,gjch@jiangnan.edu.cn,"副处长: cherrycai@jiangnan.edu.cn
 副处长: jqin@jiangnan.edu.cn",,
-10,河海大学,,211,公办,,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,https://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,,,
-11,苏州大学,,211,公办,,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://international.suda.edu.cn/,Copyright,,,,
+10,河海大学,,211,公办,,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,https://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,"马科斯 处长（主持...）（邮箱未公开）
+选拔推 院长（负责孔子学院中方承办机构的管理工作）（邮箱未公开）",,
+11,苏州大学,,211,公办,,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://international.suda.edu.cn/,Copyright,,"李彦光 处长（邮箱未公开）
+兼港澳 副处长（邮箱未公开）
+徐雯彦 副处长（邮箱未公开）",,
 12,南京中医药大学,,双一流,公办,,https://njucm.91job.org.cn/sub-station/home/10315,,,,http://gra.njucm.edu.cn/,,,,http://ice.njucm.edu.cn/,,,,,
 13,南京信息工程大学,,双一流,公办,,https://www.nuist.edu.cn/zsjy.htm,,xb@nuist.edu.cn,86-25-58731101,https://yjs.nuist.edu.cn/,Copyright,yjs@nuist.edu.cn,,http://ico.nuist.edu.cn/,,,,,
-14,南京医科大学,,双一流,公办,,http://njmu.91job.org.cn/,,,,http://yjsy.njmu.edu.cn/,,,,http://ice.njmu.edu.cn/,,gjb@njmu.edu.cn,,,
-15,南京林业大学,,双一流,公办,,http://njfu.91job.org.cn/,,,,https://gsnfu.njfu.edu.cn/,,,,https://ghc.njfu.edu.cn/,,,,,
+14,南京医科大学,,双一流,公办,,http://njmu.91job.org.cn/,,,,http://yjsy.njmu.edu.cn/,,,,http://ice.njmu.edu.cn/,,gjb@njmu.edu.cn,兰青一 书记（邮箱未公开）,,
+15,南京林业大学,,双一流,公办,,http://njfu.91job.org.cn/,,,,https://gsnfu.njfu.edu.cn/,,,,https://ghc.njfu.edu.cn/,,,"汪茜电 科长（邮箱未公开）
+余尤骋 科员（邮箱未公开）
+刘星彤 科员（邮箱未公开）
+蔡慧妍 科长（邮箱未公开）
+侯晋安 科员（邮箱未公开）
+乌日汗 科员（邮箱未公开）
+汪茜 科长（1、中外合作学生交流项目申报与归口管理；2、江苏高校中外高水平大学校群合作）（邮箱未公开）
+乌日汗 科员（1、CSC人才培养专项申报组织与管理； 2 、外籍专家项目申报和管理； 3 、中）: interpro@njfu.edu.cn",,
 16,南京邮电大学,,双一流,公办,,https://www.njupt.edu.cn/46/list.htm,,njupt@njupt.edu.cn,（86）-25-85866888,http://yzb.njupt.edu.cn/,,yzb@njupt.edu.cn,025-83492350,https://dice.njupt.edu.cn/,,,"院长: sj-coe@njupt.edu.cn
 院长: coe@njupt.edu.cn",,

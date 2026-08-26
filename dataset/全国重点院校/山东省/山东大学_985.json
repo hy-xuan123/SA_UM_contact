@@ -20,7 +20,15 @@
     },
     "intl": {
       "url": "https://www.ipo.sdu.edu.cn/",
-      "title": "国际合作"
+      "title": "国际合作",
+      "leaders": [
+        {
+          "name": "调中方",
+          "title": "院长",
+          "duty": "职责包括：制定学校国际中文教育有关政策与孔子学院建设发展规划并推",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

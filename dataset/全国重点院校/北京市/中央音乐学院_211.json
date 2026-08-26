@@ -14,7 +14,15 @@
     },
     "intl": {
       "url": "https://www.ccom.edu.cn/info/18061/267901.htm",
-      "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳"
+      "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳",
+      "leaders": [
+        {
+          "name": "党委",
+          "title": "院长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

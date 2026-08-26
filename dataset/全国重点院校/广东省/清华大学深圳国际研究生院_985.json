@@ -31,7 +31,27 @@
     "intl": {
       "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",
       "title": "国际合作",
-      "phone": []
+      "phone": [],
+      "leaders": [
+        {
+          "name": "党委副",
+          "title": "副院长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "寄语关",
+          "title": "院长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "左剑恶",
+          "title": "副院长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false

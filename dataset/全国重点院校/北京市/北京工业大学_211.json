@@ -16,7 +16,15 @@
     },
     "intl": {
       "url": "https://international.bjut.edu.cn/",
-      "title": "北京工业大学国际交流合作处"
+      "title": "北京工业大学国际交流合作处",
+      "leaders": [
+        {
+          "name": "际合作",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     },
     "career": {
       "url": "http://admissions.bjut.edu.cn/",

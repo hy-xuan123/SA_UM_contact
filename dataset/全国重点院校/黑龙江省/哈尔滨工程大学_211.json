@@ -23,7 +23,27 @@
     },
     "intl": {
       "url": "https://fao.hrbeu.edu.cn/",
-      "title": "国际处"
+      "title": "国际处",
+      "leaders": [
+        {
+          "name": "窦峥",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "刘思嘉",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "丁昕",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     },
     "career": {
       "url": "http://www.hrbeu.edu.cn/zsjy1.htm",

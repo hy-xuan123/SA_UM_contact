@@ -26,6 +26,56 @@
       "title": "外事交流",
       "phone": [
         "2165982612"
+      ],
+      "leaders": [
+        {
+          "name": "殷文",
+          "title": "主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "曲辰",
+          "title": "副主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "徐云霞",
+          "title": "副主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "殷文",
+          "title": "主任",
+          "duty": "部门全面工作，分管出国（境）、中外合作",
+          "email": "yinwen@tongji.edu.cn"
+        },
+        {
+          "name": "钟宁桦",
+          "title": "主任",
+          "duty": "港澳台事务",
+          "email": "zhongninghua@yeah.net"
+        },
+        {
+          "name": "陈毅立",
+          "title": "主任",
+          "duty": "留学生",
+          "email": "jmschenhata@tongji.edu.cn"
+        },
+        {
+          "name": "曲辰",
+          "title": "副主任",
+          "duty": "外国专家和引智工作、平台学院（中西、中法）、数据统计、政策评估、新闻宣传等工作。",
+          "email": "lefrancais@tongji.edu.cn"
+        },
+        {
+          "name": "徐云霞",
+          "title": "副主任",
+          "duty": "中外合作",
+          "email": "xuyunxia@tongji.edu.cn"
+        }
       ]
     }
   },

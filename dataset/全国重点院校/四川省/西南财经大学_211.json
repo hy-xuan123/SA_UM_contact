@@ -23,6 +23,32 @@
       "title": "西南财经大学国际合作与交流处",
       "email": [
         "oiec@swufe.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "袁源",
+          "title": "副处长",
+          "duty": "出国境管理科、综合与信息管理科，协助国际处各项工作。",
+          "email": "yuanyuan@swufe.edu.cn"
+        },
+        {
+          "name": "张翔",
+          "title": "副处长",
+          "duty": "引智与交流项目科，协助国际处各项工作",
+          "email": "xiangzhang@swufe.edu.cn"
+        },
+        {
+          "name": "左静林",
+          "title": "科长",
+          "duty": "学生海外交流项目的开拓和维护等工作。",
+          "email": "zuojinglin@swufe.edu.cn"
+        },
+        {
+          "name": "唐济时",
+          "title": "科长",
+          "duty": "师生因",
+          "email": "tangjs@swufe.edu.cn"
+        }
       ]
     },
     "career": {

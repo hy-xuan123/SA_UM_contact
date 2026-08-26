@@ -23,7 +23,15 @@
     },
     "intl": {
       "url": "https://gjhzc.cugb.edu.cn/",
-      "title": "国际合作与交流处"
+      "title": "国际合作与交流处",
+      "leaders": [
+        {
+          "name": "给山东",
+          "title": "书记",
+          "duty": "主持会议",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

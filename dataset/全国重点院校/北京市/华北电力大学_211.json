@@ -13,7 +13,27 @@
     },
     "intl": {
       "url": "https://icd.ncepu.edu.cn/",
-      "title": "国际合作处、港澳台办公室"
+      "title": "国际合作处、港澳台办公室",
+      "leaders": [
+        {
+          "name": "李博",
+          "title": "处长",
+          "duty": "主持国际合作处（港澳台办）全面工作",
+          "email": ""
+        },
+        {
+          "name": "赵子健",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "丁肇豪",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     },
     "career": {
       "url": "https://www.ncepu.edu.cn/zsjy/index.htm",

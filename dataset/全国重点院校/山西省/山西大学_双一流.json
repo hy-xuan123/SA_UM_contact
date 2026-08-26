@@ -27,7 +27,15 @@
     },
     "intl": {
       "url": "https://wsc.sxu.edu.cn/",
-      "title": "山西大学国际合作与交流处（港澳台办公室）"
+      "title": "山西大学国际合作与交流处（港澳台办公室）",
+      "leaders": [
+        {
+          "name": "学中方",
+          "title": "院长",
+          "duty": "负责汉语教师及汉语教师志愿者的招聘、选拔、培训、派遣和管理；孔子",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

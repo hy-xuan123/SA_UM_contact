@@ -30,7 +30,27 @@
     "intl": {
       "wechat": "Copyright",
       "url": "https://international.suda.edu.cn/",
-      "title": "国际合作交流处"
+      "title": "国际合作交流处",
+      "leaders": [
+        {
+          "name": "李彦光",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "兼港澳",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "徐雯彦",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

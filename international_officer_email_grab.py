@@ -61,8 +61,11 @@ ABOUT_KEYWORDS = [
     "关于我们", "联系我们", "机构设置", "部门领导", "领导分工", "领导成员",
     "领导介绍", "人员构成", "工作人员", "机构简介", "部门简介", "科室设置",
     "岗位职责", "组织机构", "负责人", "职能",
+    "机构人员", "人员设置", "处室简介", "部门概况", "部门介绍",
+    "现任领导", "管理服务岗位", "机构人员设置", "内设机构",
+    "成员信息", "成员介绍", "处室职责", "工作职责",
     "about", "contact", "staff", "leadership", "people", "directory",
-    "team", "members", "administration", "organization",
+    "team", "members", "administration", "organization", "profile", "overview",
 ]
 
 # 领导职务关键词（长词优先，避免"副处长"被"处长"抢先匹配）
@@ -216,19 +219,35 @@ def extract_leaders(html):
             seen.add(key)
             leaders.append({"name": name, "title": title, "duty": duty, "email": email})
 
-    # 1. 表格行解析（含无邮箱的领导行）
+    # 1. 表格行解析（含无邮箱的领导行，支持姓名列与职务列分离）
     for tr in soup.find_all("tr"):
         cells = [_norm_text(td.get_text(" ", strip=True)) for td in tr.find_all(["td", "th"])]
         if not cells:
             continue
         text = " | ".join(cells)
+        # 跳过表头行
+        if all(any(h in c for c in cells) for h in ("姓名", "职务")) and not any("@" in c for c in cells):
+            if "姓名" in text or "职务" in text or "邮箱" in text:
+                continue
         title = next((t for t in TITLE_KEYWORDS if t in text), "")
         if not title:
             continue
-        name = extract_name_after_title(text, title) or extract_name_before_title(text, title)
+        emails = [e for e in (clean_email(x) for x in EMAIL_RE.findall(text)) if e]
+
+        # 优先：找「纯姓名」单元格（2-3字、无职务词、无邮箱、无数字）
+        name = ""
+        for c in cells:
+            c = c.strip()
+            if (2 <= len(c) <= 3 and re.fullmatch(r"[\u4e00-\u9fa5]{2,3}", c)
+                    and not any(t in c for t in TITLE_KEYWORDS)):
+                name = c
+                break
+        # 回退：拼接文本里提取
+        if not name:
+            name = extract_name_after_title(text, title) or extract_name_before_title(text, title)
         if not name:
             continue
-        emails = [e for e in (clean_email(x) for x in EMAIL_RE.findall(text)) if e]
+
         duty = ""
         m = re.search(r"(?:分管|负责|主持|主管|职责|分工)[^|，。]{0,30}", text)
         if m:
@@ -347,10 +366,11 @@ def screenshot_page(url, save_dir, name, label="page"):
         return False, f"截图失败:{str(e)[:40]}"
 
 
-def grab_school(school, do_screenshot=True):
+def grab_school(school, do_screenshot=True, use_playwright=True):
     """
     对单所高校抓取国际处领导邮箱。
     返回 dict: {name, tier, leaders(list), screenshot(list), status, source}
+    use_playwright=False 时只走 requests 静态抓取（可并发）。
     """
     name = school.get("name", "?")
     tier = school.get("tier", "")
@@ -420,7 +440,7 @@ def grab_school(school, do_screenshot=True):
                         sources.append(f"官网入口{title[:12]}")
 
     # ---- 路径3：Playwright 动态兜底（requests 失败或 JS 渲染）----
-    if not leaders:
+    if not leaders and use_playwright:
         dyn_html, dyn_reason = fetch_playwright_html(intl_url)
         if dyn_html:
             l = extract_leaders(dyn_html)

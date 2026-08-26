@@ -119,6 +119,56 @@
         "title": "外事交流",
         "phone": [
           "2165982612"
+        ],
+        "leaders": [
+          {
+            "name": "殷文",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "曲辰",
+            "title": "副主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "徐云霞",
+            "title": "副主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "殷文",
+            "title": "主任",
+            "duty": "部门全面工作，分管出国（境）、中外合作",
+            "email": "yinwen@tongji.edu.cn"
+          },
+          {
+            "name": "钟宁桦",
+            "title": "主任",
+            "duty": "港澳台事务",
+            "email": "zhongninghua@yeah.net"
+          },
+          {
+            "name": "陈毅立",
+            "title": "主任",
+            "duty": "留学生",
+            "email": "jmschenhata@tongji.edu.cn"
+          },
+          {
+            "name": "曲辰",
+            "title": "副主任",
+            "duty": "外国专家和引智工作、平台学院（中西、中法）、数据统计、政策评估、新闻宣传等工作。",
+            "email": "lefrancais@tongji.edu.cn"
+          },
+          {
+            "name": "徐云霞",
+            "title": "副主任",
+            "duty": "中外合作",
+            "email": "xuyunxia@tongji.edu.cn"
+          }
         ]
       }
     },
@@ -561,6 +611,14 @@
         "title": "上海海洋大学国际交流处",
         "email": [
           "ieo@shou.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "总干事",
+            "title": "助理",
+            "duty": "",
+            "email": ""
+          }
         ]
       }
     },
@@ -611,6 +669,38 @@
           "17816874",
           "7889684",
           "67262574"
+        ],
+        "leaders": [
+          {
+            "name": "裴小倩",
+            "title": "书记",
+            "duty": "学习会并作交流发言。裴小倩强调，一是深入学习习近平总书记重要讲",
+            "email": ""
+          },
+          {
+            "name": "大事记",
+            "title": "院长",
+            "duty": "职责 党史大事记 院长办公室 党委组织部 党委教师工作部、人事处",
+            "email": ""
+          },
+          {
+            "name": "谈心窗",
+            "title": "书记",
+            "duty": "职责 2011-03-10 每页 14 记录 总共 2 记录 第",
+            "email": ""
+          },
+          {
+            "name": "门介绍",
+            "title": "院长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "陈云",
+            "title": "副院长",
+            "duty": "。会上，审计处处长徐昕传达全国审计工作会议、中共上海市委审计委员会会议、上海市财",
+            "email": ""
+          }
         ]
       }
     },
@@ -1104,7 +1194,15 @@
       },
       "intl": {
         "url": "https://gjhzc.cugb.edu.cn/",
-        "title": "国际合作与交流处"
+        "title": "国际合作与交流处",
+        "leaders": [
+          {
+            "name": "给山东",
+            "title": "书记",
+            "duty": "主持会议",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -1239,7 +1337,15 @@
       },
       "intl": {
         "url": "https://www.ccom.edu.cn/info/18061/267901.htm",
-        "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳"
+        "title": "我眼中的音画中国——中央音乐学院国情教育活动纪实 为引导港澳",
+        "leaders": [
+          {
+            "name": "党委",
+            "title": "院长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -1331,6 +1437,14 @@
         "title": "留学生培养",
         "email": [
           "wsc@bsu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "樊战备",
+            "title": "书记",
+            "duty": "负责人会面交流",
+            "email": ""
+          }
         ]
       },
       "career": {
@@ -1448,7 +1562,15 @@
       },
       "intl": {
         "url": "https://international.bjut.edu.cn/",
-        "title": "北京工业大学国际交流合作处"
+        "title": "北京工业大学国际交流合作处",
+        "leaders": [
+          {
+            "name": "际合作",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       },
       "career": {
         "url": "http://admissions.bjut.edu.cn/",
@@ -1502,7 +1624,21 @@
     "depts": {
       "intl": {
         "url": "https://oice.ustb.edu.cn/",
-        "title": "北京科技大学国际处"
+        "title": "北京科技大学国际处",
+        "leaders": [
+          {
+            "name": "段晓芳",
+            "title": "处长",
+            "duty": "",
+            "email": "xfduan@ustb.edu.cn"
+          },
+          {
+            "name": "张博威",
+            "title": "副处长",
+            "duty": "",
+            "email": "bwzhang@ustb.edu.cn"
+          }
+        ]
       },
       "career": {
         "url": "https://www.ustb.edu.cn/zsjy/index.htm",
@@ -1552,7 +1688,27 @@
       },
       "intl": {
         "url": "https://icd.ncepu.edu.cn/",
-        "title": "国际合作处、港澳台办公室"
+        "title": "国际合作处、港澳台办公室",
+        "leaders": [
+          {
+            "name": "李博",
+            "title": "处长",
+            "duty": "主持国际合作处（港澳台办）全面工作",
+            "email": ""
+          },
+          {
+            "name": "赵子健",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "丁肇豪",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       },
       "career": {
         "url": "https://www.ncepu.edu.cn/zsjy/index.htm",
@@ -1618,6 +1774,14 @@
         "title": "对外交流",
         "email": [
           "gadx@ppsuc.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "外事局",
+            "title": "副处长",
+            "duty": "负责中老警务合作工作",
+            "email": ""
+          }
         ]
       }
     },
@@ -1643,7 +1807,33 @@
       },
       "intl": {
         "url": "https://www.ucas.ac.cn/hzjl/gjhz/index.htm",
-        "title": "国际处"
+        "title": "国际处",
+        "leaders": [
+          {
+            "name": "党委",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "王艳芬",
+            "title": "副书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "党委",
+            "title": "副书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "肖作敏",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          }
+        ]
       },
       "career": {
         "url": "https://www.ucas.ac.cn/zsjy/index.htm",
@@ -2956,6 +3146,32 @@
         "title": "西南财经大学国际合作与交流处",
         "email": [
           "oiec@swufe.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "袁源",
+            "title": "副处长",
+            "duty": "出国境管理科、综合与信息管理科，协助国际处各项工作。",
+            "email": "yuanyuan@swufe.edu.cn"
+          },
+          {
+            "name": "张翔",
+            "title": "副处长",
+            "duty": "引智与交流项目科，协助国际处各项工作",
+            "email": "xiangzhang@swufe.edu.cn"
+          },
+          {
+            "name": "左静林",
+            "title": "科长",
+            "duty": "学生海外交流项目的开拓和维护等工作。",
+            "email": "zuojinglin@swufe.edu.cn"
+          },
+          {
+            "name": "唐济时",
+            "title": "科长",
+            "duty": "师生因",
+            "email": "tangjs@swufe.edu.cn"
+          }
         ]
       },
       "career": {
@@ -3014,6 +3230,14 @@
           "89461393",
           "55211931",
           "82845489"
+        ],
+        "leaders": [
+          {
+            "name": "刘毅在",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          }
         ]
       }
     },
@@ -3071,6 +3295,68 @@
         "title": "留学生教育",
         "email": [
           "oiaswpu@163.com"
+        ],
+        "leaders": [
+          {
+            "name": "戴磊",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "刘文士",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "杨燕",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "邓鹏",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "徐曦",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "陈国梁",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "张晗凌",
+            "title": "副主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "周雨佳",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "张抗",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "杨茜然",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          }
         ]
       }
     },
@@ -3202,6 +3488,38 @@
         "title": "国际交流",
         "email": [
           "tutcm@hotmail.com"
+        ],
+        "leaders": [
+          {
+            "name": "首页",
+            "title": "院长",
+            "duty": "分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生",
+            "email": ""
+          },
+          {
+            "name": "奖学金",
+            "title": "院长",
+            "duty": "分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生",
+            "email": ""
+          },
+          {
+            "name": "信箱",
+            "title": "院长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "信箱办",
+            "title": "院长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "信箱共",
+            "title": "院长",
+            "duty": "",
+            "email": ""
+          }
         ]
       }
     },
@@ -3257,7 +3575,45 @@
       },
       "intl": {
         "url": "https://hzjl.nxu.edu.cn/",
-        "title": "宁夏大学对外合作交流处"
+        "title": "宁夏大学对外合作交流处",
+        "leaders": [
+          {
+            "name": "韩惠丽",
+            "title": "副书记",
+            "duty": "会议。会上，井强山一行从基本校情、人才队伍存在的主要问题和举措、学科建设情况等方",
+            "email": ""
+          },
+          {
+            "name": "赵亚峰",
+            "title": "处长",
+            "duty": "主持对外合作交流处（港澳台事务办公室）、国际教育学院全面工作",
+            "email": ""
+          },
+          {
+            "name": "刘美玲",
+            "title": "副院长",
+            "duty": "分管国际学生招生管理和学籍管理工作 协助国际教育学院院长完成其他",
+            "email": ""
+          },
+          {
+            "name": "郑晓英",
+            "title": "院长",
+            "duty": "负责宁夏大学 · 迪拜大学孔子学院日常管理工作",
+            "email": ""
+          },
+          {
+            "name": "李世福",
+            "title": "主任",
+            "duty": "负责国内合作办公室日常工作： 1. 负责联络对口合作高校（上海交",
+            "email": ""
+          },
+          {
+            "name": "劳晓芸",
+            "title": "副书记",
+            "duty": "主持",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -3408,7 +3764,15 @@
       },
       "intl": {
         "url": "https://www.ipo.sdu.edu.cn/",
-        "title": "国际合作"
+        "title": "国际合作",
+        "leaders": [
+          {
+            "name": "调中方",
+            "title": "院长",
+            "duty": "职责包括：制定学校国际中文教育有关政策与孔子学院建设发展规划并推",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -3518,7 +3882,15 @@
       },
       "intl": {
         "url": "https://wsc.sxu.edu.cn/",
-        "title": "山西大学国际合作与交流处（港澳台办公室）"
+        "title": "山西大学国际合作与交流处（港澳台办公室）",
+        "leaders": [
+          {
+            "name": "学中方",
+            "title": "院长",
+            "duty": "负责汉语教师及汉语教师志愿者的招聘、选拔、培训、派遣和管理；孔子",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -3823,6 +4195,56 @@
         "title": "国际合作",
         "phone": [
           "0755-26033876"
+        ],
+        "leaders": [
+          {
+            "name": "党委",
+            "title": "书记",
+            "duty": "负责校区党委全面工作",
+            "email": ""
+          },
+          {
+            "name": "张国宏",
+            "title": "副书记",
+            "duty": "负责校区党建、组织、统战、工会、宣传、文化建设、意识形态、校史、",
+            "email": ""
+          },
+          {
+            "name": "戴纪锋",
+            "title": "副书记",
+            "duty": "主持校区纪委全面工作",
+            "email": ""
+          },
+          {
+            "name": "聘校长",
+            "title": "助理",
+            "duty": "负责校区校地合作、智库、非涉密科研、发展改革与规划工作",
+            "email": ""
+          },
+          {
+            "name": "梁大鹏",
+            "title": "助理",
+            "duty": "负责校区人事、财务、继续教育、档案工作",
+            "email": ""
+          },
+          {
+            "name": "俞晓国",
+            "title": "助理",
+            "duty": "负责校区学生、共青团、招生、就业、资产、基建、招标采购、网络安全",
+            "email": ""
+          },
+          {
+            "name": "黄中",
+            "title": "书记",
+            "duty": "校区党委全面工作，",
+            "email": ""
+          },
+          {
+            "name": "戴纪锋",
+            "title": "书记",
+            "duty": "校区纪委全面工作，负责纪检监察、内部巡察工作，分管纪检监察",
+            "email": ""
+          }
         ]
       },
       "career": {
@@ -3869,7 +4291,27 @@
       "intl": {
         "url": "https://www.sigs.tsinghua.edu.cn/7666/list.htm",
         "title": "国际合作",
-        "phone": []
+        "phone": [],
+        "leaders": [
+          {
+            "name": "党委副",
+            "title": "副院长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "寄语关",
+            "title": "院长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "左剑恶",
+            "title": "副院长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false
@@ -3988,7 +4430,27 @@
       },
       "intl": {
         "url": "http://fao.scau.edu.cn/",
-        "title": "对外交流"
+        "title": "对外交流",
+        "leaders": [
+          {
+            "name": "主持全",
+            "title": "处长",
+            "duty": "主持全面工作",
+            "email": ""
+          },
+          {
+            "name": "刘傲冬",
+            "title": "副处长",
+            "duty": "负责外事接待、资产、档案、离退休、工会等工作；分管综合业务和港澳",
+            "email": ""
+          },
+          {
+            "name": "肖豫涵",
+            "title": "副处长",
+            "duty": "负责涉外项目管理",
+            "email": ""
+          }
+        ]
       },
       "career": {
         "url": "http://jyzx.scau.edu.cn/",
@@ -4016,6 +4478,26 @@
         "title": "SUSTech Global",
         "email": [
           "global@sustech.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "委员会",
+            "title": "顾问",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "等研究",
+            "title": "院长",
+            "duty": "负责人林间院士率队访问汤加王国与斐济共和国",
+            "email": ""
+          },
+          {
+            "name": "事务的",
+            "title": "副院长",
+            "duty": "负责人",
+            "email": ""
+          }
         ]
       },
       "grad": {
@@ -5780,6 +6262,20 @@
         "title": "国际合作",
         "email": [
           "oice@nju.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "代表",
+            "title": "助理",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "手机",
+            "title": "助理",
+            "duty": "",
+            "email": ""
+          }
         ]
       },
       "grad": {
@@ -5861,7 +6357,21 @@
       "intl": {
         "wechat": "南农国际教育",
         "url": "https://intl.njau.edu.cn/",
-        "title": "国际合作与交流处"
+        "title": "国际合作与交流处",
+        "leaders": [
+          {
+            "name": "刘营军",
+            "title": "副书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "党总支",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          }
+        ]
       },
       "grad": {
         "url": "http://grasch.njau.edu.cn",
@@ -5931,7 +6441,81 @@
       },
       "intl": {
         "url": "https://ico.nuaa.edu.cn/",
-        "title": "国际合作处"
+        "title": "国际合作处",
+        "leaders": [
+          {
+            "name": "赖际舟",
+            "title": "处长",
+            "duty": "主持工作",
+            "email": ""
+          },
+          {
+            "name": "张国权",
+            "title": "副处长",
+            "duty": "负责高层次校际合作关系拓展及维护、教职工因公出国境工作等",
+            "email": ""
+          },
+          {
+            "name": "徐智鑫",
+            "title": "副处长",
+            "duty": "负责引智工作、国际合作平台建设（含中外合作办学、引智基地、国际合",
+            "email": ""
+          },
+          {
+            "name": "祖语嫣",
+            "title": "科长",
+            "duty": "负责综合事务、国际学术交流、外事接待、国际会议申报、暑期国际课程",
+            "email": ""
+          },
+          {
+            "name": "处理相",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "单晶",
+            "title": "科长",
+            "duty": "负责国际合作平台和项目建设（含中外合作办学、引智基地、国际合作联",
+            "email": ""
+          },
+          {
+            "name": "做好项",
+            "title": "科长",
+            "duty": "负责外国专家项目相关工作",
+            "email": ""
+          },
+          {
+            "name": "做好外",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "唐崟捷",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "申雅梅",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "王芮欣",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "洪滔",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6013,6 +6597,20 @@
         "title": "河海大学-国际合作处、港澳台办公室",
         "email": [
           "gjhzc@hhu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "马科斯",
+            "title": "处长",
+            "duty": "主持...",
+            "email": ""
+          },
+          {
+            "name": "选拔推",
+            "title": "院长",
+            "duty": "负责孔子学院中方承办机构的管理工作",
+            "email": ""
+          }
         ]
       }
     },
@@ -6052,7 +6650,27 @@
       "intl": {
         "wechat": "Copyright",
         "url": "https://international.suda.edu.cn/",
-        "title": "国际合作交流处"
+        "title": "国际合作交流处",
+        "leaders": [
+          {
+            "name": "李彦光",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "兼港澳",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "徐雯彦",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6139,6 +6757,14 @@
         "title": "港澳台侨学生招生",
         "email": [
           "gjb@njmu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "兰青一",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          }
         ]
       },
       "career": {
@@ -6169,7 +6795,57 @@
       },
       "intl": {
         "url": "https://ghc.njfu.edu.cn/",
-        "title": "国际合作"
+        "title": "国际合作",
+        "leaders": [
+          {
+            "name": "汪茜电",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "余尤骋",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "刘星彤",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "蔡慧妍",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "侯晋安",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "乌日汗",
+            "title": "科员",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "汪茜",
+            "title": "科长",
+            "duty": "1、中外合作学生交流项目申报与归口管理；2、江苏高校中外高水平大学校群合作",
+            "email": ""
+          },
+          {
+            "name": "乌日汗",
+            "title": "科员",
+            "duty": "1、CSC人才培养专项申报组织与管理； 2 、外籍专家项目申报和管理； 3 、中",
+            "email": "interpro@njfu.edu.cn"
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6249,6 +6925,50 @@
         "title": "南昌大学国际交流处 - Office of Internat",
         "email": [
           "gjjlc@ncu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "处领导",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "电话",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "吴超昭",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "电话",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "电话",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "电话",
+            "title": "副科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "宋文彪",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          }
         ]
       },
       "career": {
@@ -6347,8 +7067,28 @@
         "title": "研究生教育"
       },
       "intl": {
-        "url": "http://international.zzu.edu.cn/en/course?cid=4&pid=4",
-        "title": "留学生招生"
+        "url": "https://www5.zzu.edu.cn/gjjl/",
+        "title": "留学生招生",
+        "leaders": [
+          {
+            "name": "吴军超",
+            "title": "处长",
+            "duty": "",
+            "email": "wujc@zzu.edu.cn"
+          },
+          {
+            "name": "孙雪莲",
+            "title": "副处长",
+            "duty": "",
+            "email": "xueliansun@zzu.edu.cn"
+          },
+          {
+            "name": "谢亚新",
+            "title": "副处长",
+            "duty": "",
+            "email": "xyxain@zzu.edu.cn"
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -6373,8 +7113,16 @@
         ]
       },
       "intl": {
-        "url": "https://www.henu.edu.cn/gjjl.htm",
-        "title": "国际交流"
+        "url": "http://iao.henu.edu.cn/",
+        "title": "国际交流",
+        "leaders": [
+          {
+            "name": "李秋叶",
+            "title": "书记",
+            "duty": "。会议首先进行第一议题学习。全体同志认真学习了习近平总书记关于树立和践行正确政绩",
+            "email": ""
+          }
+        ]
       },
       "career": {
         "url": "https://www.henu.edu.cn/zsjy.htm",
@@ -6447,8 +7195,34 @@
         ]
       },
       "intl": {
-        "url": "https://iso.nbu.edu.cn/",
-        "title": "Ningbo University"
+        "url": "https://wsc.nbu.edu.cn/",
+        "title": "Ningbo University",
+        "leaders": [
+          {
+            "name": "任友群",
+            "title": "副部长",
+            "duty": "会议，中法两国百余所高校的负责人和专家参与论坛。中法多所大学负责人围绕构建面向未",
+            "email": ""
+          },
+          {
+            "name": "联合学",
+            "title": "院长",
+            "duty": "主持会议",
+            "email": ""
+          },
+          {
+            "name": "纪尧姆",
+            "title": "主任",
+            "duty": "负责人列席会议",
+            "email": ""
+          },
+          {
+            "name": "奥勒夫",
+            "title": "院长",
+            "duty": "负责人出席会议",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -7285,8 +8059,16 @@
         "title": "研究生招生"
       },
       "intl": {
-        "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w",
-        "title": "港澳台侨生招生"
+        "url": "https://oce.fzu.edu.cn/",
+        "title": "港澳台侨生招生",
+        "leaders": [
+          {
+            "name": "做好处",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -7488,6 +8270,26 @@
           "danyangliu@dlmu.edu.cn",
           "nanli@dlmu.edu.cn",
           "amberwu@dlmu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "主持党",
+            "title": "书记",
+            "duty": "主持党委全面工作",
+            "email": ""
+          },
+          {
+            "name": "主持行",
+            "title": "副书记",
+            "duty": "主持行政全面工作",
+            "email": ""
+          },
+          {
+            "name": "主持纪",
+            "title": "书记",
+            "duty": "主持纪委工作",
+            "email": ""
+          }
         ]
       }
     }
@@ -8833,7 +9635,57 @@
       },
       "intl": {
         "url": "https://gjc.swu.edu.cn/",
-        "title": "西大国际处港澳台办"
+        "title": "西大国际处港澳台办",
+        "leaders": [
+          {
+            "name": "港澳台",
+            "title": "处长",
+            "duty": "主持全面工作",
+            "email": "cbj0730@126.com"
+          },
+          {
+            "name": "港澳台",
+            "title": "副处长",
+            "duty": "负责港澳台事务、国际中文教育",
+            "email": "daiyuanhong@126.com"
+          },
+          {
+            "name": "陈丽为",
+            "title": "科长",
+            "duty": "",
+            "email": "chenliwei@swu.edu.cn"
+          },
+          {
+            "name": "谭飞雪",
+            "title": "科长",
+            "duty": "",
+            "email": "euasaf@swu.edu.cn"
+          },
+          {
+            "name": "邹育艳",
+            "title": "科长",
+            "duty": "",
+            "email": "yuyanzou@swu.edu.cn"
+          },
+          {
+            "name": "张晓琦",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "肖桑梦",
+            "title": "科长",
+            "duty": "",
+            "email": "xiaosunmoon@swu.edu.cn"
+          },
+          {
+            "name": "艾芝兰",
+            "title": "科长",
+            "duty": "",
+            "email": "gangaotai@swu.edu.cn"
+          }
+        ]
       }
     },
     "dept_skipped": false,
@@ -9391,7 +10243,33 @@
       },
       "intl": {
         "url": "http://www.hit.edu.cn/11555/list.htm",
-        "title": "国际合作"
+        "title": "国际合作",
+        "leaders": [
+          {
+            "name": "党委",
+            "title": "书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "委常务",
+            "title": "副书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "党委",
+            "title": "副书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "校长",
+            "title": "助理",
+            "duty": "",
+            "email": ""
+          }
+        ]
       }
     }
   },
@@ -9562,7 +10440,27 @@
       },
       "intl": {
         "url": "https://fao.hrbeu.edu.cn/",
-        "title": "国际处"
+        "title": "国际处",
+        "leaders": [
+          {
+            "name": "窦峥",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "刘思嘉",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "丁昕",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
       },
       "career": {
         "url": "http://www.hrbeu.edu.cn/zsjy1.htm",
