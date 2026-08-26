@@ -29,7 +29,33 @@
     },
     "intl": {
       "url": "http://www.hit.edu.cn/11555/list.htm",
-      "title": "国际合作"
+      "title": "国际合作",
+      "leaders": [
+        {
+          "name": "党委",
+          "title": "书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "委常务",
+          "title": "副书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "党委",
+          "title": "副书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "校长",
+          "title": "助理",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   }
 }

@@ -19,6 +19,20 @@
       "title": "国际合作",
       "email": [
         "oice@nju.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "代表",
+          "title": "助理",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "手机",
+          "title": "助理",
+          "duty": "",
+          "email": ""
+        }
       ]
     },
     "grad": {

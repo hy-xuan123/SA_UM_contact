@@ -17,7 +17,57 @@
     },
     "intl": {
       "url": "https://ghc.njfu.edu.cn/",
-      "title": "国际合作"
+      "title": "国际合作",
+      "leaders": [
+        {
+          "name": "汪茜电",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "余尤骋",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "刘星彤",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "蔡慧妍",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "侯晋安",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "乌日汗",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "汪茜",
+          "title": "科长",
+          "duty": "1、中外合作学生交流项目申报与归口管理；2、江苏高校中外高水平大学校群合作",
+          "email": ""
+        },
+        {
+          "name": "乌日汗",
+          "title": "科员",
+          "duty": "1、CSC人才培养专项申报组织与管理； 2 、外籍专家项目申报和管理； 3 、中",
+          "email": "interpro@njfu.edu.cn"
+        }
+      ]
     }
   },
   "dept_skipped": false,

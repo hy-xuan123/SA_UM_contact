@@ -12,8 +12,16 @@
       "title": "研究生招生"
     },
     "intl": {
-      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zsks&type=w",
-      "title": "港澳台侨生招生"
+      "url": "https://oce.fzu.edu.cn/",
+      "title": "港澳台侨生招生",
+      "leaders": [
+        {
+          "name": "做好处",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        }
+      ]
     }
   },
   "dept_skipped": false,

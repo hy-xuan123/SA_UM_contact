@@ -16,7 +16,33 @@
     },
     "intl": {
       "url": "https://www.ucas.ac.cn/hzjl/gjhz/index.htm",
-      "title": "国际处"
+      "title": "国际处",
+      "leaders": [
+        {
+          "name": "党委",
+          "title": "书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "王艳芬",
+          "title": "副书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "党委",
+          "title": "副书记",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "肖作敏",
+          "title": "书记",
+          "duty": "",
+          "email": ""
+        }
+      ]
     },
     "career": {
       "url": "https://www.ucas.ac.cn/zsjy/index.htm",

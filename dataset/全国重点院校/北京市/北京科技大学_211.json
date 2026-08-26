@@ -9,7 +9,21 @@
   "depts": {
     "intl": {
       "url": "https://oice.ustb.edu.cn/",
-      "title": "北京科技大学国际处"
+      "title": "北京科技大学国际处",
+      "leaders": [
+        {
+          "name": "段晓芳",
+          "title": "处长",
+          "duty": "",
+          "email": "xfduan@ustb.edu.cn"
+        },
+        {
+          "name": "张博威",
+          "title": "副处长",
+          "duty": "",
+          "email": "bwzhang@ustb.edu.cn"
+        }
+      ]
     },
     "career": {
       "url": "https://www.ustb.edu.cn/zsjy/index.htm",

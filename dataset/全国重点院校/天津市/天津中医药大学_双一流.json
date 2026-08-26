@@ -26,6 +26,38 @@
       "title": "国际交流",
       "email": [
         "tutcm@hotmail.com"
+      ],
+      "leaders": [
+        {
+          "name": "首页",
+          "title": "院长",
+          "duty": "分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生",
+          "email": ""
+        },
+        {
+          "name": "奖学金",
+          "title": "院长",
+          "duty": "分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生",
+          "email": ""
+        },
+        {
+          "name": "信箱",
+          "title": "院长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "信箱办",
+          "title": "院长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "信箱共",
+          "title": "院长",
+          "duty": "",
+          "email": ""
+        }
       ]
     }
   },

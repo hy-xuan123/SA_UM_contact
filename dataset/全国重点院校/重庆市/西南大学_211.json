@@ -21,7 +21,57 @@
     },
     "intl": {
       "url": "https://gjc.swu.edu.cn/",
-      "title": "西大国际处港澳台办"
+      "title": "西大国际处港澳台办",
+      "leaders": [
+        {
+          "name": "港澳台",
+          "title": "处长",
+          "duty": "主持全面工作",
+          "email": "cbj0730@126.com"
+        },
+        {
+          "name": "港澳台",
+          "title": "副处长",
+          "duty": "负责港澳台事务、国际中文教育",
+          "email": "daiyuanhong@126.com"
+        },
+        {
+          "name": "陈丽为",
+          "title": "科长",
+          "duty": "",
+          "email": "chenliwei@swu.edu.cn"
+        },
+        {
+          "name": "谭飞雪",
+          "title": "科长",
+          "duty": "",
+          "email": "euasaf@swu.edu.cn"
+        },
+        {
+          "name": "邹育艳",
+          "title": "科长",
+          "duty": "",
+          "email": "yuyanzou@swu.edu.cn"
+        },
+        {
+          "name": "张晓琦",
+          "title": "科长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "肖桑梦",
+          "title": "科长",
+          "duty": "",
+          "email": "xiaosunmoon@swu.edu.cn"
+        },
+        {
+          "name": "艾芝兰",
+          "title": "科长",
+          "duty": "",
+          "email": "gangaotai@swu.edu.cn"
+        }
+      ]
     }
   },
   "dept_skipped": false,

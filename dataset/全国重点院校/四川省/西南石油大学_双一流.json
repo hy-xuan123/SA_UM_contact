@@ -29,6 +29,68 @@
       "title": "留学生教育",
       "email": [
         "oiaswpu@163.com"
+      ],
+      "leaders": [
+        {
+          "name": "戴磊",
+          "title": "处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "刘文士",
+          "title": "副处长",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "杨燕",
+          "title": "主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "邓鹏",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "徐曦",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "陈国梁",
+          "title": "主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "张晗凌",
+          "title": "副主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "周雨佳",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "张抗",
+          "title": "主任",
+          "duty": "",
+          "email": ""
+        },
+        {
+          "name": "杨茜然",
+          "title": "科员",
+          "duty": "",
+          "email": ""
+        }
       ]
     }
   },

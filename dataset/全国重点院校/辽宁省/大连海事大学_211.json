@@ -38,6 +38,26 @@
         "danyangliu@dlmu.edu.cn",
         "nanli@dlmu.edu.cn",
         "amberwu@dlmu.edu.cn"
+      ],
+      "leaders": [
+        {
+          "name": "主持党",
+          "title": "书记",
+          "duty": "主持党委全面工作",
+          "email": ""
+        },
+        {
+          "name": "主持行",
+          "title": "副书记",
+          "duty": "主持行政全面工作",
+          "email": ""
+        },
+        {
+          "name": "主持纪",
+          "title": "书记",
+          "duty": "主持纪委工作",
+          "email": ""
+        }
       ]
     }
   }
