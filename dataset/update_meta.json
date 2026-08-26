@@ -1,0 +1,2163 @@
+{
+  "last_update": "2026-08-26 13:05:44",
+  "recent_days": 7,
+  "updated_count": 218,
+  "updated_schools": [
+    {
+      "name": "上海中医药大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "上海交通大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "上海体育学院",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 01:51:37"
+    },
+    {
+      "name": "上海外国语大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "上海大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "上海海洋大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "上海科技大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "上海财经大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.title",
+        "depts.intl.wechat",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "上海音乐学院",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province",
+        "web_fail_reason",
+        "website"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "东北农业大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "东北师范大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "东北林业大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "东北电力大学",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "东北石油大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl.email"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "东北财经大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "东华大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "东南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "中南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "中南财经政法大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "中国人民公安大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "中国人民大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.grad.phone",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 12:55:05"
+    },
+    {
+      "name": "中国传媒大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.grad.phone",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中国农业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "中国医科大学",
+      "fields": [
+        "depts"
+      ],
+      "time": "2026-08-24 23:58:59"
+    },
+    {
+      "name": "中国地质大学（北京）",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "中国地质大学（武汉）",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "中国政法大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "中国海洋大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:09:26"
+    },
+    {
+      "name": "中国石油大学（北京）",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中国石油大学（华东）",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中国矿业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中国矿业大学（北京）",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "中国科学技术大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "中国科学院大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "中国美术学院",
+      "fields": [
+        "(整所学校)"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "中国药科大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中国音乐学院",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中央戏剧学院",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.email",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中央民族大学",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "中央美术学院",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中央财经大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.intl.phone",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "中央音乐学院",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "中山大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "中山大学深圳校区",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl"
+      ],
+      "time": "2026-08-24 23:57:49"
+    },
+    {
+      "name": "云南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "兰州大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "内蒙古大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "北京中医药大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.grad.phone",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 12:55:05"
+    },
+    {
+      "name": "北京交通大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.grad.phone",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "北京体育大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "北京化工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "北京协和医学院",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "北京外国语大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "北京大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.grad.phone",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "北京大学深圳研究生院",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "北京工业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.grad.phone",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "北京师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "北京师范大学珠海校区",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "北京师范大学－香港浸会大联合国际学院",
+      "fields": [
+        "depts.intl.email"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "北京林业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "北京理工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 12:55:05"
+    },
+    {
+      "name": "北京科技大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.grad.phone",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "北京航空航天大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 04:19:12"
+    },
+    {
+      "name": "北京邮电大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:51:37"
+    },
+    {
+      "name": "华东师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "province"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "华东理工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "华中农业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "华中师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "华中科技大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "华北电力大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "华南农业大学",
+      "fields": [
+        "depts.intl.leaders",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "华南师范大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "华南理工大学",
+      "fields": [
+        "depts.career",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.leaders"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "南京中医药大学",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "南京信息工程大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "南京农业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "depts.intl.wechat",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "南京医科大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "南京大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "南京师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "南京林业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "南京理工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "南京航空航天大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "南京邮电大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "南开大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "南方医科大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "南方科技大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "南昌大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "厦门大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "合肥工业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "吉林农业大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "吉林化工大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "吉林医药学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "吉林大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.leaders"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "吉林工商学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "吉林工程技术师范学院",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "吉林警察学院",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:51:03"
+    },
+    {
+      "name": "同济大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "哈尔滨商业大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "哈尔滨学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "哈尔滨工业大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.leaders"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "哈尔滨工业大学（深圳）",
+      "fields": [
+        "depts.intl.leaders",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "哈尔滨工程大学",
+      "fields": [
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "哈尔滨职业技术大学",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "哈尔滨音乐学院",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "四川农业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "四川大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "国防科技大学",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "复旦大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "外交学院",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "大庆师范学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "大连交通大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "大连医科大学",
+      "fields": [
+        "depts.intl",
+        "depts.intl.email"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "大连外国语大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.grad.phone"
+      ],
+      "time": "2026-08-24 12:40:50"
+    },
+    {
+      "name": "大连民族大学",
+      "fields": [
+        "depts.grad.title"
+      ],
+      "time": "2026-08-25 12:55:05"
+    },
+    {
+      "name": "大连海事大学",
+      "fields": [
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.leaders"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "大连理工大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl.leaders"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "天津中医药大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "天津医科大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "天津大学",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "天津工业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "太原理工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "宁夏大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "宁波大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "安徽大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "对外经济贸易大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "山东大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "山西大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "广东工业大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "广东技术师范大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "广东药科大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "广东财经大学",
+      "fields": [
+        "depts.grad.phone"
+      ],
+      "time": "2026-08-24 12:40:50"
+    },
+    {
+      "name": "广东轻工职业技术大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "广东金融学院",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "广州中医药大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.url",
+        "depts.intl.contact_note",
+        "depts.intl.email",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "广州医科大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.title"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "广州大学",
+      "fields": [
+        "depts.career.email",
+        "depts.intl"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "广州美术学院",
+      "fields": [
+        "depts.intl.email"
+      ],
+      "time": "2026-08-24 12:40:50"
+    },
+    {
+      "name": "广西大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "延边大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "成都中医药大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province",
+        "web_fail_reason"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "成都理工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-24 23:59:24"
+    },
+    {
+      "name": "新疆大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "星海音乐学院",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "暨南大学",
+      "fields": [
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "武汉大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "武汉理工大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "江南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "沈阳体育学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "沈阳农业大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "沈阳化工大学",
+      "fields": [
+        "depts.career.email"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "沈阳大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "沈阳师范大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "沈阳理工大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "沈阳药科大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "河北工业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "河南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:52:03"
+    },
+    {
+      "name": "河海大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "浙江大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "depts.intl.email",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "海南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "深圳北理莫斯科大学",
+      "fields": [
+        "depts.intl.email"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "深圳大学",
+      "fields": [
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-24 23:02:33"
+    },
+    {
+      "name": "深圳技术大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "深圳理工大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "深圳职业技术大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-24 23:07:43"
+    },
+    {
+      "name": "清华大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.grad.phone",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 12:55:05"
+    },
+    {
+      "name": "清华大学深圳国际研究生院",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl.leaders",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "渤海大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:51:03"
+    },
+    {
+      "name": "湖南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "湖南师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "湘潭大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "牡丹江师范学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "电子科技大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-24 23:57:49"
+    },
+    {
+      "name": "石河子大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "depts.intl.email",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "福州大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl.leaders",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "第二军医大学",
+      "fields": [
+        "(整所学校)",
+        "province",
+        "web_fail_reason"
+      ],
+      "time": "2026-08-25 13:39:02"
+    },
+    {
+      "name": "第四军医大学",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "绥化学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "肇庆学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "苏州大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "depts.intl.wechat",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "营口理工学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:51:03"
+    },
+    {
+      "name": "西北农林科技大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "西北大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "西北工业大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 13:05:44"
+    },
+    {
+      "name": "西南交通大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "西南大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 12:45:02"
+    },
+    {
+      "name": "西南石油大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "西南财经大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:59:34"
+    },
+    {
+      "name": "西安交通大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:09:26"
+    },
+    {
+      "name": "西安电子科技大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "西藏大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career",
+        "depts.intl",
+        "province"
+      ],
+      "time": "2026-08-25 00:54:30"
+    },
+    {
+      "name": "贵州大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-25 01:50:01"
+    },
+    {
+      "name": "辽宁中医药大学",
+      "fields": [
+        "depts.intl"
+      ],
+      "time": "2026-08-25 01:09:26"
+    },
+    {
+      "name": "辽宁大学",
+      "fields": [
+        "depts.career.url",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "辽宁工程技术大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "辽宁师范大学",
+      "fields": [
+        "depts.intl"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "辽宁石油化工大学",
+      "fields": [
+        "depts.career.email",
+        "depts.intl.email"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "辽宁警察学院",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "郑州大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.grad.title",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 12:45:02"
+    },
+    {
+      "name": "重庆大学",
+      "fields": [
+        "(整所学校)",
+        "province"
+      ],
+      "time": "2026-08-24 23:10:53"
+    },
+    {
+      "name": "长安大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.leaders",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:52:38"
+    },
+    {
+      "name": "长春大学",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "长春工业大学",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "长春工程学院",
+      "fields": [
+        "depts.intl"
+      ],
+      "time": "2026-08-25 00:27:50"
+    },
+    {
+      "name": "长春理工大学",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "长春职业技术大学",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 01:46:03"
+    },
+    {
+      "name": "陕西师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.intl.email",
+        "depts.intl.leaders",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 04:18:02"
+    },
+    {
+      "name": "青海大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.url",
+        "depts.intl.email",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "鞍山师范学院",
+      "fields": [
+        "depts.intl"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "顺德职业技术大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "首都师范大学",
+      "fields": [
+        "(整所学校)",
+        "depts.career.phone",
+        "depts.career.url",
+        "depts.grad.phone",
+        "depts.intl.email",
+        "depts.intl.phone",
+        "depts.intl.title",
+        "depts.intl.url",
+        "province"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "香港中文大学（深圳）",
+      "fields": [
+        "depts.career.phone"
+      ],
+      "time": "2026-08-24 02:12:33"
+    },
+    {
+      "name": "香港科技大学（广州）",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "黑龙江中医药大学",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:02:33"
+    },
+    {
+      "name": "黑龙江大学",
+      "fields": [
+        "depts.career.email",
+        "depts.career.phone",
+        "depts.intl"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "黑龙江工业学院",
+      "fields": [
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 23:48:44"
+    },
+    {
+      "name": "黑龙江科技大学",
+      "fields": [
+        "depts.career.phone",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    },
+    {
+      "name": "齐齐哈尔医学院",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-26 02:55:11"
+    },
+    {
+      "name": "齐齐哈尔大学",
+      "fields": [
+        "depts.intl.email",
+        "depts.intl.phone"
+      ],
+      "time": "2026-08-24 12:07:14"
+    }
+  ],
+  "files": {
+    "summary_xlsx": "dataset/全国重点院校/全国高校汇总表.xlsx",
+    "summary_csv": "dataset/全国重点院校/全国高校汇总.csv",
+    "update_csv": "dataset/全国重点院校/更新部分.csv"
+  }
+}

@@ -152,6 +152,25 @@
   .legend .item { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
   .legend .dot { width: 10px; height: 10px; border-radius: 50%; }
   .empty { text-align: center; color: var(--muted); padding: 40px 0; font-size: 13px; }
+
+  header .dl-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 7px 14px; border-radius: 18px;
+    background: var(--primary); color: #fff;
+    font-size: 13px; font-weight: 600;
+    text-decoration: none; cursor: pointer;
+    transition: opacity .15s; position: relative;
+  }
+  header .dl-btn:hover { opacity: .85; }
+  header .dl-btn.outline { background: #fff; color: var(--primary); border: 1px solid var(--primary); }
+  header .dl-btn .new-badge {
+    position: absolute; top: -7px; right: -7px;
+    background: #e11d48; color: #fff;
+    font-size: 10px; font-weight: 700; line-height: 1;
+    padding: 3px 5px; border-radius: 8px;
+    animation: pulse 1.2s infinite;
+  }
+  @keyframes pulse { 0%,100%{transform:scale(1)} 50%{transform:scale(1.15)} }
 </style>
 </head>
 <body>
@@ -159,6 +178,12 @@
   <h1>全国高校一览</h1>
   <span class="sub">澳门大学 · 信息学院 & 工学院 硕士招生目标院校</span>
   <div class="stat" id="stat"></div>
+  <a class="dl-btn" id="dl-summary" href="dataset/全国重点院校/全国高校汇总表.xlsx" download>
+    下载汇总表<span class="new-badge" id="new-summary" style="display:none">new!</span>
+  </a>
+  <a class="dl-btn outline" id="dl-update" href="dataset/全国重点院校/更新部分.csv" download>
+    下载更新部分<span class="new-badge" id="new-update" style="display:none">new!</span>
+  </a>
 </header>
 
 <div class="tabs" id="tabs">
@@ -452,6 +477,21 @@ fetch('dataset/index.json')
   .catch(err => {
     document.getElementById('list').innerHTML = '<div class="empty">数据加载失败：' + err.message + '</div>';
   });
+
+// 更新标注：读取 update_meta.json，若最近有更新则显示 new! 并标注更新时间
+fetch('dataset/update_meta.json')
+  .then(r => r.json())
+  .then(meta => {
+    const last = new Date(meta.last_update.replace(' ', 'T'));
+    const days = Math.floor((Date.now() - last.getTime()) / 86400000);
+    if (days < meta.recent_days) {
+      document.getElementById('new-summary').style.display = 'inline';
+      document.getElementById('new-update').style.display = 'inline';
+      const stat = document.getElementById('stat');
+      stat.innerHTML += `<span style="color:#e11d48;font-weight:700"> · 更新于 ${meta.last_update.slice(5,16)}</span>`;
+    }
+  })
+  .catch(() => {});
 </script>
 </body>
 </html>
