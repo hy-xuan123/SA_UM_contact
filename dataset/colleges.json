@@ -1,0 +1,7766 @@
+{
+  "上海大学": [
+    {
+      "name": "人工智能研究院",
+      "url": "https://ai.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "材料基因组工程研究院",
+      "url": "https://mgi.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "理学院",
+      "url": "https://scicol.shu.edu.cn",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "通信与信息工程学院",
+      "url": "https://scie.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "计算机工程与科学学院",
+      "url": "https://cs.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "机电工程与自动化学院",
+      "url": "https://auto.shu.edu.cn/",
+      "email": "",
+      "phone": "04223120887; 04323121998; 04423121186"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://mat.shu.edu.cn",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "环境与化学工程学院",
+      "url": "https://ece.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://bio.shu.edu.cn/",
+      "email": "",
+      "phone": "021-66132665"
+    },
+    {
+      "name": "中欧工程技术学院",
+      "url": "https://utseus.shu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "微电子学院",
+      "url": "https://sme.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "https://zhgy.shu.edu.cn/",
+      "email": "",
+      "phone": "009102000049"
+    }
+  ],
+  "上海科技大学": [
+    {
+      "name": "物质科学与技术学院",
+      "url": "http://spst.shanghaitech.edu.cn/",
+      "email": "",
+      "phone": "0608536047; 011502006855"
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "http://slst.shanghaitech.edu.cn/",
+      "email": "",
+      "phone": "011502006855"
+    },
+    {
+      "name": "信息科学与技术学院",
+      "url": "http://sist.shanghaitech.edu.cn/",
+      "email": "",
+      "phone": "011502006855"
+    }
+  ],
+  "上海财经大学": [
+    {
+      "name": "统计与数据科学学院",
+      "url": "http://ssds.shufe.edu.cn/",
+      "email": "",
+      "phone": "021-65901099; 021-65901079; 021-35312698"
+    },
+    {
+      "name": "计算机与人工智能学院",
+      "url": "https://scai.sufe.edu.cn/main.htm",
+      "email": "scai@mail.shufe.edu.cn",
+      "phone": "021-65901001--"
+    },
+    {
+      "name": "数学学院",
+      "url": "http://math.shufe.edu.cn/",
+      "email": "math@mail.shufe.edu.cn",
+      "phone": "021-65902502"
+    }
+  ],
+  "东北大学": [
+    {
+      "name": "理学院",
+      "url": "http://cos.neu.edu.cn/",
+      "email": "cos@mail.neu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "资源与土木工程学院",
+      "url": "http://www.zitu.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "冶金学院",
+      "url": "http://www.som.neu.edu.cn/",
+      "email": "",
+      "phone": "023-06055084"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://www.mse.neu.edu.cn/",
+      "email": "clxy@mail.neu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机械工程与自动化学院",
+      "url": "http://www.me.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学与工程学院",
+      "url": "http://www.ise.neu.edu.cn/",
+      "email": "",
+      "phone": "00172830373; 15264629469"
+    },
+    {
+      "name": "计算机科学与工程学院",
+      "url": "http://www.cse.neu.edu.cn/",
+      "email": "neucse@cse.neu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "软件学院",
+      "url": "http://sc.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学与健康学院",
+      "url": "http://www.clhs.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "江河建筑学院",
+      "url": "http://www.jz.neu.edu.cn/",
+      "email": "ddjzxy@mail.neu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机器人科学与工程学院",
+      "url": "http://www.rse.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "http://sft.neu.edu.cn/",
+      "email": "",
+      "phone": "0909543182"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "http://www.nsee.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "悉尼智能科技学院",
+      "url": "http://sstc.neuq.edu.cn/",
+      "email": "sstc@neuq.edu.cn",
+      "phone": "0335-8396500; 0335-8396075"
+    },
+    {
+      "name": "海洋工程研究院",
+      "url": "http://hygcyjy.neuq.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "科学技术研究院",
+      "url": "http://kyy.neu.edu.cn/",
+      "email": "",
+      "phone": "07746382851"
+    },
+    {
+      "name": "人工智能与大数据研究院",
+      "url": "http://idao.neu.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "东北师范大学": [
+    {
+      "name": "心理学院",
+      "url": "http://psy.nenu.edu.cn/",
+      "email": "xlxy@nenu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.nenu.edu.cn/",
+      "email": "sxdw@nenu.edu.cn",
+      "phone": "0431-85099589"
+    },
+    {
+      "name": "信息科学与技术学院",
+      "url": "http://ist.nenu.edu.cn/",
+      "email": "lixm879@nenu.edu.cn",
+      "phone": "0431-84536338"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://www.phy.nenu.edu.cn/",
+      "email": "dsxxw@nenu.edu.cn",
+      "phone": "85099666"
+    },
+    {
+      "name": "化学学院",
+      "url": "http://chem.nenu.edu.cn/",
+      "email": "",
+      "phone": "0431-85099667"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://sky.nenu.edu.cn/",
+      "email": "",
+      "phone": "0431-85099590"
+    },
+    {
+      "name": "地理科学学院",
+      "url": "http://geo.nenu.edu.cn/",
+      "email": "dili@nenu.edu.cn",
+      "phone": "0431-85099550"
+    },
+    {
+      "name": "环境学院",
+      "url": "http://hjxy.nenu.edu.cn/",
+      "email": "huanjing@nenu.edu.cn; songm489@nenu.edu.cn; jsgzb@nenu.edu.cn",
+      "phone": "0431-89165610; 89165600; 85099385"
+    }
+  ],
+  "东华大学": [
+    {
+      "name": "纺织学院",
+      "url": "http://texcol.dhu.edu.cn/",
+      "email": "webmaster@dhu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://meccol.dhu.edu.cn/",
+      "email": "meccol@dhu.edu.cn",
+      "phone": "021-67792567"
+    },
+    {
+      "name": "信息与智能科学学院",
+      "url": "https://siis.dhu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "http://cceb.dhu.edu.cn/",
+      "email": "",
+      "phone": "021-67792306"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://cmse.dhu.edu.cn/",
+      "email": "clxy@dhu.edu.cn; webmaster@dhu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://env.dhu.edu.cn/",
+      "email": "",
+      "phone": "021-67792159"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "https://maths.dhu.edu.cn/",
+      "email": "webmaster@dhu.edu.cn",
+      "phone": "02699001262; 02699005943; 0269900928"
+    },
+    {
+      "name": "物理学院",
+      "url": "https://phys.dhu.edu.cn",
+      "email": "webmaster@dhu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "科学技术研究院",
+      "url": "http://research.dhu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://gce.dhu.edu.cn/",
+      "email": "zyg_dh@dhu.edu.cn",
+      "phone": "021-67792428"
+    }
+  ],
+  "东南大学": [
+    {
+      "name": "建筑学院",
+      "url": "http://arch.seu.edu.cn/",
+      "email": "deanoffice_seuarch@seu.edu.cn",
+      "phone": "025-83792223"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://me.seu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "能源与环境学院",
+      "url": "http://power.seu.edu.cn/main.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学与工程学院",
+      "url": "http://radio.seu.edu.cn/",
+      "email": "radio@pub.seu.edu.cn; seuradiojob@163.com",
+      "phone": "025-52091073; 025-83792654"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://civil.seu.edu.cn/",
+      "email": "admin_civil@pub.seu.edu.cn",
+      "phone": "025-52091227"
+    },
+    {
+      "name": "电子科学与工程学院",
+      "url": "http://electronic.seu.edu.cn",
+      "email": "dzxy@pub.seu.edu.cn",
+      "phone": "025-83790809"
+    },
+    {
+      "name": "数学学院",
+      "url": "http://math.seu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://automation.seu.edu.cn",
+      "email": "jupiter@seu.edu.cn",
+      "phone": "025-83792724"
+    },
+    {
+      "name": "计算机科学与工程学院",
+      "url": "http://cs.seu.edu.cn",
+      "email": "",
+      "phone": "18532281240"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.seu.edu.cn/",
+      "email": "",
+      "phone": "025-52090600"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://smse.seu.edu.cn",
+      "email": "",
+      "phone": "025-52090672"
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://ee.seu.edu.cn",
+      "email": "",
+      "phone": "025-83792260"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://chem.seu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "交通学院",
+      "url": "http://tc.seu.edu.cn/",
+      "email": "seutc_official@126.com",
+      "phone": ""
+    },
+    {
+      "name": "仪器科学与工程学院",
+      "url": "http://ins.seu.edu.cn",
+      "email": "",
+      "phone": "13405399473"
+    },
+    {
+      "name": "软件学院",
+      "url": "http://cose.seu.edu.cn",
+      "email": "",
+      "phone": "18532281240"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://ic.seu.edu.cn",
+      "email": "ic-seu@seu.edu.cn",
+      "phone": "0510-85115626"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://cyber.seu.edu.cn",
+      "email": "cyber@pub.seu.edu.cn; master@seu.edu.cn",
+      "phone": "025-52091393"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://ai.seu.edu.cn",
+      "email": "",
+      "phone": "18532281240"
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "http://ils.seu.edu.cn",
+      "email": "stephenxu@seu.edu.cn",
+      "phone": "025-83790971（"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://gjzygcs.seu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "http://futuretech.seu.edu.cn",
+      "email": "FT@pub.seu.edu.cn",
+      "phone": "025-52097796"
+    },
+    {
+      "name": "统计与数据科学学院",
+      "url": "http://stat.seu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能科学与工程学院",
+      "url": "https://www.seu.edu.cn/yxsz/list.htm",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "中南大学": [
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-88660152"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://wl.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-88836457"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://ccce.csu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://cmee.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-88879351"
+    },
+    {
+      "name": "能源科学与工程学院",
+      "url": "http://energy.csu.edu.cn",
+      "email": "",
+      "phone": "0731-88879863"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-88879341（"
+    },
+    {
+      "name": "粉末冶金研究院",
+      "url": "http://pmri.csu.edu.cn/",
+      "email": "x-pmri@mail.csu.edu.cn",
+      "phone": "0731-88879422"
+    },
+    {
+      "name": "交通运输工程学院",
+      "url": "http://stte.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-82655326"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://civil.csu.edu.cn/",
+      "email": "tmyxwzx@csu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "冶金与环境学院",
+      "url": "http://smse.csu.edu.cn/",
+      "email": "csumetallurgy@csu.edu.cn",
+      "phone": "0731-88830923"
+    },
+    {
+      "name": "地球科学与信息物理学院",
+      "url": "http://gip.csu.edu.cn/",
+      "email": "mail@gip.csu.edu",
+      "phone": "0731-88836153"
+    },
+    {
+      "name": "资源与安全工程学院",
+      "url": "http://srse.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-88879612"
+    },
+    {
+      "name": "资源加工与生物工程学院",
+      "url": "http://mpb.csu.edu.cn",
+      "email": "info@sitename.com",
+      "phone": "0731-88879622"
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://soa.csu.edu.cn/",
+      "email": "zdhxyyb@csu.edu.cn",
+      "phone": "0731-88830342; 0731-88830700"
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cse.csu.edu.cn/",
+      "email": "",
+      "phone": "0731-88836659"
+    },
+    {
+      "name": "电子信息学院",
+      "url": "https://ei.csu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.csu.edu.cn/",
+      "email": "life_csu@163.com",
+      "phone": "0731-89665629"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://ngce.csu.edu.cn/",
+      "email": "gzy@csu.edu.cn",
+      "phone": "0731-88876326"
+    },
+    {
+      "name": "中国科学院",
+      "url": "http://www.cas.cn",
+      "email": "",
+      "phone": "861068597114（"
+    }
+  ],
+  "中南财经政法大学": [
+    {
+      "name": "统计与数学学院",
+      "url": "https://tsxy.zuel.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息工程学院",
+      "url": "https://xagx.zuel.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "中国人民大学": [
+    {
+      "name": "■ 生态环境学院",
+      "url": "https://envi.ruc.edu.cn/",
+      "email": "huanjing@ruc.edu.cn",
+      "phone": "010-62511042; 0402430004"
+    },
+    {
+      "name": "■ 信息学院",
+      "url": "http://info.ruc.edu.cn/",
+      "email": "",
+      "phone": "0402430004"
+    },
+    {
+      "name": "■ 统计学院",
+      "url": "http://stat.ruc.edu.cn/",
+      "email": "",
+      "phone": "01620241114; 0402430004"
+    },
+    {
+      "name": "■ 化学与生命资源学院",
+      "url": "https://clr.ruc.edu.cn/zwwz/index.htm",
+      "email": "ruc_clr@ruc.edu.cn",
+      "phone": "010-62512822"
+    },
+    {
+      "name": "■ 物理学院",
+      "url": "http://www.phys.ruc.edu.cn/",
+      "email": "graphy@ruc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "■ 统计与大数据研究院",
+      "url": "http://isbd.ruc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "■ 数学学院",
+      "url": "http://math.ruc.edu.cn/",
+      "email": "mathruc@ruc.edu.cn",
+      "phone": "010-82507161"
+    },
+    {
+      "name": "■ 高瓴人工智能学院",
+      "url": "http://ai.ruc.edu.cn/",
+      "email": "ai@ruc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "■ 智慧治理学院",
+      "url": "http://su.ruc.edu.cn/department/ssg/index.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家治理工程学院",
+      "url": "http://ang.ruc.edu.cn/index.htm",
+      "email": "",
+      "phone": "010-62510553"
+    },
+    {
+      "name": "■ 全球领导力学院",
+      "url": "http://sgl.ruc.edu.cn/",
+      "email": "sglruc@ruc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "■ 交叉科学研究院",
+      "url": "http://sids.ruc.edu.cn/",
+      "email": "rdcy2021@ruc.edu.cn",
+      "phone": "0402430004; 010-62510183"
+    }
+  ],
+  "中国传媒大学": [
+    {
+      "name": "中国干部网络学院",
+      "url": "http://www.cela.gov.cn",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "中国地质大学（北京）": [
+    {
+      "name": "地球科学与资源学院",
+      "url": "https://sesr.cugb.edu.cn/",
+      "email": "dxfzh2180@163.com",
+      "phone": "01082322264"
+    },
+    {
+      "name": "工程技术学院",
+      "url": "https://set.cugb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://smst.cugb.edu.cn/",
+      "email": "",
+      "phone": "010-82321111"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://sai.cugb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "水资源与环境学院",
+      "url": "https://swre.cugb.edu.cn/",
+      "email": "swre@cugb.edu.cn",
+      "phone": "010-82322281"
+    },
+    {
+      "name": "地球物理与信息技术学院",
+      "url": "https://sgit.cugb.edu.cn/",
+      "email": "dxxy@cugb.edu.cn",
+      "phone": "010-82321044"
+    },
+    {
+      "name": "土地科学技术学院",
+      "url": "https://slst.cugb.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "中国地质大学（武汉）": [
+    {
+      "name": "地球与行星科学学院",
+      "url": "http://dxy.cug.edu.cn/",
+      "email": "dxb@cug.edu.cn",
+      "phone": "027-67883001"
+    },
+    {
+      "name": "资源学院",
+      "url": "http://zyxy.cug.edu.cn/",
+      "email": "zyb@cug.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料与化学学院",
+      "url": "http://chxy.cug.edu.cn/",
+      "email": "chxyyb@cug.edu.cn",
+      "phone": "027-67883736"
+    },
+    {
+      "name": "环境学院",
+      "url": "http://ses.cug.edu.cn/",
+      "email": "",
+      "phone": "（027）67883152"
+    },
+    {
+      "name": "工程学院",
+      "url": "http://gcxy.cug.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地球物理与空间信息学院",
+      "url": "http://dkxy.cug.edu.cn/",
+      "email": "wtb@cug.edu.cn",
+      "phone": "86-27-67883251"
+    },
+    {
+      "name": "海洋学院",
+      "url": "http://cmst.cug.edu.cn/",
+      "email": "cmst@cug.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机械与电子信息学院",
+      "url": "http://jidian.cug.edu.cn/",
+      "email": "zhangjing28@cug.edu.cn; lix@cug.edu.cn",
+      "phone": "027-67883273"
+    },
+    {
+      "name": "人工智能与自动化学院",
+      "url": "http://au.cug.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地理与信息工程学院",
+      "url": "http://xgxy.cug.edu.cn/",
+      "email": "dxxyjw@cug.edu.cn",
+      "phone": "027-67883721; 027-87581009; 027-67883728"
+    },
+    {
+      "name": "数学与物理学院",
+      "url": "http://slxy.cug.edu.cn/",
+      "email": "slxy@cug.edu.cn",
+      "phone": "027-67883091"
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cs.cug.edu.cn/",
+      "email": "jsjb@cug.edu.cn",
+      "phone": "027-67883716"
+    },
+    {
+      "name": "李四光学院",
+      "url": "http://lsgxy.cug.edu.cn/",
+      "email": "",
+      "phone": "027-67885190"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://sft.cug.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "先进技术研究院",
+      "url": "https://xjjsyjy.cug.edu.cn/",
+      "email": "xjy@cug.edu.cn",
+      "phone": "027-67880788"
+    },
+    {
+      "name": "自然资源调查研究院",
+      "url": "https://ddy.cug.edu.cn/",
+      "email": "ddyb@cug.edu.cn",
+      "phone": "027-67883017; 027-67883472"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://zhuoy.cug.edu.cn/index.htm",
+      "email": "",
+      "phone": "027-67886412"
+    },
+    {
+      "name": "安哈尔特智能工程与可持续发展学院",
+      "url": "https://cug-anhalt.cug.edu.cn/",
+      "email": "cuganhalt@cug.edu.cn",
+      "phone": ""
+    }
+  ],
+  "中国海洋大学": [
+    {
+      "name": "海洋与大气学院",
+      "url": "https://coas.ouc.edu.cn/",
+      "email": "coas@ouc.edu.cn",
+      "phone": "0532-66782372"
+    },
+    {
+      "name": "信息科学与工程学部",
+      "url": "https://it.ouc.edu.cn/",
+      "email": "",
+      "phone": "14369066079"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "https://chem.ouc.edu.cn/",
+      "email": "hxhgxy@ouc.edu.cn",
+      "phone": "0532-66782481"
+    },
+    {
+      "name": "海洋地球科学学院",
+      "url": "https://cmg.ouc.edu.cn/",
+      "email": "",
+      "phone": "0532-66782488"
+    },
+    {
+      "name": "海洋生命学院",
+      "url": "https://cmls.ouc.edu.cn/",
+      "email": "",
+      "phone": "0532-82031809"
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "https://cfse.ouc.edu.cn/",
+      "email": "",
+      "phone": "053260892272"
+    },
+    {
+      "name": "工程学院",
+      "url": "https://coe.ouc.edu.cn/",
+      "email": "",
+      "phone": "0532-60891550"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://cese.ouc.edu.cn/",
+      "email": "environment@ouc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学科学学院",
+      "url": "https://math.ouc.edu.cn/",
+      "email": "",
+      "phone": "0532-66787153"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://mse.ouc.edu.cn/",
+      "email": "cailiao@ouc.edu.cn",
+      "phone": "0532-60891690"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "https://gcee.ouc.edu.cn/",
+      "email": "zygcs@ouc.edu.cn",
+      "phone": "0532-66782663"
+    }
+  ],
+  "中国石油大学（北京）": [
+    {
+      "name": "地球科学学院",
+      "url": "http://www.cup.edu.cn/geosci",
+      "email": "dixueyuan@cup.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "石油工程学院",
+      "url": "http://www.cup.edu.cn/oil/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学工程与环境学院",
+      "url": "http://www.cup.edu.cn/chem/",
+      "email": "sd_hgxy@cup.edu.cn",
+      "phone": "89739075"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://www.cup.edu.cn/mte/",
+      "email": "",
+      "phone": "0402430032"
+    },
+    {
+      "name": "地球物理学院",
+      "url": "http://www.cup.edu.cn/geophysics/",
+      "email": "webmaster@cup.edu.cn",
+      "phone": "0402430032"
+    },
+    {
+      "name": "安全与海洋工程学院",
+      "url": "http://www.cup.edu.cn/safety/",
+      "email": "webmaster@cup.edu.cn",
+      "phone": "0402430032"
+    },
+    {
+      "name": "海洋能源资源先进工程技术研究院",
+      "url": "https://www.cup.edu.cn/safety/xygk/jgsz/hyyqgcx1/index.htm",
+      "email": "webmaster@cup.edu.cn",
+      "phone": "0402430032"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://www.cup.edu.cn/cise/",
+      "email": "",
+      "phone": "0402430032"
+    },
+    {
+      "name": "理学院",
+      "url": "http://www.cup.edu.cn/science/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来能源学院",
+      "url": "https://www.cup.edu.cn/cei/index.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "塔尔萨国际能源学院",
+      "url": "https://www.cup.edu.cn/iec/",
+      "email": "ctiec@cup.edu.cn",
+      "phone": ""
+    }
+  ],
+  "中国石油大学（华东）": [
+    {
+      "name": "地球科学与技术学院",
+      "url": "http://geori.upc.edu.cn/",
+      "email": "geodean@upc.edu.cn",
+      "phone": "0532-86981878"
+    },
+    {
+      "name": "石油工程学院",
+      "url": "https://pe.upc.edu.cn/",
+      "email": "sgpeoaq@upc.edu.cn",
+      "phone": "0532-86981936"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://cce.upc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机电工程学院",
+      "url": "https://cmee.upc.edu.cn",
+      "email": "jdkyb@upc.edu.cn",
+      "phone": "0532-86983300"
+    },
+    {
+      "name": "储运与建筑工程学院",
+      "url": "http://cj.upc.edu.cn/",
+      "email": "panzhenghong@upc.edu.cn",
+      "phone": "0532-86981822"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.upc.edu.cn/",
+      "email": "mse@upc.edu.cn",
+      "phone": "0532-86983670"
+    },
+    {
+      "name": "石大山能新能源学院",
+      "url": "http://ne.upc.edu.cn/",
+      "email": "cne@upc.edu.cn",
+      "phone": "0532-86983683"
+    },
+    {
+      "name": "海洋与空间信息学院",
+      "url": "http://ocean.upc.edu.cn",
+      "email": "ocean@upc.edu.cn",
+      "phone": "00756340849; 0532-86980518"
+    },
+    {
+      "name": "控制科学与工程学院",
+      "url": "http://auto.upc.edu.cn/",
+      "email": "",
+      "phone": "0532-86981335"
+    },
+    {
+      "name": "青岛软件学院、计算机科学与技术学院",
+      "url": "http://computer.upc.edu.cn/",
+      "email": "sgpeoaq@upc.edu.cn",
+      "phone": "0532-86981339"
+    },
+    {
+      "name": "理学院",
+      "url": "http://sci.upc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "光华能源学院",
+      "url": "https://www.upc.edu.cn/",
+      "email": "",
+      "phone": "021002000005"
+    },
+    {
+      "name": "海洋资源与信息工程高等研究院",
+      "url": "https://imeie.upc.edu.cn/_s196/main.psp",
+      "email": "kjclcg@upc.edu.cn",
+      "phone": "0532-86980513"
+    },
+    {
+      "name": "东营科学技术研究院",
+      "url": "https://ast.upc.edu.cn/",
+      "email": "upcast@163.com",
+      "phone": "05468393176"
+    }
+  ],
+  "中国矿业大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "http://dsi.cumt.edu.cn",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "中国矿业大学（北京）": [
+    {
+      "name": "能源与矿业学院",
+      "url": "http://nyxy.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地球科学与测绘工程学院",
+      "url": "http://dcxy.cumtb.edu.cn/",
+      "email": "yzxxdcxy@163.com",
+      "phone": "010-62339300"
+    },
+    {
+      "name": "化学与环境工程学院",
+      "url": "http://scee.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械与电气工程学院",
+      "url": "http://jdxy.cumtb.edu.cn/",
+      "email": "jdxy@cumtb.edu.cn",
+      "phone": "010-62331370"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://ai.cumtb.edu.cn/",
+      "email": "rgznxy@cumtb.edu.cn",
+      "phone": "010-62339761"
+    },
+    {
+      "name": "力学与土木工程学院",
+      "url": "http://ljxy.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "http://lxy.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "中国矿业大学（北京）内蒙古研究院",
+      "url": "https://nmgyjy.cumtb.edu.cn/",
+      "email": "",
+      "phone": "17854205908"
+    },
+    {
+      "name": "能源与矿业学院",
+      "url": "https://nyxy.cumtb.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地球科学与测绘工程学院",
+      "url": "https://dcxy.cumtb.edu.cn/",
+      "email": "yzxxdcxy@163.com",
+      "phone": "010-62339300"
+    },
+    {
+      "name": "化学与环境工程学院",
+      "url": "https://scee.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械与电气工程学院",
+      "url": "https://jdxy.cumtb.edu.cn/",
+      "email": "jdxy@cumtb.edu.cn",
+      "phone": "010-62331370"
+    },
+    {
+      "name": "力学与土木工程学院",
+      "url": "https://ljxy.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "https://lxy.cumtb.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "中国科学技术大学": [
+    {
+      "name": "数学科学学院",
+      "url": "https://math.ustc.edu.cn/",
+      "email": "hzx@ustc.edu.cn",
+      "phone": "0946799359"
+    },
+    {
+      "name": "物理学院",
+      "url": "https://physics.ustc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学与材料科学学院",
+      "url": "https://scms.ustc.edu.cn/",
+      "email": "scms@ustc.edu.cn; luliu@ustc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "工程科学学院",
+      "url": "https://ses.ustc.edu.cn/",
+      "email": "",
+      "phone": "0551-63607734"
+    },
+    {
+      "name": "信息与智能学部",
+      "url": "https://iid.ustc.edu.cn/main.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学技术学院",
+      "url": "https://sist.ustc.edu.cn/",
+      "email": "",
+      "phone": "0551-63607054"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "https://cs.ustc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能与数据科学学院",
+      "url": "https://saids.ustc.edu.cn",
+      "email": "ustcaids@ustc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://cybersec.ustc.edu.cn/",
+      "email": "admin@asipp.ac.cn",
+      "phone": ""
+    },
+    {
+      "name": "软件学院",
+      "url": "https://sse.ustc.edu.cn/",
+      "email": "websse@ustc.edu.cn",
+      "phone": "020-83163338"
+    },
+    {
+      "name": "地球和空间科学学院",
+      "url": "https://ess.ustc.edu.cn/",
+      "email": "essadmin@ustc.edu.cn",
+      "phone": "0551-63601848"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://biox.ustc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境学院",
+      "url": "https://soe.ustc.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "核科学技术学院",
+      "url": "https://www.snst.ustc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "http://set.ustc.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://see.ustc.edu.cn/",
+      "email": "ustcsee@ustc.edu.cn",
+      "phone": "0551-65708036"
+    },
+    {
+      "name": "中国科学院量子信息与量子科技创新研究院",
+      "url": "http://www.quantumcas.ac.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "先进技术研究院",
+      "url": "https://iat.ustc.edu.cn/",
+      "email": "",
+      "phone": "011102001530"
+    }
+  ],
+  "中国药科大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "http://ist.cpu.edu.cn/",
+      "email": "cpukjc@cpu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "http://sky.cpu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "http://lxy.cpu.edu.cn/",
+      "email": "",
+      "phone": "025-86185160"
+    }
+  ],
+  "中山大学": [
+    {
+      "name": "数学学院",
+      "url": "http://math.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "https://phys.sysu.edu.cn/",
+      "email": "speoffice@mail.sysu.edu.cn",
+      "phone": "020-84110985"
+    },
+    {
+      "name": "化学学院",
+      "url": "http://ce.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地理科学与规划学院",
+      "url": "http://gp.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://lifesciences.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子与信息工程学院",
+      "url": "http://seit.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cse.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://sese.sysu.edu.cn/",
+      "email": "hjxy@mail.sysu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "系统科学与工程学院",
+      "url": "http://ssse.sysu.edu.cn/",
+      "email": "ssse@mail.sysu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "生物安全学院",
+      "url": "http://phs.sysu.edu.cn/",
+      "email": "",
+      "phone": "0755-23260106（"
+    },
+    {
+      "name": "材料学院",
+      "url": "http://materials.sysu.edu.cn/",
+      "email": "",
+      "phone": "0755-23260126"
+    },
+    {
+      "name": "电子与通信工程学院",
+      "url": "http://sece.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能工程学院",
+      "url": "http://ise.sysu.edu.cn/",
+      "email": "yjling@mail.sysu.edu.cn; zngc@mail.sysu.edu.cn",
+      "phone": "0755-23260067"
+    },
+    {
+      "name": "航空航天学院",
+      "url": "https://saa.sysu.edu.cn/",
+      "email": "aero@mail.sysu.edu.cn",
+      "phone": "0755-23260026"
+    },
+    {
+      "name": "农业与生物技术学院",
+      "url": "https://ab.sysu.edu.cn/",
+      "email": "sysunxy@mail.sysu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "集成电路学院",
+      "url": "https://sic.sysu.edu.cn/",
+      "email": "jcdlxy@mail.sysu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "先进能源学院",
+      "url": "https://ae.sysu.edu.cn/",
+      "email": "sysuae@mail.sysu.edu.cn",
+      "phone": "0755-23260072"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://scst.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "https://science.sysu.edu.cn/",
+      "email": "science@mail.sysu.edu.cn",
+      "phone": "0755-23260090"
+    },
+    {
+      "name": "柔性电子学院",
+      "url": "https://sofe.sysu.edu.cn",
+      "email": "sofe@mail.sysu.edu",
+      "phone": "0755-23260501"
+    },
+    {
+      "name": "大气科学学院",
+      "url": "http://atmos.sysu.edu.cn/",
+      "email": "atmos@mail.sysu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "海洋科学学院",
+      "url": "http://marine.sysu.edu.cn/",
+      "email": "",
+      "phone": "0756-3668769"
+    },
+    {
+      "name": "地球科学与工程学院",
+      "url": "http://gs.sysu.edu.cn/",
+      "email": "eses@mail.sysu.edu.cn",
+      "phone": "0756-3668557"
+    },
+    {
+      "name": "化学工程与技术学院",
+      "url": "http://cet.sysu.edu.cn/",
+      "email": "cetoffice@mail.sysu.edu.cn; cetparty@mail.sysu.edu.cn; cetdean@mail.sysu.edu.cn",
+      "phone": "0756-3668318"
+    },
+    {
+      "name": "海洋工程与技术学院",
+      "url": "https://soet.sysu.edu.cn/",
+      "email": "",
+      "phone": "0756-3668513"
+    },
+    {
+      "name": "中法核工程与技术学院",
+      "url": "http://ifcen.sysu.edu.cn/",
+      "email": "",
+      "phone": "16705069430"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://civil.sysu.edu.cn/",
+      "email": "civileng@mail.sysu.edu.cn",
+      "phone": "0756-3668053"
+    },
+    {
+      "name": "微电子科学与技术学院",
+      "url": "http://mst.sysu.edu.cn/",
+      "email": "huangbr7@mail.sysu.edu.cn",
+      "phone": "0756-3668081"
+    },
+    {
+      "name": "遥感科学与技术学院",
+      "url": "http://sges.sysu.edu.cn/",
+      "email": "sges@mail.sysu.edu.cn",
+      "phone": "0756-3668354"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://sai.sysu.edu.cn/",
+      "email": "",
+      "phone": "0756-3668929"
+    },
+    {
+      "name": "软件工程学院",
+      "url": "http://sse.sysu.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "云南大学": [
+    {
+      "name": "数学与统计学院",
+      "url": "http://www.ms.ynu.edu.cn/",
+      "email": "ms@ynu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "化学科学与工程学院",
+      "url": "http://www.chem.ynu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地球科学学院",
+      "url": "http://www.srees.ynu.edu.cn/",
+      "email": "",
+      "phone": "0871-65033733"
+    },
+    {
+      "name": "生态与环境学院",
+      "url": "http://www.see.ynu.edu.cn/index.html",
+      "email": "",
+      "phone": "0871-65931353"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://www.ynusky.ynu.edu.cn/",
+      "email": "",
+      "phone": "0871-65931221"
+    },
+    {
+      "name": "建筑与规划学院",
+      "url": "http://www.sap.ynu.edu.cn/",
+      "email": "",
+      "phone": "0871-65930635"
+    },
+    {
+      "name": "材料与能源学院",
+      "url": "https://sme.ynu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国际河流与生态安全研究院",
+      "url": "http://www.ires.ynu.edu.cn/",
+      "email": "",
+      "phone": "0871-65034577"
+    }
+  ],
+  "内蒙古大学": [
+    {
+      "name": "数学科学学院",
+      "url": "http://math.imu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理科学与技术学院",
+      "url": "http://wlxy.imu.edu.cn/",
+      "email": "",
+      "phone": "0471-4992914; 0471-4993141"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://chem.imu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://smkxxy.imu.edu.cn/",
+      "email": "ndsky123@126.com",
+      "phone": ""
+    },
+    {
+      "name": "生态与环境学院",
+      "url": "http://see.imu.edu.cn/",
+      "email": "",
+      "phone": "0471-4991436"
+    },
+    {
+      "name": "电子信息工程学院",
+      "url": "http://dzxy.imu.edu.cn/",
+      "email": "dzxxgcxy@imu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://www.imu.edu.cn/jgsz1/jxkydw.htm",
+      "email": "webmaster@imu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "交通学院",
+      "url": "http://www.jt.imu.edu.cn/",
+      "email": "",
+      "phone": "026040202320"
+    },
+    {
+      "name": "能源材料化学研究院",
+      "url": "https://emc.imu.edu.cn/",
+      "email": "WEBMASTER@IMU.EDU.CN",
+      "phone": "000662105040; 092100196621; 031014560000"
+    },
+    {
+      "name": "天文与物理研究院",
+      "url": "https://iap.imu.edu.cn/",
+      "email": "webmaster@imu.edu.cn",
+      "phone": ""
+    }
+  ],
+  "北京中医药大学": [
+    {
+      "name": "生命科学学院",
+      "url": "http://shengming.bucm.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数据科学与人工智能学院",
+      "url": "https://www.bucm.edu.cn/zzjg1/jxjg1/a50f9a3ba99045128e8e53782799cf73.htm",
+      "email": "",
+      "phone": "17798675957; 0402430041"
+    }
+  ],
+  "北京交通大学": [
+    {
+      "name": "自动化与智能学院",
+      "url": "http://ai.bjtu.edu.cn/",
+      "email": "",
+      "phone": "84259295"
+    },
+    {
+      "name": "电子信息工程学院",
+      "url": "http://eie.bjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://cs.bjtu.edu.cn/",
+      "email": "",
+      "phone": "51688526"
+    },
+    {
+      "name": "交通运输学院",
+      "url": "http://trans.bjtu.edu.cn",
+      "email": "jtysxy@bjtu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "土木建筑工程学院",
+      "url": "http://civil.bjtu.edu.cn",
+      "email": "jdtujian@bjtu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机械与电子控制工程学院",
+      "url": "http://mece.bjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://ee.bjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://soms.bjtu.edu.cn/",
+      "email": "smszhb@bjtu.edu.cn",
+      "phone": "51681288"
+    },
+    {
+      "name": "物理科学与工程学院",
+      "url": "https://spse.bjtu.edu.cn/",
+      "email": "wlgczhb@bjtu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "软件学院",
+      "url": "http://sse.bjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与设计学院",
+      "url": "http://saad.bjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "碳中和与环境学院",
+      "url": "http://env.bjtu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "系统科学学院",
+      "url": "http://sss.bjtu.edu.cn/",
+      "email": "xtyb@bjtu.edu.cn",
+      "phone": "51683668"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://nee.bjtu.edu.cn/",
+      "email": "bjtuzgxy@bjtu.edu.cn",
+      "phone": ""
+    }
+  ],
+  "北京化工大学": [
+    {
+      "name": "化学工程学院",
+      "url": "https://chem.buct.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://cmse.buct.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机电工程学院",
+      "url": "https://mech.buct.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学与技术学院",
+      "url": "https://cist.buct.edu.cn/",
+      "email": "",
+      "phone": "045884242863"
+    },
+    {
+      "name": "化学学院",
+      "url": "https://chemistry.buct.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数理学院",
+      "url": "https://cmp.buct.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "https://life.buct.edu.cn/",
+      "email": "life@buct.edu.cn",
+      "phone": "010-64451781"
+    },
+    {
+      "name": "侯德榜工程师学院",
+      "url": "https://gcsxy.buct.edu.cn/",
+      "email": "eng-school@mail.buct.edu.cn",
+      "phone": "(010)64438571"
+    },
+    {
+      "name": "巴黎居里工程师学院",
+      "url": "https://engineer.buct.edu.cn/",
+      "email": "eng-school@mail.buct.edu.cn",
+      "phone": "(010)64438571"
+    },
+    {
+      "name": "常州先进材料研究院",
+      "url": "http://www.bciam.cn/",
+      "email": "bciam@vip.sohu.com",
+      "phone": "0519-69697501"
+    }
+  ],
+  "北京外国语大学": [
+    {
+      "name": "欧洲语言文化学院",
+      "url": "http://europe.bfsu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "法语语言文化学院",
+      "url": "http://french.bfsu.edu.cn/",
+      "email": "bwfyxy@bfsu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "信息科学技术学院",
+      "url": "http://sist.bfsu.edu.cn/",
+      "email": "bwjsj@bfsu.edu.cn",
+      "phone": "01088816746"
+    }
+  ],
+  "北京大学": [
+    {
+      "name": "理学部",
+      "url": "https://www.pku.edu.cn/department.html#item1",
+      "email": "its@pku.edu.cn",
+      "phone": "0402430047"
+    },
+    {
+      "name": "信息科学与技术学部",
+      "url": "https://www.pku.edu.cn/department.html#item2",
+      "email": "its@pku.edu.cn",
+      "phone": "0402430047"
+    }
+  ],
+  "北京工业大学": [
+    {
+      "name": "机械与能源工程学院",
+      "url": "https://jxny.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://clxy.bjut.edu.cn/",
+      "email": "",
+      "phone": "0402430086"
+    },
+    {
+      "name": "信息科学技术学院",
+      "url": "https://sist.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机学院",
+      "url": "https://cs.bjut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑工程学院",
+      "url": "https://cace.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与城市规划学院",
+      "url": "https://caup.bjut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "城市交通学院",
+      "url": "https://cmt.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://cese.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学与生命科学学院",
+      "url": "https://hsxy.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "https://spoe.bjut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学统计学与力学学院",
+      "url": "https://msm.bjut.edu.cn",
+      "email": "",
+      "phone": "0402430086"
+    },
+    {
+      "name": "新能源学院",
+      "url": "https://www.bjut.edu.cn/jgsz/jxkyjg.htm",
+      "email": "",
+      "phone": "0402430086; 010000000606"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://znxy.bjut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://cst.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "碳中和未来技术学院",
+      "url": "https://cnft.bjut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "北京人工智能研究院",
+      "url": "https://biai.bjut.edu.cn/",
+      "email": "mr.kin@foxmail.com",
+      "phone": ""
+    }
+  ],
+  "北京师范大学": [
+    {
+      "name": "地理科学学部",
+      "url": "http://geo.bnu.edu.cn",
+      "email": "",
+      "phone": "010-58807657"
+    },
+    {
+      "name": "心理学部",
+      "url": "http://psych.bnu.edu.cn/",
+      "email": "psyoffice@bnu.edu.cn",
+      "phone": "010-58808187"
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.bnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学学院",
+      "url": "http://www.chem.bnu.edu.cn/",
+      "email": "bnuchem@bnu.edu.cn",
+      "phone": "(+86-10)58807843"
+    },
+    {
+      "name": "系统科学学院",
+      "url": "http://sss.bnu.edu.cn/",
+      "email": "sss@bnu.edu.cn",
+      "phone": "010-58807880"
+    },
+    {
+      "name": "统计学院",
+      "url": "http://stat.bnu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境学院",
+      "url": "http://env.bnu.edu.cn/",
+      "email": "environment@bnu.edu.cn",
+      "phone": "010-58801830"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://cls.bnu.edu.cn/",
+      "email": "hrcls@bnu.edu.cn",
+      "phone": "(8610)58802047"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://ai.bnu.edu.cn/",
+      "email": "",
+      "phone": "010-58807943"
+    },
+    {
+      "name": "文理学院",
+      "url": "https://fas.bnu.edu.cn/",
+      "email": "wlxy@bnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://tecs.bnu.edu.cn/",
+      "email": "tecs@bnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "水科学研究院",
+      "url": "http://cws.bnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "北京理工大学": [
+    {
+      "name": "化学与化工学院",
+      "url": "http://cce.bit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命学院",
+      "url": "http://ls.bit.edu.cn/",
+      "email": "",
+      "phone": "0402430044"
+    },
+    {
+      "name": "空天科学与技术学院",
+      "url": "http://sae.bit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械与车辆学院",
+      "url": "http://me.bit.edu.cn/",
+      "email": "sme@bit.edu.cn",
+      "phone": "0402430044"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.bit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "光电学院",
+      "url": "http://opt.bit.edu.cn/",
+      "email": "bitgd@bit.edu.cn",
+      "phone": "010-68913659"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.bit.edu.cn/",
+      "email": "",
+      "phone": "0402430044"
+    },
+    {
+      "name": "信息与电子学院",
+      "url": "http://sie.bit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "雷达技术研究院",
+      "url": "https://radar.bit.edu.cn",
+      "email": "",
+      "phone": "010-68918357"
+    },
+    {
+      "name": "集成电路与电子学院",
+      "url": "https://ice.bit.edu.cn/",
+      "email": "",
+      "phone": "040202430169"
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://ac.bit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cs.bit.edu.cn/",
+      "email": "zhaoxj@bit.edu.cn",
+      "phone": "68914756"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://cst.bit.edu.cn/",
+      "email": "",
+      "phone": "0402430044"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://ai.bit.edu.cn",
+      "email": "ai@bit.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料学院",
+      "url": "http://mse.bit.edu.cn/",
+      "email": "Webmaster@bit.edu.cn; service@bit.edu.cn",
+      "phone": "0402430044"
+    },
+    {
+      "name": "科学技术研究院",
+      "url": "http://kjc.bit.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "先进结构技术研究院",
+      "url": "http://xjjg.bit.edu.cn",
+      "email": "xianjinjiegou@bit.edu.cn",
+      "phone": "0402430044"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "http://zygcs.bit.edu.cn/",
+      "email": "XTLSchool@bit.edu.cn",
+      "phone": "010-81381042"
+    },
+    {
+      "name": "前沿交叉科学院",
+      "url": "http://sis.bit.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "北京科技大学": [
+    {
+      "name": "资源与安全工程学院",
+      "url": "https://srse.ustb.edu.cn",
+      "email": "",
+      "phone": "010-62333637; 0402430062"
+    },
+    {
+      "name": "冶金与生态工程学院",
+      "url": "http://metall.ustb.edu.cn/",
+      "email": "metall@ustb.edu.cn",
+      "phone": "010-62332265"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.ustb.edu.cn/",
+      "email": "",
+      "phone": "0402430062"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://me.ustb.edu.cn/",
+      "email": "meoffice@me.ustb.edu.cn",
+      "phone": "010-62332365"
+    },
+    {
+      "name": "能源与环境工程学院",
+      "url": "http://seee.ustb.edu.cn/",
+      "email": "",
+      "phone": "0402430062"
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://saee.ustb.edu.cn/",
+      "email": "saee@ustb.edu.cn",
+      "phone": "010-62332905"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://ai.ustb.edu.cn/",
+      "email": "",
+      "phone": "010-62332106"
+    },
+    {
+      "name": "计算机与通信工程学院",
+      "url": "http://scce.ustb.edu.cn/",
+      "email": "",
+      "phone": "0402430062"
+    },
+    {
+      "name": "数理学院",
+      "url": "http://shuli.ustb.edu.cn/",
+      "email": "",
+      "phone": "010-62332685; 0402430062"
+    },
+    {
+      "name": "化学与生物工程学院",
+      "url": "http://huasheng.ustb.edu.cn/",
+      "email": "hsxy@ustb.edu.cn",
+      "phone": "010-62332126"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://gcsxy.ustb.edu.cn/",
+      "email": "",
+      "phone": "010-62334954"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://qy.ustb.edu.cn/",
+      "email": "",
+      "phone": "0402430062"
+    },
+    {
+      "name": "新材料技术研究院",
+      "url": "http://adma.ustb.edu.cn/",
+      "email": "",
+      "phone": "62334190"
+    },
+    {
+      "name": "工程技术研究院",
+      "url": "http://iet.ustb.edu.cn/",
+      "email": "bkdgyy@ustb.edu.cn",
+      "phone": "010-62332598"
+    },
+    {
+      "name": "大安全科学研究院",
+      "url": "https://mss.ustb.edu.cn/",
+      "email": "",
+      "phone": "010-62333808"
+    },
+    {
+      "name": "城镇化与城市安全研究院",
+      "url": "https://iuus.ustb.edu.cn",
+      "email": "",
+      "phone": "010-62334196"
+    },
+    {
+      "name": "科学技术研究院",
+      "url": "https://research.ustb.edu.cn/",
+      "email": "",
+      "phone": "0402430062"
+    },
+    {
+      "name": "资源与安全工程学院",
+      "url": "http://cres.ustb.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "北京航空航天大学": [
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "可靠性与系统工程学院",
+      "url": "http://rse.buaa.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "能源与动力工程学院",
+      "url": "http://sepe.buaa.edu.cn/",
+      "email": "",
+      "phone": "010-61716819"
+    },
+    {
+      "name": "航空科学与工程学院",
+      "url": "http://www.ase.buaa.edu.cn/",
+      "email": "",
+      "phone": "011100257707; 011100257708; 011100247900"
+    },
+    {
+      "name": "机械工程及自动化学院",
+      "url": "http://www.me.buaa.edu.cn/",
+      "email": "",
+      "phone": "61715777"
+    },
+    {
+      "name": "交通科学与工程学院",
+      "url": "http://transportation.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "航空发动机研究院",
+      "url": "http://riae.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子信息工程学院",
+      "url": "http://www.ee.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "软件学院",
+      "url": "http://soft.buaa.edu.cn/",
+      "email": "softzhaosheng@buaa.edu.cn",
+      "phone": "010-82339380"
+    },
+    {
+      "name": "自动化科学与电气工程学院",
+      "url": "http://dept3.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://cst.buaa.edu.cn",
+      "email": "zizhu_39@163.com",
+      "phone": "86-10-82339538"
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://scse.buaa.edu.cn/",
+      "email": "scse@buaa.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "集成电路科学与工程学院",
+      "url": "https://ic.buaa.edu.cn/",
+      "email": "chenchenliu@buaa.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "仪器科学与光电工程学院",
+      "url": "http://yqgdxy.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "大科学装置研究院",
+      "url": "https://piqs.buaa.edu.cn/",
+      "email": "",
+      "phone": "82317114"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://iai.buaa.edu.cn/",
+      "email": "IAI@buaa.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.buaa.edu.cn/",
+      "email": "",
+      "phone": "61716719"
+    },
+    {
+      "name": "化学学院",
+      "url": "http://sce.buaa.edu.cn/",
+      "email": "",
+      "phone": "86-10-82317114"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.buaa.edu.cn/",
+      "email": "",
+      "phone": "010-61716751"
+    },
+    {
+      "name": "空间与地球科学学院",
+      "url": "http://sse.buaa.edu.cn/",
+      "email": "",
+      "phone": "010-61716670"
+    },
+    {
+      "name": "中法工程师学院",
+      "url": "http://ecpkn.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "中法航空学院",
+      "url": "https://zfai.buaa.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国际前沿交叉科学研究院",
+      "url": "https://iiif.buaa.edu.cn/",
+      "email": "iiif@buaa.edu.cn",
+      "phone": "010-82339758"
+    }
+  ],
+  "华东师范大学": [
+    {
+      "name": "地球科学学部",
+      "url": "https://dxb.ecnu.edu.cn/",
+      "email": "dixuebu@ecnu.edu.cn",
+      "phone": "021-62231882"
+    },
+    {
+      "name": "国际汉语文化学院",
+      "url": "http://chinese.ecnu.edu.cn/",
+      "email": "yzxx-gh@chinese.ecnu.edu.cn",
+      "phone": "021-62233624"
+    },
+    {
+      "name": "心理与认知科学学院",
+      "url": "http://psy.ecnu.edu.cn/",
+      "email": "",
+      "phone": "021-62230090; 010-58808187--"
+    },
+    {
+      "name": "统计学院",
+      "url": "https://stat.ecnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.ecnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "http://phy.ecnu.edu.cn/",
+      "email": "ecnuphy@phy.ecnu.edu.cn",
+      "phone": "021-54342933"
+    },
+    {
+      "name": "化学与分子工程学院",
+      "url": "https://chem.ecnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.ecnu.edu.cn/",
+      "email": "ecnubio@bio.ecnu.edu.cn",
+      "phone": "+862154342605"
+    },
+    {
+      "name": "地理科学学院",
+      "url": "https://geo.ecnu.edu.cn",
+      "email": "ghwang@geo.ec; geo@geo.ecnu.edu.cn",
+      "phone": "54341218"
+    },
+    {
+      "name": "生态与环境科学学院",
+      "url": "https://sees.ecnu.edu.cn",
+      "email": "",
+      "phone": "009102000042"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "https://cs.ecnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "软件工程学院",
+      "url": "https://sei.ecnu.edu.cn/",
+      "email": "office@sei.ecnu.edu.cn",
+      "phone": "021-62232550"
+    },
+    {
+      "name": "数据科学与工程学院",
+      "url": "http://dase.ecnu.edu.cn/",
+      "email": "dase@dase.ecnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "空间人工智能学院",
+      "url": "https://geoai.ecnu.edu.cn",
+      "email": "gjkj@geoai.ecnu.edu.cn",
+      "phone": "021-54371026"
+    },
+    {
+      "name": "智能交互学院",
+      "url": "https://sii.ecnu.edu.cn/",
+      "email": "",
+      "phone": "009102000042"
+    },
+    {
+      "name": "上海国际首席技术官学院",
+      "url": "https://cto.ecnu.edu.cn/main.htm",
+      "email": "",
+      "phone": "021-61911352"
+    },
+    {
+      "name": "精密光谱科学与技术高等研究院",
+      "url": "http://www.lps.ecnu.edu.cn/",
+      "email": "lps@phy.ecnu.edu.cn",
+      "phone": "021-54836023"
+    },
+    {
+      "name": "量子科学与精密测量研究院",
+      "url": "https://iqspm.ecnu.edu.cn/index.html?_refluxos=a10https://iqspm.ecnu.edu.cn/index.html?_refluxos=a10",
+      "email": "jtsheng@lps.ecnu.edu.cn",
+      "phone": "(86)21-54836079"
+    },
+    {
+      "name": "地理科学学院",
+      "url": "http://www.geo.ecnu.edu.cn/",
+      "email": "ghwang@geo.ec; geo@geo.ecnu.edu.cn",
+      "phone": "54341218"
+    }
+  ],
+  "华东理工大学": [
+    {
+      "name": "华东化工学院",
+      "url": "https://www.ecust.edu.cn/847/list.htm",
+      "email": "",
+      "phone": "009102000037"
+    },
+    {
+      "name": "上海化工学院",
+      "url": "https://www.ecust.edu.cn/shhgxy/list.htm",
+      "email": "",
+      "phone": "009102000037"
+    },
+    {
+      "name": "华东化工学院",
+      "url": "https://www.ecust.edu.cn/709/list.htm",
+      "email": "",
+      "phone": "009102000037"
+    }
+  ],
+  "华中农业大学": [
+    {
+      "name": "植物科学技术学院",
+      "url": "https://cpst.hzau.edu.cn",
+      "email": "",
+      "phone": "027-87282130"
+    },
+    {
+      "name": "资源与环境学院",
+      "url": "https://zyhj.hzau.edu.cn",
+      "email": "",
+      "phone": "027-87282137"
+    },
+    {
+      "name": "生命科学技术学院",
+      "url": "https://lst.hzau.edu.cn",
+      "email": "tangyongmu@mail.hzau.edu.cn; bio@mail.hzau.edu.cn",
+      "phone": "027-87281265; +86-27-87287308"
+    },
+    {
+      "name": "食品科学技术学院",
+      "url": "https://shipin.hzau.edu.cn",
+      "email": "",
+      "phone": "027-87282111"
+    },
+    {
+      "name": "化学学院",
+      "url": "https://chem.hzau.edu.cn",
+      "email": "",
+      "phone": "027-87282133"
+    },
+    {
+      "name": "信息学院",
+      "url": "https://coi.hzau.edu.cn",
+      "email": "coi@mail.hzau.edu.cn",
+      "phone": "027-87288509; 027-87286876"
+    }
+  ],
+  "华中师范大学": [
+    {
+      "name": "◆ 心理学院",
+      "url": "http://psych.ccnu.edu.cn/",
+      "email": "",
+      "phone": "027-67868680"
+    },
+    {
+      "name": "◆ 数学与统计学学院",
+      "url": "http://maths.ccnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "◆ 物理科学与技术学院",
+      "url": "http://phy.ccnu.edu.cn/",
+      "email": "",
+      "phone": "027-67867017"
+    },
+    {
+      "name": "◆ 化学学院",
+      "url": "http://chem.ccnu.edu.cn/",
+      "email": "",
+      "phone": "027-67867955"
+    },
+    {
+      "name": "◆ 生命科学学院",
+      "url": "http://bio.ccnu.edu.cn/",
+      "email": "",
+      "phone": "+86-27-67867221"
+    },
+    {
+      "name": "◆ 计算机学院",
+      "url": "http://cs.ccnu.edu.cn/",
+      "email": "cs@ccnu.edu.cn",
+      "phone": "027-67868318"
+    },
+    {
+      "name": "◆ 城市与环境科学学院",
+      "url": "http://ccnucity.ccnu.edu.cn/",
+      "email": "",
+      "phone": "027-67868305; 027-67861443; 027-67867610"
+    }
+  ],
+  "华中科技大学": [
+    {
+      "name": "数学与统计学院",
+      "url": "http://maths.hust.edu.cn/",
+      "email": "mathhust@mail.hust.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "http://phys.hust.edu.cn/",
+      "email": "phyoffice@hust.edu.cn",
+      "phone": "0784053969; 027-87543881"
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "http://chem.hust.edu.cn/",
+      "email": "hustchem@hust.edu.cn",
+      "phone": "027-58868736"
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "http://life.hust.edu.cn/",
+      "email": "lifelife@hust.edu.cn",
+      "phone": "027-87792072"
+    },
+    {
+      "name": "机械科学与工程学院",
+      "url": "http://mse.hust.edu.cn/",
+      "email": "mse@hust.edu.cn",
+      "phone": "027-87543770"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mat.hust.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "能源与动力工程学院",
+      "url": "http://energy.hust.edu.cn/",
+      "email": "Nyxy@hust.edu.cn",
+      "phone": "027-58868777; 027-58868767; 027-58868766"
+    },
+    {
+      "name": "中欧清洁与可再生能源学院",
+      "url": "http://icare.hust.edu.cn/",
+      "email": "icare@hust.edu.cn",
+      "phone": "027-58868786"
+    },
+    {
+      "name": "电气与电子工程学院",
+      "url": "http://seee.hust.edu.cn/",
+      "email": "seee@mail.hust.edu.cn",
+      "phone": "027-87543228"
+    },
+    {
+      "name": "船舶与海洋工程学院",
+      "url": "http://ch.hust.edu.cn/",
+      "email": "naoe_dean@hust.edu.cn",
+      "phone": "027-87543158"
+    },
+    {
+      "name": "电子信息与通信学院",
+      "url": "http://ei.hust.edu.cn/",
+      "email": "husteic@hust.edu.cn",
+      "phone": "027-87792776"
+    },
+    {
+      "name": "光学与电子信息学院",
+      "url": "http://oei.hust.edu.cn",
+      "email": "oei@hust.edu.cn",
+      "phone": "027-87558725"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "http://sft.hust.edu.cn/",
+      "email": "",
+      "phone": "027-87792225"
+    },
+    {
+      "name": "工程科学学院",
+      "url": "http://ses.hust.edu.cn/index.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://ic.hust.edu.cn",
+      "email": "IC_DI@hust.edu.cn",
+      "phone": "027-87542594"
+    },
+    {
+      "name": "人工智能与自动化学院",
+      "url": "http://aia.hust.edu.cn/",
+      "email": "AIA-president@hust.edu.cn",
+      "phone": "027-87543130"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://www.cs.hust.edu.cn/",
+      "email": "jsjzyjs@hust.edu.cn",
+      "phone": "027-87544501"
+    },
+    {
+      "name": "航空航天学院",
+      "url": "http://ae.hust.edu.cn/",
+      "email": "hustAE@126.com",
+      "phone": "027-87540185"
+    },
+    {
+      "name": "建筑与城市规划学院",
+      "url": "http://aup.hust.edu.cn/",
+      "email": "auphust@hust.edu.cn",
+      "phone": "027-87556714"
+    },
+    {
+      "name": "土木与水利工程学院",
+      "url": "http://civil.hust.edu.cn/",
+      "email": "sche@hust.edu.cn",
+      "phone": "027-87541954"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://ese.hust.edu.cn/",
+      "email": "hjxy@hust.edu.cn",
+      "phone": "027-87540956"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://cse.hust.edu.cn/",
+      "email": "cyberse@hust.edu.cn",
+      "phone": "027-87540560"
+    },
+    {
+      "name": "软件学院",
+      "url": "http://sse.hust.edu.cn/",
+      "email": "hlsdbgyx@163.com; sse@hust.edu.cn",
+      "phone": "027-87792253; 027-87792255"
+    },
+    {
+      "name": "医疗装备科学与工程研究院",
+      "url": "http://imese.hust.edu.cn/",
+      "email": "imese@hust.edu.cn",
+      "phone": ""
+    }
+  ],
+  "华北电力大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "https://www.ncepu.edu.cn/zzjg/glfwbm/kxjsyjy/index.htm",
+      "email": "",
+      "phone": "61771778; 61771567; 61772428"
+    },
+    {
+      "name": "电气与电子工程学院",
+      "url": "https://electric.ncepu.edu.cn/",
+      "email": "",
+      "phone": "010-61771611"
+    },
+    {
+      "name": "能源动力与机械工程学院",
+      "url": "https://thermal.ncepu.edu.cn/",
+      "email": "ndxy@ncepu.edu.cn",
+      "phone": "86-10-61772277"
+    },
+    {
+      "name": "控制与计算机工程学院",
+      "url": "https://cce.ncepu.edu.cn/",
+      "email": "",
+      "phone": "010-61772568"
+    },
+    {
+      "name": "新能源学院",
+      "url": "https://xnyxy.ncepu.edu.cn/",
+      "email": "",
+      "phone": "86-10-61772737"
+    },
+    {
+      "name": "核科学与工程学院",
+      "url": "https://snse.ncepu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://cese.ncepu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "水利与水电工程学院",
+      "url": "https://hydro.ncepu.edu.cn/index.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数理学院",
+      "url": "https://slx.ncepu.edu.cn/",
+      "email": "slx@ncepu.edu.cn",
+      "phone": "010-61772340"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://ngce.ncepu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家能源发展战略研究院",
+      "url": "https://energy.ncepu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家能源交通融合发展研究院",
+      "url": "https://cietid.ncepu.edu.cn/",
+      "email": "90509796@ncepu.edu.cn",
+      "phone": "86-10-61773846"
+    },
+    {
+      "name": "先进材料研究院",
+      "url": "https://adma.ncepu.edu.cn/",
+      "email": "adma@ncepu.edu.cn",
+      "phone": "86-10-61771720"
+    }
+  ],
+  "华南师范大学": [
+    {
+      "name": "数学科学学院",
+      "url": "http://maths.scnu.edu.cn/",
+      "email": "",
+      "phone": "020-85213482"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.scnu.edu.cn/",
+      "email": "258809636@qq.com",
+      "phone": "85211372"
+    },
+    {
+      "name": "地理科学学院",
+      "url": "http://geography.scnu.edu.cn/",
+      "email": "dl01@scnu.edu.cn",
+      "phone": "020-85211380"
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cs.scnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "心理学院",
+      "url": "http://psy.scnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "心理学部",
+      "url": "https://www.scnu.edu.cn/a/20151026/29.html###",
+      "email": "",
+      "phone": "000000006008"
+    },
+    {
+      "name": "数据科学与工程学院",
+      "url": "http://ds.scnu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料与新能源学院",
+      "url": "http://smne.scnu.edu.cn",
+      "email": "swxq@scnu.edu.cn",
+      "phone": "0660-3808136"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.scnu.edu.cn/",
+      "email": "",
+      "phone": "023062103583"
+    },
+    {
+      "name": "化学学院",
+      "url": "http://sce.scnu.edu.cn/",
+      "email": "hxx01@scnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "光电科学与工程学院/生物光子学研究院",
+      "url": "https://ose.scnu.edu.cn/",
+      "email": "020yz01@scnu.edu.cn",
+      "phone": "000000006008"
+    },
+    {
+      "name": "华南先进光电子研究院",
+      "url": "http://aoe.scnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境学院",
+      "url": "http://soe.scnu.edu.cn",
+      "email": "",
+      "phone": "019110109502"
+    },
+    {
+      "name": "环境研究院",
+      "url": "http://seri.scnu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://ai.scnu.edu.cn",
+      "email": "gw_ai@scnu.edu.cn",
+      "phone": "0757-86636927"
+    },
+    {
+      "name": "阿伯丁数据科学与人工智能学院",
+      "url": "http://abdn.scnu.edu.cn",
+      "email": "aberdeen@scnu.edu.cn",
+      "phone": "0757-86636850"
+    }
+  ],
+  "华南理工大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "http://www2.scut.edu.cn/ist",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械与汽车工程学院",
+      "url": "http://www.scut.edu.cn/smae/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑学院",
+      "url": "http://www.scut.edu.cn/architecture/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "土木与交通学院",
+      "url": "http://www2.scut.edu.cn/jtxy/",
+      "email": "x2tj@scut.edu.cn",
+      "phone": "020-87111030"
+    },
+    {
+      "name": "电子与信息学院",
+      "url": "http://www2.scut.edu.cn/ee/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://www2.scut.edu.cn/materials/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "http://www2.scut.edu.cn/ce/",
+      "email": "",
+      "phone": "+86-20-87112053"
+    },
+    {
+      "name": "轻工科学与工程学院",
+      "url": "http://www2.scut.edu.cn/qgkxygc/",
+      "email": "ppcwu@scut.edu.cn",
+      "phone": "（020）87111113"
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "http://www2.scut.edu.cn/sp/",
+      "email": "",
+      "phone": "020-87113126"
+    },
+    {
+      "name": "数学学院",
+      "url": "http://www2.scut.edu.cn/math/",
+      "email": "scutb13@scut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "物理与光电学院",
+      "url": "http://www2.scut.edu.cn/physics/",
+      "email": "",
+      "phone": "020-87113934"
+    },
+    {
+      "name": "自动化科学与工程学院",
+      "url": "http://www2.scut.edu.cn/automation/",
+      "email": "x2zd@scut.edu.cn",
+      "phone": "020-87111804"
+    },
+    {
+      "name": "计算机科学与工程学院",
+      "url": "http://www2.scut.edu.cn/cs/",
+      "email": "philipchen@scut.edu.cn; minchen@ieee.org; hmcai@scut.edu.cn",
+      "phone": "13349999659; 39380286-3507; 39380287"
+    },
+    {
+      "name": "电力学院",
+      "url": "http://www.scut.edu.cn/ep/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生物科学与工程学院",
+      "url": "http://www.scut.edu.cn/biology/index.html",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境与能源学院",
+      "url": "http://www.scut.edu.cn/environment/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "软件学院",
+      "url": "http://www.scut.edu.cn/sse/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "能源学院",
+      "url": "http://www2.scut.edu.cn/energy/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "吴贤铭智能工程学院",
+      "url": "http://www2.scut.edu.cn/wusie/",
+      "email": "daizhixi@scut.edu.cn",
+      "phone": "81182105"
+    },
+    {
+      "name": "华南软物质科学与技术高等研究院",
+      "url": "https://www2.scut.edu.cn/aismst/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "先进材料国际化示范学院",
+      "url": "http://www2.scut.edu.cn/advancedmaterials/",
+      "email": "",
+      "phone": "020-87112581"
+    },
+    {
+      "name": "微电子学院/集成电路学院",
+      "url": "http://www2.scut.edu.cn/microelectronics/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "http://www2.scut.edu.cn/ft/",
+      "email": "",
+      "phone": "020-81181684"
+    },
+    {
+      "name": "海洋科学与工程学院",
+      "url": "http://www2.scut.edu.cn/marine/",
+      "email": "",
+      "phone": "+86-20-81182150"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "http://www2.scut.edu.cn/engineers/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "广州现代产业技术研究院",
+      "url": "https://www2.scut.edu.cn/cyy/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "南京信息工程大学": [
+    {
+      "name": "大气物理学院",
+      "url": "https://sap.nuist.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地理科学学院",
+      "url": "http://geography.nuist.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "遥感与测绘工程学院",
+      "url": "https://ycxy.nuist.edu.cn",
+      "email": "",
+      "phone": "025-58695739"
+    },
+    {
+      "name": "水文与水资源工程学院",
+      "url": "https://hwr.nuist.edu.cn",
+      "email": "",
+      "phone": "025-58731556"
+    },
+    {
+      "name": "海洋科学学院",
+      "url": "http://ocean.nuist.edu.cn",
+      "email": "",
+      "phone": "58695694; 025-58695698"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://sese.nuist.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://auto.nuist.edu.cn",
+      "email": "zdh@nuist.edu.cn",
+      "phone": "025-58731059（"
+    },
+    {
+      "name": "电子与信息工程学院",
+      "url": "http://dxy.nuist.edu.cn",
+      "email": "nxddxyrczp@nuist.edu.cn",
+      "phone": "025-58731196"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "https://ic.nuist.edu.cn",
+      "email": "SOIC@nuist.edu.cn",
+      "phone": "86-25-58235229"
+    }
+  ],
+  "南京农业大学": [
+    {
+      "name": "植物科学学部",
+      "url": "https://www.njau.edu.cn/200/list.htm",
+      "email": "",
+      "phone": "025-84395366; 025-84396632; 025-84395708"
+    },
+    {
+      "name": "动物科学学部",
+      "url": "https://www.njau.edu.cn/201/list.htm",
+      "email": "",
+      "phone": "025-84395366; 025-84396632; 025-84395708"
+    },
+    {
+      "name": "生物与环境学部",
+      "url": "https://www.njau.edu.cn/202/list.htm",
+      "email": "",
+      "phone": "025-84395366; 025-84396632; 025-84395708"
+    },
+    {
+      "name": "资源与环境科学学院",
+      "url": "http://re.njau.edu.cn/",
+      "email": "",
+      "phone": "025-84395210"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://lfc.njau.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "http://cos.njau.edu.cn/",
+      "email": "chend@njau.edu.cn",
+      "phone": "025-84395204"
+    },
+    {
+      "name": "食品与工程学部",
+      "url": "https://www.njau.edu.cn/203/list.htm",
+      "email": "",
+      "phone": "025-84395366; 025-84396632; 025-84395708"
+    },
+    {
+      "name": "食品科学技术学院",
+      "url": "http://food.njau.edu.cn/",
+      "email": "",
+      "phone": "025-84395618"
+    }
+  ],
+  "南京工业大学": [
+    {
+      "name": "科学研究院",
+      "url": "https://kyy.njtech.edu.cn/",
+      "email": "",
+      "phone": "025-58139220"
+    }
+  ],
+  "南京林业大学": [
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://wood.njfu.edu.cn/",
+      "email": "",
+      "phone": "025-85427519"
+    },
+    {
+      "name": "化学工程学院",
+      "url": "https://hg.njfu.edu.cn/",
+      "email": "hg@njfu.edu.cn",
+      "phone": "025-85427396"
+    },
+    {
+      "name": "机械电子工程学院",
+      "url": "https://jidian.njfu.edu.cn/",
+      "email": "jidian@njfu.edu.cn; jddw@njfu.edu.cn",
+      "phone": "025-85427741; 025-85427779（"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "https://tumu.njfu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学技术学院、人工智能学院",
+      "url": "https://it.njfu.edu.cn/",
+      "email": "xinxixy@njfu.edu.cn",
+      "phone": "025-85427877（"
+    },
+    {
+      "name": "理学院",
+      "url": "https://cos.njfu.edu.cn/",
+      "email": "",
+      "phone": "025-85427703"
+    },
+    {
+      "name": "轻工与食品学院",
+      "url": "https://qg.njfu.edu.cn/",
+      "email": "",
+      "phone": "025-85428692"
+    },
+    {
+      "name": "汽车与交通工程学院",
+      "url": "https://jty.njfu.edu.cn/",
+      "email": "",
+      "phone": "025-85428131"
+    },
+    {
+      "name": "生态与环境学院",
+      "url": "https://cee.njfu.edu.cn/",
+      "email": "",
+      "phone": "025-85427210"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://sky.njfu.edu.cn/",
+      "email": "",
+      "phone": "025-85428837"
+    }
+  ],
+  "南京航空航天大学": [
+    {
+      "name": "航空学院",
+      "url": "http://aero.nuaa.edu.cn/",
+      "email": "",
+      "phone": "+86-25-84892152"
+    },
+    {
+      "name": "能源与动力学院",
+      "url": "http://cepe.nuaa.edu.cn/",
+      "email": "",
+      "phone": "025-84893666"
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://cae.nuaa.edu.cn/",
+      "email": "",
+      "phone": "+86-25-84892368"
+    },
+    {
+      "name": "电子信息工程学院",
+      "url": "http://ceie.nuaa.edu.cn",
+      "email": "ceie_public@nuaa.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与技术学院",
+      "url": "http://msc.nuaa.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学学院",
+      "url": "http://math.nuaa.edu.cn/",
+      "email": "yunzired@nuaa.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "航天学院",
+      "url": "http://astro.nuaa.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "通用航空与飞行学院",
+      "url": "http://cgaf.nuaa.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "https://physics.nuaa.edu.cn/",
+      "email": "chenxw@nuaa.edu.cn; ywliu@nuaa.edu.cn",
+      "phone": ""
+    }
+  ],
+  "南京邮电大学": [
+    {
+      "name": "通信与信息工程学院",
+      "url": "http://scie.njupt.edu.cn/",
+      "email": "ici-yb@njupt.edu.cn",
+      "phone": "025-83492420"
+    },
+    {
+      "name": "电子与光学工程学院、柔性电子（未来技术）学院",
+      "url": "http://eoe.njupt.edu.cn/",
+      "email": "dgxy@njupt.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "计算机学院、软件学院、网络空间安全学院",
+      "url": "http://cs.njupt.edu.cn/",
+      "email": "jsjxy@njupt.edu.cn",
+      "phone": "025-85866432"
+    },
+    {
+      "name": "自动化学院",
+      "url": "http://coa.njupt.edu.cn/",
+      "email": "zdh@njupt.edu.cn; ai@njupt.edu.cn",
+      "phone": "025-85866506"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://ai.njupt.edu.cn",
+      "email": "",
+      "phone": "025-85866412; 025-85866572"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://iam.njupt.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学与生命科学学院",
+      "url": "http://chem.njupt.edu.cn/",
+      "email": "iamhsy@njupt.edu.cn",
+      "phone": "025-83535682"
+    },
+    {
+      "name": "理学院",
+      "url": "http://lxy.njupt.edu.cn/",
+      "email": "lxy@njupt.edu.cn",
+      "phone": "025-85866171"
+    },
+    {
+      "name": "现代邮政学院、智慧交通学院",
+      "url": "http://simp.njupt.edu.cn/",
+      "email": "dgxy@njupt.edu.cn",
+      "phone": "025-83535881"
+    },
+    {
+      "name": "应用技术学院",
+      "url": "http://yyjsxy.njupt.edu.cn/",
+      "email": "yyjsxy@njupt.edu.cn",
+      "phone": "025-85483065"
+    },
+    {
+      "name": "工程实验教学部",
+      "url": "https://deei.njupt.edu.cn/",
+      "email": "",
+      "phone": "025-85866691"
+    }
+  ],
+  "南方科技大学": [
+    {
+      "name": "理学院",
+      "url": "https://science.sustech.edu.cn/",
+      "email": "sci-dean@sustech.edu.cn",
+      "phone": "16302883760; 049968436900; 00605033229"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://ese.sustech.edu.cn/",
+      "email": "iese@sustech.edu.cn",
+      "phone": "0755-88010822"
+    },
+    {
+      "name": "深港微电子学院",
+      "url": "http://sme.sustech.edu.cn/",
+      "email": "jiangll@sustech.edu.cn; zhangq2020@sustech.edu.cn; liub2020@sustech.edu.cn",
+      "phone": "0755-88010194"
+    },
+    {
+      "name": "自动化与智能制造学院",
+      "url": "https://aim.sustech.edu.cn/",
+      "email": "aim@sustech.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://bio.sustech.edu.cn/?lang=zh-cn",
+      "email": "lifs@sustech.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "前沿生物技术研究院",
+      "url": "https://iab.sustech.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "前沿与交叉科学研究院",
+      "url": "http://aais.sustech.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "碳中和能源研究院",
+      "url": "https://eicn.sustech.edu.cn/",
+      "email": "xuht@mail.sustech.edu.cn",
+      "phone": "0755-88011490"
+    },
+    {
+      "name": "纳米科学与应用研究院",
+      "url": "https://ina.sustech.edu.cn/#/site",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "海洋高等研究院",
+      "url": "https://aior.sustech.edu.cn/",
+      "email": "aior-talents@sustech.edu.cn; aior@sustech.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机器人研究院",
+      "url": "https://sir.sustech.edu.cn/",
+      "email": "sir@sustech.edu.cn",
+      "phone": ""
+    }
+  ],
+  "南昌大学": [
+    {
+      "name": "物理与材料学院",
+      "url": "http://spms.ncu.edu.cn/",
+      "email": "nculcxy@ncu.edu.cn; mse@ncu.edu.cn",
+      "phone": "0791-83969553（"
+    },
+    {
+      "name": "数学与计算机学院",
+      "url": "http://smcs.ncu.edu.cn/",
+      "email": "smcs@ncu.edu.cn",
+      "phone": "0791-83969506"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://chem.ncu.edu.cn/",
+      "email": "ncuhxhgxy@ncu.edu.cn",
+      "phone": "0791-83969514"
+    },
+    {
+      "name": "信息工程学院",
+      "url": "http://ie.ncu.edu.cn/",
+      "email": "liuqiegen@ncu.edu.cn",
+      "phone": "0791-83969675"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://sai.ncu.edu.cn",
+      "email": "",
+      "phone": "0791-83968083"
+    },
+    {
+      "name": "软件学院",
+      "url": "http://soft.ncu.edu.cn/",
+      "email": "rjxy@ncu.edu.cn",
+      "phone": "0791-88305687（"
+    },
+    {
+      "name": "食品学院",
+      "url": "http://sfst.ncu.edu.cn/",
+      "email": "spxy@ncu.edu.cn",
+      "phone": "0791-83969526"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://bio.ncu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "资源与环境学院",
+      "url": "http://zhxy.ncu.edu.cn/",
+      "email": "zihuan@ncu.edu.cn",
+      "phone": "0791-83969583"
+    },
+    {
+      "name": "建筑与设计学院",
+      "url": "https://jzysjxy.ncu.edu.cn/",
+      "email": "qianchen@ncu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "工程建设学院",
+      "url": "http://gcjs.ncu.edu.cn/",
+      "email": "tmgcxz@ncu.edu.cn",
+      "phone": "0791-83969652"
+    },
+    {
+      "name": "眼视光学院",
+      "url": "http://ncdxfsykyy.ncu.edu.cn/",
+      "email": "ndfsykyybgs@ncu.edu.cn",
+      "phone": "0791-86318903; 0791-88861118"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "https://ygb.ncu.edu.cn/",
+      "email": "",
+      "phone": "0791-83969346"
+    }
+  ],
+  "厦门大学": [
+    {
+      "name": "自然科学学部",
+      "url": "https://www.xmu.edu.cn/xbyx/zrkxxb.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "工程技术学部",
+      "url": "https://www.xmu.edu.cn/xbyx/gcjsxb.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地球科学与技术学部",
+      "url": "https://www.xmu.edu.cn/xbyx/dqkxyjsxb.htm",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "合肥工业大学": [
+    {
+      "name": "机械工程学院",
+      "url": "http://jxxy.hfut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.hfut.edu.cn/",
+      "email": "",
+      "phone": "050302000234"
+    },
+    {
+      "name": "电气与自动化工程学院",
+      "url": "http://ea.hfut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机与信息学院",
+      "url": "http://ci.hfut.edu.cn/",
+      "email": "",
+      "phone": "0551-62901380"
+    },
+    {
+      "name": "土木与水利工程学院",
+      "url": "http://civil.hfut.edu.cn/",
+      "email": "civil@hfut.edu.cn",
+      "phone": "0551-62905590"
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "http://hgxy.hfut.edu.cn/",
+      "email": "hxhgxy@hfut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "仪器科学与光电工程学院",
+      "url": "http://yqkx.hfut.edu.cn/",
+      "email": "yqkx@hfut.edu.cn",
+      "phone": "(0551)62901508"
+    },
+    {
+      "name": "资源与环境工程学院",
+      "url": "http://geoscience.hfut.edu.cn/",
+      "email": "",
+      "phone": "0551-62901524"
+    },
+    {
+      "name": "食品与生物工程学院",
+      "url": "http://spysw.hfut.edu.cn/",
+      "email": "spxy@hfut.edu.cn",
+      "phone": "0551-62901285"
+    },
+    {
+      "name": "数学学院",
+      "url": "http://maths.hfut.edu.cn/",
+      "email": "",
+      "phone": "0551-63831674"
+    },
+    {
+      "name": "微电子学院",
+      "url": "http://wdzxy.hfut.edu.cn/",
+      "email": "",
+      "phone": "0551-62919106; 011102000080"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://wlxy.hfut.edu.cn/",
+      "email": "",
+      "phone": "0551-62903603"
+    },
+    {
+      "name": "汽车与交通工程学院",
+      "url": "http://qjxy.hfut.edu.cn/index.htm",
+      "email": "",
+      "phone": "0551-62901960"
+    },
+    {
+      "name": "智能软件工程学院",
+      "url": "http://rjxy.hfut.edu.cn/",
+      "email": "",
+      "phone": "0551-63837356"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "http://eie.hfut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "集成电路创新学院",
+      "url": "http://ic.hfut.edu.cn",
+      "email": "",
+      "phone": "0551-63831350"
+    },
+    {
+      "name": "人工智能创新学院",
+      "url": "https://iai.hfut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来技术创新学院",
+      "url": "http://aift.hfut.edu.cn",
+      "email": "",
+      "phone": "0551-62901957"
+    },
+    {
+      "name": "聚变科学与工程学院",
+      "url": "http://fusion.hfut.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "吉林大学": [
+    {
+      "name": "数学学院",
+      "url": "https://math.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "https://phy.jlu.edu.cn/",
+      "email": "wlxy@jlu.edu.cn; phydean@jlu.edu.cn",
+      "phone": "0431-85166112"
+    },
+    {
+      "name": "化学学院",
+      "url": "https://chem.jlu.edu.cn/",
+      "email": "chembg@jlu.edu.cn",
+      "phone": "0431-85168420"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://life.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械与航空航天工程学院",
+      "url": "https://mae.jlu.edu.cn/",
+      "email": "",
+      "phone": "0431-85095428"
+    },
+    {
+      "name": "汽车工程学院",
+      "url": "https://auto.jlu.edu.cn/",
+      "email": "cae@jlu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://dmse.jlu.edu.cn/",
+      "email": "cailiao@jlu.edu.cn",
+      "phone": "0431-85094375"
+    },
+    {
+      "name": "交通学院",
+      "url": "https://jt.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生物与农业工程学院、仿生科学与工程学院",
+      "url": "https://cbae.jlu.edu.cn/",
+      "email": "swdb@jlu.edu.cn",
+      "phone": "0431-85095253"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "https://ees.jlu.edu.cn/",
+      "email": "jluees@jlu.edu.cn",
+      "phone": "0431-85168206"
+    },
+    {
+      "name": "电子科学与工程学院、集成电路学院",
+      "url": "https://ee.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "通信工程学院",
+      "url": "https://dce.jlu.edu.cn/",
+      "email": "",
+      "phone": "0431-85152948"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "https://ccst.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "软件学院",
+      "url": "https://csw.jlu.edu.cn/",
+      "email": "",
+      "phone": "0431-85167032; 0431-3202155"
+    },
+    {
+      "name": "地球科学学院",
+      "url": "https://geo.jlu.edu.cn/",
+      "email": "",
+      "phone": "0431-88502032"
+    },
+    {
+      "name": "地球探测科学与技术学院",
+      "url": "https://gest.jlu.edu.cn/",
+      "email": "dtxy@jlu.edu.cn",
+      "phone": "0431-88502426"
+    },
+    {
+      "name": "建设工程学院",
+      "url": "https://const.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "新能源与环境学院",
+      "url": "https://cer.jlu.edu.cn/",
+      "email": "cer@jlu.edu.cn",
+      "phone": "0431-88502606"
+    },
+    {
+      "name": "仪器科学与电气工程学院",
+      "url": "https://ciee.jlu.edu.cn/",
+      "email": "ciee@jlu.edu.cn",
+      "phone": "0431-88502382"
+    },
+    {
+      "name": "植物科学学院",
+      "url": "https://zky.jlu.edu.cn/",
+      "email": "jluzwkx@jlu.edu.cn",
+      "phone": "0431-87836260"
+    },
+    {
+      "name": "动物科学学院",
+      "url": "https://dwkx.jlu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "https://spxy.jlu.edu.cn/",
+      "email": "",
+      "phone": "0431-87835760"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://sai.jlu.edu.cn/",
+      "email": "sai@jlu.edu.cn",
+      "phone": "0431-85168702"
+    }
+  ],
+  "哈尔滨工业大学": [
+    {
+      "name": "科学与工业技术研究院",
+      "url": "http://keyan.hit.edu.cn",
+      "email": "",
+      "phone": "0451-86418144"
+    },
+    {
+      "name": "航天学院",
+      "url": "http://sa.hit.edu.cn/",
+      "email": "",
+      "phone": "0451-86403518"
+    },
+    {
+      "name": "电子与信息工程学院",
+      "url": "http://seie.hit.edu.cn/",
+      "email": "",
+      "phone": "0451-86413408"
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://sme.hit.edu.cn/",
+      "email": "hitsme@hit.edu.cn",
+      "phone": "0451-86413109"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.hit.edu.cn/",
+      "email": "mser@hit.edu.cn",
+      "phone": "0451-86413909"
+    },
+    {
+      "name": "能源科学与工程学院",
+      "url": "http://power.hit.edu.cn/",
+      "email": "",
+      "phone": "0451-86413209"
+    },
+    {
+      "name": "电气工程及自动化学院",
+      "url": "http://hitee.hit.edu.cn/",
+      "email": "hitee2018@hit.edu.cn",
+      "phone": "0451-86418297"
+    },
+    {
+      "name": "仪器科学与工程学院",
+      "url": "http://www.hit.edu.cn/_redirect?siteId=238&columnId=11332&articleId=219351",
+      "email": "",
+      "phone": "0451-86415857"
+    },
+    {
+      "name": "数学学院",
+      "url": "http://math.hit.edu.cn/",
+      "email": "HIT_math1987@163.com",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.hit.edu.cn/",
+      "email": "",
+      "phone": "0451-86414109"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://civil.hit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境学院",
+      "url": "http://env.hit.edu.cn/",
+      "email": "env@hit.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "建筑与设计学院",
+      "url": "http://arch.hit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "交通科学与工程学院",
+      "url": "http://jtxy.hit.edu.cn/",
+      "email": "",
+      "phone": "0451-86282116"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://cys.hit.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://computing.hit.edu.cn/",
+      "email": "csoffice@hit.edu.cn",
+      "phone": "0451-86403260"
+    },
+    {
+      "name": "国家示范性软件学院",
+      "url": "http://software.hit.edu.cn/",
+      "email": "software@hit.edu.cn",
+      "phone": "0451-86418711"
+    },
+    {
+      "name": "化工与化学学院",
+      "url": "http://chemeng.hit.edu.cn/",
+      "email": "hgxy@hit.edu.cn",
+      "phone": "0451-86403609"
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "http://life.hit.edu.cn/",
+      "email": "talent.slt@hit.edu.cn; life@hit.edu.cn",
+      "phone": "0451-86403827"
+    },
+    {
+      "name": "空间环境与物质科学研究院",
+      "url": "http://www.hit.edu.cn/_redirect?siteId=238&columnId=11332&articleId=218755",
+      "email": "lilifang@hit.edu.cn; wangtq@hit.edu.cn; shengjie@hit.edu.cn",
+      "phone": "18846781985; 13796163141; 18645085036"
+    }
+  ],
+  "哈尔滨工程大学": [
+    {
+      "name": "船舶工程学院",
+      "url": "http://sec.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519910"
+    },
+    {
+      "name": "航空航天学院",
+      "url": "http://cec.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519210"
+    },
+    {
+      "name": "动力与能源工程学院",
+      "url": "http://pnec.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519310"
+    },
+    {
+      "name": "智能科学与工程学院",
+      "url": "http://cisse.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519410"
+    },
+    {
+      "name": "水声工程学院",
+      "url": "http://uae.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519510"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://cstc.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519610"
+    },
+    {
+      "name": "国家特色化示范性软件学院",
+      "url": "https://software.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519610"
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://meec.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82518454"
+    },
+    {
+      "name": "信息与通信工程学院",
+      "url": "https://icec.hrbeu.edu.cn",
+      "email": "",
+      "phone": "0451-82519810"
+    },
+    {
+      "name": "材料科学与化学工程学院",
+      "url": "http://heucec.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82569890"
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82518716"
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "http://ss.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82519754"
+    },
+    {
+      "name": "核科学与技术学院",
+      "url": "http://cnst.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "0451-82518400"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "http://wljs.hrbeu.edu.cn/",
+      "email": "",
+      "phone": "(0451)82519674"
+    }
+  ],
+  "四川农业大学": [
+    {
+      "name": "理学院",
+      "url": "https://lixueyuan.sicau.edu.cn/",
+      "email": "",
+      "phone": "0835-2885036"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://smkx.sicau.edu.cn/",
+      "email": "",
+      "phone": "0835-2885601"
+    },
+    {
+      "name": "食品学院",
+      "url": "https://spxy.sicau.edu.cn/",
+      "email": "",
+      "phone": "0835-2882172; 028-86291780; 0835-2882187"
+    },
+    {
+      "name": "信息工程学院",
+      "url": "https://xxgc.sicau.edu.cn/",
+      "email": "",
+      "phone": "0835-2882177"
+    },
+    {
+      "name": "水利水电学院",
+      "url": "https://slsd.sicau.edu.cn/",
+      "email": "",
+      "phone": "0835-2883120"
+    },
+    {
+      "name": "资源学院",
+      "url": "https://zyxy.sicau.edu.cn/",
+      "email": "",
+      "phone": "028-86293010; 028-86290986"
+    },
+    {
+      "name": "环境学院",
+      "url": "https://hjxy.sicau.edu.cn/",
+      "email": "",
+      "phone": "028-86291233（"
+    },
+    {
+      "name": "农业工程学院",
+      "url": "https://nygcxy.sicau.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与城乡规划学院",
+      "url": "https://jg.sicau.edu.cn/",
+      "email": "jcxy@sicau.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "土木工程学院",
+      "url": "https://tmgcxy.sicau.edu.cn/",
+      "email": "tmgcxy@sicau.edu.cn; tmgcxyjj@sicau.edu.cn",
+      "phone": "028-87123357"
+    }
+  ],
+  "四川大学": [
+    {
+      "name": "数学学院",
+      "url": "http://math.scu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.scu.edu.cn/",
+      "email": "",
+      "phone": "028-85412322（"
+    },
+    {
+      "name": "化学学院",
+      "url": "http://chem.scu.edu.cn/",
+      "email": "chem@scu.edu.cn",
+      "phone": "（028）85412290"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://life.scu.edu.cn/",
+      "email": "scu_life@163.com",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.scu.edu.cn/",
+      "email": "",
+      "phone": "86-28-85416050"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://msec.scu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电气工程学院",
+      "url": "https://ee.scu.edu.cn/",
+      "email": "ee@scu.edu.cn; dianqijiwei@scu.edu.cn",
+      "phone": "028-85405614"
+    },
+    {
+      "name": "计算机学院",
+      "url": "https://cs.scu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与环境学院",
+      "url": "http://acem.scu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "水利水电学院",
+      "url": "http://cwrh.scu.edu.cn/",
+      "email": "cwrh_ao@scu.edu.cn; slsdjw@scu.edu.cn",
+      "phone": "(028)85401154"
+    },
+    {
+      "name": "化学工程学院",
+      "url": "http://ce.scu.edu.cn/",
+      "email": "",
+      "phone": "028-85405222"
+    },
+    {
+      "name": "轻工科学与工程学院",
+      "url": "http://qfsp.scu.edu.cn/",
+      "email": "qgxyshuji@scu.edu.cn; qgxyyuanzhang@scu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "高分子科学与工程学院",
+      "url": "http://cpse.scu.edu.cn/",
+      "email": "",
+      "phone": "86-28-85461786"
+    },
+    {
+      "name": "空天科学与工程学院",
+      "url": "http://saa.scu.edu.cn/",
+      "email": "hkht@scu.edu.cn",
+      "phone": "19190617397; 15578246629; 06572145836"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://ccs.scu.edu.cn/",
+      "email": "",
+      "phone": "028-85998668"
+    },
+    {
+      "name": "碳中和未来技术学院",
+      "url": "https://ccnft.scu.edu.cn/",
+      "email": "ccnft@scu.edu.cn",
+      "phone": "028-85464677"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "http://ees.scu.edu.cn/",
+      "email": "",
+      "phone": "028-85464900"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://ai.scu.edu.cn/",
+      "email": "ai@scu.edu.cn; aijiwei@scu.edu.cn",
+      "phone": ""
+    }
+  ],
+  "国防科技大学": [
+    {
+      "name": "理学院",
+      "url": "https://www.nudt.edu.cn/yssz/lxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "计算机学院",
+      "url": "https://www.nudt.edu.cn/yssz/jsjxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "电子科学学院",
+      "url": "https://www.nudt.edu.cn/yssz/dzkxxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "前沿交叉学科学院",
+      "url": "https://www.nudt.edu.cn/yssz/qyjcxkxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "智能科学学院",
+      "url": "https://www.nudt.edu.cn/yssz/znkxxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "系统工程学院",
+      "url": "https://www.nudt.edu.cn/yssz/xtgcxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "空天科学学院",
+      "url": "https://www.nudt.edu.cn/yssz/ktkxxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "电子对抗学院",
+      "url": "https://www.nudt.edu.cn/yssz/dzdkxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    },
+    {
+      "name": "气象海洋学院",
+      "url": "https://www.nudt.edu.cn/yssz/qxhyxy/index.htm",
+      "email": "",
+      "phone": "0731-84576114; 0731-87027137; 0731-87027139"
+    }
+  ],
+  "复旦大学": [
+    {
+      "name": "数学科学学院",
+      "url": "http://math.fudan.edu.cn/",
+      "email": "",
+      "phone": "021-65642222"
+    },
+    {
+      "name": "微电子学院",
+      "url": "https://sme.fudan.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.fudan.edu.cn/",
+      "email": "",
+      "phone": "08660525549"
+    },
+    {
+      "name": "大数据学院",
+      "url": "http://www.sds.fudan.edu.cn/wp/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "集成电路与微纳电子创新学院",
+      "url": "https://icmne.fudan.edu.cn/",
+      "email": "icmne@fudan.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "计算与智能创新学院",
+      "url": "https://ai.fudan.edu.cn/",
+      "email": "cs_school@fudan.edu.cn",
+      "phone": "13472188450"
+    },
+    {
+      "name": "智能机器人与先进制造创新学院",
+      "url": "https://ciram.fudan.edu.cn/",
+      "email": "ciram_dzb@fudan.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "智能材料与未来能源创新学院",
+      "url": "https://icome.fudan.edu.cn/",
+      "email": "",
+      "phone": "021-65642379; 021-31243591; 021-31249935"
+    },
+    {
+      "name": "未来信息创新学院",
+      "url": "https://fit.fudan.edu.cn/",
+      "email": "fit@fudan.edu.cn",
+      "phone": "021-31242680"
+    },
+    {
+      "name": "科学技术研究院",
+      "url": "https://www.fudan.edu.cn/2019/0506/c431a103187/page.htm",
+      "email": "keyanyuan@fudan.edu.cn; yxky@fudan.edu.cn",
+      "phone": "8621-54237270; 021-65642222"
+    }
+  ],
+  "大连理工大学": [
+    {
+      "name": "化工学院",
+      "url": "http://chemeng.dlut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境学院",
+      "url": "http://est.dlut.edu.cn",
+      "email": "sestdut@dlut.edu.cn",
+      "phone": "014161990002"
+    },
+    {
+      "name": "生物工程学院",
+      "url": "http://biotech.dlut.edu.cn",
+      "email": "",
+      "phone": "0411-84708083"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://me.dlut.edu.cn",
+      "email": "me@dlut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.dlut.edu.cn",
+      "email": "mse@dlut.edu.cn",
+      "phone": "0411-84708430"
+    },
+    {
+      "name": "能源与动力学院",
+      "url": "http://power.dlut.edu.cn",
+      "email": "powere@dlut.edu.cn",
+      "phone": "0411-84708460"
+    },
+    {
+      "name": "电子信息与电气工程学部",
+      "url": "http://ee.dlut.edu.cn/",
+      "email": "dutee@dlut.edu.cn",
+      "phone": "0411-84706936"
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://eee.dlut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息与通信工程学院",
+      "url": "http://ice.dlut.edu.cn",
+      "email": "bowang@dlut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "控制科学与工程学院",
+      "url": "http://scse.dlut.edu.cn",
+      "email": "cse@dlut.edu.cn",
+      "phone": "0411-84701537"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://cs.dlut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能科学与技术研究院",
+      "url": "https://ai.dlut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建设工程学部",
+      "url": "http://sche.dlut.edu.cn/",
+      "email": "st_dlut@163.com",
+      "phone": "0411-84708500"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://civil.dlut.edu.cn",
+      "email": "",
+      "phone": "0411-84708500"
+    },
+    {
+      "name": "水利工程学院",
+      "url": "http://she.dlut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "港航与海洋工程学院",
+      "url": "http://hoe.dlut.edu.cn/",
+      "email": "ctr@dlut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "交通运输学院",
+      "url": "http://trans.dlut.edu.cn",
+      "email": "ctr@dlut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "运载工程与力学学部",
+      "url": "http://vehicle.dlut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "力学与航空航天学院",
+      "url": "http://lihang.dlut.edu.cn/",
+      "email": "",
+      "phone": "0411-84707652"
+    },
+    {
+      "name": "船舶工程学院",
+      "url": "http://naoe.dlut.edu.cn/",
+      "email": "",
+      "phone": "0411-84708396"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://physics.dlut.edu.cn/",
+      "email": "",
+      "phone": "0411-84708370"
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.dlut.edu.cn/",
+      "email": "",
+      "phone": "0411-84708354"
+    },
+    {
+      "name": "光电工程与仪器科学学院",
+      "url": "http://oeis.dlut.edu.cn/",
+      "email": "dlutoeis@dlut.edu.cn",
+      "phone": "0411-84706243"
+    },
+    {
+      "name": "张大煜（化学）学院",
+      "url": "http://zdysc.dlut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "能源研究院",
+      "url": "http://iest.dlut.edu.cn/",
+      "email": "mamingjun@dlut.edu.cn",
+      "phone": "0411-84706582"
+    }
+  ],
+  "天津大学": [
+    {
+      "name": "机械工程学院",
+      "url": "https://www.tju.edu.cn/info/1044/1252.htm",
+      "email": "",
+      "phone": "022-87401979"
+    },
+    {
+      "name": "精密仪器与光电子工程学院",
+      "url": "https://www.tju.edu.cn/info/1044/1251.htm",
+      "email": "",
+      "phone": "022-27404775"
+    },
+    {
+      "name": "电气自动化与信息工程学院",
+      "url": "https://www.tju.edu.cn/info/1044/1250.htm",
+      "email": "",
+      "phone": "022-27405477"
+    },
+    {
+      "name": "微电子学院",
+      "url": "https://www.tju.edu.cn/info/1044/1249.htm",
+      "email": "",
+      "phone": "022-27405714"
+    },
+    {
+      "name": "智能与计算学部-计算机科学与技术学院",
+      "url": "https://www.tju.edu.cn/info/1044/1234.htm",
+      "email": "",
+      "phone": "022-27407657"
+    },
+    {
+      "name": "智能与计算学部-网络安全学院",
+      "url": "https://www.tju.edu.cn/info/1044/82252.htm",
+      "email": "",
+      "phone": "022-27407649"
+    },
+    {
+      "name": "智能与计算学部-人工智能学院",
+      "url": "https://www.tju.edu.cn/info/1044/9356.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能与计算学部-软件学院",
+      "url": "https://www.tju.edu.cn/info/1044/10147.htm",
+      "email": "",
+      "phone": "022-87401540"
+    },
+    {
+      "name": "建筑工程学院",
+      "url": "https://www.tju.edu.cn/info/1044/1248.htm",
+      "email": "",
+      "phone": "022-27404072"
+    },
+    {
+      "name": "建筑学院",
+      "url": "https://www.tju.edu.cn/info/1044/1247.htm",
+      "email": "",
+      "phone": "022-27404491"
+    },
+    {
+      "name": "化工学院",
+      "url": "https://www.tju.edu.cn/info/1044/1246.htm",
+      "email": "",
+      "phone": "022-27403389"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://www.tju.edu.cn/info/1044/1245.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://www.tju.edu.cn/info/1044/1235.htm",
+      "email": "",
+      "phone": "022-87402072"
+    },
+    {
+      "name": "理学院",
+      "url": "https://www.tju.edu.cn/info/1044/1241.htm",
+      "email": "",
+      "phone": "022-27404118"
+    },
+    {
+      "name": "数学学院",
+      "url": "https://www.tju.edu.cn/info/1044/1240.htm",
+      "email": "math@tju.edu.cn",
+      "phone": "022-60787827"
+    },
+    {
+      "name": "海洋科学与技术学院",
+      "url": "https://www.tju.edu.cn/info/1044/1231.htm",
+      "email": "marine@tju.edu.cn",
+      "phone": "022-87370655"
+    },
+    {
+      "name": "地球系统科学学院",
+      "url": "https://www.tju.edu.cn/info/1044/1227.htm",
+      "email": "",
+      "phone": "022-27405051"
+    },
+    {
+      "name": "能源学院",
+      "url": "https://www.tju.edu.cn/info/1044/84282.htm",
+      "email": "esse@tju.edu.cn",
+      "phone": "022-61158377"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://www.tju.edu.cn/info/1044/82262.htm",
+      "email": "",
+      "phone": "022-85356258"
+    },
+    {
+      "name": "国家卓越工程师学院、国际工程师学院",
+      "url": "https://www.tju.edu.cn/info/1044/75642.htm",
+      "email": "",
+      "phone": "022-87370871"
+    },
+    {
+      "name": "分子聚集态科学研究院",
+      "url": "https://www.tju.edu.cn/info/1044/2254.htm",
+      "email": "imas@tju.edu.cn",
+      "phone": "022-27893326"
+    }
+  ],
+  "太原理工大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "http://kj.tyut.edu.cn/",
+      "email": "kjc@tyut.edu.cn",
+      "phone": "0351-6010182"
+    },
+    {
+      "name": "工业技术研究院",
+      "url": "https://gyjsyjy.tyut.edu.cn/",
+      "email": "zhxiaoyuan@tyut.edu.cn",
+      "phone": "0351-6011050"
+    }
+  ],
+  "宁夏大学": [
+    {
+      "name": "数理与信息学部",
+      "url": "https://slyxxxb.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2061826"
+    },
+    {
+      "name": "数学统计学院",
+      "url": "https://sxtj.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2061024"
+    },
+    {
+      "name": "物理学院",
+      "url": "https://phys.nxu.edu.cn/",
+      "email": "wlxy@nxu.edu.cn",
+      "phone": "0951-2061004"
+    },
+    {
+      "name": "电子与电气工程学院",
+      "url": "https://seee.nxu.edu.cn/",
+      "email": "seee@nxu.edu.cn",
+      "phone": "0951-2061826"
+    },
+    {
+      "name": "信息工程学院",
+      "url": "https://xxgc.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2077800"
+    },
+    {
+      "name": "生命与食品学部",
+      "url": "https://smyspxb.nxu.edu.cn/",
+      "email": "smyspxb@nxu.edu.cn",
+      "phone": "0951-2062129"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://sls.nxu.edu.cn/",
+      "email": "skxy@nxu.edu.cn; jsgzb@nxu.edu.cn",
+      "phone": "0951-2062029; 0951-2061910"
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "https://spxy.nxu.edu.cn/",
+      "email": "",
+      "phone": "010502000131"
+    },
+    {
+      "name": "工程与地理学部",
+      "url": "https://gcydlxb.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2062005"
+    },
+    {
+      "name": "土木与水利工程学院",
+      "url": "https://tmsl.nxu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑学院",
+      "url": "https://ndjz.nxu.edu.cn/index.htm",
+      "email": "",
+      "phone": "0951-2077800"
+    },
+    {
+      "name": "地理科学与规划学院",
+      "url": "https://geo.nxu.edu.cn/",
+      "email": "",
+      "phone": "（0951）2062327"
+    },
+    {
+      "name": "生态环境学院",
+      "url": "https://see.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2077800"
+    },
+    {
+      "name": "前沿科学与技术学部",
+      "url": "https://qykxxb.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2062086"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "https://jxgc.nxu.edu.cn/",
+      "email": "jxgc@nxu.edu.cn",
+      "phone": "0951-2062086; 0951-2062851; 0951-2062002"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "https://chem.nxu.edu.cn/",
+      "email": "luozh@sjtu.edu.cn; nigang@nxu.edu.cn; renys@nxu.edu.cn",
+      "phone": "0951-2062860; 0951-2062833; 0951-2062061"
+    },
+    {
+      "name": "材料与新能源学院",
+      "url": "https://smane.nxu.edu.cn/",
+      "email": "",
+      "phone": "0951-2062086; 0951-2062851; 0951-2062002"
+    },
+    {
+      "name": "文理学院",
+      "url": "http://wlxy.nxu.edu.cn",
+      "email": "",
+      "phone": "010502000131"
+    },
+    {
+      "name": "信息与网络空间安全学院",
+      "url": "http://sic.nxu.edu.cn",
+      "email": "",
+      "phone": "0955-7655375"
+    }
+  ],
+  "宁波大学": [
+    {
+      "name": "物理科学与技术学院",
+      "url": "http://phys.nbu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.nbu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与化学工程学院",
+      "url": "http://fmsce.nbu.edu.cn/",
+      "email": "chxy@nbu.edu.cn",
+      "phone": "0574-87609987"
+    },
+    {
+      "name": "地理科学与遥感技术学院",
+      "url": "https://geo.nbu.edu.cn/",
+      "email": "nbugeo@nbu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "力学与工程科学学院",
+      "url": "http://eng.nbu.edu.cn/",
+      "email": "",
+      "phone": "0574-87600302"
+    },
+    {
+      "name": "机械工程与智能制造学院",
+      "url": "https://me.nbu.edu.cn",
+      "email": "",
+      "phone": "0574-87600302"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://eecs.nbu.edu.cn/",
+      "email": "",
+      "phone": "0574-87609488"
+    },
+    {
+      "name": "土木工程与未来城市学院",
+      "url": "http://jgxy.nbu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "海洋学院",
+      "url": "http://haiyang.nbu.edu.cn/",
+      "email": "",
+      "phone": "0574-87600551"
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "http://cfse.nbu.edu.cn/",
+      "email": "",
+      "phone": "0574-87604388"
+    }
+  ],
+  "对外经济贸易大学": [
+    {
+      "name": "人工智能与数据科学学院",
+      "url": "http://it.uibe.edu.cn/",
+      "email": "",
+      "phone": "010-64495029"
+    },
+    {
+      "name": "统计学院",
+      "url": "http://tongji.uibe.edu.cn/",
+      "email": "",
+      "phone": "+86-10-64494646"
+    }
+  ],
+  "山东大学": [
+    {
+      "name": "数学学院",
+      "url": "http://www.math.sdu.edu.cn/",
+      "email": "sxyuanzhang@sdu.edu.cn",
+      "phone": "0531-88364652"
+    },
+    {
+      "name": "物理学院",
+      "url": "http://www.phy.sdu.edu.cn",
+      "email": "physics@sdu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "http://www.chem.sdu.edu.cn",
+      "email": "yuanzhangmail@sdu.edu.cn",
+      "phone": "0531-88364464"
+    },
+    {
+      "name": "晶体材料研究院",
+      "url": "https://jty.sdu.edu.cn/",
+      "email": "",
+      "phone": "0531-88364864"
+    },
+    {
+      "name": "新一代半导体材料研究院",
+      "url": "https://dpt.sdu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://www.ai.sdu.edu.cn/",
+      "email": "ai@sdu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://gsee.sdu.edu.cn/",
+      "email": "zygcs@sdu.edu.cn",
+      "phone": "0531-88362559"
+    },
+    {
+      "name": "智能通信技术研究院",
+      "url": "https://iict.sdu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://www.cmse.sdu.edu.cn/",
+      "email": "",
+      "phone": "0531-88392315"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://www.mech.sdu.edu.cn/",
+      "email": "",
+      "phone": "0531-88392608"
+    },
+    {
+      "name": "控制科学与工程学院",
+      "url": "http://control.sdu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "核科学与能源动力学院",
+      "url": "http://www.epe.sdu.edu.cn",
+      "email": "",
+      "phone": "0531-88392701"
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://www.ee.sdu.edu.cn/",
+      "email": "",
+      "phone": "0531-88392369"
+    },
+    {
+      "name": "土建与水利学院",
+      "url": "http://www.tjsl.sdu.edu.cn/",
+      "email": "tjfdw@sdu.edu.cn",
+      "phone": "0531-88392446"
+    },
+    {
+      "name": "软件学院",
+      "url": "http://www.sc.sdu.edu.cn/",
+      "email": "",
+      "phone": "531-88391516"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://ic.sdu.edu.cn",
+      "email": "jcdlbkjw@sdu.edu.cn",
+      "phone": "8839016; 05318839013; 053188390132"
+    },
+    {
+      "name": "人工智能国际联合研究院",
+      "url": "https://cfair.sdu.edu.cn/",
+      "email": "cfair@sdu.edu.cn",
+      "phone": "053188391816"
+    },
+    {
+      "name": "智能创新研究院",
+      "url": "https://aii.sdu.edu.cn",
+      "email": "yunqing@sdu.edu.cn",
+      "phone": "0531-88390600"
+    },
+    {
+      "name": "密码科学与工程学院",
+      "url": "https://cse.sdu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "齐鲁交通学院",
+      "url": "http://www.qltrans.sdu.edu.cn/",
+      "email": "",
+      "phone": "0531-86358717"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://sft.sdu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "空间科学与技术学院",
+      "url": "https://apd.wh.sdu.edu.cn/",
+      "email": "sssp@wh.sdu.edu.cn",
+      "phone": "0631-5688751"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "https://math.wh.sdu.edu.cn/",
+      "email": "",
+      "phone": "0631-5688523"
+    },
+    {
+      "name": "海洋学院",
+      "url": "https://mc.wh.sdu.edu.cn/",
+      "email": "",
+      "phone": "0631-5688303"
+    },
+    {
+      "name": "低空科学与工程学院",
+      "url": "https://ie.wh.sdu.edu.cn/",
+      "email": "ie@wh.sdu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "山东大学澳国立联合理学院",
+      "url": "https://jsc.wh.sdu.edu.cn/",
+      "email": "shanu@sdu.edu.cn",
+      "phone": "0631-5688510; 0631-5688516"
+    },
+    {
+      "name": "信息科学与工程学院",
+      "url": "http://www.ise.sdu.edu.cn",
+      "email": "",
+      "phone": "0532-58630768"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://www.cs.sdu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "https://lifesci.sdu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://www.huanke.sdu.edu.cn/",
+      "email": "hjxy@sdu.edu.cn",
+      "phone": "0532-58630926"
+    },
+    {
+      "name": "国际创新转化学院",
+      "url": "https://isie.qd.sdu.edu.cn/",
+      "email": "",
+      "phone": "0532-58631828"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://cst.qd.sdu.edu.cn/",
+      "email": "cst@sdu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "前沿交叉科学青岛研究院",
+      "url": "https://frontier.qd.sdu.edu.cn/",
+      "email": "qyy@sdu.edu.cn",
+      "phone": "（0532）58630258"
+    },
+    {
+      "name": "微生物技术研究院",
+      "url": "http://www.mbtechinst.qd.sdu.edu.cn/",
+      "email": "wswyb@sdu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "环境研究院",
+      "url": "https://www.hj.sdu.edu.cn/",
+      "email": "",
+      "phone": "0531-88369788"
+    },
+    {
+      "name": "海洋研究院",
+      "url": "http://www.imst.sdu.edu.cn",
+      "email": "imst@sdu.edu.cn",
+      "phone": "0532-58633267（"
+    }
+  ],
+  "广东工业大学": [
+    {
+      "name": "机电工程学院",
+      "url": "https://jdgcxy.gdut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息工程学院",
+      "url": "https://xxgcxy.gdut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机学院",
+      "url": "https://cs.gdut.edu.cn/",
+      "email": "jsj@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "建筑与城市规划学院",
+      "url": "https://arc.gdut.edu.cn",
+      "email": "jzcgxy@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "集成电路学院",
+      "url": "https://sme.gdut.edu.cn/",
+      "email": "ic@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "https://zygcsxy.gdut.edu.cn/",
+      "email": "zygcsxy@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "自动化学院",
+      "url": "https://automation.gdut.edu.cn",
+      "email": "zdhyb@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "土木与交通工程学院",
+      "url": "https://tmjtxy.gdut.edu.cn",
+      "email": "tmjwgl@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料与能源学院",
+      "url": "https://clnyxy.gdut.edu.cn",
+      "email": "cnxy@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "https://math.gdut.edu.cn/",
+      "email": "yysxxy@gdut.edu.cn",
+      "phone": "020-87084403"
+    },
+    {
+      "name": "生态环境与海洋学院",
+      "url": "https://seer.gdut.edu.cn",
+      "email": "seer@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "轻工化工学院",
+      "url": "https://qghgxy.gdut.edu.cn",
+      "email": "qhxy@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://hkxy.gdut.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "https://wlgdxy.gdut.edu.cn/",
+      "email": "wlgdxy@gdut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "先进材料与技术研究院",
+      "url": "https://www.gdut.edu.cn/jgsz/kyjg.htm",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "广西大学": [
+    {
+      "name": "机械工程学院",
+      "url": "https://me.gxu.edu.cn/",
+      "email": "",
+      "phone": "0771-3232294"
+    },
+    {
+      "name": "电气工程学院",
+      "url": "https://dqgc.gxu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "土木建筑工程学院",
+      "url": "https://tmjz.gxu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学化工学院",
+      "url": "https://hxhgxy.gxu.edu.cn/",
+      "email": "hxhg@gxu.edu.cn",
+      "phone": "15777371268; 0771-3233718"
+    },
+    {
+      "name": "资源环境与材料学院",
+      "url": "https://zyhjcl.gxu.edu.cn/",
+      "email": "zyhjyclxy@gxu.edu.cn",
+      "phone": "0771-3232200; 0771-3232274; 0771-3234560"
+    },
+    {
+      "name": "轻工与食品工程学院",
+      "url": "https://gxulif.gxu.edu.cn/",
+      "email": "gxulif@163.com",
+      "phone": "0771-3232874"
+    },
+    {
+      "name": "计算机与电子信息学院",
+      "url": "https://scei.gxu.edu.cn/",
+      "email": "",
+      "phone": "0771-3232214"
+    },
+    {
+      "name": "海洋学院",
+      "url": "https://ma.gxu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "https://lst.gxu.edu.cn/",
+      "email": "sky109office@163.com",
+      "phone": "0771-3235707"
+    },
+    {
+      "name": "动物科学技术学院",
+      "url": "https://dky.gxu.edu.cn/",
+      "email": "weixiaoqiangcca@163.com; gxudkyxzb@163.com",
+      "phone": ""
+    },
+    {
+      "name": "数学学院",
+      "url": "https://mi.gxu.edu.cn/",
+      "email": "shuxinxy@gxu.edu.cn",
+      "phone": "0771-3232084"
+    },
+    {
+      "name": "物理科学与工程技术学院",
+      "url": "https://physics.gxu.edu.cn/",
+      "email": "",
+      "phone": "0771-3237386"
+    }
+  ],
+  "新疆大学": [
+    {
+      "name": "物理科学与技术学院",
+      "url": "http://phy.xju.edu.cn",
+      "email": "",
+      "phone": "0991-8582405"
+    },
+    {
+      "name": "地理与遥感科学学院",
+      "url": "http://geography.xju.edu.cn/",
+      "email": "",
+      "phone": "0991-2111431"
+    },
+    {
+      "name": "地质与矿业工程学院",
+      "url": "http://dkxy.xju.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "http://sky.xju.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://clxy.xju.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://dqxy.xju.edu.cn",
+      "email": "luhaifeng@mail.tsinghua.edu.cn",
+      "phone": "0991-8592289（"
+    },
+    {
+      "name": "建筑工程学院",
+      "url": "http://jzgcxy.xju.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化工学院",
+      "url": "http://hgxy.xju.edu.cn",
+      "email": "xjdxhgxy@xju.edu.cn",
+      "phone": "0991-8582811"
+    },
+    {
+      "name": "纺织与服装学院",
+      "url": "http://ffxy.xju.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "交通运输工程学院",
+      "url": "http://jtxy.xju.edu.cn/index.htm",
+      "email": "",
+      "phone": "0816338211; 0991-2111646; 0991-2111699"
+    },
+    {
+      "name": "智能科学与技术学院",
+      "url": "http://wljs.xju.edu.cn",
+      "email": "",
+      "phone": "0991-2111610"
+    },
+    {
+      "name": "软件学院",
+      "url": "http://ss.xju.edu.cn",
+      "email": "",
+      "phone": "0991-4558654"
+    },
+    {
+      "name": "智能制造现代产业学院",
+      "url": "https://jxxy.xju.edu.cn/index.htm",
+      "email": "xju_jxxy@163.com",
+      "phone": "0991-2111544"
+    }
+  ],
+  "暨南大学": [
+    {
+      "name": "物理与光电工程学院",
+      "url": "https://lgxy.jnu.edu.cn/",
+      "email": "olgy@jnu.edu.cn",
+      "phone": "020-85220217"
+    },
+    {
+      "name": "生命科学技术学院",
+      "url": "https://sky.jnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学技术学院",
+      "url": "http://xxxy.jnu.edu.cn",
+      "email": "oxky@jnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://cybsec.jnu.edu.cn/",
+      "email": "occs_office@jnu.edu.cn",
+      "phone": "17082810566"
+    },
+    {
+      "name": "化学与材料学院",
+      "url": "https://chemmat.jnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境与气候学院",
+      "url": "http://cec.jnu.edu.cn",
+      "email": "ohjyqh@jnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "力学与建筑工程学院",
+      "url": "https://lxxy.jnu.edu.cn/",
+      "email": "otmgc@jnu.edu.cn",
+      "phone": "020-85227932"
+    },
+    {
+      "name": "包装工程学院",
+      "url": "http://pack.jnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能科学与工程学院/人工智能产业学院",
+      "url": "http://sisse.jnu.edu.cn",
+      "email": "123456@jnu.com",
+      "phone": "86-12345678"
+    }
+  ],
+  "杭州电子科技大学": [
+    {
+      "name": "机械工程学院",
+      "url": "http://www.hdu.edu.cn/13312/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子信息学院",
+      "url": "http://www.hdu.edu.cn/13317/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "通信工程学院",
+      "url": "http://www.hdu.edu.cn/13318/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料与环境工程学院",
+      "url": "http://www.hdu.edu.cn/13322/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "集成电路科学与工程学院",
+      "url": "https://ic.hdu.edu.cn/",
+      "email": "sic_sx@hdu.edu.cn",
+      "phone": "(0571)86915074; (0575)88500110"
+    },
+    {
+      "name": "理学院",
+      "url": "http://www.hdu.edu.cn/13323/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "杭州电子科技大学圣光机联合学院",
+      "url": "http://www.hdu.edu.cn/13335/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "杭州电子科技大学信息工程学院",
+      "url": "https://www.hziee.edu.cn/",
+      "email": "xxgcxy@hdu.edu.cn",
+      "phone": "0571-58619115; 0571-58619116; 0571-58619118"
+    },
+    {
+      "name": "浙江省信息化发展研究院",
+      "url": "http://www.hdu.edu.cn/13681/list.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "微电子研究院",
+      "url": "http://www.hdu.edu.cn/13670/list.htm",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "武汉大学": [
+    {
+      "name": "数学与统计学院",
+      "url": "http://maths.whu.edu.cn/",
+      "email": "maths@whu.edu.cn",
+      "phone": "027-68752957"
+    },
+    {
+      "name": "物理科学与技术学院",
+      "url": "http://physics.whu.edu.cn/",
+      "email": "Phy@whu.edu.cn",
+      "phone": "027-68752161"
+    },
+    {
+      "name": "化学与分子科学学院",
+      "url": "http://chem.whu.edu.cn/",
+      "email": "hxydzb@whu.edu.cn",
+      "phone": "027-68754067"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://bio.whu.edu.cn/",
+      "email": "1304011@whu.edu.cn",
+      "phone": "+86-27-68753780"
+    },
+    {
+      "name": "资源与环境科学学院",
+      "url": "http://sres.whu.edu.cn/",
+      "email": "sres@whu.edu.cn",
+      "phone": "027-68778381"
+    },
+    {
+      "name": "地球与空间科学技术学院",
+      "url": "https://esst.whu.edu.cn/",
+      "email": "esst@whu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "动力与机械学院",
+      "url": "http://pmc.whu.edu.cn/",
+      "email": "1234567@whu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "电气与自动化学院",
+      "url": "http://eea.whu.edu.cn/",
+      "email": "wddqxy@whu.edu.cn",
+      "phone": "027-68772279"
+    },
+    {
+      "name": "土木建筑工程学院",
+      "url": "http://civ.whu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "水利水电学院",
+      "url": "http://swrh.whu.edu.cn/",
+      "email": "sdxy@whu.edu.cn",
+      "phone": "68788661; 027-68772215"
+    },
+    {
+      "name": "机器人学院",
+      "url": "https://robotics.whu.edu.cn/",
+      "email": "robotics@whu.edu.cn",
+      "phone": "027-68762500"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://ic.whu.edu.cn",
+      "email": "ic@whu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "电子信息学院",
+      "url": "http://eis.whu.edu.cn/",
+      "email": "eisyb@whu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cs.whu.edu.cn/",
+      "email": "computer@whu.edu.cn",
+      "phone": "027-68775361; 027-68775363"
+    },
+    {
+      "name": "遥感信息工程学院",
+      "url": "http://rsgis.whu.edu.cn/",
+      "email": "",
+      "phone": "027-68778546"
+    },
+    {
+      "name": "测绘学院",
+      "url": "http://www.sgg.whu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家网络安全学院",
+      "url": "http://cse.whu.edu.cn",
+      "email": "cse@whu.edu.cn",
+      "phone": "027-68778117; 027-68758373"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://sai.whu.edu.cn/",
+      "email": "whusai@whu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://ncee.whu.edu.cn",
+      "email": "ncee@whu.edu.cn",
+      "phone": "027-68763997"
+    }
+  ],
+  "江南大学": [
+    {
+      "name": "生物工程学院",
+      "url": "http://biotech.jiangnan.edu.cn/",
+      "email": "biotech@jiangnan.edu.cn",
+      "phone": "0510-85197012"
+    },
+    {
+      "name": "纺织科学与工程学院",
+      "url": "http://ctc.jiangnan.edu.cn/",
+      "email": "",
+      "phone": "0510-85912007"
+    },
+    {
+      "name": "环境与生态学院",
+      "url": "http://see.jiangnan.edu.cn/",
+      "email": "see@jiangnan.edu.cn",
+      "phone": "0510-85910932"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://sme.jiangnan.edu.cn/",
+      "email": "jxgcxy@jiangnan.edu.cn",
+      "phone": "0510-85910562"
+    },
+    {
+      "name": "生命科学与健康工程学院",
+      "url": "http://slshe.jiangnan.edu.cn",
+      "email": "medicine@jiangnan.edu.cn",
+      "phone": "0510-85329042"
+    },
+    {
+      "name": "数学与数据科学学院",
+      "url": "http://math.jiangnan.edu.cn/",
+      "email": "math@jiangnan.edu.cn",
+      "phone": "0510-85910532"
+    },
+    {
+      "name": "光电信息与物理科学学院",
+      "url": "https://oips.jiangnan.edu.cn/",
+      "email": "bailihua@jiangnan.edu.cn; gdwl@jiangnan.edu.cn",
+      "phone": "0510-85912210"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://ic.jiangnan.edu.cn",
+      "email": "jcdlxy@jiangnan.edu.cn",
+      "phone": "0510-85197309"
+    },
+    {
+      "name": "纤维工程与装备技术学院",
+      "url": "http://feet.jiangnan.edu.cn/",
+      "email": "feet@jiangnan.edu.cn",
+      "phone": "0510-85198835"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://giee.jiangnan.edu.cn/",
+      "email": "zygcsxy@jiangnan.edu.cn",
+      "phone": ""
+    }
+  ],
+  "江苏大学": [
+    {
+      "name": "农业工程学院",
+      "url": "https://sae.ujs.edu.cn/",
+      "email": "nzy@ujs.edu.cn",
+      "phone": "0511-88797338"
+    },
+    {
+      "name": "生物科学与技术学院",
+      "url": "https://smkx.ujs.edu.cn/",
+      "email": "skyxzb@ujs.edu.cn",
+      "phone": "0511-88788933"
+    },
+    {
+      "name": "低空技术学院",
+      "url": "https://slat.ujs.edu.cn/",
+      "email": "dkjsxy@ujs.edu.cn",
+      "phone": "0511-80829160"
+    },
+    {
+      "name": "能源动力工程学部",
+      "url": "https://www.ujs.edu.cn/jgsz.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "能源与动力工程学院",
+      "url": "https://sepe.ujs.edu.cn/",
+      "email": "sepe@ujs.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "汽车与交通工程学部",
+      "url": "https://qcjtxb.ujs.edu.cn/",
+      "email": "qcjtxb@ujs.edu.cn",
+      "phone": "0511-88782086"
+    },
+    {
+      "name": "汽车与交通工程学院",
+      "url": "https://auto.ujs.edu.cn/",
+      "email": "",
+      "phone": "0511-88797620"
+    },
+    {
+      "name": "汽车工程研究院",
+      "url": "https://aeri.ujs.edu.cn/",
+      "email": "qcyjy@ujs.edu.cn",
+      "phone": "0511-88782845"
+    },
+    {
+      "name": "计算机科学与通信工程学院",
+      "url": "http://cs.ujs.edu.cn/",
+      "email": "jsj@ujs.edu.cn",
+      "phone": "0511-88780371"
+    },
+    {
+      "name": "物理与电子工程学院",
+      "url": "https://phy.ujs.edu.cn/",
+      "email": "",
+      "phone": "0511-88788056"
+    },
+    {
+      "name": "卓越工程师学院，挂靠研究生院",
+      "url": "https://yjsy.ujs.edu.cn/",
+      "email": "yjsyzhb@ujs.edu.cn",
+      "phone": ""
+    }
+  ],
+  "河北工业大学": [
+    {
+      "name": "电气工程学院",
+      "url": "http://ee.hebut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://clxy.hebut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化工学院",
+      "url": "http://chemeng.hebut.edu.cn/",
+      "email": "",
+      "phone": "022-60204294"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://mes.hebut.edu.cn/",
+      "email": "",
+      "phone": "022-60202050"
+    },
+    {
+      "name": "土木与交通学院",
+      "url": "http://tm.hebut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子信息工程学院",
+      "url": "http://eie.hebut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能与数据科学学院",
+      "url": "http://ai.hebut.edu.cn/",
+      "email": "AI@hebut.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "能源与环境工程学院",
+      "url": "http://see.hebut.edu.cn/",
+      "email": "",
+      "phone": "022-60435279"
+    },
+    {
+      "name": "生命科学与健康工程学院",
+      "url": "https://hsbme.hebut.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "http://science.hebut.edu.cn/",
+      "email": "",
+      "phone": "022-60435638"
+    }
+  ],
+  "河海大学": [
+    {
+      "name": "水文水资源学院",
+      "url": "https://shxy.hhu.edu.cn/",
+      "email": "shxy@hhu.edu.cn",
+      "phone": "025-83786621"
+    },
+    {
+      "name": "水利水电学院",
+      "url": "http://sdxy.hhu.edu.cn/",
+      "email": "sdy@hhu.edu.cn",
+      "phone": "025-83786511"
+    },
+    {
+      "name": "港口海岸与近海工程学院",
+      "url": "http://ghxy.hhu.edu.cn/",
+      "email": "ghxy@hhu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "土木与交通学院",
+      "url": "http://ccte.hhu.edu.cn/",
+      "email": "sdy@hhu.edu.cn",
+      "phone": "025-83786511"
+    },
+    {
+      "name": "环境学院",
+      "url": "http://hjxy.hhu.edu.cn/",
+      "email": "hjxy@hhu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "电气与动力工程学院",
+      "url": "http://ceee.hhu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机与软件学院",
+      "url": "http://cies.hhu.edu.cn/",
+      "email": "",
+      "phone": "02558099120"
+    },
+    {
+      "name": "力学与工程科学学院",
+      "url": "https://cmes.hhu.edu.cn/",
+      "email": "",
+      "phone": "025-83787027"
+    },
+    {
+      "name": "地球科学与工程学院",
+      "url": "http://dxy.hhu.edu.cn/",
+      "email": "dxybgs@hhu.edu.cn",
+      "phone": "025-58099141; 025-83787244; 025-83787234"
+    },
+    {
+      "name": "农业科学与工程学院",
+      "url": "http://ngy.hhu.edu.cn/",
+      "email": "ngy@hhu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://jidian.hhu.edu.cn/",
+      "email": "",
+      "phone": "04885191827"
+    },
+    {
+      "name": "信息科学与工程学院",
+      "url": "https://ise.hhu.edu.cn",
+      "email": "",
+      "phone": "16070513727"
+    },
+    {
+      "name": "人工智能与自动化学院",
+      "url": "https://ai.hhu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "新能源学院",
+      "url": "https://xny.hhu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://mse.hhu.edu.cn/",
+      "email": "mse@hhu.edu.cn",
+      "phone": "0519-85195360"
+    },
+    {
+      "name": "海洋学院",
+      "url": "http://hyxy.hhu.edu.cn/",
+      "email": "hyxy@hhu.edu.cn",
+      "phone": "（025）83786641"
+    },
+    {
+      "name": "地理与遥感学院",
+      "url": "https://dlxy.hhu.edu.cn/",
+      "email": "dilixueyuan@hhu.edu.cn",
+      "phone": "025-52158923"
+    },
+    {
+      "name": "数学学院",
+      "url": "https://math.hhu.edu.cn/",
+      "email": "",
+      "phone": "025-58099160"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://ft.hhu.edu.cn/",
+      "email": "",
+      "phone": "0519-85195763"
+    },
+    {
+      "name": "卓越工程师学院",
+      "url": "https://zygcsxy.hhu.edu.cn/",
+      "email": "",
+      "phone": "025-83787521"
+    }
+  ],
+  "浙江工业大学": [
+    {
+      "name": "湖州德清莫干山国际地理信息学院",
+      "url": "https://www.zjut.edu.cn/2026/0723/c4662a338772/page.htm",
+      "email": "",
+      "phone": "0571-88320114; 000000041141"
+    }
+  ],
+  "浙江师范大学": [
+    {
+      "name": "心理学院",
+      "url": "http://xlxy.zjnu.edu.cn",
+      "email": "xlxy@zjnu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学学院",
+      "url": "http://sxxy.zjnu.edu.cn/",
+      "email": "sxxy@zjnu.edu.cn",
+      "phone": "0579-82298188"
+    },
+    {
+      "name": "计算机学院",
+      "url": "http://cs.zjnu.edu.cn",
+      "email": "jsjxy@zjnu.edu.cn",
+      "phone": "0579-82291988"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://smxy.zjnu.edu.cn",
+      "email": "smxy@zjnu.cn",
+      "phone": "0579-82282269"
+    },
+    {
+      "name": "杭州自动化学院",
+      "url": "https://autoai.zjnu.edu.cn/",
+      "email": "hzzdh@zjnu.edu.cn",
+      "phone": "0571-81952038"
+    }
+  ],
+  "海南大学": [
+    {
+      "name": "数学与统计学院",
+      "url": "http://sms.hainanu.edu.cn",
+      "email": "hdsxtj@hainanu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "http://spoe.hainanu.edu.cn",
+      "email": "wdxyzh@hainanu.edu.cn",
+      "phone": "0898-66279161"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://scce.hainanu.edu.cn",
+      "email": "hdhg@hainanu.edu.cn",
+      "phone": "0898-66255906; 0898-66256050; 0898-66279224"
+    },
+    {
+      "name": "生命健康学院",
+      "url": "http://slhs.hainanu.edu.cn",
+      "email": "hdsmkx@hainanu.edu.cn",
+      "phone": "0898-66253203（"
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://smee.hainanu.edu.cn",
+      "email": "",
+      "phone": "0898-66267576; 0898-66271526; 0898-66267372"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.hainanu.edu.cn",
+      "email": "clxyzhb@hainanu.edu.cn",
+      "phone": "0898-66251982（"
+    },
+    {
+      "name": "电子科学与技术学院",
+      "url": "https://hd.hainanu.edu.cn/dzkx/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息与通信工程学院",
+      "url": "http://sice.hainanu.edu.cn",
+      "email": "sice@hainan.edu.cn",
+      "phone": "0898-66279057"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://cs.hainanu.edu.cn",
+      "email": "cs@hainanu.edu.cn",
+      "phone": "0898-66278203"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://scs.hainanu.edu.cn/",
+      "email": "scscs@hainanu.edu.cn",
+      "phone": "0898-66259127; 0898-66257132"
+    },
+    {
+      "name": "土木建筑工程学院",
+      "url": "http://scea.hainanu.edu.cn",
+      "email": "",
+      "phone": "0898-66279232"
+    },
+    {
+      "name": "海洋技术与装备学院",
+      "url": "http://smse.hainanu.edu.cn/",
+      "email": "sheny2000@hainanu.edu.cn; 991302@hainanu.edu.cn",
+      "phone": "0898-66192572; 0898-66255276"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://sese.hainanu.edu.cn",
+      "email": "",
+      "phone": "0898-66255157"
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "https://hd.hainanu.edu.cn/shipin/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "海洋生物与水产学院",
+      "url": "http://smbf.hainanu.edu.cn",
+      "email": "xiesg@hainanu.edu.cn; 993928@hainanu.edu.cn; haiyyb@hainu.edu.cn",
+      "phone": "0898-66279184"
+    },
+    {
+      "name": "空天智能学院",
+      "url": "https://sai.hainanu.edu.cn/",
+      "email": "ktzn@hainanu.edu.cn",
+      "phone": "0898-66268297"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://sms.hainanu.edu.cn",
+      "email": "hdsxtj@hainanu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "http://spoe.hainanu.edu.cn",
+      "email": "wdxyzh@hainanu.edu.cn",
+      "phone": "0898-66279161"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://scce.hainanu.edu.cn",
+      "email": "hdhg@hainanu.edu.cn",
+      "phone": "0898-66255906; 0898-66256050; 0898-66279224"
+    },
+    {
+      "name": "生命健康学院",
+      "url": "http://slhs.hainanu.edu.cn",
+      "email": "hdsmkx@hainanu.edu.cn",
+      "phone": "0898-66253203（"
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://smee.hainanu.edu.cn",
+      "email": "",
+      "phone": "0898-66267576; 0898-66271526; 0898-66267372"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.hainanu.edu.cn",
+      "email": "clxyzhb@hainanu.edu.cn",
+      "phone": "0898-66251982（"
+    },
+    {
+      "name": "电子科学与技术学院",
+      "url": "https://hd.hainanu.edu.cn/dzkx/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息与通信工程学院",
+      "url": "http://sice.hainanu.edu.cn",
+      "email": "sice@hainan.edu.cn",
+      "phone": "0898-66279057"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://cs.hainanu.edu.cn",
+      "email": "cs@hainanu.edu.cn",
+      "phone": "0898-66278203"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "https://scs.hainanu.edu.cn/",
+      "email": "scscs@hainanu.edu.cn",
+      "phone": "0898-66259127; 0898-66257132"
+    },
+    {
+      "name": "土木建筑工程学院",
+      "url": "http://scea.hainanu.edu.cn",
+      "email": "",
+      "phone": "0898-66279232"
+    },
+    {
+      "name": "海洋技术与装备学院",
+      "url": "http://smse.hainanu.edu.cn/",
+      "email": "sheny2000@hainanu.edu.cn; 991302@hainanu.edu.cn",
+      "phone": "0898-66192572; 0898-66255276"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://sese.hainanu.edu.cn",
+      "email": "",
+      "phone": "0898-66255157"
+    },
+    {
+      "name": "食品科学与工程学院",
+      "url": "https://hd.hainanu.edu.cn/shipin/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "海洋生物与水产学院",
+      "url": "http://smbf.hainanu.edu.cn",
+      "email": "xiesg@hainanu.edu.cn; 993928@hainanu.edu.cn; haiyyb@hainu.edu.cn",
+      "phone": "0898-66279184"
+    },
+    {
+      "name": "空天智能学院",
+      "url": "https://sai.hainanu.edu.cn/",
+      "email": "ktzn@hainanu.edu.cn",
+      "phone": "0898-66268297"
+    }
+  ],
+  "深圳大学": [
+    {
+      "name": "心理学院",
+      "url": "http://psy.szu.edu.cn/",
+      "email": "psych@szu.edu.cn",
+      "phone": "075526917503"
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26534791"
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "http://cpoe.szu.edu.cn/",
+      "email": "cpoe@szu.edu.cn",
+      "phone": "0755-26538735"
+    },
+    {
+      "name": "化学与环境工程学院",
+      "url": "http://chem.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26536141"
+    },
+    {
+      "name": "生命与海洋科学学院",
+      "url": "http://bio.szu.edu.cn/",
+      "email": "szsky@szu.edu.cn",
+      "phone": "0755-86713951"
+    },
+    {
+      "name": "机电与控制工程学院",
+      "url": "http://cmce.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26536224"
+    },
+    {
+      "name": "材料学院",
+      "url": "http://cmse.szu.edu.cn/",
+      "email": "guoyanke@szu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "电子与信息工程学院",
+      "url": "http://ceie.szu.edu.cn/",
+      "email": "cie@szu.edu.cn",
+      "phone": "0755-26536198"
+    },
+    {
+      "name": "计算机与软件学院",
+      "url": "http://csse.szu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://ai.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26946884"
+    },
+    {
+      "name": "建筑与城市规划学院",
+      "url": "http://saup.szu.edu.cn/",
+      "email": "",
+      "phone": "(0755)26732877; (0755)26536114"
+    },
+    {
+      "name": "土木与交通工程学院",
+      "url": "http://ce.szu.edu.cn/",
+      "email": "",
+      "phone": "（0755）26735711"
+    },
+    {
+      "name": "心理学院",
+      "url": "http://psy.szu.edu.cn/",
+      "email": "psych@szu.edu.cn",
+      "phone": "075526917503"
+    },
+    {
+      "name": "数学科学学院",
+      "url": "http://math.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26534791"
+    },
+    {
+      "name": "物理与光电工程学院",
+      "url": "http://cpoe.szu.edu.cn/",
+      "email": "cpoe@szu.edu.cn",
+      "phone": "0755-26538735"
+    },
+    {
+      "name": "化学与环境工程学院",
+      "url": "http://chem.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26536141"
+    },
+    {
+      "name": "生命与海洋科学学院",
+      "url": "http://bio.szu.edu.cn/",
+      "email": "szsky@szu.edu.cn",
+      "phone": "0755-86713951"
+    },
+    {
+      "name": "机电与控制工程学院",
+      "url": "http://cmce.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26536224"
+    },
+    {
+      "name": "材料学院",
+      "url": "http://cmse.szu.edu.cn/",
+      "email": "guoyanke@szu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "电子与信息工程学院",
+      "url": "http://ceie.szu.edu.cn/",
+      "email": "cie@szu.edu.cn",
+      "phone": "0755-26536198"
+    },
+    {
+      "name": "计算机与软件学院",
+      "url": "http://csse.szu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://ai.szu.edu.cn/",
+      "email": "",
+      "phone": "0755-26946884"
+    },
+    {
+      "name": "建筑与城市规划学院",
+      "url": "http://saup.szu.edu.cn/",
+      "email": "",
+      "phone": "(0755)26732877; (0755)26536114"
+    },
+    {
+      "name": "土木与交通工程学院",
+      "url": "http://ce.szu.edu.cn/",
+      "email": "",
+      "phone": "（0755）26735711"
+    }
+  ],
+  "清华大学": [
+    {
+      "name": "建筑学院",
+      "url": "http://www.arch.tsinghua.edu.cn/",
+      "email": "jzxy@tsinghua.edu.cn",
+      "phone": "010-62783496"
+    },
+    {
+      "name": "土木水利学院",
+      "url": "http://www.civil.tsinghua.edu.cn/",
+      "email": "lib@mail.tsinghua.edu.cn; slxbgs@tsinghua.edu.cn",
+      "phone": "010-62793001"
+    },
+    {
+      "name": "环境学院",
+      "url": "http://www.env.tsinghua.edu.cn/",
+      "email": "hjx@tsinghua.edu.cn",
+      "phone": "+86-10-62784521"
+    },
+    {
+      "name": "车辆与运载学院",
+      "url": "http://www.svm.tsinghua.edu.cn/",
+      "email": "qcxbgs@tsinghua.edu.cn",
+      "phone": "010-62796167"
+    },
+    {
+      "name": "航天航空学院",
+      "url": "http://www.hy.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62782434"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://www.sic.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62789317"
+    },
+    {
+      "name": "网络科学与网络空间研究院",
+      "url": "http://www.insc.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62603012"
+    },
+    {
+      "name": "软件学院",
+      "url": "https://www.thss.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://collegeai.tsinghua.edu.cn/",
+      "email": "collegeai@mail.tsinghua.edu.cn",
+      "phone": "62788817"
+    },
+    {
+      "name": "材料学院",
+      "url": "http://www.mse.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62792520; 010-62783256; 010-62783850"
+    },
+    {
+      "name": "核能与新能源技术研究院",
+      "url": "http://www.inet.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "安全科学学院",
+      "url": "https://www.ssafs.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.tsinghua.edu.cn/",
+      "email": "admin-life@tsinghua.edu.cn",
+      "phone": "+86-10-62788604"
+    },
+    {
+      "name": "交叉信息研究院",
+      "url": "https://iiis.tsinghua.edu.cn/",
+      "email": "iiis@mail.tsinghua.edu.cn",
+      "phone": "010-62781693"
+    },
+    {
+      "name": "航空发动机研究院",
+      "url": "http://www.ae.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能产业研究院",
+      "url": "https://air.tsinghua.edu.cn/",
+      "email": "airoffice@air.tsinghua.edu.cn; airhr@air.tsinghua.edu.cn",
+      "phone": "(010)82151160"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://www.ngce.tsinghua.edu.cn/",
+      "email": "gcsxy@tsinghua.edu.cn",
+      "phone": "010-62793784"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://collegeai.tsinghua.edu.cn/",
+      "email": "collegeai@mail.tsinghua.edu.cn",
+      "phone": "62788817"
+    },
+    {
+      "name": "建筑学院",
+      "url": "http://www.arch.tsinghua.edu.cn/",
+      "email": "jzxy@tsinghua.edu.cn",
+      "phone": "010-62783496"
+    },
+    {
+      "name": "土木水利学院",
+      "url": "http://www.civil.tsinghua.edu.cn/",
+      "email": "lib@mail.tsinghua.edu.cn; slxbgs@tsinghua.edu.cn",
+      "phone": "010-62793001"
+    },
+    {
+      "name": "环境学院",
+      "url": "http://www.env.tsinghua.edu.cn/",
+      "email": "hjx@tsinghua.edu.cn",
+      "phone": "+86-10-62784521"
+    },
+    {
+      "name": "车辆与运载学院",
+      "url": "http://www.svm.tsinghua.edu.cn/",
+      "email": "qcxbgs@tsinghua.edu.cn",
+      "phone": "010-62796167"
+    },
+    {
+      "name": "航天航空学院",
+      "url": "http://www.hy.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62782434"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "http://www.sic.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62789317"
+    },
+    {
+      "name": "网络科学与网络空间研究院",
+      "url": "http://www.insc.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62603012"
+    },
+    {
+      "name": "软件学院",
+      "url": "https://www.thss.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://collegeai.tsinghua.edu.cn/",
+      "email": "collegeai@mail.tsinghua.edu.cn",
+      "phone": "62788817"
+    },
+    {
+      "name": "材料学院",
+      "url": "http://www.mse.tsinghua.edu.cn/",
+      "email": "",
+      "phone": "010-62792520; 010-62783256; 010-62783850"
+    },
+    {
+      "name": "核能与新能源技术研究院",
+      "url": "http://www.inet.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "安全科学学院",
+      "url": "https://www.ssafs.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.tsinghua.edu.cn/",
+      "email": "admin-life@tsinghua.edu.cn",
+      "phone": "+86-10-62788604"
+    },
+    {
+      "name": "交叉信息研究院",
+      "url": "https://iiis.tsinghua.edu.cn/",
+      "email": "iiis@mail.tsinghua.edu.cn",
+      "phone": "010-62781693"
+    },
+    {
+      "name": "航空发动机研究院",
+      "url": "http://www.ae.tsinghua.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能产业研究院",
+      "url": "https://air.tsinghua.edu.cn/",
+      "email": "airoffice@air.tsinghua.edu.cn; airhr@air.tsinghua.edu.cn",
+      "phone": "(010)82151160"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://www.ngce.tsinghua.edu.cn/",
+      "email": "gcsxy@tsinghua.edu.cn",
+      "phone": "010-62793784"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://collegeai.tsinghua.edu.cn/",
+      "email": "collegeai@mail.tsinghua.edu.cn",
+      "phone": "62788817"
+    }
+  ],
+  "湖南大学": [
+    {
+      "name": "国家卓越工程师学院",
+      "url": "http://ngcee.hnu.edu.cn/",
+      "email": "zgxy@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学学院",
+      "url": "http://math.hnu.edu.cn/",
+      "email": "xiaoban@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "物理与微电子科学学院",
+      "url": "http://spe.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88822332; 0731-88821986; 0731-88822627"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://cc.hnu.edu.cn/",
+      "email": "ccxzb@hnu.edu.cn",
+      "phone": "0731-88822286"
+    },
+    {
+      "name": "机械与运载工程学院",
+      "url": "http://mve.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88822825; 0731-88822826; 0731-88823120"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://clxy.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88821727"
+    },
+    {
+      "name": "电气与信息工程学院",
+      "url": "http://eeit.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88822224"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://cst.hnu.edu.cn/",
+      "email": "xiaoban@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "人工智能与机器人学院",
+      "url": "http://robotics.hnu.edu.cn/index.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与规划学院",
+      "url": "http://arch.hnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://ce.hnu.edu.cn",
+      "email": "hnuce@hnu.edu.cn",
+      "phone": "0731-88822610"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://ee.hnu.edu.cn/",
+      "email": "hgx@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://www.hnu.edu.cn/",
+      "email": "xiaoban@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "人工智能先进制造研究院",
+      "url": "https://ai.hnu.edu.cn/index.htm",
+      "email": "ai@hnu.edu.cn",
+      "phone": "88822024"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "http://ngcee.hnu.edu.cn/",
+      "email": "zgxy@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "数学学院",
+      "url": "http://math.hnu.edu.cn/",
+      "email": "xiaoban@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "物理与微电子科学学院",
+      "url": "http://spe.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88822332; 0731-88821986; 0731-88822627"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://cc.hnu.edu.cn/",
+      "email": "ccxzb@hnu.edu.cn",
+      "phone": "0731-88822286"
+    },
+    {
+      "name": "机械与运载工程学院",
+      "url": "http://mve.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88822825; 0731-88822826; 0731-88823120"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://clxy.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88821727"
+    },
+    {
+      "name": "电气与信息工程学院",
+      "url": "http://eeit.hnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88822224"
+    },
+    {
+      "name": "网络空间安全学院",
+      "url": "http://cst.hnu.edu.cn/",
+      "email": "xiaoban@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "人工智能与机器人学院",
+      "url": "http://robotics.hnu.edu.cn/index.htm",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与规划学院",
+      "url": "http://arch.hnu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://ce.hnu.edu.cn",
+      "email": "hnuce@hnu.edu.cn",
+      "phone": "0731-88822610"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://ee.hnu.edu.cn/",
+      "email": "hgx@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://www.hnu.edu.cn/",
+      "email": "xiaoban@hnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "人工智能先进制造研究院",
+      "url": "https://ai.hnu.edu.cn/index.htm",
+      "email": "ai@hnu.edu.cn",
+      "phone": "88822024"
+    }
+  ],
+  "湖南师范大学": [
+    {
+      "name": "地理科学学院",
+      "url": "http://dlkx.hunnu.edu.cn/",
+      "email": "zhxy@hunnu.edu.cn",
+      "phone": "0731-88872535"
+    },
+    {
+      "name": "国际汉语文化学院",
+      "url": "http://icclc.hunnu.edu.cn/",
+      "email": "icclc@hunnu.edu.cn",
+      "phone": "0731-88873017"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://hgxy.hunnu.edu.cn/",
+      "email": "",
+      "phone": "88872530"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://lifescience.hunnu.edu.cn/",
+      "email": "",
+      "phone": "18890054350); 0731-88872525"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://mc.hunnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88872515"
+    },
+    {
+      "name": "物理与电子科学学院",
+      "url": "http://wdy.hunnu.edu.cn",
+      "email": "wdy@hunnu.edu.cn",
+      "phone": "0731-88872520"
+    },
+    {
+      "name": "信息科学与工程学院",
+      "url": "http://cise.hunnu.edu.cn",
+      "email": "641381226@qq.com",
+      "phone": ""
+    },
+    {
+      "name": "地理科学学院",
+      "url": "http://dlkx.hunnu.edu.cn/",
+      "email": "zhxy@hunnu.edu.cn",
+      "phone": "0731-88872535"
+    },
+    {
+      "name": "国际汉语文化学院",
+      "url": "http://icclc.hunnu.edu.cn/",
+      "email": "icclc@hunnu.edu.cn",
+      "phone": "0731-88873017"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://hgxy.hunnu.edu.cn/",
+      "email": "",
+      "phone": "88872530"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://lifescience.hunnu.edu.cn/",
+      "email": "",
+      "phone": "18890054350); 0731-88872525"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://mc.hunnu.edu.cn/",
+      "email": "",
+      "phone": "0731-88872515"
+    },
+    {
+      "name": "物理与电子科学学院",
+      "url": "http://wdy.hunnu.edu.cn",
+      "email": "wdy@hunnu.edu.cn",
+      "phone": "0731-88872520"
+    },
+    {
+      "name": "信息科学与工程学院",
+      "url": "http://cise.hunnu.edu.cn",
+      "email": "641381226@qq.com",
+      "phone": ""
+    }
+  ],
+  "电子科技大学": [
+    {
+      "name": "信息与通信工程学院",
+      "url": "http://www.sice.uestc.edu.cn/",
+      "email": "xintong@uestc.edu.cn",
+      "phone": "028-61830156"
+    },
+    {
+      "name": "电子科学与工程学院",
+      "url": "http://www.ese.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料与能源学院",
+      "url": "http://materials.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械与电气工程学院",
+      "url": "http://www.smee.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "光电科学与工程学院",
+      "url": "http://sose.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "自动化工程学院",
+      "url": "http://www.auto.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "资源与环境学院",
+      "url": "http://www.sre.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "航空航天学院",
+      "url": "https://www.iaa.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学科学学院",
+      "url": "https://www.math.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "https://www.sp.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "https://www.life.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子科技大学（深圳）高等研究院",
+      "url": "https://sias.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://ngcee.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子科学技术研究院",
+      "url": "https://www.riest.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子科技大学广东电子信息工程研究院",
+      "url": "http://www.dgieie.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子科技大学成都研究院",
+      "url": "https://www.cdyjy.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "先进毫米波技术集成攻关研究院",
+      "url": "https://mmw.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "智能计算研究院",
+      "url": "https://icct.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子科技大学绛溪研究院",
+      "url": "https://jxyjy.uestc.edu.cn/",
+      "email": "",
+      "phone": "028-81366687"
+    },
+    {
+      "name": "电子科技大学宜宾研究院",
+      "url": "https://yb.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "电子科技大学重庆微电子产业技术研究院",
+      "url": "https://cq.uestc.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "福州大学": [
+    {
+      "name": "电气工程与自动化学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=dqxy&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "机械工程及自动化学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=jxxy&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=math&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化工学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=che&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "土木工程学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=civil&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "环境与安全工程学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=es&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生物科学与工程学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=bio&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机与大数据学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=ccds&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理与信息工程学院、微电子学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=wx&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "化学学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=chem&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑与城乡规划学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=jzxy&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "紫金地质与矿业学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zjxy&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=cl&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "先进制造学院与海洋学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=xjzz&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "梅努斯国际工程学院",
+      "url": "https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=miec&type=w",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://future.fzu.edu.cn/",
+      "email": "future@fzu.edu.cn",
+      "phone": "0591-22863835"
+    }
+  ],
+  "福建师范大学": [
+    {
+      "name": "心理学院",
+      "url": "http://psy.fjnu.edu.cn/",
+      "email": "",
+      "phone": "0591-22867861"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.fjnu.edu.cn/",
+      "email": "math@fjnu.edu.cn",
+      "phone": "0591-22868101"
+    },
+    {
+      "name": "物理与能源学院",
+      "url": "http://cpe.fjnu.edu.cn",
+      "email": "cpe@fjnu.edu.cn",
+      "phone": "0591-22868141"
+    },
+    {
+      "name": "光电与信息工程学院",
+      "url": "http://paee.fjnu.edu.cn",
+      "email": "",
+      "phone": "14985912275"
+    },
+    {
+      "name": "化学与材料学院",
+      "url": "http://chem.fjnu.edu.cn",
+      "email": "fjnuhuacai@fjnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://life.fjnu.edu.cn",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "苏州大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "https://scit.suda.edu.cn/",
+      "email": "",
+      "phone": "0512-67163260"
+    },
+    {
+      "name": "产业技术研究院",
+      "url": "https://indt.suda.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "西北工业大学": [
+    {
+      "name": "航空学院",
+      "url": "https://hangkong.nwpu.edu.cn/",
+      "email": "",
+      "phone": "029-88493671"
+    },
+    {
+      "name": "航天学院",
+      "url": "https://hangtian.nwpu.edu.cn/",
+      "email": "",
+      "phone": "029-88430053"
+    },
+    {
+      "name": "材料学院",
+      "url": "https://cailiao.nwpu.edu.cn/",
+      "email": "yuan4@nwpu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "力学与交通运载工程学院",
+      "url": "https://liuyuan.nwpu.edu.cn/",
+      "email": "smcea@nwpu.edu.cn",
+      "phone": "029-88431000"
+    },
+    {
+      "name": "动力与能源学院",
+      "url": "https://dongneng.nwpu.edu.cn/",
+      "email": "",
+      "phone": "029-88431112"
+    },
+    {
+      "name": "四川天府新区西工大先进动力研究院",
+      "url": "https://sichuan.nwpu.edu.cn",
+      "email": "apri@nwpu.edu.cn",
+      "phone": "028-81535846"
+    },
+    {
+      "name": "电子信息学院",
+      "url": "https://dianzi.nwpu.edu.cn/",
+      "email": "",
+      "phone": "029-88431206"
+    },
+    {
+      "name": "自动化学院",
+      "url": "https://zdhxy.nwpu.edu.cn/",
+      "email": "zdhxy@nwpu.edu.cn",
+      "phone": "029-88431389"
+    },
+    {
+      "name": "计算机学院",
+      "url": "https://jsj.nwpu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "https://math.nwpu.edu.cn/",
+      "email": "sxtj@nwpu.edu.cn",
+      "phone": "029-88431660"
+    },
+    {
+      "name": "物理科学与技术学院",
+      "url": "https://physics.nwpu.edu.cn/",
+      "email": "phys@nwpu.edu.cn",
+      "phone": "029-88431652"
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "https://huaxue.nwpu.edu.cn/",
+      "email": "hxyhg@nwpu.edu.cn",
+      "phone": "029-88431664"
+    },
+    {
+      "name": "软件学院",
+      "url": "https://ruanjian.nwpu.edu.cn/",
+      "email": "",
+      "phone": "029-88431588"
+    },
+    {
+      "name": "生命科学与技术学院",
+      "url": "https://life.nwpu.edu.cn",
+      "email": "",
+      "phone": "029-88430186"
+    },
+    {
+      "name": "网络空间安全学院/国家保密学院",
+      "url": "https://wlkjaqxy.nwpu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://soai.nwpu.edu.cn/",
+      "email": "soai@nwpu.edu.cn",
+      "phone": "029-88460895"
+    },
+    {
+      "name": "柔性电子学院",
+      "url": "https://sfe.nwpu.edu.cn/",
+      "email": "ife@nwpu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://eliteengineering.nwpu.edu.cn/",
+      "email": "npu_neie@nwpu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "西北工业大学伦敦玛丽女王大学工程学院",
+      "url": "https://qm.nwpu.edu.cn/",
+      "email": "",
+      "phone": "029-88431985"
+    }
+  ],
+  "西南交通大学": [
+    {
+      "name": "土木工程学院",
+      "url": "http://civil.swjtu.edu.cn/",
+      "email": "",
+      "phone": "028-87600559"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://sme.swjtu.edu.cn/",
+      "email": "jxkc@swjtu.cn; T02jxjj@swjtu.edu.cn",
+      "phone": "028-87600939"
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://dqxy.swjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息科学与技术学院",
+      "url": "http://sist.swjtu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机与人工智能学院",
+      "url": "https://scai.swjtu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "交通运输与物流学院",
+      "url": "http://ctt.swjtu.edu.cn/",
+      "email": "t13jyjj@swjtu.cn; jyjwsdsf@163.com",
+      "phone": "（028）66366165"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://clxy.swjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "地球科学与工程学院",
+      "url": "http://gsee.swjtu.edu.cn",
+      "email": "geos@swjtu.edu.cn",
+      "phone": "（028）66367614; +86-28-66367614"
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "https://ese.swjtu.edu.cn/",
+      "email": "ese@swjtu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "建筑学院",
+      "url": "http://jzxy.swjtu.edu.cn/",
+      "email": "",
+      "phone": "(028)66366683"
+    },
+    {
+      "name": "物理科学与技术学院",
+      "url": "http://phys.swjtu.edu.cn",
+      "email": "",
+      "phone": "010602000061"
+    },
+    {
+      "name": "生命科学与工程学院",
+      "url": "http://bioeng.swjtu.edu.cn/",
+      "email": "smxy@swjtu.edu.cn",
+      "phone": "028-66368122"
+    },
+    {
+      "name": "化学学院",
+      "url": "http://chem.swjtu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "力学与航空航天学院",
+      "url": "http://lixue.swjtu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学学院",
+      "url": "http://maths.swjtu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://ees.swjtu.edu.cn/index.htm",
+      "email": "",
+      "phone": "028-66368332; 010602000061"
+    },
+    {
+      "name": "人工智能研究院",
+      "url": "https://ai.swjtu.edu.cn",
+      "email": "ai@swjtu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "国际老龄科学研究院",
+      "url": "https://niia.swjtu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "前沿科学研究院",
+      "url": "https://ifst.swjtu.edu.cn/",
+      "email": "qyy@swjtu.edu.cn",
+      "phone": "028-87600317"
+    },
+    {
+      "name": "未来技术研究院",
+      "url": "https://ift.swjtu.edu.cn/",
+      "email": "ift@swjtu.edu.cn",
+      "phone": "028-87600903（; +86-28-87600903（; 028-87600903("
+    }
+  ],
+  "西南大学": [
+    {
+      "name": "国家治理学院",
+      "url": "http://gjzl.swu.edu.cn/",
+      "email": "xcb@swu.edu.cn",
+      "phone": "023-68252503--"
+    },
+    {
+      "name": "心理学部",
+      "url": "http://psy.swu.edu.cn/",
+      "email": "psych@swu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://chemistry.swu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理科学与技术学院",
+      "url": "http://physics.swu.edu.cn",
+      "email": "",
+      "phone": "023-68252355"
+    },
+    {
+      "name": "材料与能源学院",
+      "url": "http://fmae.swu.edu.cn",
+      "email": "swufme@swu.edu.cn",
+      "phone": "023-68254376"
+    },
+    {
+      "name": "资源环境学院",
+      "url": "http://zihuan.swu.edu.cn/",
+      "email": "",
+      "phone": "023-68251249"
+    },
+    {
+      "name": "地理科学学院",
+      "url": "http://geography.swu.edu.cn",
+      "email": "dlkxxy@swu.edu.cn",
+      "phone": "023-68253912"
+    },
+    {
+      "name": "工程技术学院",
+      "url": "http://gcjsxy.swu.edu.cn/",
+      "email": "",
+      "phone": "023-68251265"
+    },
+    {
+      "name": "食品科学学院",
+      "url": "http://spxy.swu.edu.cn",
+      "email": "shipinyb@swu.edu.cn",
+      "phone": "023-68251298"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.swu.edu.cn/",
+      "email": "tangyu@swu.edu.cn; wjj@swu.edu.cn",
+      "phone": "023-68252350"
+    },
+    {
+      "name": "计算机与信息科学学院 软件学院",
+      "url": "http://cis.swu.edu.cn",
+      "email": "",
+      "phone": "023-68252352"
+    },
+    {
+      "name": "电子信息工程学院",
+      "url": "http://ceie.swu.edu.cn",
+      "email": "cdli@swu.edu.cn; lihongyi2009@swu.edu.com; xl2009@swu.edu.cn",
+      "phone": "023-68250394"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://ai.swu.edu.cn",
+      "email": "aisj@swu.edu.cn; aiyz@swu.edu.cn; rgznjw@swu.edu.cn",
+      "phone": "023-68250153"
+    },
+    {
+      "name": "蚕桑纺织与生物质科学学院",
+      "url": "http://csfzswz.swu.edu.cn/",
+      "email": "yszhang@swu.edu.cn; fydai@swu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "动物科学技术学院",
+      "url": "http://dwkj.swu.edu.cn",
+      "email": "",
+      "phone": "023-46751588"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://smkxxy.swu.edu.cn/",
+      "email": "smkxxy@swu.edu.cn",
+      "phone": "023-68252365"
+    }
+  ],
+  "西安交通大学": [
+    {
+      "name": "数学学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026",
+      "email": "jy.sun@mail.xjtu.edu.cn; yanli@mail.xjtu.edu.cn; xjtumath@mail.xjtu.edu.cn",
+      "phone": "82668739; 82665132; 82668551"
+    },
+    {
+      "name": "物理学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2067",
+      "email": "honggao@xjtu.edu.cn; zy@xjtu.edu.cn; daiwang321321@xjtu.edu.cn",
+      "phone": "029-82668118; 029-82668019; 029-82669372"
+    },
+    {
+      "name": "化学学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2072",
+      "email": "dingsj@xjtu.edu.cn; zhichengzhang@xjtu.edu.cn; marf@xjtu.edu.cn",
+      "phone": "88965527; 88964734"
+    },
+    {
+      "name": "机械学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027",
+      "email": "yaguolei@mail.xjtu.edu.cn; huguo@xjtu.edu.cn; jxyb@xjtu.edu.cn",
+      "phone": "029-82668602"
+    },
+    {
+      "name": "电气学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028",
+      "email": "yangxu@mail.xjtu.edu.cn; dlliang@mail.xjtu.edu.cn; wangh@mail.xjtu.edu.cn",
+      "phone": "029-82665223; 029-82668523; 029-82668324"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2207",
+      "email": "rjs@mail.xjtu.edu.cn",
+      "phone": "82668672"
+    },
+    {
+      "name": "材料学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032",
+      "email": "dingxd@xjtu.edu.cn; gaohong@mail.xjtu.edu.cn; huanhuan@mail.xjtu.edu.cn",
+      "phone": "82667911; 82668915; 82668614"
+    },
+    {
+      "name": "生命学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034",
+      "email": "fengxu@xjtu.edu.cn; liuru@xjtu.edu.cn; slst@mail.xjtu.edu.cn",
+      "phone": "82665429; 82665626; 82669021"
+    },
+    {
+      "name": "航天学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035",
+      "email": "sshen@mail.xjtu.edu.cn; apzhang@xjtu.edu.cn",
+      "phone": "82668394; 82668750"
+    },
+    {
+      "name": "化工学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036",
+      "email": "guidongyang@mail.xjtu.edu.cn; jymiao@xjtu.edu.cn; scet@xjtu.edu.cn",
+      "phone": "88968362; 88968363; 88965843"
+    },
+    {
+      "name": "仪器科学与技术学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2217",
+      "email": "libozhao@xjtu.edu.cn; seanwei@xjtu.edu.cn; yqyb@xjtu.edu.cn",
+      "phone": "029-82663427"
+    },
+    {
+      "name": "未来技术学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2117",
+      "email": "xhw@xjtu.edu.cn",
+      "phone": "029-88963508"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2227",
+      "email": "yangqingyu@mail.xjtu.edu.cn",
+      "phone": ""
+    }
+  ],
+  "西安电子科技大学": [
+    {
+      "name": "科学研究院",
+      "url": "https://www.xidian.edu.cn/2016zhuzhanxin/kxyj.jsp?urltype=tree.TreeTempUrl&wbtreeid=1786#A",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "通信工程学院",
+      "url": "http://ste.xidian.edu.cn/",
+      "email": "",
+      "phone": "029-88204185; 019002002681"
+    },
+    {
+      "name": "电子工程学院",
+      "url": "https://see.xidian.edu.cn/",
+      "email": "",
+      "phone": "029-81891663; 029-88201703"
+    },
+    {
+      "name": "机电工程学院",
+      "url": "http://eme.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "光电工程学院",
+      "url": "https://soe.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "https://phy.xidian.edu.cn/",
+      "email": "phyjw@xidian.edu.cn",
+      "phone": "88202798; 81892402"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.xidian.edu.cn/",
+      "email": "math@xidian.edu.cn",
+      "phone": "029-81891379"
+    },
+    {
+      "name": "语言智能学部",
+      "url": "http://sfl.xidian.edu.cn/",
+      "email": "sfl@xidian.edu.cn; wangshuoyang@xidian.edu.cn",
+      "phone": "029-81891389; 029-81891027"
+    },
+    {
+      "name": "集成电路学部",
+      "url": "https://sme.xidian.edu.cn/index.html",
+      "email": "",
+      "phone": "029-81891633; 029-88201768"
+    },
+    {
+      "name": "集成电路学院",
+      "url": "https://jcdlyjy.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "生命科学技术学院",
+      "url": "http://life.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "空间科学与技术学院",
+      "url": "http://sast.xidian.edu.cn/",
+      "email": "",
+      "phone": "029-81891034"
+    },
+    {
+      "name": "先进材料与纳米科技学院",
+      "url": "http://amn.xidian.edu.cn/",
+      "email": "",
+      "phone": "029-81891149"
+    },
+    {
+      "name": "网络安全与密码学部",
+      "url": "https://ce.xidian.edu.cn/",
+      "email": "ce@xidian.edu.cn",
+      "phone": "029-81891873"
+    },
+    {
+      "name": "网络与信息安全学院",
+      "url": "http://ce.xidian.edu.cn/",
+      "email": "ce@xidian.edu.cn",
+      "phone": "029-81891873"
+    },
+    {
+      "name": "人工智能学院",
+      "url": "http://sai.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息力学与感知工程学院",
+      "url": "https://imse.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息交叉学部",
+      "url": "https://inforx.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "数学与交叉科学研究院",
+      "url": "https://imis.xidian.edu.cn/",
+      "email": "",
+      "phone": "029-81892653; 029-88201000"
+    },
+    {
+      "name": "信息感知集成攻关研究院",
+      "url": "https://iis.xidian.edu.cn/",
+      "email": "iis@xidian.edu.cn",
+      "phone": "029-88202868"
+    },
+    {
+      "name": "国家卓越工程师学院",
+      "url": "https://ncee.xidian.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "贵州大学": [
+    {
+      "name": "生命科学学院",
+      "url": "http://life.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-88420766（"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://math.gzu.edu.cn/",
+      "email": "msc@gzu.edu.cn",
+      "phone": "0851-83627662; 0851-83627557; 0851-83620186"
+    },
+    {
+      "name": "大数据与信息工程学院",
+      "url": "http://eie.gzu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "物理学院",
+      "url": "http://phy.gzu.edu.cn/",
+      "email": "phy@gzu.edu.cn",
+      "phone": "0851-88165475"
+    },
+    {
+      "name": "电气工程学院",
+      "url": "http://ee.gzu.edu.cn/",
+      "email": "ee@gzu.edu.cn",
+      "phone": "0851-83626560"
+    },
+    {
+      "name": "计算机科学与技术学院",
+      "url": "http://cs.gzu.edu.cn/",
+      "email": "",
+      "phone": "011102002224"
+    },
+    {
+      "name": "建筑与城市规划学院",
+      "url": "http://caup.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-83651562"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://mech.gzu.edu.cn/",
+      "email": "me@gzu.edu.cn",
+      "phone": "0851-83627516"
+    },
+    {
+      "name": "化学与化工学院",
+      "url": "http://cc.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-83625870; 0851-83635721"
+    },
+    {
+      "name": "土木工程学院",
+      "url": "http://ca.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-83866011"
+    },
+    {
+      "name": "资源与环境工程学院",
+      "url": "http://re.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-83627126"
+    },
+    {
+      "name": "材料与冶金学院",
+      "url": "http://mm.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-83627785"
+    },
+    {
+      "name": "矿业学院",
+      "url": "http://mnc.gzu.edu.cn/",
+      "email": "",
+      "phone": "0851-83627268"
+    },
+    {
+      "name": "动物科学学院",
+      "url": "http://as.gzu.edu.cn/",
+      "email": "cchen@gzu.edu.cn; chenganchun@vip.163.com",
+      "phone": "0851-88298005; 0851-88298003; 0851-88298109"
+    },
+    {
+      "name": "酿酒与食品工程学院",
+      "url": "http://lfe.gzu.edu.cn/",
+      "email": "bfe@gzu.edu.cn",
+      "phone": "0851-88236702"
+    },
+    {
+      "name": "北阿拉巴马国际工程技术学院",
+      "url": "http://naie.gzu.edu.cn/",
+      "email": "naie@gzu.edu.cn",
+      "phone": "0851-83854609"
+    }
+  ],
+  "重庆大学": [
+    {
+      "name": "理学部",
+      "url": "http://science.cqu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "工程学部",
+      "url": "http://www.fe.cqu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "建筑学部",
+      "url": "http://fbe.cqu.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "信息学部",
+      "url": "http://fis.cqu.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "长安大学": [
+    {
+      "name": "科学技术研究院",
+      "url": "https://kyy.chd.edu.cn/",
+      "email": "kyy@chd.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "机械工程与智能装备学院",
+      "url": "https://cmcs.chd.edu.cn/",
+      "email": "gcjxbgs@chd.edu.cn; gcjxjw@chd.edu.cn",
+      "phone": "029-82334483; 029-82334484; 029-82334366"
+    },
+    {
+      "name": "机器人与具身智能学院",
+      "url": "https://ec.chd.edu.cn/",
+      "email": "dkxbgs@chd.edu.cn; dkxyjw@chd.edu.cn",
+      "phone": "029-62630037"
+    },
+    {
+      "name": "信息工程学院",
+      "url": "https://it.chd.edu.cn/",
+      "email": "",
+      "phone": "01811391013; 01811326310; 01811217064"
+    },
+    {
+      "name": "地质工程与测绘学院",
+      "url": "https://dcxy.chd.edu.cn/",
+      "email": "dcxgb@chd.edu.cn",
+      "phone": "029-82339021"
+    },
+    {
+      "name": "地球科学与资源学院",
+      "url": "https://zyonline.chd.edu.cn/",
+      "email": "zyxybgs@chd.edu.cn",
+      "phone": "029-82339059"
+    },
+    {
+      "name": "土木工程与智能建造学院",
+      "url": "https://jzgc.chd.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "水利与环境学院",
+      "url": "https://esec.chd.edu.cn/",
+      "email": "hgyb@chd.edu.cn",
+      "phone": "029-82339952"
+    },
+    {
+      "name": "建筑学院",
+      "url": "https://jzx.chd.edu.cn/",
+      "email": "jzxybgs@chd.edu.cn",
+      "phone": "029-82337241"
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "https://clxy.chd.edu.cn/",
+      "email": "clbgs@chd.edu.cn; clxydw@chd.edu.cn",
+      "phone": "029-82337244（"
+    },
+    {
+      "name": "运输工程学院",
+      "url": "https://ysxy.chd.edu.cn/",
+      "email": "",
+      "phone": "029-82334050"
+    },
+    {
+      "name": "土地工程学院",
+      "url": "https://sle.chd.edu.cn/",
+      "email": "tdyb@chd.edu.cn",
+      "phone": "029-82335145"
+    },
+    {
+      "name": "能源与电气工程学院",
+      "url": "https://ndxy.chd.edu.cn/",
+      "email": "ndxybgs@chd.edu.cn",
+      "phone": "029-82335517"
+    },
+    {
+      "name": "理学院",
+      "url": "https://lxy.chd.edu.cn/",
+      "email": "",
+      "phone": "029-62805006"
+    },
+    {
+      "name": "长安都柏林国际交通学院",
+      "url": "https://cdic.chd.edu.cn",
+      "email": "cdic@chd.edu.cn",
+      "phone": "029-61106818; 029-61106816; 029-61106826"
+    },
+    {
+      "name": "未来交通学院",
+      "url": "https://wljtxy.chd.edu.cn/",
+      "email": "wljtxy@chd.edu.cn",
+      "phone": "029-61105325"
+    },
+    {
+      "name": "数据科学与人工智能研究院",
+      "url": "https://dsai.chd.edu.cn/",
+      "email": "",
+      "phone": "029-82334939"
+    }
+  ],
+  "陕西师范大学": [
+    {
+      "name": "心理学院",
+      "url": "http://psych.snnu.edu.cn/",
+      "email": "xlxy@snnu.edu.cn",
+      "phone": "029-85303236"
+    },
+    {
+      "name": "数学与统计学院",
+      "url": "http://maths.snnu.edu.cn/",
+      "email": "maths@snnu.edu.cn",
+      "phone": "029-85310232"
+    },
+    {
+      "name": "物理学与信息技术学院",
+      "url": "http://wuli.snnu.edu.cn/",
+      "email": "wlbg@snnu.edu.cn",
+      "phone": "029-81530750"
+    },
+    {
+      "name": "化学化工学院",
+      "url": "http://chem.snnu.edu.cn/",
+      "email": "chem@snnu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "材料科学与工程学院",
+      "url": "http://mse.snnu.edu.cn/",
+      "email": "clxy@snnu.edu.cn",
+      "phone": "029-81530709"
+    },
+    {
+      "name": "生命科学学院",
+      "url": "http://lifesci.snnu.edu.cn/",
+      "email": "",
+      "phone": "029-85310266"
+    },
+    {
+      "name": "地理科学与旅游学院",
+      "url": "http://geog.snnu.edu.cn/",
+      "email": "geog@snnu.edu.cn",
+      "phone": "052585310526"
+    },
+    {
+      "name": "人工智能与计算机学院",
+      "url": "http://ccs.snnu.edu.cn/",
+      "email": "",
+      "phone": "029-85310661"
+    },
+    {
+      "name": "国际汉语文化学院",
+      "url": "http://iscs.snnu.edu.cn/",
+      "email": "hxyuan@snnu.edu.cn",
+      "phone": "029-85307408"
+    },
+    {
+      "name": "食品工程与营养科学学院",
+      "url": "http://spgcx.snnu.edu.cn/",
+      "email": "spgcx@snnu.edu.cn",
+      "phone": "029-85310517"
+    }
+  ],
+  "青海大学": [
+    {
+      "name": "化工学院",
+      "url": "http://hgxy.qhu.edu.cn",
+      "email": "",
+      "phone": "0971-5310423"
+    },
+    {
+      "name": "机械工程学院",
+      "url": "http://jxxy.qhu.edu.cn/",
+      "email": "",
+      "phone": "0971-5310440"
+    },
+    {
+      "name": "能源与电气工程学院",
+      "url": "https://seee.qhu.edu.cn",
+      "email": "seee@qhu.edu.cn",
+      "phone": "010502000029"
+    },
+    {
+      "name": "土木水利学院",
+      "url": "https://tsxy.qhu.edu.cn/",
+      "email": "",
+      "phone": "010502000029"
+    },
+    {
+      "name": "生态环境工程学院",
+      "url": "http://stxy.qhu.edu.cn/",
+      "email": "qhustxy@163.com",
+      "phone": "0971-5310086"
+    },
+    {
+      "name": "地质工程学院",
+      "url": "http://dzgc.qhu.edu.cn",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "计算机技术与应用学院",
+      "url": "http://cs.qhu.edu.cn/",
+      "email": "qhujsjx@163.com",
+      "phone": "0971-5315609"
+    },
+    {
+      "name": "数理学院",
+      "url": "https://slxy.qhu.edu.cn",
+      "email": "",
+      "phone": "09002810504"
+    }
+  ]
+}

@@ -16,7 +16,7 @@
     --c985: #dc2626;
     --c211: #ea580c;
     --cfirst: #16a34a;
-    --cnon: #64748b;
+    --csr: #7c3aed;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -143,6 +143,19 @@
   .dept-block .contact b { color: var(--muted); font-weight: 500; }
   .dept-block .null-tag { font-size: 12px; color: #9ca3af; font-style: italic; }
 
+  /* 理工学院区块 */
+  .college-block { margin-top: 8px; border-top: 1px dashed var(--border); padding-top: 8px; }
+  .college-block h4 { font-size: 13px; color: #7c3aed; margin-bottom: 4px; display: flex; align-items: center; gap: 6px; }
+  .college-block .cnt { font-size: 11px; color: #7c3aed; background: #f3eefe; padding: 1px 7px; border-radius: 9px; }
+  .college-item { padding: 6px 8px; background: #faf8ff; border-radius: 8px; margin: 5px 0; border: 1px solid #efe9fd; }
+  .college-item .cname { font-weight: 600; font-size: 12.5px; }
+  .college-item .curl { font-size: 12px; word-break: break-all; margin: 2px 0; }
+  .college-item .curl a { color: #7c3aed; text-decoration: none; }
+  .college-item .curl a:hover { text-decoration: underline; }
+  .college-item .ccontact { font-size: 12px; color: #374151; word-break: break-all; margin-top: 2px; }
+  .college-item .ccontact b { color: var(--muted); font-weight: 500; }
+  .college-block .null-tag { font-size: 12px; color: #9ca3af; font-style: italic; }
+
   .legend {
     position: absolute; bottom: 20px; left: 16px;
     background: rgba(255,255,255,.95); border-radius: 8px;
@@ -193,7 +206,7 @@
     <span class="tab" data-t="985">985</span>
     <span class="tab" data-t="211">211</span>
     <span class="tab" data-t="双一流">双一流</span>
-    <span class="tab" data-t="双非">双非</span>
+    <span class="tab" data-t="软科top150">软科top150</span>
   </div>
   <div class="prov-group" id="prov-tabs">
     <span class="group-label">省份</span>
@@ -220,23 +233,25 @@
       <div class="row"><span class="k">主管</span><span id="d-dept"></span></div>
       <div class="row"><span class="k">官网</span><span id="d-web"></span></div>
       <div id="d-depts"></div>
+      <div id="d-colleges"></div>
     </div>
     <div class="legend">
       <div class="item"><span class="dot" style="background:var(--c985)"></span> 985</div>
       <div class="item"><span class="dot" style="background:var(--c211)"></span> 211</div>
       <div class="item"><span class="dot" style="background:var(--cfirst)"></span> 双一流</div>
-      <div class="item"><span class="dot" style="background:var(--cnon)"></span> 双非</div>
+      <div class="item"><span class="dot" style="background:var(--csr)"></span> 软科top150</div>
     </div>
   </div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-const TIER_COLOR = { '985': '#dc2626', '211': '#ea580c', '双一流': '#16a34a', '双非': '#64748b' };
+const TIER_COLOR = { '985': '#dc2626', '211': '#ea580c', '双一流': '#16a34a', '软科top150': '#7c3aed' };
 const DEPT_LABEL = { 'career': '就业中心', 'grad': '研究生院', 'intl': '国际处' };
 const DEPT_ORDER = ['career', 'grad', 'intl'];
 
 let ALL = [];
+let COLLEGES = {};
 let currentFilter = { p: 'all', t: null };
 let searchText = '';
 let markers = {};
@@ -373,6 +388,26 @@ function renderDepts(u) {
   el.innerHTML = html;
 }
 
+function renderColleges(u) {
+  const el = document.getElementById('d-colleges');
+  const list = COLLEGES[u.name] || [];
+  if (!list.length) {
+    el.innerHTML = '<div class="college-block"><h4>理工学院</h4><div class="null-tag">未抓取到理工学院数据</div></div>';
+    return;
+  }
+  let html = `<div class="college-block"><h4>理工学院<span class="cnt">${list.length}</span></h4>`;
+  list.forEach(c => {
+    html += `<div class="college-item">`;
+    html += `<div class="cname">${c.name}</div>`;
+    if (c.url) html += `<div class="curl"><a href="${c.url}" target="_blank" rel="noopener noreferrer">${c.url}</a></div>`;
+    if (c.email) html += `<div class="ccontact"><b>邮箱：</b>${c.email}</div>`;
+    if (c.phone) html += `<div class="ccontact"><b>电话：</b>${c.phone}</div>`;
+    html += `</div>`;
+  });
+  html += '</div>';
+  el.innerHTML = html;
+}
+
 function applyFilter() {
   let data = ALL;
   if (currentFilter.p !== 'all') data = data.filter(u => u.province === currentFilter.p);
@@ -409,14 +444,14 @@ function fitBounds(data) {
 }
 
 function updateStat(data) {
-  const counts = { '985': 0, '211': 0, '双一流': 0, '双非': 0 };
+  const counts = { '985': 0, '211': 0, '双一流': 0, '软科top150': 0 };
   data.forEach(u => counts[u.tier]++);
   document.getElementById('stat').innerHTML =
     `共 <b>${data.length}</b> 所 ` +
     `<span style="color:var(--c985)">985 ×${counts['985']}</span> ` +
     `<span style="color:var(--c211)">211 ×${counts['211']}</span> ` +
     `<span style="color:var(--cfirst)">双一流 ×${counts['双一流']}</span> ` +
-    `<span style="color:var(--cnon)">双非 ×${counts['双非']}</span>`;
+    `<span style="color:var(--csr)">软科top150 ×${counts['软科top150']}</span>`;
 }
 
 function selectUniv(u) {
@@ -442,6 +477,7 @@ function selectUniv(u) {
     webEl.innerHTML = '-';
   }
   renderDepts(u);
+  renderColleges(u);
   document.getElementById('detail').classList.add('show');
   if (u.lat != null && u.lon != null) map.setView([u.lat, u.lon], Math.max(map.getZoom(), 12));
 }
@@ -477,6 +513,12 @@ fetch('dataset/index.json')
   .catch(err => {
     document.getElementById('list').innerHTML = '<div class="empty">数据加载失败：' + err.message + '</div>';
   });
+
+// 理工学院数据（点击学校后展示）
+fetch('dataset/colleges.json')
+  .then(r => r.json())
+  .then(d => { COLLEGES = d; })
+  .catch(() => {});
 
 // 更新标注：读取 update_meta.json，计算相对时间（日/月），近期更新则显示 new!
 function relativeTime(lastStr) {
