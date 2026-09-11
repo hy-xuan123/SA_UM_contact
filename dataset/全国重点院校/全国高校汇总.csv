@@ -1,447 +1,1898 @@
-﻿序号,省份,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-领导及邮箱,国际处-电话,备注
-1,广东省,中山大学,广州市,985,公办,11,http://career.sysu.edu.cn/,中山大学就业（sysucareer）,,020-84111150; 020-84111791,https://graduate.sysu.edu.cn/,公众号二维码: qrcodes\中山大学_grad.jpg,yyzhc@mail.sysu.edu.cn,020-84111685; 020-84111686; 020-84113696,http://eao.sysu.edu.cn/,,xujy3@mail.sysu.edu.cn; hanying6@mail.sysu.edu.cn; liuweiw9@mail.sysu.edu.cn,,,
-2,广东省,华南理工大学,广州市,985,公办,30,,,,,http://www.scut.edu.cn/graduate/,,,,https://www2.scut.edu.cn/io/,,HKMT@scut.edu.cn,,,
-3,广东省,中山大学深圳校区,深圳市,985,公办,11,http://career.sysu.edu.cn/,中山大学就业（sysucareer）,,020-84111150; 020-84111791,https://graduate.sysu.edu.cn/,公众号二维码: qrcodes\中山大学深圳校区_grad.jpg,,,https://eao.sysu.edu.cn/,,,,,
-4,广东省,北京大学深圳研究生院,深圳市,985,公办,2,,,,,https://admission.pkusz.edu.cn/index.html,,,,https://hmt.pku.edu.cn/,,its@pkusz.edu.cn,,030502008554,
-5,广东省,哈尔滨工业大学（深圳）,深圳市,985,公办,14,https://job.hitsz.edu.cn/zhxy-szxszyfzpt/,,,,https://yzb.hitsz.edu.cn/zs,,,,https://www.hitsz.edu.cn/25/list.htm,,,"张国宏 副书记（负责校区党建、组织、统战、工会、宣传、文化建设、意识形态、校史、）（邮箱未公开）
-戴纪锋 副书记（主持校区纪委全面工作）（邮箱未公开）
-聘校长 助理（负责校区校地合作、智库、非涉密科研、发展改革与规划工作）（邮箱未公开）
-梁大鹏 助理（负责校区人事、财务、继续教育、档案工作）（邮箱未公开）
-俞晓国 助理（负责校区学生、共青团、招生、就业、资产、基建、招标采购、网络安全）（邮箱未公开）
-黄中 书记（校区党委全面工作，）（邮箱未公开）
-戴纪锋 书记（校区纪委全面工作，负责纪检监察、内部巡察工作，分管纪检监察）（邮箱未公开）",0755-26033876,
-6,广东省,清华大学深圳国际研究生院,深圳市,985,公办,1,https://www.sigs.tsinghua.edu.cn/7631/list.htm,,zhaosheng@sz.tsinghua.edu.cn,0755-26036460; 0755-26924345; 0755-86543994,https://www.sigs.tsinghua.edu.cn/7646/list.htm,,,,https://www.sigs.tsinghua.edu.cn/7666/list.htm,,,"党委副 副院长（邮箱未公开）
-寄语关 院长（邮箱未公开）
-左剑恶 副院长（邮箱未公开）",,
-7,广东省,北京师范大学珠海校区,珠海市,985,公办,19,https://career.bnuzh.edu.cn/,,jiuye@bnu.edu.cn; jyjdzh@bnu.edu.cn,0756-3683696; 0756-3621018; 0756-3683772,,,,,https://io.bnuzh.edu.cn/index.htm,,,,0756-3621079,
-8,广东省,华南师范大学,广州市,211,公办,70,https://www.scnu.edu.cn/a/20151026/34.html,,,,http://yz.scnu.edu.cn/,,,020-85213863,http://io.scnu.edu.cn/,,wsh3@scnu.edu.cn; wsh4@scnu.edu.cn; wsh9@scnu.edu.cn,,,
-9,广东省,暨南大学,广州市,211,公办,55,https://scdc.jnu.edu.cn/,暨大就业公众号,ojy-jnu@163.com,020-85226956,https://yz.jnu.edu.cn,,oyzb@jnu.edu.cn,,https://wsc.jnu.edu.cn/,,international@jnu.edu.cn,何睿弘 副处长（负责国际交流与合作工作）: truihong@jnu.edu.cn,,
-10,广东省,华南农业大学,广州市,双一流,公办,94,http://jyzx.scau.edu.cn/,,,,https://yjsy.scau.edu.cn/,,,020-85280065; 020-85280066; 020-85280067,http://fao.scau.edu.cn/,,,"刘傲冬 副处长（负责外事接待、资产、档案、离退休、工会等工作；分管综合业务和港澳）（邮箱未公开）
-肖豫涵 副处长（负责涉外项目管理）（邮箱未公开）",,
-11,广东省,广州中医药大学,广州市,双一流,公办,242,https://www.gzucm.edu.cn/zsjy/zs.htm,,xiaozhangxx@gzucm.edu.cn,,https://www.gzucm.edu.cn/jyjx/yjsjy.htm,,,,https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm,,xiaozhangxx@gzucm.edu.cn,,,
-12,广东省,广州医科大学,广州市,双一流,公办,221,https://zs.gzhmu.edu.cn/bkzn/zsdt.htm,广州医科大学本科招生微信公众号,,,https://yjs.gzhmu.edu.cn/,,,,https://fao.gzhmu.edu.cn/,,,,,
-13,广东省,南方科技大学,深圳市,双一流,公办,32,http://career.sustech.edu.cn/,,jobs@sustech.edu.cn,0755-88010732,https://gs.sustech.edu.cn/#/admission/,,,,https://global.sustech.edu.cn/,南方科技大学国际合作部暨港澳台办公室微信公众号,global@sustech.edu.cn,"等研究 院长（负责人林间院士率队访问汤加王国与斐济共和国）（邮箱未公开）
-事务的 副院长（负责人）（邮箱未公开）",,
-14,广东省,东莞理工学院,东莞市,双非,公办,258,http://job.dgut.edu.cn/,广东大学生就业创业小程序,jiuye@dgut.edu.cn,0769-22861918,https://yjs.dgut.edu.cn/,,,,http://www.dgut.edu.cn/info/1019/94112.htm,,,,,
-15,广东省,大湾区大学,东莞市,双非,公办,,,,,,https://www.gbu.edu.cn/educational_teaching.html#yjsjy,公众号二维码（未获取图片）,,,,,,,,
-16,广东省,香港城市大学（东莞）,东莞市,双非,中外合作办学,63（QS）,,,,,,,,,,,,,,
-17,广东省,佛山大学,佛山市,双非,公办,271,,,,,https://www.fosu.edu.cn/yanjiusheng/,,fosuyzb@fosu.edu.cn,0757-82771159,,,,,,
-18,广东省,顺德职业技术大学,佛山市,双非,公办,,https://jy.sdpt.edu.cn/,,1617576514@qq.com,0757-22323795; 0757-22323796; 0757-22323760,,,,,https://www.sdpt.edu.cn/jlhz1/gjhz.htm,,,,0757-22329901; 0757-22327209; 060602001413,
-19,广东省,仲恺农业工程学院,广州市,双非,公办,265,http://www.zhku.edu.cn/zsjy.htm,,,020-89003030,http://yjs.zhku.edu.cn/,,,020-89002097,http://waishi.zhku.edu.cn/,,international@zhku.edu.cn,,020-89003275,
-20,广东省,南方医科大学,广州市,双非,公办,,http://fimmu.jobsys.cn/unijob/index.php/web/index/index,,nydjyzdzx@126.com,020-31044165; 020-61648500; 020-61648657,http://yjs.smu.edu.cn,,,,http://portal.smu.edu.cn/wsc/,,403928103@qq.com,,61648027,
-21,广东省,广东外语外贸大学,广州市,双非,公办,124,https://career.gdufs.edu.cn/,,36207021@163.com; 39328007@163.com,020-36207021; 020-39328007,http://gwyjs.gdufs.edu.cn/,,,,https://internationaloffice.gdufs.edu.cn/,,,,,
-22,广东省,广东工业大学,广州市,双非,公办,85,https://career.gdut.edu.cn,,gdutjob@126.com,020-39322210,https://yjs.gdut.edu.cn,,,,https://wsc.gdut.edu.cn/index.htm,,,,14655015124,
-23,广东省,广东技术师范大学,广州市,双非,公办,229,https://www.gpnu.edu.cn/zsjy.htm,,jysf@gpnu.edu.cn,020-38256601; 020-89285371,https://yjsc.gpnu.edu.cn/info/1443/6179.htm,,gsyjsc@gpnu.edu.cn,,http://oice.gpnu.edu.cn/,,,,16112376637,
-24,广东省,广东第二师范学院,广州市,双非,公办,461,,,,,,,,,,,,,,官网不可达：全部方式失败
-25,广东省,广东药科大学,广州市,双非,公办,317,http://www.gdpu.edu.cn/zsyjy/yjszs.htm,,,,https://yjsxy.gdpu.edu.cn/,公众号二维码: qrcodes\广东药科大学_grad.jpg,yjsc@gdpu.edu.cn,020-39352613,https://gjjlhzc.gdpu.edu.cn/lxgyd/gatzs.htm,,,,,
-26,广东省,广东警官学院,广州市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
-27,广东省,广东财经大学,广州市,双非,公办,188,http://www.gdufe.edu.cn/11032/list.htm,,,,http://yjsc.gdufe.edu.cn,,,,http://fao.gdufe.edu.cn/,,fao3@gdufe.edu.cn,,,
-28,广东省,广东轻工职业技术大学,广州市,双非,公办,,https://jy.gdipu.edu.cn,,1181877691@qq.com; gqjyb@gdip.edu.cn,020-61230822; 0757-88576223,,,,,http://www.gdqy.edu.cn/gjjl_gat_.htm,,,,020-61230200,
-29,广东省,广东金融学院,广州市,双非,公办,,https://jy.gduf.edu.cn/unijob/index.php/web/Index/index,,gdufjy@163.com,020-87053902,https://yjs.gduf.edu.cn/,,,,http://www.gduf.edu.cn/hzjl/gjjl.htm,,,,010602001127,
-30,广东省,广州体育学院,广州市,双非,公办,未上榜/独立榜,http://www.gzsport.edu.cn:80/node/104,,,020-38024301; 020-38025613; 020-38024685,,,,,https://fao.gzsport.edu.cn/,,,,,
-31,广东省,广州大学,广州市,双非,公办,105,http://www.gzhu.edu.cn/zsjy1.htm,,webmaster@gzhu.edu.cn,,http://yjsy.gzhu.edu.cn/,,yjsy@gzhu.edu.cn,020-39366238; 020-39366199,http://wsc.gzhu.edu.cn/,,,,,
-32,广东省,广州美术学院,广州市,双非,公办,未上榜/独立榜,http://www.gzarts.edu.cn/index/zsjy/zsxx.htm,,,,http://yjs.gzarts.edu.cn,,,,http://wsc.gzarts.edu.cn/,,wsc@gzarts.edu.cn,,,
-33,广东省,广州职业技术大学,广州市,双非,公办,,http://www.gzpyp.edu.cn/zsjy,,gzpyp@gzpyp.edu.cn,020-84736666; 020-34874086,,,,,,,,,,
-34,广东省,广州航海学院,广州市,双非,公办,448,http://www.gzmtu.edu.cn/zsjy.htm,,,020-32083010,,,,,https://gjjlxy.gzmtu.edu.cn/gjjl.htm,,gjjlsh@gzmtu.edu.cn,,020-82003167,
-35,广东省,星海音乐学院,广州市,双非,公办,未上榜/独立榜,https://xsjy.xhcom.edu.cn/,,,,https://zs.xhcom.edu.cn/yjszs.htm,,,020-39363636,http://gjjy.xhcom.edu.cn/,,icxhcm_xf@163.com,,,
-36,广东省,香港科技大学（广州）,广州市,双非,中外合作办学,44（QS）,,,,,https://fytgs.hkust-gz.edu.cn/,,,,https://global.hkust-gz.edu.cn/,,,,020-88331234; 011502001012; 13800000000,
-37,广东省,惠州学院,惠州市,双非,公办,329,http://www.hzu.edu.cn/543/list.htm,,,0752-2527099,http://www.hzu.edu.cn/yjszs/list.htm,,,0752-2529000,https://fao.hzu.edu.cn/gatsw/list.htm,,fao@hzu.edu.cn,,0752-2529210,
-38,广东省,嘉应学院,梅州市,双非,公办,421,https://jyzx.jyu.edu.cn/,,jygz@jyu.edu.cn,0753-2186665,https://yjs.jyu.edu.cn/,,jyuyjs@jyu.edu.cn,0753-2188296,https://waishi.jyu.edu.cn/,,fao@jyu.edu.cn,,0753-2186662; 0753-2363398,
-39,广东省,广东以色列理工学院,汕头市,双非,中外合作办学,392（QS）,,,,,https://sites.gtiit.edu.cn/research/graduate-studies/,,,,https://www.gtiit.edu.cn/student-china.aspx,,,,0754-88077088,
-40,广东省,汕头大学,汕头市,双非,公办,,https://gdc.stu.edu.cn/,,job@stu.edu.cn,0754-86502252; 0754-82522372,https://www.gs.stu.edu.cn/,,o_yzb@stu.edu.cn; o_pyb@stu.edu.cn; o_yjsgzb@stu.edu.cn,0754-86502424; 0754-86504743; 0754-86504000,https://icd.stu.edu.cn/,,icd@stu.edu.cn,,0754-86502316; 0754-86502131,
-41,广东省,五邑大学,江门市,双非,公办,236,https://career.wyu.edu.cn,,wyujob@163.com,0750-3296252,http://www.wyu.edu.cn/yjscx,,,,http://www.wyu.edu.cn/wsc/,,wyufao@wyu.edu.cn,,0750-3296188,
-42,广东省,深圳信息职业技术大学,深圳市,双非,公办,,http://career.sziit.edu.cn/,,,0755-89226738; 0755-89226367,,,,,https://www.suit-sz.edu.cn/hzjl/gjjlyhz.htm,,,,0755-89226555,
-43,广东省,深圳北理莫斯科大学,深圳市,双非,中外合作办学,94（QS）,https://admission.smbu.edu.cn/,,admission@smbu.edu.cn,0755-28323360; 0755-28323398,https://gradadmissions.smbu.edu.cn/,,,,http://www.smbu.edu.cn/gjjl/gjjl.htm,,info@smbu.edu.cn,,0755-28323024,
-44,广东省,深圳大学,深圳市,双非,公办,68,https://jobszu.jysd.com/,,szjobcenter@163.com,0755-26536106; 0755-26535652; 0755-86931632,http://gra.szu.edu.cn/,,gra@szu.edu.cn,0755-26536177,https://hmt.szu.edu.cn/,,,,0755-26536114,
-45,广东省,深圳技术大学,深圳市,双非,公办,未上榜/独立榜,https://www.sztu.edu.cn/zsjy.htm,,,0755-23256054; 0755-23256666,https://gra.sztu.edu.cn/zsxx/zsz.htm,,,,https://www.sztu.edu.cn/dwjl.htm,,,,0755-23256054; 0755-23256666,
-46,广东省,深圳理工大学,深圳市,双非,公办,未上榜/独立榜,https://www.suat-sz.edu.cn/zsjy.htm,,foreign-affairs@siat.ac.cn,,https://www.suat-sz.edu.cn/yjy/ylqxcyjsyjy.htm,,office@suat-sz.edu.cn,,https://www.suat-sz.edu.cn/gjhz.htm,,office@suat-sz.edu.cn,,030002008114,
-47,广东省,深圳职业技术大学,深圳市,双非,公办,,https://www.szpu.edu.cn/zsjy.htm,,,,,,,,https://fao.szpu.edu.cn/,,zougeng@szpu.edu.cn; caidj@szpu.edu.cn; jingyixia@szpu.edu.cn,,0755-26011478; 0755-26018134; 0755-26019693,
-48,广东省,香港中文大学（深圳）,深圳市,双非,中外合作办学,32（QS）,https://career.cuhk.edu.cn/,,CareerService@cuhk.edu.cn,0755-23515888,https://gs.cuhk.edu.cn/,,,,,,,,,
-49,广东省,岭南师范学院,湛江市,双非,公办,384,http://www.lingnan.edu.cn/zsjy.htm,,,0759-3183226,https://d.lingnan.edu.cn/yjsc/,,lnsfyz@lingnan.edu.cn,0759-3183072,http://d.lingnan.edu.cn/gjc/,,,,,
-50,广东省,广东医科大学,湛江市,双非,公办,,https://www.gdmu.edu.cn/zsjy/zsxx1.htm,,,0769-22896175,http://yjsxy.gdmu.edu.cn/,,,,,,,,,
-51,广东省,广东海洋大学,湛江市,双非,公办,292,https://www.gdou.edu.cn/zjzx/,,,,https://grs.gdou.edu.cn/,,Yjs@gdou.edu.cn,0759-2396185,https://iod.gdou.edu.cn/,,,,0759-2396202,
-52,广东省,韩山师范学院,潮州市,双非,公办,415,https://jyb.hstc.edu.cn/,,,,,,,,https://wsb.hstc.edu.cn/,,,,,
-53,广东省,北京师范大学－香港浸会大联合国际学院,珠海市,双非,内地与港澳台合作办学,244（QS）,https://www.uic.edu.cn/admissions_and_placement.htm,,,0756-3620000,https://www.uic.edu.cn/faculties_and_schools.htm,,,0756-3620000,http://admission.bnbu.edu.cn/gatq/twxcsqz.htm,,bnbuhko@hkbu.edu.hk,,,
-54,广东省,肇庆医学院,肇庆市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
-55,广东省,肇庆学院,肇庆市,双非,公办,346,https://jyzd.zqu.edu.cn,,,0758-2716242,https://yjsc.zqu.edu.cn/,,zquyzb@zqu.edu.cn; yjsy@zqu.edu.cn,0758-2716770,https://wsc.zqu.edu.cn/,,global3@zqu.edu.cn,,,
-56,广东省,广东石油化工学院,茂名市,双非,公办,428,http://xueshengchu.gdupt.edu.cn,,,,http://www.gdupt.edu.cn/jgsz/dzgljg1/fzghb_yjsb_.htm,,,0668-2923508; 0668-2923758,https://site.gdupt.edu.cn/oiec/,,,,,
-57,广东省,韶关学院,韶关市,双非,公办,405,http://www.sgu.edu.cn/zsxxw,,,0751-8120066,http://www.sgu.edu.cn/yjsb,,,0751-8120049,http://www.sgu.edu.cn/dwjlhzb,,,,0751-8121371; 0751-8121661; 0751-8120781,
-58,吉林省,吉林大学,长春市,985,公办,26,http://www.jlu.edu.cn/zsjy.htm,,,0431-85166420; 0431-85166226; 0431-85166371,http://yjsy.jlu.edu.cn/,,yzhc@jlu.edu.cn,0431-85166175,https://oic.jlu.edu.cn/,,OGE@jlu.edu.cn,"主任兼 副处长（职责： 分管外国专家工作、综合与信息管理科工作）: li_yun@jlu.edu.cn
-目管理 科长（职责：负责交流与学生项目管理科全面工作）: liushuang524@jlu.edu.cn
-专家 科长（职责：负责专家科全面工作）: qucz@jlu.edu.cn
-派出 科长（职责: 负责派出科整体工作）: nianxueni@jlu.edu.cn
-作办学 科长（职责：负责合作办学科全面工作）: renxiuyu@jlu.edu.cn
-港澳台 科长（职责：负责港澳台科全面工作）: hsf@jlu.edu.cn
-息管理 科长（职责：负责综合与信息管理科全面工作）: lichunyi@jlu.edu.cn",0431-85166657,
-59,吉林省,延边大学,延边朝鲜族自治州,211,公办,132,http://www.ybu.edu.cn/zsjy_1.htm,,xcb@ybu.edu.cn,,https://grad.ybu.edu.cn/,,,0433-2732079,http://international.ybu.edu.cn/,,ied@ybu.edu.cn,,,
-60,吉林省,东北师范大学,长春市,211,公办,45,http://www.nenu.edu.cn/zsjy/xsjy.htm,,dsxxw@nenu.edu.cn,,http://www.nenu.edu.cn/jyjx/yjsjy.htm,,dsxxw@nenu.edu.cn,,http://oice.nenu.edu.cn/,,,"李阳光 处长（主持国际合作与交流处、港澳台事务办公室工作）: liyg658@nenu.edu.cn
-汪晓波 副处长（分管合作科、汉语推广办公室）: wangxb453@nenu.edu.cn
-张晗 副处长（分管出国留学科、交流科）: zhangh836@nenu.edu.cn
-张拓 副处长（分管留学生科）: zhangt492@nenu.edu.cn
-合作 科长（职责： 1. 主持合作科工作）: zhanghw100@nenu.edu.cn
-交流 科长（职责： 1. 主持交流科工作）: yanjh691@nenu.edu.cn
-语推广 主任（职责： 1. 全面负责汉语国际推广办公室的工作）: lingj493@nenu.edu.cn",,
-61,吉林省,东北电力大学,吉林市,双非,公办,220,https://zsjyc.neepu.edu.cn/,,,,http://grad.neepu.edu.cn,,,,http://oice.neepu.edu.cn/index.htm,,,,,
-62,吉林省,北华大学,吉林市,双非,公办,300,,,,,,,,,,,,,,官网不可达：全部方式失败
-63,吉林省,吉林农业科技学院,吉林市,双非,公办,,http://hjiuye.jlnku.edu.cn/,,jiuye11439@163.com,0432-63509058; 0432-63509929,,,,,https://foreign.jlnku.edu.cn/,,,,0432-63509783,
-64,吉林省,吉林化工大学,吉林市,双非,公办,,http://www.jlict.edu.cn/zsjy.htm,,,,http://yjs.jluct.edu.cn/,,,,https://wsc.jluct.edu.cn/,,,,090000000605,
-65,吉林省,吉林医药学院,吉林市,双非,公办,,http://www.jlmu.cn/zsjy1.htm,,,,http://www.jlmu.cn/info/1471/70451.htm,,,,http://www.jlmu.cn/jlhz/gjhz.htm,,,,,
-66,吉林省,吉林铁道职业技术大学,吉林市,双非,公办,,https://jyxx.jty.edu.cn/,,,0432-66137555,,,,,http://iec.jtpt.cn,,,,,
-67,吉林省,吉林师范大学,四平市,双非,公办,230,,,,,,,,,,,,,,官网不可达：全部方式失败
-68,吉林省,白城师范学院,白城市,双非,公办,470,,,,,,,,,,,,,,官网不可达：全部方式失败
-69,吉林省,通化师范学院,通化市,双非,公办,450,https://thnucareer.hjiuye.com/,学生就业小程序,thsyzsb@163.com,0435-3208040,,,,,https://gjjl.thnu.edu.cn/,,,,,
-70,吉林省,吉林体育学院,长春市,双非,公办,未上榜/独立榜,,,,,,,,,,,,,,官网不可达：全部方式失败
-71,吉林省,吉林农业大学,长春市,双非,公办,165,https://www.jlau.edu.cn/zsjy.htm,,webmaster@jlau.edu.cn,,https://www.jlau.edu.cn/jyjx/yjsjy1.htm,,,,http://gjjy.jlau.edu.cn,,,,,
-72,吉林省,吉林工商学院,长春市,双非,公办,,https://jlbtcjy.mh.chaoxing.com/,,,0431-82306222,,,,,https://hzjl.jlbtc.edu.cn/,,,,,
-73,吉林省,吉林工程技术师范学院,长春市,双非,公办,430,http://jlenu.hjiuye.com/,,,0431-86908057; 0431-86907028,http://yjs.jlenu.edu.cn,,,0431-86908108,http://gjjlc.jlenu.edu.cn,,,,86908016; 86908019,
-74,吉林省,吉林建筑大学,长春市,双非,公办,320,http://jlju.hjiuye.com/,学生就业小程序,jy84566069@163.com,0431-84566069,http://yjs.jlju.edu.cn/,,,0431-84566037; 0431-84566306; 0431-84566329,,,,,,
-75,吉林省,吉林艺术学院,长春市,双非,公办,未上榜/独立榜,http://jy.jlart.edu.cn/,学生就业小程序,jlysxyjy@126.com,0431-85618360; 17600673259,http://yjs.jlart.edu.cn/,,,,https://gjhz.jlart.edu.cn/index.htm,,jua_international@qq.com,,0431-85633961,
-76,吉林省,吉林警察学院,长春市,双非,公办,,https://zsw.jljcxy.com/,,jljcxyjy@163.com,0431-85001234; 0431-85001799; 0431-85001157,http://www.jljcxy.com/rcpy/yjsjy.htm,,,0431-85001110; 0431-85001234; 0431-85001370,http://www.jljcxy.com/info/2601/34811.htm,,,,0431-85001110; 0431-85001234; 0431-85001370,
-77,吉林省,吉林财经大学,长春市,双非,公办,270,http://newzs.jlufe.edu.cn/,,,17202000216,https://yjsy.jlufe.edu.cn/,,,17202000216,,,,,,
-78,吉林省,长春中医药大学,长春市,双非,公办,260,,,,,,,,,,,,,,官网不可达：全部方式失败
-79,吉林省,长春大学,长春市,双非,公办,350,https://jyzx.ccu.edu.cn/,,,0431-85250026; 0431-82533039,https://yjsb.ccu.edu.cn/,长春大学公众号,,0431-85251786,http://wsc.ccu.edu.cn/,,gjjlhzc@ccu.edu.cn,,0431-85250122,
-80,吉林省,长春工业大学,长春市,双非,公办,190,http://www.ccut.edu.cn/zsjy.htm,,,,https://yjsy.ccut.edu.cn/zsgz/a2024yzxxgk.htm,,,,,,,,,
-81,吉林省,长春工程学院,长春市,双非,公办,,http://zsb.ccit.edu.cn/,,,0431-80578555,https://yjsgzc.ccit.edu.cn/,,,,http://gjhzyjlc.ccit.edu.cn/,,,,,
-82,吉林省,长春师范大学,长春市,双非,公办,,https://www.ccsfu.edu.cn/zsjy1.htm,,,,https://yjs.ccsfu.edu.cn/zsgz.htm,,,0431-86168695; 0431-86168864; 0431-86168134,https://www.ccsfu.edu.cn/gjjl.htm,,,,,
-83,吉林省,长春汽车职业技术大学,长春市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
-84,吉林省,长春理工大学,长春市,双非,公办,140,http://www.cust.edu.cn/zsjy2026/index.htm,,cust@cust.edu.cn,,http://www.cust.edu.cn/zsjy2026/yjszs20261/index.htm,,cust@cust.edu.cn,,http://www.cust.edu.cn/jlhz2026/gjhz20261/index.htm,,cust@cust.edu.cn,,,
-85,吉林省,长春职业技术大学,长春市,双非,公办,,http://www.cvit.edu.cn/zsjy.htm,,,,,,,,http://www.cvit.edu.cn/gjjl.htm,,,,,
-86,辽宁省,大连理工大学,大连市,985,公办,28,http://job.dlut.edu.cn/index.html,,career@dlut.edu.cn; dlutjy@dlut.edu.cn; pjjy@dlut.edu.cn,0411-84708222; 0411-84709222; 0411-84706641,http://gs.dlut.edu.cn/,,yjsyzhb@dlut.edu.cn,0411-84708330,http://dutdice.dlut.edu.cn/,,dutfao@dlut.edu.cn,王莲 主任（邮箱未公开）,0411-84708702,
-87,辽宁省,东北大学,沈阳市,985,公办,39,http://job.neu.edu.cn/,,neujiuye@163.com; NEU83681260@163.com; NEUcareer@163.com,024-83687393; 024-83689881; 024-83681260,http://www.graduate.neu.edu.cn,,,,http://int.neu.edu.cn/,,,,,
-88,辽宁省,大连海事大学,大连市,211,公办,100,https://myjob.dlmu.edu.cn/,,haishijiuye@163.com; dmujobzixun@163.com,0411-84724185; 0411-84729209; 0411-84728536,https://grs.dlmu.edu.cn/,,,,https://www.dlmu.edu.cn/wzsy/hzjl/lxwm.htm,,danyangliu@dlmu.edu.cn; nanli@dlmu.edu.cn; amberwu@dlmu.edu.cn,,,
-89,辽宁省,辽宁大学,沈阳市,211,公办,105,http://job.lnu.edu.cn,,,024-62602250,http://grs.lnu.edu.cn/zsgz.htm,,,024-62202353,http://gjjlc.lnu.edu.cn/,,,"曲艺 副处长（邮箱未公开）
-谢名一 处长（邮箱未公开）
-尹如玉 副处长（邮箱未公开）",,
-90,辽宁省,辽东学院,丹东市,双非,公办,520,,,,,,,,,,,,,,官网不可达：全部方式失败
-91,辽宁省,东北财经大学,大连市,双非,公办,90,,,,,http://www.dufe.edu.cn/rcpy/yjs/,,advice@dufe.edu.cn,,http://www.dufe.edu.cn/content_100605.html,,advice@dufe.edu.cn,,080000000414,
-92,辽宁省,大连交通大学,大连市,双非,公办,,http://www.djtu.edu.cn/Redirect?mid=55,,,0411-84109958; 0411-86226500,http://www.djtu.edu.cn/Redirect?mid=29,,,,http://www.djtu.edu.cn/Redirect?mid=44,,,,0411-84106969,
-93,辽宁省,大连医科大学,大连市,双非,公办,190,https://rcd.dmu.edu.cn/,,,0411-86110222; 0411-86110221; 0411-86110223,https://yjs.dmu.edu.cn/,,,,https://ic.dmu.edu.cn/,,international@dmu.edu.cn,,,
-94,辽宁省,大连外国语大学,大连市,双非,公办,,http://www.dlufl.edu.cn/zsjy.htm,,xzxx@dlufl.edu.cn,,http://www.dlufl.edu.cn/info/1121/11447.htm,,xzxx@dlufl.edu.cn,,http://ieo.dlufl.edu.cn/,,,,0411-86112222,
-95,辽宁省,大连大学,大连市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
-96,辽宁省,大连工业大学,大连市,双非,公办,250,https://jygl.dep.dlpu.edu.cn/,,jyzx@dlpu.edu.cn,0411-86323338; 15940873211,http://yjs.dep.dlpu.edu.cn/,,,,http://fao.dlpu.edu.cn/,,iced@dlpu.edu.cn,,0411-86324486,
-97,辽宁省,大连民族大学,大连市,双非,公办,410,http://www.dlnu.edu.cn/zsjy.htm,大连民族大学-微信,,,https://new.dlnu.edu.cn/gs/,,yzb@dlnu.edu.cn,0411-87630448,,,,,,
-98,辽宁省,大连海洋大学,大连市,双非,公办,350,http://dlou.jysd.com/,,10158@dlou.edu.cn,0411-84762679,http://master.dlou.edu.cn/,,,0411-84762652; 0411-84762665,http://gjjlc.dlou.edu.cn/,,iecd@dlou.edu.cn,,,
-99,辽宁省,辽宁师范大学,大连市,双非,公办,220,https://lsdjyw.lnnu.edu.cn/,,lszjcscb@163.com,0411-82159911,https://master.lnnu.edu.cn/,,,,https://wsc.lnnu.edu.cn/,,,,,
-100,辽宁省,辽宁警察学院,大连市,双非,公办,未上榜/独立榜,https://www.lnpc.edu.cn/35/list.htm,,,0416-3212009,,,,,,,,,,
-101,辽宁省,辽宁石油化工大学,抚顺市,双非,公办,,http://www.lnpu.edu.cn/zsjy/bkszs.htm,,Webmaster@lnpu.edu.cn,024-56865000,http://www.lnpu.edu.cn/rcpy/yjsjy.htm,,,024-56865000,http://www.lnpu.edu.cn/hzjl/gjjl.htm,,Webmaster@lnpu.edu.cn,,024-56865000,
-102,辽宁省,朝阳师范学院,朝阳市,双非,公办,540,,,,,,,,,,,,,,
-103,辽宁省,辽宁科技学院,本溪市,双非,公办,530,http://www.lnist.edu.cn/zsjy/zsgl.htm,,,,,,,,,,,,,
-104,辽宁省,中国刑事警察学院,沈阳市,双非,公办,,https://zsjy.cipuc.edu.cn/,,zsb@cipuc.edu.cn; yjsc_npuc@163.com; npucjy@163.com,024-86982292; 024-86982692,http://www.cipuc.edu.cn/rcpy/yjsjy/xkzy.htm,,,,http://www.cipuc.edu.cn/dwjl.htm,,,,,
-105,辽宁省,中国医科大学,沈阳市,双非,公办,130,,,,,,,,,https://www.cmu.edu.cn/gjhzyjlc/,,,,,官网不可达：全部方式失败
-106,辽宁省,沈阳体育学院,沈阳市,双非,公办,未上榜/独立榜,http://sytyxy.bysjy.com.cn/,,stzsjyc@163.com,,http://yjs.syty.edu.cn/zsgong_z/tzgg.htm,,sytyyzb@163.com,,,,,,,
-107,辽宁省,沈阳农业大学,沈阳市,双非,公办,210,https://jobsyau.jysd.com/,沈农就业,,024-88487218,http://grs.syau.edu.cn/,,,024-88487139,https://gjjlc.syau.edu.cn/,,gjjlc@syau.edu.cn,,,
-108,辽宁省,沈阳化工大学,沈阳市,双非,公办,400,http://syuct.bysjy.com.cn/,,sy89388470@163.com,,https://grszs.syuct.edu.cn,,,024-89386567,http://www.syuct.edu.cn/gjjl/yhyx.htm,,,,,
-109,辽宁省,沈阳医学院,沈阳市,双非,公办,,http://www.symc.edu.cn/zsjy.htm,,,,https://yjsjy.symc.edu.cn/,,,,http://www.symc.edu.cn/info/1083/72801.htm,,,,,
-110,辽宁省,沈阳大学,沈阳市,双非,公办,420,http://www.syu.edu.cn/zsjy.htm,,xxzx@syu.edu.cn,024-62268315; 024-67853071,http://yjs.syu.edu.cn/,,,,http://wsc.syu.edu.cn,,,,,
-111,辽宁省,沈阳工业大学,沈阳市,双非,公办,180,https://jynet.sut.edu.cn/,,zhaoban_sut@163.com; jynet@sut.edu.cn,024-25496072; 024-25494802; 024-25691226,https://yjsxy.sut.edu.cn/,,,024-25496253; 024-25496252; 024-25494900,https://www.sut.edu.cn/gjjl.htm,,,,,
-112,辽宁省,沈阳工程学院,沈阳市,双非,公办,,http://job.sie.edu.cn/,,,024-31975266,http://yjsb.sie.edu.cn/,,,,https://gjjyxy.sie.edu.cn/index.jsp,,,,,
-113,辽宁省,沈阳师范大学,沈阳市,双非,公办,,https://www.synu.edu.cn/zsjy_6737/list.htm,,dzb@synu.edu.cn,024-86592995,http://yjs.synu.edu.cn/main.htm,,,,https://www.synu.edu.cn/2026/0814/c6740a115984/page.htm,,dzb@synu.edu.cn,,,
-114,辽宁省,沈阳建筑大学,沈阳市,双非,公办,320,http://zsjy.sjzu.edu.cn/,,,,http://www.sjzu.edu.cn/rcpy/yjsjy.htm,,,,,,,,,
-115,辽宁省,沈阳理工大学,沈阳市,双非,公办,,https://job.sylu.edu.cn,,24686098@163.com,024-24686098,http://yanjiusheng.sylu.edu.cn,,,,http://gjjlhzc.sylu.edu.cn,,,,2424686045,
-116,辽宁省,沈阳航空航天大学,沈阳市,双非,公办,,https://sau.jysd.com/,,,,http://yjs.sau.edu.cn,,,,http://gjgcs.sau.edu.cn,,,,,
-117,辽宁省,沈阳药科大学,沈阳市,双非,公办,260,https://syphu.jysd.com/,,,024-43520888,https://grs.syphu.edu.cn,,,,https://dir.syphu.edu.cn/,,International@syphu.edu.cn,,2443520132,
-118,辽宁省,沈阳音乐学院,沈阳市,双非,公办,未上榜/独立榜,,,,,,,,,,,,,,官网不可达：全部方式失败
-119,辽宁省,辽宁中医药大学,沈阳市,双非,公办,360,http://jy.lnutcm.edu.cn/,,lnzyydxzsjyc@163.com,024-31207238; 0411-85890136,http://yjs.lnutcm.edu.cn,,,,http://gjhzjlc.lnutcm.edu.cn/,,,,,
-120,辽宁省,鲁迅美术学院,沈阳市,双非,公办,未上榜/独立榜,http://www.lumei.edu.cn/zsjy/bkszs.htm,,,,http://www.lumei.edu.cn/jyjx/yjsjy.htm,,,,,,,,,
-121,辽宁省,营口理工学院,营口市,双非,公办,500,https://www.yku.edu.cn/,,,,,,,,https://www.yku.edu.cn/cs/index.htm,,,,,
-122,辽宁省,渤海大学,锦州市,双非,公办,380,https://jy.bhu.edu.cn/,,bhdxjyb@126.com,0416-3406688,https://yjsxy.bhu.edu.cn/,,bhuyjszs@163.com,0416-3400137; 0416-3400139,https://www.bhuwsc.com/,,,,0416-3400213,
-123,辽宁省,辽宁工业大学,锦州市,双非,公办,430,http://lngydx.bysjy.com.cn/,,lngydxjy@lnut.edu.cn,,http://yjsxy.lnut.edu.cn,,,0416-4198179,,,,,,
-124,辽宁省,锦州医科大学,锦州市,双非,公办,440,http://jy.jzmu.edu.cn,,zsjyc@jzmu.edu.cn,0416-3675051; 0416-4673436,https://yjsc.jzmu.edu.cn/,,,0416-3675207; 0416-3675209; 0416-3675210,,,,,,
-125,辽宁省,辽宁工程技术大学,阜新市,双非,公办,300,https://zsjy.lntu.edu.cn,,,,https://yjsy.lntu.edu.cn/,,,,https://gjxy.lntu.edu.cn/,,,,0418-5110396; 0418-5110397; 0418-5110401,
-126,辽宁省,辽宁科技大学,鞍山市,双非,公办,,http://zsjy.ustl.edu.cn/index.htm,,,0412-5929096; 0412-5929092; 0412-5928097,http://www.ustl.edu.cn/yjs/,辽科大研究生,lkdyjsyzhb@ustl.edu.cn,,http://www.ustl.edu.cn/international/,,,,0412-5929089,
-127,辽宁省,鞍山师范学院,鞍山市,双非,公办,480,http://www.asnc.edu.cn/zsjy/index.htm,,,,http://www.asnc.edu.cn/rcpy/yjsjy/index.htm,,,,http://gjjl.asnc.edu.cn/,,,,,
-128,黑龙江省,哈尔滨工业大学,哈尔滨市,985,公办,14,http://www.hit.edu.cn/11537/list.htm,,,,http://hitgs.hit.edu.cn/,,,0451-86412296,http://www.hit.edu.cn/11555/list.htm,,,"委常务 副书记（邮箱未公开）
-校长 助理（邮箱未公开）",,
-129,黑龙江省,东北农业大学,哈尔滨市,211,公办,115,https://www.neau.edu.cn/zsjy.htm,,shuji@neau.edu.cn; xiaozhang@neau.edu.cn,,https://graduate.neau.edu.cn/,,,,https://gjjl.neau.edu.cn/,,,"迟勇 副处长（会议。会谈伊始，陈庆山代表学校对代表团来访表示欢迎，对两校长期以来紧密合作取得的）（邮箱未公开）
-卢铁光 处长（邮箱未公开）
-陈致广 副科长（邮箱未公开）
-李银女 科长（邮箱未公开）
-迟勇及 副处长（负责人热情接待了代表团一行）（邮箱未公开）",,
-130,黑龙江省,东北林业大学,哈尔滨市,211,公办,105,http://job.nefu.edu.cn/,,Jiuye@nefu.edu.cn,0451-82192212,https://gra.nefu.edu.cn/,,yjsy@nefu.edu.cn,,https://ico.nefu.edu.cn/,,nefu_gjhzc@163.com,"计晓艳 副处长（邮箱未公开）
-孙治平 处长（邮箱未公开）
-计晓艳 副处长: nefu_gjhzc@163.com
-的选聘 助理（负责学生助理的选聘、考核和日常管理工作；）（邮箱未公开）",,
-131,黑龙江省,哈尔滨工程大学,哈尔滨市,211,公办,43,http://www.hrbeu.edu.cn/zsjy1.htm,,,0451-82519222,https://yjsy.hrbeu.edu.cn,,,0451-82518910,https://fao.hrbeu.edu.cn/,,,"窦峥 处长（邮箱未公开）
-刘思嘉 副处长（邮箱未公开）
-丁昕 副处长（邮箱未公开）",,
-132,黑龙江省,佳木斯大学,佳木斯市,双非,公办,400,https://jmsu.gxbys.org.cn/,,,0454-8618138; 0454-8618867,https://yjs.jmsu.edu.cn/,,,0454-8618805; 0454-8618499,https://iecd.jmsu.edu.cn/,,,,,
-133,黑龙江省,哈尔滨体育学院,哈尔滨市,双非,公办,未上榜/独立榜,http://www.hrbipe.edu.cn/zzsjy/bsszsh.htm,,,0451-82733741,http://www.hrbipe.edu.cn/yjsy/,,,,,,,,,
-134,黑龙江省,哈尔滨医科大学,哈尔滨市,双非,公办,120,http://www.hrbmu.edu.cn/zsjy1.htm,,,,http://yjsy.hrbmu.edu.cn,,,,http://www.hrbmu.edu.cn/gjjlc/,,,,,
-135,黑龙江省,哈尔滨商业大学,哈尔滨市,双非,公办,320,https://www.hrbcu.edu.cn/zsjy.htm,,,,https://yjsc.hrbcu.edu.cn/,,,,https://gjjyxy.hrbcu.edu.cn/,,hsdgjhzc@126.com,,0451-84604831,
-136,黑龙江省,哈尔滨学院,哈尔滨市,双非,公办,,http://jypt.hrbu.edu.cn/frontpage/hrbu/html/index.html,,,0451-86658318; 0451-87081201,http://www.hrbu.edu.cn/yjsc/index.htm,,,,http://www.hrbu.edu.cn/ws/,,,,,
-137,黑龙江省,哈尔滨师范大学,哈尔滨市,双非,公办,240,,,,,,,,,,,,,,官网不可达：全部方式失败
-138,黑龙江省,哈尔滨建筑科技职业大学,哈尔滨市,双非,公办,,,,,,,,,,,,,,,官网不可达：全部方式失败
-139,黑龙江省,哈尔滨理工大学,哈尔滨市,双非,公办,200,http://www.hrbust.edu.cn/zsjy.htm,,,,https://graduate.hrbust.edu.cn/3907/list.htm,,,,http://www.hrbust.edu.cn/gjhz.htm,,,,,
-140,黑龙江省,哈尔滨职业技术大学,哈尔滨市,双非,公办,,http://hzjxy.jysd.com,,,0451-58971201,,,,,http://www.hrbzy.edu.cn/gjxy,,hvtcgjhzjlc@163.com,,0451-86662281; 0451-86669663,
-141,黑龙江省,哈尔滨金融学院,哈尔滨市,双非,公办,560,,,,,,,,,,,,,,官网不可达：全部方式失败
-142,黑龙江省,哈尔滨音乐学院,哈尔滨市,双非,公办,,http://www.hrbcm.edu.cn/jycs.htm,,yjiancha@126.com,0451-58597677; 0451-58597656; 0451-58597688,http://www.hrbcm.edu.cn/zsgz/yjszs.htm,,,,http://www.hrbcm.edu.cn/xxgk1/dwjlyhzxx.htm,,yjiancha@126.com,,0451-58597677; 0451-58597656; 0451-58597688,
-143,黑龙江省,黑龙江中医药大学,哈尔滨市,双非,公办,270,http://zsjyc.hljucm.net/,,,,http://yjsy.hljucm.net/,,bozhongyuan@163.com,,http://www.hljucm.net/index/dwjl.htm,,,,011002000482,
-144,黑龙江省,黑龙江农业工程职业技术大学,哈尔滨市,双非,公办,,,,,,https://mp.weixin.qq.com/s/E2a4ndPa1YJsCLfefgdWLA,公众号二维码（未获取图片）,,,,,,,,
-145,黑龙江省,黑龙江大学,哈尔滨市,双非,公办,145,http://job.hlju.edu.cn,,,0451-86609652; 0451-86608896; 0451-86604215,http://yjsy.hlju.edu.cn/,,,0451-86604902,http://gjjl.hlju.edu.cn/,,,,0451-86608376,
-146,黑龙江省,黑龙江工程学院,哈尔滨市,双非,公办,570,,,,,,,,,,,,,,官网不可达：全部方式失败
-147,黑龙江省,黑龙江科技大学,哈尔滨市,双非,公办,350,http://job.usth.edu.cn/,,,0451-88036988,https://gs.usth.edu.cn/,,,,https://iceo.usth.edu.cn/,,,,15639720627,
-148,黑龙江省,东北石油大学,大庆市,双非,公办,230,http://www.nepu.edu.cn/zsjy1.htm,,Webmaster@nepu.edu.cn,,http://yjsb.nepu.edu.cn,,,19210459783,http://www.nepu.edu.cn/gjjl/xjjl.htm,,Webmaster@nepu.edu.cn,,,
-149,黑龙江省,大庆师范学院,大庆市,双非,公办,490,http://www.dqsy.net/zsjy.htm,,,,,,,,,,,,,
-150,黑龙江省,黑龙江八一农垦大学,大庆市,双非,公办,420,http://www.byau.edu.cn/900/list.htm,,,,http://www.byau.edu.cn/932/list.htm,,,,http://www.byau.edu.cn/934/list.htm,,,,,
-151,黑龙江省,牡丹江医科大学,牡丹江市,双非,公办,,https://www.hljbys.org.cn/school/index?mark=mdjmu,,,,http://www.mdjmu.cn/yjsc/,,,,,,,,,
-152,黑龙江省,牡丹江师范学院,牡丹江市,双非,公办,480,https://mdjnu.gxbys.org.cn/,,,,http://yjs.mdjnu.cn/,,ascmdj@126.com,,,,,,,
-153,黑龙江省,绥化学院,绥化市,双非,公办,510,http://www.shxy.edu.cn/jyzl.htm,,,,,,,,http://www.shxy.edu.cn/xxgk1/dwjlyhzxx.htm,,,,,
-154,黑龙江省,黑龙江工业学院,鸡西市,双非,公办,550,http://www.hljut.edu.cn/a/zsjy/jiuyechuangye/,,,,,,,,http://www.hljut.edu.cn/a/guojijiaoliuhezuochu/,,,,030202000019,
-155,黑龙江省,黑河学院,黑河市,双非,公办,530,https://zsxx.hhxy.edu.cn/,,,,,,,,https://gjjlhzc.hhxy.edu.cn/,,,,,
-156,黑龙江省,齐齐哈尔医学院,齐齐哈尔市,双非,公办,,https://www.hljbys.org.cn/school/index?mark=qmu,,,0452-2663508,https://yjs.qmu.edu.cn/,,qyyzb@qmu.edu.cn,0452-2663828,https://foreignfairs.qmu.edu.cn/,,iesqmu1601@qmu.edu.cn,,0452-2663346; 0452-2663370,
-157,黑龙江省,齐齐哈尔大学,齐齐哈尔市,双非,公办,380,http://job.qqhru.edu.cn/,,,,https://yjs.qqhru.edu.cn,,,,https://iec.qqhru.edu.cn/,,529729107@qq.com,,13846215679; 13704654326,
-158,上海市,上海交通大学,,985,公办,,,,,,,,,,https://global.sjtu.edu.cn/,,globalsjtu@sjtu.edu.cn,"尹海涛 处长: htyin@sjtu.edu.cn
+﻿序号,省份,高校名称,城市,院校档次,办学性质,软科排名,就业中心-官网,就业中心-公众号,就业中心-邮箱,就业中心-电话,研究生院-官网,研究生院-公众号,研究生院-邮箱,研究生院-电话,国际处-官网,国际处-公众号,国际处-邮箱,国际处-领导及邮箱,国际处-电话,理工学院数,理工学院明细,备注
+1,上海市,上海交通大学,,985,公办,4,,,,,,,,,https://global.sjtu.edu.cn/,,globalsjtu@sjtu.edu.cn,"尹海涛 处长、港澳台办公室主任: htyin@sjtu.edu.cn
+尹海涛 处长: htyin@sjtu.edu.cn
 马威 副处长: mawei@sjtu.edu.cn
 王茜 副处长: wang_qian@sjtu.edu.cn
 谢玮 副处长: wxie@sjtu.edu.cn
-王冲 副处长: chongwang@sjtu.edu.cn",021-34206753,
-159,上海市,华东师范大学,,985,公办,,https://career.ecnu.edu.cn/,,,,https://yjszs.ecnu.edu.cn/,华东师大研招（ECNUyjs）,yjszs@admin.ecnu.edu.cn,021-54344721,http://lxs.ecnu.edu.cn/,,lxs@ecnu.edu.cn,,,
-160,上海市,同济大学,,985,公办,,https://www.tongji.edu.cn/zsjy.htm,,newscenter@tongji.edu.cn,009102000038,http://gs.tongji.edu.cn/,,,,http://fao.tongji.edu.cn/,,,"殷文 主任（邮箱未公开）
-曲辰 副主任（邮箱未公开）
-徐云霞 副主任（邮箱未公开）
+王冲 副处长: chongwang@sjtu.edu.cn
+庄恩嘉",021-34206753,0,,
+2,上海市,华东师范大学,,985,公办,29,https://career.ecnu.edu.cn/,,,,https://yjszs.ecnu.edu.cn/,华东师大研招（ECNUyjs）,yjszs@admin.ecnu.edu.cn,021-54344721,http://lxs.ecnu.edu.cn/,,lxs@ecnu.edu.cn,金丽君 副主任（会议。欢送会在温情满满的毕业回顾视频中正式拉开帷幕。吴健副校长首先致辞 2026）,,19,"地球科学学部 | https://dxb.ecnu.edu.cn/ | 邮箱:dixuebu@ecnu.edu.cn | 电话:021-62231882
+国际汉语文化学院 | http://chinese.ecnu.edu.cn/ | 邮箱:yzxx-gh@chinese.ecnu.edu.cn | 电话:021-62233624
+心理与认知科学学院 | http://psy.ecnu.edu.cn/ | 电话:021-62230090; 010-58808187--
+统计学院 | https://stat.ecnu.edu.cn/
+数学科学学院 | http://math.ecnu.edu.cn/
+物理学院 | http://phy.ecnu.edu.cn/ | 邮箱:ecnuphy@phy.ecnu.edu.cn | 电话:021-54342933
+化学与分子工程学院 | https://chem.ecnu.edu.cn/
+生命科学学院 | http://life.ecnu.edu.cn/ | 邮箱:ecnubio@bio.ecnu.edu.cn | 电话:+862154342605
+地理科学学院 | https://geo.ecnu.edu.cn | 邮箱:ghwang@geo.ec; geo@geo.ecnu.edu.cn | 电话:54341218
+生态与环境科学学院 | https://sees.ecnu.edu.cn | 电话:009102000042
+计算机科学与技术学院 | https://cs.ecnu.edu.cn/
+软件工程学院 | https://sei.ecnu.edu.cn/ | 邮箱:office@sei.ecnu.edu.cn | 电话:021-62232550
+数据科学与工程学院 | http://dase.ecnu.edu.cn/ | 邮箱:dase@dase.ecnu.edu.cn
+空间人工智能学院 | https://geoai.ecnu.edu.cn | 邮箱:gjkj@geoai.ecnu.edu.cn | 电话:021-54371026
+智能交互学院 | https://sii.ecnu.edu.cn/ | 电话:009102000042
+上海国际首席技术官学院 | https://cto.ecnu.edu.cn/main.htm | 电话:021-61911352
+精密光谱科学与技术高等研究院 | http://www.lps.ecnu.edu.cn/ | 邮箱:lps@phy.ecnu.edu.cn | 电话:021-54836023
+量子科学与精密测量研究院 | https://iqspm.ecnu.edu.cn/index.html?_refluxos=a10https://iqspm.ecnu.edu.cn/index.html?_refluxos=a10 | 邮箱:jtsheng@lps.ecnu.edu.cn | 电话:(86)21-54836079
+地理科学学院 | http://www.geo.ecnu.edu.cn/ | 邮箱:ghwang@geo.ec; geo@geo.ecnu.edu.cn | 电话:54341218",
+3,上海市,同济大学,,985,公办,18,https://www.tongji.edu.cn/zsjy.htm,,newscenter@tongji.edu.cn,009102000038,http://gs.tongji.edu.cn/,,,,http://fao.tongji.edu.cn/,,,"殷文 主任
+曲辰 副主任
+徐云霞 副主任
 殷文 主任（部门全面工作，分管出国（境）、中外合作）: yinwen@tongji.edu.cn
-钟宁桦 主任（港澳台事务）: zhongninghua@yeah.net
+钟宁桦 主任（港澳台事务）
 陈毅立 主任（留学生）: jmschenhata@tongji.edu.cn
 曲辰 副主任（外国专家和引智工作、平台学院（中西、中法）、数据统计、政策评估、新闻宣传等工作。）: lefrancais@tongji.edu.cn
-徐云霞 副主任（中外合作）: xuyunxia@tongji.edu.cn",2165982612,
-161,上海市,复旦大学,,985,公办,,https://www.fudan.edu.cn/2019/0506/c431a103172/page.htm,,career@fudan.edu.cn,8621-65642288; 021-65642222,https://www.fudan.edu.cn/516/list.htm,,,021-65642222,https://ogp.fudan.edu.cn/16077/list.htm,,,孔子学 副主任: confucius@fudan.edu.cn,021-65642260; 021-65649524,
-162,上海市,上海外国语大学,,211,公办,,https://www.shisu.edu.cn/admissions/index.html,,,,,,,,https://oice.shisu.edu.cn/,,,,,
-163,上海市,上海大学,,211,公办,,https://www.shu.edu.cn/zsjy.htm,,,021-96928188; 009102000049,https://yjszs.shu.edu.cn/,,,02166133763,https://global.shu.edu.cn/,上海大学留学生公众号,,综合 主任: jinxiao98@163.com,,
-164,上海市,上海财经大学,,211,公办,,https://career.sufe.edu.cn/,,jyzd@mail.shufe.edu.cn,021-65904215,https://gs.sufe.edu.cn/,,yjsy@mail.shufe.edu.cn; yzb@mail.shufe.edu.cn,021-65904625; 021-65903795,https://ieco.shufe.edu.cn/,相关宣传连接中报名欢迎广大师生积极参与,ieco@mail.sufe.edu.cn,,,
-165,上海市,东华大学,,211,公办,,http://ejob.dhu.edu.cn/,扫描左侧二维码获取最新资讯,pluswin6@pluswin-china.com; houzhiqi@sh.chinalife-p.com.cn; job@dhu.edu.cn,021-67792486,http://gs.dhu.edu.cn/,,yjsdep@dhu.edu.cn,,https://ico.dhu.edu.cn/,,ico@dhu.edu.cn,,,
-166,上海市,华东理工大学,,211,公办,,https://www.ecust.edu.cn/585/list.htm,,,009102000037,http://gschool.ecust.edu.cn/,,,15710144202,http://kjc.ecust.edu.cn/8373/list.htm,,,,,
-167,上海市,第二军医大学,,211,公办,,,,,,,,,,,,,,,官网不可达：军队院校，国际处信息不公开
-168,上海市,上海中医药大学,,双一流,公办,,https://jy.shutcm.edu.cn/,,,17875834001,http://yjsy.shutcm.edu.cn,,,,https://gjc.shutcm.edu.cn/,,,,,
-169,上海市,上海体育学院,,双一流,公办,,,,,,,,,,https://wsc.sus.edu.cn/,,,,,官网不可达：官网未知
-170,上海市,上海海洋大学,,双一流,公办,,https://jcxt.shou.edu.cn/,,,,http://yjs.shou.edu.cn/13946/list.htm,,,,https://ieo.shou.edu.cn/,,ieo@shou.edu.cn,总干事 助理（邮箱未公开）,,
-171,上海市,上海科技大学,,双一流,公办,,https://career.shanghaitech.edu.cn/,,,18120716234; 032613120834; 032613131827,,,,,https://oia.shanghaitech.edu.cn/,,,,,
-172,上海市,上海音乐学院,,双一流,公办,,,,,,,,,,https://www.shcmusic.edu.cn/1449/list.htm,,,"裴小倩 书记（学习会并作交流发言。裴小倩强调，一是深入学习习近平总书记重要讲）（邮箱未公开）
-大事记 院长（职责 党史大事记 院长办公室 党委组织部 党委教师工作部、人事处）（邮箱未公开）
-谈心窗 书记（职责 2011-03-10 每页 14 记录 总共 2 记录 第）（邮箱未公开）
-门介绍 院长（邮箱未公开）
-陈云 副院长（。会上，审计处处长徐昕传达全国审计工作会议、中共上海市委审计委员会会议、上海市财）（邮箱未公开）",17816874; 7889684; 67262574,
-173,云南省,云南大学,,211,公办,,http://jobs.ynu.edu.cn/,微信二维码(单独二维码),ydxsjyzx@126.com,0871-65148526; 0871-65033859; 0871-65931992,http://www.grs.ynu.edu.cn/,,,,http://english.ynu.edu.cn/,,,,,
-174,内蒙古自治区,内蒙古大学,,211,公办,,http://zhaosheng.imu.edu.cn/,,ndzsb@imu.edu.cn,,https://gs.imu.edu.cn/,,ndgs@imu.edu.cn,,http://ice.imu.edu.cn/,,fao@imu.edu.cn,,,
-175,北京市,中国人民大学,,985,公办,,,,,,https://www.ruc.edu.cn/yanjiushengpeiyang.html,,,,https://pgs.ruc.edu.cn/gats.htm,,,,,
-176,北京市,中国农业大学,,985,公办,,https://www.cau.edu.cn/zsjy/index.htm,,xwzx@cau.edu.cn,,https://www.cau.edu.cn/jyjx/yjsjy/index.htm,,,,https://global.cau.edu.cn/,,,,,
-177,北京市,中央民族大学,,985,公办,,https://www.muc.edu.cn/zsjy/zs/bykzs.htm,,,010-68932442,,,,,https://www.muc.edu.cn/gjjl.htm,,,,010-68932442,
-178,北京市,北京大学,,985,公办,,,,,,https://www.pku.edu.cn/recruit.html#undergraduate,,its@pku.edu.cn,,https://hmt.pku.edu.cn/,,its@pku.edu.cn,,,
-179,北京市,北京师范大学,,985,公办,,https://www.bnu.edu.cn/zsjy/index.htm,,,040102700202,http://jwb.bnu.edu.cn/,,jwb@bnu.edu.cn,,http://oiec.bnu.edu.cn/,,,"孔管理 主任: tengjun1983@bnu.edu.cn
-李中山 副处长（负责留学生管理、国际学生短期项目、学生境外交流、中外合作办学）: lzs@bnu.edu.cn
-戴淑君 副处长（负责因公派出、规划和综合业务、英文润色）: daisj@bnu.edu.cn",010-58808285,
-180,北京市,北京理工大学,,985,公办,,https://www.bit.edu.cn/zsjysjb/index.htm,,,,http://grd.bit.edu.cn/,,grd@bit.edu.cn,,https://www.bit.edu.cn/,,,,,
-181,北京市,北京航空航天大学,,985,公办,,https://www.buaa.edu.cn/zsjy.htm,,,,https://www.buaa.edu.cn/jyjx/yjsjy1.htm,,,,https://global.buaa.edu.cn/,,,"白琳 部长（主持全面工作）: international@buaa.edu.cn
+徐云霞 副主任（中外合作）: xuyunxia@tongji.edu.cn
+孟嘉（负责德语区（德国、瑞士、奥地利））: incoming@tongji.edu.cn
+陈钰（负责法语区（法国））: chenyu@tongji.edu.cn
+柯依榕（负责西语区（西班牙、葡萄牙、墨西哥、阿根廷））: keyirong@tongji.edu.cn
+徐俐（负责亚洲（日本、韩国、新加坡））: icyxu@tongji.edu.cn",2165982612,0,,
+4,上海市,复旦大学,,985,公办,5,https://www.fudan.edu.cn/2019/0506/c431a103172/page.htm,,career@fudan.edu.cn,8621-65642288; 021-65642222,https://www.fudan.edu.cn/516/list.htm,,,021-65642222,https://ogp.fudan.edu.cn/16077/list.htm,,,"卢丽安 处长: lalu@fudan.edu.cn
+唐文卿 副处长: wqtang@fudan.edu.cn
+胡文华 副主任: confucius@fudan.edu.cn
+担任 处长（负责中心日常运作以及联系北欧的成员大学）
+Carla Harold 中心主任: austriancentre@fudan.edu.cn
+马跃 中心主管: austriancentre@fudan.edu.cn",021-65642260; 021-65649524,10,"数学科学学院 | http://math.fudan.edu.cn/ | 电话:021-65642222
+微电子学院 | https://sme.fudan.edu.cn/
+生命科学学院 | http://life.fudan.edu.cn/ | 电话:08660525549
+大数据学院 | http://www.sds.fudan.edu.cn/wp/
+集成电路与微纳电子创新学院 | https://icmne.fudan.edu.cn/ | 邮箱:icmne@fudan.edu.cn
+计算与智能创新学院 | https://ai.fudan.edu.cn/ | 邮箱:cs_school@fudan.edu.cn | 电话:13472188450
+智能机器人与先进制造创新学院 | https://ciram.fudan.edu.cn/ | 邮箱:ciram_dzb@fudan.edu.cn
+智能材料与未来能源创新学院 | https://icome.fudan.edu.cn/ | 电话:021-65642379; 021-31243591; 021-31249935
+未来信息创新学院 | https://fit.fudan.edu.cn/ | 邮箱:fit@fudan.edu.cn | 电话:021-31242680
+科学技术研究院 | https://www.fudan.edu.cn/2019/0506/c431a103187/page.htm | 邮箱:keyanyuan@fudan.edu.cn; yxky@fudan.edu.cn | 电话:8621-54237270; 021-65642222",
+5,北京市,中国人民大学,,985,公办,17,,,,,https://www.ruc.edu.cn/yanjiushengpeiyang.html,,,,https://pgs.ruc.edu.cn/gats.htm,,,,,12,"■ 生态环境学院 | https://envi.ruc.edu.cn/ | 邮箱:huanjing@ruc.edu.cn | 电话:010-62511042; 0402430004
+■ 信息学院 | http://info.ruc.edu.cn/ | 电话:0402430004
+■ 统计学院 | http://stat.ruc.edu.cn/ | 电话:01620241114; 0402430004
+■ 化学与生命资源学院 | https://clr.ruc.edu.cn/zwwz/index.htm | 邮箱:ruc_clr@ruc.edu.cn | 电话:010-62512822
+■ 物理学院 | http://www.phys.ruc.edu.cn/ | 邮箱:graphy@ruc.edu.cn
+■ 统计与大数据研究院 | http://isbd.ruc.edu.cn/
+■ 数学学院 | http://math.ruc.edu.cn/ | 邮箱:mathruc@ruc.edu.cn | 电话:010-82507161
+■ 高瓴人工智能学院 | http://ai.ruc.edu.cn/ | 邮箱:ai@ruc.edu.cn
+■ 智慧治理学院 | http://su.ruc.edu.cn/department/ssg/index.htm
+国家治理工程学院 | http://ang.ruc.edu.cn/index.htm | 电话:010-62510553
+■ 全球领导力学院 | http://sgl.ruc.edu.cn/ | 邮箱:sglruc@ruc.edu.cn
+■ 交叉科学研究院 | http://sids.ruc.edu.cn/ | 邮箱:rdcy2021@ruc.edu.cn | 电话:0402430004; 010-62510183",
+6,北京市,中国农业大学,,985,公办,24,https://www.cau.edu.cn/zsjy/index.htm,,xwzx@cau.edu.cn,,https://www.cau.edu.cn/jyjx/yjsjy/index.htm,,,,https://global.cau.edu.cn/,,,,,0,,
+7,北京市,中央民族大学,,985,公办,,https://www.muc.edu.cn/zsjy/zs/bykzs.htm,,,010-68932442,,,,,https://www.muc.edu.cn/gjjl.htm,,,"查显友 党委书记
+强世功 党委副书记、校长
+杨慕云 党委副书记、副校长
+王雄军 党委副书记、副校长
+马林涛 党委常委、副校长
+甘明刚 党委常委、副校长
+彭勇 党委常委、副校长
+赵丽芳 党委常委、副校长
+张浩 党委常委、纪委书记
+姚佳琳 党委常委、总会计师",010-68932442,0,,
+8,北京市,北京大学,,985,公办,2,,,,,https://www.pku.edu.cn/recruit.html#undergraduate,,its@pku.edu.cn,,https://hmt.pku.edu.cn/,,its@pku.edu.cn,"究创始 院长
+霍光峰 主任
+陈峦明: lmchen@pku.edu.cn
+赵嘉新: zjx@pku.edu.cn
+致辞联 主任
+致辞 主任
+致词 主任",,2,"理学部 | https://www.pku.edu.cn/department.html#item1 | 邮箱:its@pku.edu.cn | 电话:0402430047
+信息科学与技术学部 | https://www.pku.edu.cn/department.html#item2 | 邮箱:its@pku.edu.cn | 电话:0402430047",
+9,北京市,北京师范大学,,985,公办,19,https://www.bnu.edu.cn/zsjy/index.htm,,,040102700202,http://jwb.bnu.edu.cn/,,jwb@bnu.edu.cn,,http://oiec.bnu.edu.cn/,,,"李中山 副处长（负责留学生管理、国际学生短期项目、学生境外交流、中外合作办学）: lzs@bnu.edu.cn
+戴淑君 副处长（负责因公派出、规划和综合业务、英文润色）: daisj@bnu.edu.cn
+负责 主任（全处工作。）: tengjun1983@bnu.edu.cn
+负责处 主任: museng@bnu.edu.cn
+赵洪祝 副书记（负责同志、二十国集团成员国驻华使馆官员及相关国际组织驻华高级代表）",010-58808285,12,"地理科学学部 | http://geo.bnu.edu.cn | 电话:010-58807657
+心理学部 | http://psych.bnu.edu.cn/ | 邮箱:psyoffice@bnu.edu.cn | 电话:010-58808187
+数学科学学院 | http://math.bnu.edu.cn/
+化学学院 | http://www.chem.bnu.edu.cn/ | 邮箱:bnuchem@bnu.edu.cn | 电话:(+86-10)58807843
+系统科学学院 | http://sss.bnu.edu.cn/ | 邮箱:sss@bnu.edu.cn | 电话:010-58807880
+统计学院 | http://stat.bnu.edu.cn
+环境学院 | http://env.bnu.edu.cn/ | 邮箱:environment@bnu.edu.cn | 电话:010-58801830
+生命科学学院 | http://cls.bnu.edu.cn/ | 邮箱:hrcls@bnu.edu.cn | 电话:(8610)58802047
+人工智能学院 | http://ai.bnu.edu.cn/ | 电话:010-58807943
+文理学院 | https://fas.bnu.edu.cn/ | 邮箱:wlxy@bnu.edu.cn
+未来技术学院 | https://tecs.bnu.edu.cn/ | 邮箱:tecs@bnu.edu.cn
+水科学研究院 | http://cws.bnu.edu.cn/",
+10,北京市,北京理工大学,,985,公办,14,https://www.bit.edu.cn/zsjysjb/index.htm,,,,http://grd.bit.edu.cn/,,grd@bit.edu.cn,,https://www.bit.edu.cn/,,,"姜澜 校长
+包丽颖 党委副书记
+许安国 党委副书记、纪委书记
+杨帆 党委副书记
+魏一鸣 副校长
+王博 副校长
+李振键 副校长
+汪本聪 副校长
+庞思平 副校长
+邹美帅 副校长
+党华 副校长
+杨亚政 校长助理
+阎艳 校长助理",,19,"化学与化工学院 | http://cce.bit.edu.cn/
+生命学院 | http://ls.bit.edu.cn/ | 电话:0402430044
+空天科学与技术学院 | http://sae.bit.edu.cn/
+机械与车辆学院 | http://me.bit.edu.cn/ | 邮箱:sme@bit.edu.cn | 电话:0402430044
+数学与统计学院 | http://math.bit.edu.cn/
+光电学院 | http://opt.bit.edu.cn/ | 邮箱:bitgd@bit.edu.cn | 电话:010-68913659
+物理学院 | http://physics.bit.edu.cn/ | 电话:0402430044
+信息与电子学院 | http://sie.bit.edu.cn/
+雷达技术研究院 | https://radar.bit.edu.cn | 电话:010-68918357
+集成电路与电子学院 | https://ice.bit.edu.cn/ | 电话:040202430169
+自动化学院 | http://ac.bit.edu.cn/
+计算机学院 | http://cs.bit.edu.cn/ | 邮箱:zhaoxj@bit.edu.cn | 电话:68914756
+网络空间安全学院 | https://cst.bit.edu.cn/ | 电话:0402430044
+人工智能学院 | https://ai.bit.edu.cn | 邮箱:ai@bit.edu.cn
+材料学院 | http://mse.bit.edu.cn/ | 邮箱:Webmaster@bit.edu.cn; service@bit.edu.cn | 电话:0402430044
+科学技术研究院 | http://kjc.bit.edu.cn
+先进结构技术研究院 | http://xjjg.bit.edu.cn | 邮箱:xianjinjiegou@bit.edu.cn | 电话:0402430044
+卓越工程师学院 | http://zygcs.bit.edu.cn/ | 邮箱:XTLSchool@bit.edu.cn | 电话:010-81381042
+前沿交叉科学院 | http://sis.bit.edu.cn/",
+11,北京市,北京航空航天大学,,985,公办,11,https://www.buaa.edu.cn/zsjy.htm,,,,https://www.buaa.edu.cn/jyjx/yjsjy1.htm,,,,https://global.buaa.edu.cn/,,,"主持全 部长（主持全面工作）: international@buaa.edu.cn
 吴晓君 副部长（分管全校国际学生招生工作、国际学生研究生教学工作）: xiaojunwu@buaa.edu.cn
 金天 副部长（分管国际化战略制定、国际关系拓展、校级来访出访大型外事活动、学生）: jintian@buaa.edu.cn
 刘娜 副部长（分管全校教工及学生因公出国（境）业务、国际学生管理工作）: liuna@buaa.edu.cn
 苏力 副部长（分管引智项目建设、国际会议管理、外籍专家学者来华管理服务、国际学）: suli@buaa.edu.cn
-廖伟骏 副部长: liaowj18@buaa.edu.cn
-略合作 主任（负责大型外事活动、涉外合作协议、国际组织及大学联盟等）: fanhang@buaa.edu.cn
-出工作 主任: cgk@buaa.edu.cn
-生管理 主任（负责国际本科生管理事务 传）: zhao_shuang@buaa.edu.cn
+协助部 副部长: liaowj18@buaa.edu.cn
+处理对 部长: liaowj18@buaa.edu.cn
+统筹全 主任（负责大型外事活动、涉外合作协议、国际组织及大学联盟等）: fanhang@buaa.edu.cn
+略合作 主任
+统筹全 主任（负责“111”基地建设、对日交流合作、“顶尖大学学者合作计划”、）: international@buaa.edu.cn
+术交流 主任
+教工及 主任: cgk@buaa.edu.cn
+出工作 主任
+统筹科 主任（负责国际本科生管理事务 传）: zhao_shuang@buaa.edu.cn
+生管理 主任
 生教务 主任（负责国际学生招生及奖学金事务）: gaoyuan@buaa.edu.cn
-文教育 主任（负责中文国际教育项目与教学）: is_office@buaa.edu.cn",,
-182,北京市,清华大学,,985,公办,,https://www.tsinghua.edu.cn/zsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/jyjx/yjsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/hzjl/gjhz.htm,,webmaster@tsinghua.edu.cn,,010-62793001,
-183,北京市,中国传媒大学,,211,公办,,https://www.cuc.edu.cn/zsjy/list.htm,,,,http://www.cuc.edu.cn/9998/list.htm#rc-main2,,,,https://international.cuc.edu.cn/,,kzxy@cuc.edu.cn,,,
-184,北京市,中国地质大学（北京）,,211,公办,,http://jiuye.cugb.edu.cn/,,jyxsc@126.com,909355733,https://graduate.cugb.edu.cn,,,,https://gjhzc.cugb.edu.cn/,,,给山东 书记（主持会议）（邮箱未公开）,,
-185,北京市,中国政法大学,,211,公办,,,,,,,,,,http://gjhzjlc.cupl.edu.cn/,,,,,
-186,北京市,中国石油大学（北京）,,211,公办,,http://career.cup.edu.cn/,,cupjiuye@qq.com; job89731016@163.com,010-89733499; 010-89731016,https://grs.cup.edu.cn/,邮编,,,https://www.cup.edu.cn/overseas/index.htm,,admission@cup.edu.cn; cie.office@cup.edu.cn; cie.dailyservices@cup.edu.cn,,,
-187,北京市,中国矿业大学（北京）,,211,公办,,https://www.cumtb.edu.cn/zsjy.htm,,,,http://yjs.cumtb.edu.cn/,,,,https://international.cumtb.edu.cn/gywm/jgsz.htm,,,,,
-188,北京市,中央财经大学,,211,公办,,https://www.cufe.edu.cn/zsjy.htm,,,,http://gs.cufe.edu.cn/,,,,http://int.cufe.edu.cn/gywm.htm,,,,,
-189,北京市,中央音乐学院,,211,公办,,https://www.ccom.edu.cn/zsyjy.htm,,,,,,,,https://www.ccom.edu.cn/info/18061/267901.htm,,,,,
-190,北京市,北京中医药大学,,211,公办,,https://www.bucm.edu.cn/zsjy1/index.htm,,,,http://yanjiusheng.bucm.edu.cn/,,,,https://international.bucm.edu.cn/,,,,,
-191,北京市,北京交通大学,,211,公办,,http://job.bjtu.edu.cn/,,jyb113@126.com; bjtujobwx@126.com; bjtujob@163.com,010-51688431; 010-51685913; 010-51682911,https://yzb.bjtu.edu.cn/,,bjtuzgxy@bjtu.edu.cn,,https://intl.bjtu.edu.cn/,,bjtu-intl@bjtu.edu.cn,,,
-192,北京市,北京体育大学,,211,公办,,https://www.bsu.edu.cn/zsjy/index.htm,,,,https://www.bsu.edu.cn/kxyjsy/index.htm,,xiaoban@bsu.edu.cn,040202430168; 14015216941; 13585035162,http://wsc.bsu.edu.cn/,,wsc@bsu.edu.cn,樊战备 书记（负责人会面交流）（邮箱未公开）,,
-193,北京市,北京化工大学,,211,公办,,https://www.buct.edu.cn/zsjy_11437/list.htm,,news@mail.buct.edu.cn,,http://graduate.buct.edu.cn/,,,,https://iecd.buct.edu.cn/,,,,,
-194,北京市,北京外国语大学,,211,公办,,https://jyzd.bfsu.edu.cn/,,jyzd@bfsu.edu.cn,010-88816211,https://graduate.bfsu.edu.cn/,,,,https://international.bfsu.edu.cn/,,,,,
-195,北京市,北京工业大学,,211,公办,,http://admissions.bjut.edu.cn/,,,010-67391609,https://www.bjut.edu.cn/jyjx/yjsjy1.htm,,,010000000606,https://international.bjut.edu.cn/,,,际合作 处长（邮箱未公开）,,
-196,北京市,北京林业大学,,211,公办,,http://job.bjfu.edu.cn,,,,http://graduate.bjfu.edu.cn/,,,,https://international.bjfu.edu.cn/,,gjc@bjfu.edu.cn,,,
-197,北京市,北京科技大学,,211,公办,,https://www.ustb.edu.cn/zsjy/index.htm,,,,http://yzxc.ustb.edu.cn/,,,,https://oice.ustb.edu.cn/,,,"段晓芳 处长: xfduan@ustb.edu.cn
-张博威 副处长: bwzhang@ustb.edu.cn",,
-198,北京市,北京邮电大学,,211,公办,,,,,,,,,,https://www.bupt.edu.cn/hzjl.htm,,,,,官网不可达：requests失败
-199,北京市,华北电力大学,,211,公办,,https://www.ncepu.edu.cn/zsjy/index.htm,,,,https://yjsy.ncepu.edu.cn/,,,,https://icd.ncepu.edu.cn/,,,"李博 处长（主持国际合作处（港澳台办）全面工作）（邮箱未公开）
-赵子健 副处长（邮箱未公开）
-丁肇豪 副处长（邮箱未公开）",,
-200,北京市,对外经济贸易大学,,211,公办,,https://www.uibe.edu.cn/zsjy/index.htm,,,,https://yjsy.uibe.edu.cn/,,,,https://international.uibe.edu.cn/,,,,,
-201,北京市,中国人民公安大学,,双一流,公办,,https://www.ppsuc.edu.cn/zsjy.htm,,gadx@ppsuc.edu.cn,,https://yzb.ppsuc.edu.cn/,,yzb@ppsuc.edu.cn,,https://www.ppsuc.edu.cn/dwjl.htm,,gadx@ppsuc.edu.cn,外事局 副处长（负责中老警务合作工作）（邮箱未公开）,,
-202,北京市,中国科学院大学,,双一流,公办,,https://www.ucas.ac.cn/zsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/jyjx/yjsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/hzjl/gjhz/index.htm,,,"王艳芬 副书记（邮箱未公开）
-肖作敏 书记（邮箱未公开）",,
-203,北京市,中国音乐学院,,双一流,公办,,,,,,http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm,,,010-64887561,https://gjjl.ccmusic.edu.cn/,,zyywb@126.com; gmel_ccmjec@163.com,,,
-204,北京市,中央戏剧学院,,双一流,公办,,,,,,,,,,https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html,,zhongxi@zhongxi.cn,,,
-205,北京市,中央美术学院,,双一流,公办,,https://jy.cafa.edu.cn,,,,https://www.cafa.edu.cn/sp/2022clinks/?cs=1201,,,,https://global.cafa.edu.cn/,,lxs@cafa.edu.cn,,,
-206,北京市,北京协和医学院,,双一流,公办,,https://www.pumc.edu.cn/jyjx/zsjy/index.htm,,,040202450060,http://graduate.pumc.edu.cn/,北京协和医学院研究生院,,,https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm,,,,,
-207,北京市,外交学院,,双一流,公办,,,,,,https://yjsb.cfau.edu.cn/,,,,https://wjxx.cfau.edu.cn/,,,,,
-208,北京市,首都师范大学,,双一流,公办,,https://www.cnu.edu.cn/zsjy/index.htm,,info@cnu.edu.cn,,https://www.cnu.edu.cn/jyjx/index.htm?mao=b02,,info@cnu.edu.cn,,https://io-hkmt.cnu.edu.cn/,,info@cnu.edu.cn,,,
-209,四川省,四川大学,,985,公办,,,,,,,,,,https://international.scu.edu.cn/,,international@scu.edu.cn; nic8203@scu.edu.cn,,,官网不可达：requests失败
-210,四川省,电子科技大学,,985,公办,,https://jiuye.uestc.edu.cn/career/,用人单位,jyzdzx@uestc.edu.cn,028-61831789,https://gr.uestc.edu.cn/,,,,http://www.oice.uestc.edu.cn/,,,,,
-211,四川省,四川农业大学,,211,公办,,https://job.sicau.edu.cn/,川农就业系统小程序,job2501@163.com; scndjy@163.com; djyjiuye@163.com,0835-2882800（; 0835-2882800; 028-86290666,https://yan.sicau.edu.cn/,,,,https://ic.sicau.edu.cn/,,,,,
-212,四川省,西南交通大学,,211,公办,,https://www.swjtu.edu.cn/zsjy.htm,,zszx@swjtu.edu.cn; yzb@home.swjtu.edu.cn; cjzs@swjtu.edu.cn,028-87600332; 028-87634132,https://yz.swjtu.edu.cn/web/index.html,,,028-66366757; 028-66366756; 028-66367138,https://fad.swjtu.edu.cn/,,,,,
-213,四川省,西南财经大学,,211,公办,,https://www.swufe.edu.cn/zsjy.htm,,webmaster@swufe.edu.cn,010502010087,https://graduate.swufe.edu.cn/,,yjsy@swufe.edu.cn,（028）87092032; 028-87092482,https://oiec.swufe.edu.cn/,,oiec@swufe.edu.cn,"袁源 副处长（出国境管理科、综合与信息管理科，协助国际处各项工作。）: yuanyuan@swufe.edu.cn
+生教务 主任
+文教育 主任（负责中文国际教育项目与教学）: is_office@buaa.edu.cn
+文教育 主任
+导下的 主任（负责制）",,23,"材料科学与工程学院 | http://mse.buaa.edu.cn/
+可靠性与系统工程学院 | http://rse.buaa.edu.cn
+能源与动力工程学院 | http://sepe.buaa.edu.cn/ | 电话:010-61716819
+航空科学与工程学院 | http://www.ase.buaa.edu.cn/ | 电话:011100257707; 011100257708; 011100247900
+机械工程及自动化学院 | http://www.me.buaa.edu.cn/ | 电话:61715777
+交通科学与工程学院 | http://transportation.buaa.edu.cn/
+航空发动机研究院 | http://riae.buaa.edu.cn/
+电子信息工程学院 | http://www.ee.buaa.edu.cn/
+软件学院 | http://soft.buaa.edu.cn/ | 邮箱:softzhaosheng@buaa.edu.cn | 电话:010-82339380
+自动化科学与电气工程学院 | http://dept3.buaa.edu.cn/
+网络空间安全学院 | http://cst.buaa.edu.cn | 邮箱:zizhu_39@163.com | 电话:86-10-82339538
+计算机学院 | http://scse.buaa.edu.cn/ | 邮箱:scse@buaa.edu.cn
+集成电路科学与工程学院 | https://ic.buaa.edu.cn/ | 邮箱:chenchenliu@buaa.edu.cn
+仪器科学与光电工程学院 | http://yqgdxy.buaa.edu.cn/
+大科学装置研究院 | https://piqs.buaa.edu.cn/ | 电话:82317114
+人工智能学院 | http://iai.buaa.edu.cn/ | 邮箱:IAI@buaa.edu.cn
+数学科学学院 | http://math.buaa.edu.cn/ | 电话:61716719
+化学学院 | http://sce.buaa.edu.cn/ | 电话:86-10-82317114
+物理学院 | http://physics.buaa.edu.cn/ | 电话:010-61716751
+空间与地球科学学院 | http://sse.buaa.edu.cn/ | 电话:010-61716670
+中法工程师学院 | http://ecpkn.buaa.edu.cn/
+中法航空学院 | https://zfai.buaa.edu.cn/
+国际前沿交叉科学研究院 | https://iiif.buaa.edu.cn/ | 邮箱:iiif@buaa.edu.cn | 电话:010-82339758",
+12,北京市,清华大学,,985,公办,1,https://www.tsinghua.edu.cn/zsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/jyjx/yjsjy.htm,,webmaster@tsinghua.edu.cn,010-62793001,https://www.tsinghua.edu.cn/hzjl/gjhz.htm,,webmaster@tsinghua.edu.cn,"邱勇 党委书记
+李路明 校长、党委副书记
+向波涛 党委常务副书记
+曾嵘 常务副校长
+过勇 党委副书记
+赵罡 党委副书记、纪委书记
+许庆红 党委副书记
+白本锋 党委副书记、副校长
+彭刚 副校长
+王宏伟 副校长
+吴华强 副校长
+李志华 副校长
+王亚愚 副校长",010-62793001,36,"建筑学院 | http://www.arch.tsinghua.edu.cn/ | 邮箱:jzxy@tsinghua.edu.cn | 电话:010-62783496
+土木水利学院 | http://www.civil.tsinghua.edu.cn/ | 邮箱:lib@mail.tsinghua.edu.cn; slxbgs@tsinghua.edu.cn | 电话:010-62793001
+环境学院 | http://www.env.tsinghua.edu.cn/ | 邮箱:hjx@tsinghua.edu.cn | 电话:+86-10-62784521
+车辆与运载学院 | http://www.svm.tsinghua.edu.cn/ | 邮箱:qcxbgs@tsinghua.edu.cn | 电话:010-62796167
+航天航空学院 | http://www.hy.tsinghua.edu.cn/ | 电话:010-62782434
+集成电路学院 | http://www.sic.tsinghua.edu.cn/ | 电话:010-62789317
+网络科学与网络空间研究院 | http://www.insc.tsinghua.edu.cn/ | 电话:010-62603012
+软件学院 | https://www.thss.tsinghua.edu.cn/
+人工智能学院 | https://collegeai.tsinghua.edu.cn/ | 邮箱:collegeai@mail.tsinghua.edu.cn | 电话:62788817
+材料学院 | http://www.mse.tsinghua.edu.cn/ | 电话:010-62792520; 010-62783256; 010-62783850
+核能与新能源技术研究院 | http://www.inet.tsinghua.edu.cn/
+安全科学学院 | https://www.ssafs.tsinghua.edu.cn/
+生命科学学院 | http://life.tsinghua.edu.cn/ | 邮箱:admin-life@tsinghua.edu.cn | 电话:+86-10-62788604
+交叉信息研究院 | https://iiis.tsinghua.edu.cn/ | 邮箱:iiis@mail.tsinghua.edu.cn | 电话:010-62781693
+航空发动机研究院 | http://www.ae.tsinghua.edu.cn/
+智能产业研究院 | https://air.tsinghua.edu.cn/ | 邮箱:airoffice@air.tsinghua.edu.cn; airhr@air.tsinghua.edu.cn | 电话:(010)82151160
+国家卓越工程师学院 | https://www.ngce.tsinghua.edu.cn/ | 邮箱:gcsxy@tsinghua.edu.cn | 电话:010-62793784
+人工智能学院 | http://collegeai.tsinghua.edu.cn/ | 邮箱:collegeai@mail.tsinghua.edu.cn | 电话:62788817
+建筑学院 | http://www.arch.tsinghua.edu.cn/ | 邮箱:jzxy@tsinghua.edu.cn | 电话:010-62783496
+土木水利学院 | http://www.civil.tsinghua.edu.cn/ | 邮箱:lib@mail.tsinghua.edu.cn; slxbgs@tsinghua.edu.cn | 电话:010-62793001
+环境学院 | http://www.env.tsinghua.edu.cn/ | 邮箱:hjx@tsinghua.edu.cn | 电话:+86-10-62784521
+车辆与运载学院 | http://www.svm.tsinghua.edu.cn/ | 邮箱:qcxbgs@tsinghua.edu.cn | 电话:010-62796167
+航天航空学院 | http://www.hy.tsinghua.edu.cn/ | 电话:010-62782434
+集成电路学院 | http://www.sic.tsinghua.edu.cn/ | 电话:010-62789317
+网络科学与网络空间研究院 | http://www.insc.tsinghua.edu.cn/ | 电话:010-62603012
+软件学院 | https://www.thss.tsinghua.edu.cn/
+人工智能学院 | https://collegeai.tsinghua.edu.cn/ | 邮箱:collegeai@mail.tsinghua.edu.cn | 电话:62788817
+材料学院 | http://www.mse.tsinghua.edu.cn/ | 电话:010-62792520; 010-62783256; 010-62783850
+核能与新能源技术研究院 | http://www.inet.tsinghua.edu.cn/
+安全科学学院 | https://www.ssafs.tsinghua.edu.cn/
+生命科学学院 | http://life.tsinghua.edu.cn/ | 邮箱:admin-life@tsinghua.edu.cn | 电话:+86-10-62788604
+交叉信息研究院 | https://iiis.tsinghua.edu.cn/ | 邮箱:iiis@mail.tsinghua.edu.cn | 电话:010-62781693
+航空发动机研究院 | http://www.ae.tsinghua.edu.cn/
+智能产业研究院 | https://air.tsinghua.edu.cn/ | 邮箱:airoffice@air.tsinghua.edu.cn; airhr@air.tsinghua.edu.cn | 电话:(010)82151160
+国家卓越工程师学院 | https://www.ngce.tsinghua.edu.cn/ | 邮箱:gcsxy@tsinghua.edu.cn | 电话:010-62793784
+人工智能学院 | http://collegeai.tsinghua.edu.cn/ | 邮箱:collegeai@mail.tsinghua.edu.cn | 电话:62788817",
+13,四川省,四川大学,,985,公办,16,,,,,,,,,https://international.scu.edu.cn/,,international@scu.edu.cn; nic8203@scu.edu.cn,,,18,"数学学院 | http://math.scu.edu.cn/
+物理学院 | http://physics.scu.edu.cn/ | 电话:028-85412322（
+化学学院 | http://chem.scu.edu.cn/ | 邮箱:chem@scu.edu.cn | 电话:（028）85412290
+生命科学学院 | https://life.scu.edu.cn/ | 邮箱:scu_life@163.com
+材料科学与工程学院 | http://mse.scu.edu.cn/ | 电话:86-28-85416050
+机械工程学院 | http://msec.scu.edu.cn/
+电气工程学院 | https://ee.scu.edu.cn/ | 邮箱:ee@scu.edu.cn; dianqijiwei@scu.edu.cn | 电话:028-85405614
+计算机学院 | https://cs.scu.edu.cn/
+建筑与环境学院 | http://acem.scu.edu.cn/
+水利水电学院 | http://cwrh.scu.edu.cn/ | 邮箱:cwrh_ao@scu.edu.cn; slsdjw@scu.edu.cn | 电话:(028)85401154
+化学工程学院 | http://ce.scu.edu.cn/ | 电话:028-85405222
+轻工科学与工程学院 | http://qfsp.scu.edu.cn/ | 邮箱:qgxyshuji@scu.edu.cn; qgxyyuanzhang@scu.edu.cn
+高分子科学与工程学院 | http://cpse.scu.edu.cn/ | 电话:86-28-85461786
+空天科学与工程学院 | http://saa.scu.edu.cn/ | 邮箱:hkht@scu.edu.cn | 电话:19190617397; 15578246629; 06572145836
+网络空间安全学院 | http://ccs.scu.edu.cn/ | 电话:028-85998668
+碳中和未来技术学院 | https://ccnft.scu.edu.cn/ | 邮箱:ccnft@scu.edu.cn | 电话:028-85464677
+卓越工程师学院 | http://ees.scu.edu.cn/ | 电话:028-85464900
+人工智能学院 | https://ai.scu.edu.cn/ | 邮箱:ai@scu.edu.cn; aijiwei@scu.edu.cn",
+14,四川省,电子科技大学,,985,公办,33,https://jiuye.uestc.edu.cn/career/,用人单位,jyzdzx@uestc.edu.cn,028-61831789,https://gr.uestc.edu.cn/,,,,http://www.oice.uestc.edu.cn/,,,,,21,"信息与通信工程学院 | http://www.sice.uestc.edu.cn/ | 邮箱:xintong@uestc.edu.cn | 电话:028-61830156
+电子科学与工程学院 | http://www.ese.uestc.edu.cn/
+材料与能源学院 | http://materials.uestc.edu.cn/
+机械与电气工程学院 | http://www.smee.uestc.edu.cn/
+光电科学与工程学院 | http://sose.uestc.edu.cn/
+自动化工程学院 | http://www.auto.uestc.edu.cn/
+资源与环境学院 | http://www.sre.uestc.edu.cn/
+航空航天学院 | https://www.iaa.uestc.edu.cn/
+数学科学学院 | https://www.math.uestc.edu.cn/
+物理学院 | https://www.sp.uestc.edu.cn/
+生命科学与技术学院 | https://www.life.uestc.edu.cn/
+电子科技大学（深圳）高等研究院 | https://sias.uestc.edu.cn/
+国家卓越工程师学院 | https://ngcee.uestc.edu.cn/
+电子科学技术研究院 | https://www.riest.uestc.edu.cn/
+电子科技大学广东电子信息工程研究院 | http://www.dgieie.cn/
+电子科技大学成都研究院 | https://www.cdyjy.uestc.edu.cn/
+先进毫米波技术集成攻关研究院 | https://mmw.uestc.edu.cn/
+智能计算研究院 | https://icct.uestc.edu.cn/
+电子科技大学绛溪研究院 | https://jxyjy.uestc.edu.cn/ | 电话:028-81366687
+电子科技大学宜宾研究院 | https://yb.uestc.edu.cn/
+电子科技大学重庆微电子产业技术研究院 | https://cq.uestc.edu.cn/",
+15,天津市,南开大学,,985,公办,21,https://www.nankai.edu.cn/239/list.htm,,,,http://graduate.nankai.edu.cn,,,,https://international.nankai.edu.cn/,,exchange@nankai.edu.cn,"袁明鉴 处长（职责： 全面主持处内工作 办公）: yuanmj@nankai.edu.cn
+李华 副处长（职责： 分管日韩交流工作、师生服务科事务、孔子学院工作管理科事务）: lihua@nankai.edu.cn
+罗景山 副处长（职责： 分管对外交流工作、港澳台工作、国际胜任力服务科工作）: jingshan.luo@nankai.edu.cn
+工作 处长（全面主持处内工作）: yuanmj@nankai.edu.cn
+工作 副处长（分管日韩交流工作、师生服务科事务、孔子学院工作管理科事务、部门综合事务）: lihua@nankai.edu.cn
+工作 副处长（分管对外交流工作、港澳台工作、国际胜任力服务科工作。）: jingshan.luo@nankai.edu.cn
+交流 科长（职责： 负责交流科全面工作）: yangqy@nankai.edu.cn
+交流 副科长（职责： 负责国际联盟合作事务）: zhangshuyi@nankai.edu.cn
+交流 科员（职责： 负责欧洲、非洲及中东地区交流事务）
+工作 科长（负责交流科全面工作，统筹美大欧亚非交流事务）: yangqy@nankai.edu.cn
+工作 副科长（负责国际）: zhangshuyi@nankai.edu.cn
+工作 科员（负责欧洲、非洲及中东）
+生服务 科长（职责： 负责科内师生出国（境）、外国专家、世界一流大学研究与评价）: zd@nankai.edu.cn
+生服务 副科长（职责： 负责各类外国专家平台及个人类项目服务管理；负责校内引智项）: yanruoyan@nankai.edu.cn
+生服务 科员（职责： 负责全校师生出国（境）审批；负责派出全流程教育管理；负责）: sunxian@nankai.edu.cn
+生服务 科员（职责： 负责外国专家长短期来校事宜；负责外国专家各类手续办理；负）: biancaliang54ss@nankai.edu.cn
+生服务 科员（职责： 负责外国专家大讲堂各项工作；协助负责学生各类国（境）外长）: 001114@nankai.edu.cn
+工作 科长（负责科内师生出国（境）、外国专家、世界一流大学研究与评价各项工作。）: zd@nankai.edu.cn
+工作 副科长（负责各类外国专家平台及个人类项目服务管理；负责校内引智项目各项工作；负责外国专家）: yanruoyan@nankai.edu.cn
+工作 科员（负责全校师生出国（境）审批；负责派出全流程教育管理；负责因）: sunxian@nankai.edu.cn
+工作 科员（负责外国专家长短期来校事宜；负责外国专家各类手续）: biancaliang54ss@nankai.edu.cn
+工作 科员（负责外国专家大讲堂各项工作；协助负责学生各类国（境）外长短期交流项目及外国专家各）: 001114@nankai.edu.cn",,0,,
+16,天津市,天津大学,,985,公办,20,https://www.tju.edu.cn/zsjy.htm,官方微信号,,,https://www.tju.edu.cn/zsjy.htm#zsjy03,官方微信号,,,https://www.tju.edu.cn/gjjl.htm,官方微信号,,"梅兵 党委书记
+柴立元 校长、党委副书记
+雷鸣 党委常务副书记
+王天友 党委常委、常务副校长
+李炜 党委副书记、纪委书记、国家监委驻天津大学监察专员、一级高级监察官
+郑刚 党委常委、副校长
+明东 副校长
+韩庆华 党委副书记
+李斌 党委常委、副校长
+张鹏 党委常委、副校长、总会计师
+肖松山 校长助理
+杨欢 党委常委、宣传部部长
+张俊艳 党委常委、统战部部长
+刘秀国 校长助理
+赵金铎 党委常委、组织部部长
+黄辉 校长助理
+历任研 副处长（主持工作）、研究生院副院长、研究生院常务副院长、校长助理）",,21,"机械工程学院 | https://www.tju.edu.cn/info/1044/1252.htm | 电话:022-87401979
+精密仪器与光电子工程学院 | https://www.tju.edu.cn/info/1044/1251.htm | 电话:022-27404775
+电气自动化与信息工程学院 | https://www.tju.edu.cn/info/1044/1250.htm | 电话:022-27405477
+微电子学院 | https://www.tju.edu.cn/info/1044/1249.htm | 电话:022-27405714
+智能与计算学部-计算机科学与技术学院 | https://www.tju.edu.cn/info/1044/1234.htm | 电话:022-27407657
+智能与计算学部-网络安全学院 | https://www.tju.edu.cn/info/1044/82252.htm | 电话:022-27407649
+智能与计算学部-人工智能学院 | https://www.tju.edu.cn/info/1044/9356.htm
+智能与计算学部-软件学院 | https://www.tju.edu.cn/info/1044/10147.htm | 电话:022-87401540
+建筑工程学院 | https://www.tju.edu.cn/info/1044/1248.htm | 电话:022-27404072
+建筑学院 | https://www.tju.edu.cn/info/1044/1247.htm | 电话:022-27404491
+化工学院 | https://www.tju.edu.cn/info/1044/1246.htm | 电话:022-27403389
+材料科学与工程学院 | https://www.tju.edu.cn/info/1044/1245.htm
+环境科学与工程学院 | https://www.tju.edu.cn/info/1044/1235.htm | 电话:022-87402072
+理学院 | https://www.tju.edu.cn/info/1044/1241.htm | 电话:022-27404118
+数学学院 | https://www.tju.edu.cn/info/1044/1240.htm | 邮箱:math@tju.edu.cn | 电话:022-60787827
+海洋科学与技术学院 | https://www.tju.edu.cn/info/1044/1231.htm | 邮箱:marine@tju.edu.cn | 电话:022-87370655
+地球系统科学学院 | https://www.tju.edu.cn/info/1044/1227.htm | 电话:022-27405051
+能源学院 | https://www.tju.edu.cn/info/1044/84282.htm | 邮箱:esse@tju.edu.cn | 电话:022-61158377
+未来技术学院 | https://www.tju.edu.cn/info/1044/82262.htm | 电话:022-85356258
+国家卓越工程师学院、国际工程师学院 | https://www.tju.edu.cn/info/1044/75642.htm | 电话:022-87370871
+分子聚集态科学研究院 | https://www.tju.edu.cn/info/1044/2254.htm | 邮箱:imas@tju.edu.cn | 电话:022-27893326",
+17,安徽省,中国科学技术大学,,985,公办,7,,,,,https://gradschool.ustc.edu.cn/,,yjsy@ustc.edu.cn,0551-63601958,https://oic.ustc.edu.cn/,,fanjiangqi@ustc.edu.cn; oic@ustc.edu.cn,"主持国 主任（主持国际合作与交流部全面工作 主持国际合作与交流部全面工作 05）: qukun@ustc.edu.cn
+程光磊 副部长（分管国际化发展和学生交流相关工作 分管国际化发展和学生交流相关工）: glcheng@ustc.edu.cn
+生工作 副处长（分管国际学院留学生相关工作 分管国际学院留学生相关工作 0551）: judyshen@ustc.edu.cn
+协助分 副部长（分管学生交流相关工作 协助分管学生交流相关工作 0551-636）: ygl@ustc.edu.cn
+校内外 主任: junmeixu@ustc.edu.cn
+李领 主任: leeling@ustc.edu.cn
+孙晓辉 主任: sunxiaoh@ustc.edu.cn
+学生国 主任: ljxm6@ustc.edu.cn
+校际合 主任: lynnqiu@ustc.edu.cn
+留学生 主任: tianlin@ustc.edu.cn
+协助 副部长（学生交流相关工作 协助分管学生交流相关工作 0551-63606459 ygl@）: ygl@ustc.edu.cn",0551-63606695,18,"数学科学学院 | https://math.ustc.edu.cn/ | 邮箱:hzx@ustc.edu.cn | 电话:0946799359
+物理学院 | https://physics.ustc.edu.cn/
+化学与材料科学学院 | https://scms.ustc.edu.cn/ | 邮箱:scms@ustc.edu.cn; luliu@ustc.edu.cn
+工程科学学院 | https://ses.ustc.edu.cn/ | 电话:0551-63607734
+信息与智能学部 | https://iid.ustc.edu.cn/main.htm
+信息科学技术学院 | https://sist.ustc.edu.cn/ | 电话:0551-63607054
+计算机科学与技术学院 | https://cs.ustc.edu.cn/
+人工智能与数据科学学院 | https://saids.ustc.edu.cn | 邮箱:ustcaids@ustc.edu.cn
+网络空间安全学院 | https://cybersec.ustc.edu.cn/ | 邮箱:admin@asipp.ac.cn
+软件学院 | https://sse.ustc.edu.cn/ | 邮箱:websse@ustc.edu.cn | 电话:020-83163338
+地球和空间科学学院 | https://ess.ustc.edu.cn/ | 邮箱:essadmin@ustc.edu.cn | 电话:0551-63601848
+生命科学学院 | https://biox.ustc.edu.cn/
+环境学院 | https://soe.ustc.edu.cn
+核科学技术学院 | https://www.snst.ustc.edu.cn/
+未来技术学院 | http://set.ustc.edu.cn
+国家卓越工程师学院 | https://see.ustc.edu.cn/ | 邮箱:ustcsee@ustc.edu.cn | 电话:0551-65708036
+中国科学院量子信息与量子科技创新研究院 | http://www.quantumcas.ac.cn/
+先进技术研究院 | https://iat.ustc.edu.cn/ | 电话:011102001530",
+18,山东省,中国海洋大学,,985,公办,51,http://career.ouc.edu.cn/default.html,,,15028551517; 13432724776; 15087259867,http://grad.ouc.edu.cn/13039/list.htm,,yjsy@ouc.edu.cn,,https://intl.ouc.edu.cn/,,news@ouc.edu.cn,"海洋事 秘书长
+张临杰 副院长（负责人盛立芳）",021202000030,11,"海洋与大气学院 | https://coas.ouc.edu.cn/ | 邮箱:coas@ouc.edu.cn | 电话:0532-66782372
+信息科学与工程学部 | https://it.ouc.edu.cn/ | 电话:14369066079
+化学化工学院 | https://chem.ouc.edu.cn/ | 邮箱:hxhgxy@ouc.edu.cn | 电话:0532-66782481
+海洋地球科学学院 | https://cmg.ouc.edu.cn/ | 电话:0532-66782488
+海洋生命学院 | https://cmls.ouc.edu.cn/ | 电话:0532-82031809
+食品科学与工程学院 | https://cfse.ouc.edu.cn/ | 电话:053260892272
+工程学院 | https://coe.ouc.edu.cn/ | 电话:0532-60891550
+环境科学与工程学院 | https://cese.ouc.edu.cn/ | 邮箱:environment@ouc.edu.cn
+数学科学学院 | https://math.ouc.edu.cn/ | 电话:0532-66787153
+材料科学与工程学院 | https://mse.ouc.edu.cn/ | 邮箱:cailiao@ouc.edu.cn | 电话:0532-60891690
+卓越工程师学院 | https://gcee.ouc.edu.cn/ | 邮箱:zygcs@ouc.edu.cn | 电话:0532-66782663",
+19,山东省,山东大学,,985,公办,22,https://www.job.sdu.edu.cn/,,,,https://www.grad.sdu.edu.cn/,,pgs@sdu.edu.cn,,https://www.ipo.sdu.edu.cn/,,,"调中方 院长（职责包括：制定学校国际中文教育有关政策与孔子学院建设发展规划并推）
+长兼 主任（主持全面工作 负责重大项目推进）: mawen@sdu.edu.cn
+孙鹏程 副部长（负责威海校区国际事务 负责国际会议 协助中外合作办学工作）: pcsun@sdu.edu.cn
+周传恩 副部长（负责青岛校区国际事务 负责俄语区和上合组织合作 协助中外合作办学）: czhou@sdu.edu.cn
+张佳琦 副部长: jqzhang@sdu.edu.cn
+任向荣 副主任（负责人事、宣传、 校园国际化氛围工作 负责师生出国出境审批 协助）: renxiangrong@sdu.edu.cn
+布乃鹏 副部长（负责国际学生学者事务）: bunp@sdu.edu.cn
+麻梦然 副主任（负责港澳台工作 统筹师生全球胜任力培养工作 负责日本、韩国合作）: mamengran@sdu.edu.cn
+张晓辉 院长（负责孔子学院中方院长事务 负责科研和教研项目 联系新加坡、蒙古、）: zxh@sdu.edu.cn
+事务 院长（科研和教研项目）: zxh@sdu.edu.cn",,36,"数学学院 | http://www.math.sdu.edu.cn/ | 邮箱:sxyuanzhang@sdu.edu.cn | 电话:0531-88364652
+物理学院 | http://www.phy.sdu.edu.cn | 邮箱:physics@sdu.edu.cn
+化学与化工学院 | http://www.chem.sdu.edu.cn | 邮箱:yuanzhangmail@sdu.edu.cn | 电话:0531-88364464
+晶体材料研究院 | https://jty.sdu.edu.cn/ | 电话:0531-88364864
+新一代半导体材料研究院 | https://dpt.sdu.edu.cn/
+人工智能学院 | http://www.ai.sdu.edu.cn/ | 邮箱:ai@sdu.edu.cn
+国家卓越工程师学院 | https://gsee.sdu.edu.cn/ | 邮箱:zygcs@sdu.edu.cn | 电话:0531-88362559
+智能通信技术研究院 | https://iict.sdu.edu.cn
+材料科学与工程学院 | http://www.cmse.sdu.edu.cn/ | 电话:0531-88392315
+机械工程学院 | http://www.mech.sdu.edu.cn/ | 电话:0531-88392608
+控制科学与工程学院 | http://control.sdu.edu.cn/
+核科学与能源动力学院 | http://www.epe.sdu.edu.cn | 电话:0531-88392701
+电气工程学院 | http://www.ee.sdu.edu.cn/ | 电话:0531-88392369
+土建与水利学院 | http://www.tjsl.sdu.edu.cn/ | 邮箱:tjfdw@sdu.edu.cn | 电话:0531-88392446
+软件学院 | http://www.sc.sdu.edu.cn/ | 电话:531-88391516
+集成电路学院 | http://ic.sdu.edu.cn | 邮箱:jcdlbkjw@sdu.edu.cn | 电话:8839016; 05318839013; 053188390132
+人工智能国际联合研究院 | https://cfair.sdu.edu.cn/ | 邮箱:cfair@sdu.edu.cn | 电话:053188391816
+智能创新研究院 | https://aii.sdu.edu.cn | 邮箱:yunqing@sdu.edu.cn | 电话:0531-88390600
+密码科学与工程学院 | https://cse.sdu.edu.cn/
+齐鲁交通学院 | http://www.qltrans.sdu.edu.cn/ | 电话:0531-86358717
+未来技术学院 | https://sft.sdu.edu.cn/
+空间科学与技术学院 | https://apd.wh.sdu.edu.cn/ | 邮箱:sssp@wh.sdu.edu.cn | 电话:0631-5688751
+数学与统计学院 | https://math.wh.sdu.edu.cn/ | 电话:0631-5688523
+海洋学院 | https://mc.wh.sdu.edu.cn/ | 电话:0631-5688303
+低空科学与工程学院 | https://ie.wh.sdu.edu.cn/ | 邮箱:ie@wh.sdu.edu.cn
+山东大学澳国立联合理学院 | https://jsc.wh.sdu.edu.cn/ | 邮箱:shanu@sdu.edu.cn | 电话:0631-5688510; 0631-5688516
+信息科学与工程学院 | http://www.ise.sdu.edu.cn | 电话:0532-58630768
+计算机科学与技术学院 | http://www.cs.sdu.edu.cn/
+生命科学学院 | https://lifesci.sdu.edu.cn/
+环境科学与工程学院 | http://www.huanke.sdu.edu.cn/ | 邮箱:hjxy@sdu.edu.cn | 电话:0532-58630926
+国际创新转化学院 | https://isie.qd.sdu.edu.cn/ | 电话:0532-58631828
+网络空间安全学院 | https://cst.qd.sdu.edu.cn/ | 邮箱:cst@sdu.edu.cn
+前沿交叉科学青岛研究院 | https://frontier.qd.sdu.edu.cn/ | 邮箱:qyy@sdu.edu.cn | 电话:（0532）58630258
+微生物技术研究院 | http://www.mbtechinst.qd.sdu.edu.cn/ | 邮箱:wswyb@sdu.edu.cn
+环境研究院 | https://www.hj.sdu.edu.cn/ | 电话:0531-88369788
+海洋研究院 | http://www.imst.sdu.edu.cn | 邮箱:imst@sdu.edu.cn | 电话:0532-58633267（",
+20,江苏省,东南大学,,985,公办,15,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,https://oic.seu.edu.cn/,,,签字并 副院长（负责人及院长或分管外事副院长签字并加盖学院公章）,,24,"建筑学院 | http://arch.seu.edu.cn/ | 邮箱:deanoffice_seuarch@seu.edu.cn | 电话:025-83792223
+机械工程学院 | http://me.seu.edu.cn
+能源与环境学院 | http://power.seu.edu.cn/main.htm
+信息科学与工程学院 | http://radio.seu.edu.cn/ | 邮箱:radio@pub.seu.edu.cn; seuradiojob@163.com | 电话:025-52091073; 025-83792654
+土木工程学院 | http://civil.seu.edu.cn/ | 邮箱:admin_civil@pub.seu.edu.cn | 电话:025-52091227
+电子科学与工程学院 | http://electronic.seu.edu.cn | 邮箱:dzxy@pub.seu.edu.cn | 电话:025-83790809
+数学学院 | http://math.seu.edu.cn/
+自动化学院 | http://automation.seu.edu.cn | 邮箱:jupiter@seu.edu.cn | 电话:025-83792724
+计算机科学与工程学院 | http://cs.seu.edu.cn | 电话:18532281240
+物理学院 | http://physics.seu.edu.cn/ | 电话:025-52090600
+材料科学与工程学院 | http://smse.seu.edu.cn | 电话:025-52090672
+电气工程学院 | http://ee.seu.edu.cn | 电话:025-83792260
+化学化工学院 | http://chem.seu.edu.cn
+交通学院 | http://tc.seu.edu.cn/ | 邮箱:seutc_official@126.com
+仪器科学与工程学院 | http://ins.seu.edu.cn | 电话:13405399473
+软件学院 | http://cose.seu.edu.cn | 电话:18532281240
+集成电路学院 | http://ic.seu.edu.cn | 邮箱:ic-seu@seu.edu.cn | 电话:0510-85115626
+网络空间安全学院 | http://cyber.seu.edu.cn | 邮箱:cyber@pub.seu.edu.cn; master@seu.edu.cn | 电话:025-52091393
+人工智能学院 | http://ai.seu.edu.cn | 电话:18532281240
+生命科学与技术学院 | http://ils.seu.edu.cn | 邮箱:stephenxu@seu.edu.cn | 电话:025-83790971（
+国家卓越工程师学院 | https://gjzygcs.seu.edu.cn/
+未来技术学院 | http://futuretech.seu.edu.cn | 邮箱:FT@pub.seu.edu.cn | 电话:025-52097796
+统计与数据科学学院 | http://stat.seu.edu.cn
+智能科学与工程学院 | https://www.seu.edu.cn/yxsz/list.htm",
+21,江苏省,南京大学,,985,公办,6,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,"赴哈萨 副处长
+谷成 处长: chenggu@nju.edu.cn
+胡捷 副处长: melissahu@nju.edu.cn
+曹毅 副处长: caoyi@nju.edu.cn
+蔡丹丹 副处长: ddcai@nju.edu.cn
+刘晓燕 主任: xiaoyanliu@nju.edu.cn
+陈楠 主任: chennan@nju.edu.cn
+蒋文嘉 副主任: wenjiajiang@nju.edu.cn
+蒋佩晔 主任: pyj@nju.edu.cn
+洪雨杏 主任: stuex@nju.edu.cn
+虞斌 主任: yubin@nju.edu.cn
+沈艳 主任（负责协调台港澳事务的归口管理和服务工作）: sheny@nju.edu.cn
+陈俊杰 副主任: chenjunjie@nju.edu.cn
+茅雨菲 主任: maoyf@nju.edu.cn
+赵悦
+解薇静: xieweijing@nju.edu.cn
+单真荣
+虞斌
+意大利 主任",,0,,
+22,浙江省,浙江大学,,985,公办,3,,,,,,,,,http://www.ir.zju.edu.cn/,,oge@zju.edu.cn; hmt@zju.edu.cn,,,0,,
+23,湖北省,华中科技大学,,985,公办,9,https://www.hust.edu.cn/zsjy.htm,,,027-87541114,http://gs.hust.edu.cn/,,yzxx@hust.edu.cn,027-87542152,https://oia.hust.edu.cn/,,international@hust.edu.cn,"盛静波 副主任
+庞灿楠 科长
+刘元婕 科员
+陈洁 主任",027-87541114,24,"数学与统计学院 | http://maths.hust.edu.cn/ | 邮箱:mathhust@mail.hust.edu.cn
+物理学院 | http://phys.hust.edu.cn/ | 邮箱:phyoffice@hust.edu.cn | 电话:0784053969; 027-87543881
+化学与化工学院 | http://chem.hust.edu.cn/ | 邮箱:hustchem@hust.edu.cn | 电话:027-58868736
+生命科学与技术学院 | http://life.hust.edu.cn/ | 邮箱:lifelife@hust.edu.cn | 电话:027-87792072
+机械科学与工程学院 | http://mse.hust.edu.cn/ | 邮箱:mse@hust.edu.cn | 电话:027-87543770
+材料科学与工程学院 | http://mat.hust.edu.cn/
+能源与动力工程学院 | http://energy.hust.edu.cn/ | 邮箱:Nyxy@hust.edu.cn | 电话:027-58868777; 027-58868767; 027-58868766
+中欧清洁与可再生能源学院 | http://icare.hust.edu.cn/ | 邮箱:icare@hust.edu.cn | 电话:027-58868786
+电气与电子工程学院 | http://seee.hust.edu.cn/ | 邮箱:seee@mail.hust.edu.cn | 电话:027-87543228
+船舶与海洋工程学院 | http://ch.hust.edu.cn/ | 邮箱:naoe_dean@hust.edu.cn | 电话:027-87543158
+电子信息与通信学院 | http://ei.hust.edu.cn/ | 邮箱:husteic@hust.edu.cn | 电话:027-87792776
+光学与电子信息学院 | http://oei.hust.edu.cn | 邮箱:oei@hust.edu.cn | 电话:027-87558725
+未来技术学院 | http://sft.hust.edu.cn/ | 电话:027-87792225
+工程科学学院 | http://ses.hust.edu.cn/index.htm
+集成电路学院 | http://ic.hust.edu.cn | 邮箱:IC_DI@hust.edu.cn | 电话:027-87542594
+人工智能与自动化学院 | http://aia.hust.edu.cn/ | 邮箱:AIA-president@hust.edu.cn | 电话:027-87543130
+计算机科学与技术学院 | http://www.cs.hust.edu.cn/ | 邮箱:jsjzyjs@hust.edu.cn | 电话:027-87544501
+航空航天学院 | http://ae.hust.edu.cn/ | 邮箱:hustAE@126.com | 电话:027-87540185
+建筑与城市规划学院 | http://aup.hust.edu.cn/ | 邮箱:auphust@hust.edu.cn | 电话:027-87556714
+土木与水利工程学院 | http://civil.hust.edu.cn/ | 邮箱:sche@hust.edu.cn | 电话:027-87541954
+环境科学与工程学院 | http://ese.hust.edu.cn/ | 邮箱:hjxy@hust.edu.cn | 电话:027-87540956
+网络空间安全学院 | http://cse.hust.edu.cn/ | 邮箱:cyberse@hust.edu.cn | 电话:027-87540560
+软件学院 | http://sse.hust.edu.cn/ | 邮箱:hlsdbgyx@163.com; sse@hust.edu.cn | 电话:027-87792253; 027-87792255
+医疗装备科学与工程研究院 | http://imese.hust.edu.cn/ | 邮箱:imese@hust.edu.cn",
+24,湖北省,武汉大学,,985,公办,8,,,,,https://www.whu.edu.cn/rcpy.htm#md2,,,027-68752059,https://oir.whu.edu.cn/,,,"彭国晖 主任
+邓鹤翔 部长（全面负责国际交流部工作， 分管 综合）
+刘晓黎 副部长（分管 欧亚非事务）
+何小英 副部长（分管 法国、法语区国家交流工作 、武汉法语）
+章臣 副部长（分管美大事务）
+张卫星 副部长（分管 外国专家工作）",027-68752059,19,"数学与统计学院 | http://maths.whu.edu.cn/ | 邮箱:maths@whu.edu.cn | 电话:027-68752957
+物理科学与技术学院 | http://physics.whu.edu.cn/ | 邮箱:Phy@whu.edu.cn | 电话:027-68752161
+化学与分子科学学院 | http://chem.whu.edu.cn/ | 邮箱:hxydzb@whu.edu.cn | 电话:027-68754067
+生命科学学院 | http://bio.whu.edu.cn/ | 邮箱:1304011@whu.edu.cn | 电话:+86-27-68753780
+资源与环境科学学院 | http://sres.whu.edu.cn/ | 邮箱:sres@whu.edu.cn | 电话:027-68778381
+地球与空间科学技术学院 | https://esst.whu.edu.cn/ | 邮箱:esst@whu.edu.cn
+动力与机械学院 | http://pmc.whu.edu.cn/ | 邮箱:1234567@whu.edu.cn
+电气与自动化学院 | http://eea.whu.edu.cn/ | 邮箱:wddqxy@whu.edu.cn | 电话:027-68772279
+土木建筑工程学院 | http://civ.whu.edu.cn/
+水利水电学院 | http://swrh.whu.edu.cn/ | 邮箱:sdxy@whu.edu.cn | 电话:68788661; 027-68772215
+机器人学院 | https://robotics.whu.edu.cn/ | 邮箱:robotics@whu.edu.cn | 电话:027-68762500
+集成电路学院 | http://ic.whu.edu.cn | 邮箱:ic@whu.edu.cn
+电子信息学院 | http://eis.whu.edu.cn/ | 邮箱:eisyb@whu.edu.cn
+计算机学院 | http://cs.whu.edu.cn/ | 邮箱:computer@whu.edu.cn | 电话:027-68775361; 027-68775363
+遥感信息工程学院 | http://rsgis.whu.edu.cn/ | 电话:027-68778546
+测绘学院 | http://www.sgg.whu.edu.cn/
+国家网络安全学院 | http://cse.whu.edu.cn | 邮箱:cse@whu.edu.cn | 电话:027-68778117; 027-68758373
+人工智能学院 | https://sai.whu.edu.cn/ | 邮箱:whusai@whu.edu.cn
+国家卓越工程师学院 | https://ncee.whu.edu.cn | 邮箱:ncee@whu.edu.cn | 电话:027-68763997",
+25,湖南省,中南大学,,985,公办,27,https://www.csu.edu.cn/zsjy.htm,,homepage@csu.edu.cn,0731-88876114,http://gra.csu.edu.cn,,,,https://iecd.csu.edu.cn/,,csuwsb@126.com; ied-csu@csu.edu.cn; summerschool@csu.edu.cn,"殷刚 处长
+纪海龙 副处长
+陈强 副主任
+胡烨耀 副处长
+黄彦凝 主任
+刘宇翔 主任
+文宁 副主任
+杨帆 副主任
+黄桦 科员
+李学军 副处长（分管医口国际合作交流工作）
+穆克朗 副部长
+文宁 联系人（合作办学）
+黄彦凝 联系人（公派项目）: gongpailiuxue@csu.edu.cn",,19,"数学与统计学院 | http://math.csu.edu.cn/ | 电话:0731-88660152
+物理学院 | http://wl.csu.edu.cn/ | 电话:0731-88836457
+化学化工学院 | http://ccce.csu.edu.cn/
+机电工程学院 | http://cmee.csu.edu.cn/ | 电话:0731-88879351
+能源科学与工程学院 | http://energy.csu.edu.cn | 电话:0731-88879863
+材料科学与工程学院 | http://mse.csu.edu.cn/ | 电话:0731-88879341（
+粉末冶金研究院 | http://pmri.csu.edu.cn/ | 邮箱:x-pmri@mail.csu.edu.cn | 电话:0731-88879422
+交通运输工程学院 | http://stte.csu.edu.cn/ | 电话:0731-82655326
+土木工程学院 | http://civil.csu.edu.cn/ | 邮箱:tmyxwzx@csu.edu.cn
+冶金与环境学院 | http://smse.csu.edu.cn/ | 邮箱:csumetallurgy@csu.edu.cn | 电话:0731-88830923
+地球科学与信息物理学院 | http://gip.csu.edu.cn/ | 邮箱:mail@gip.csu.edu | 电话:0731-88836153
+资源与安全工程学院 | http://srse.csu.edu.cn/ | 电话:0731-88879612
+资源加工与生物工程学院 | http://mpb.csu.edu.cn | 邮箱:info@sitename.com | 电话:0731-88879622
+自动化学院 | http://soa.csu.edu.cn/ | 邮箱:zdhxyyb@csu.edu.cn | 电话:0731-88830342; 0731-88830700
+计算机学院 | http://cse.csu.edu.cn/ | 电话:0731-88836659
+电子信息学院 | https://ei.csu.edu.cn/
+生命科学学院 | http://life.csu.edu.cn/ | 邮箱:life_csu@163.com | 电话:0731-89665629
+国家卓越工程师学院 | https://ngce.csu.edu.cn/ | 邮箱:gzy@csu.edu.cn | 电话:0731-88876326
+中国科学院 | http://www.cas.cn | 电话:861068597114（",
+26,湖南省,国防科技大学,,985,公办,,https://www.nudt.edu.cn/zsjy/index.htm,国防科大,English,0731-84576114; 0731-87027137; 0731-87027139,http://yjszs.nudt.edu.cn/index/index.view,,,,,,,,,9,"理学院 | https://www.nudt.edu.cn/yssz/lxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+计算机学院 | https://www.nudt.edu.cn/yssz/jsjxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+电子科学学院 | https://www.nudt.edu.cn/yssz/dzkxxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+前沿交叉学科学院 | https://www.nudt.edu.cn/yssz/qyjcxkxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+智能科学学院 | https://www.nudt.edu.cn/yssz/znkxxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+系统工程学院 | https://www.nudt.edu.cn/yssz/xtgcxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+空天科学学院 | https://www.nudt.edu.cn/yssz/ktkxxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+电子对抗学院 | https://www.nudt.edu.cn/yssz/dzdkxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139
+气象海洋学院 | https://www.nudt.edu.cn/yssz/qxhyxy/index.htm | 电话:0731-84576114; 0731-87027137; 0731-87027139",
+27,湖南省,湖南大学,,985,公办,31,https://www.hnu.edu.cn/zsjy.htm,,xiaoban@hnu.edu.cn,,http://gra.hnu.edu.cn/,,,0731-88821224（,http://wsc.hnu.edu.cn/,,,"肖尊芳（教职工出国）
+蔡婷（学生出国）: hnucaiting@hnu.edu.cn
+刘蕾: fao@hnu.edu.cn
+周思倩（联系姓名）: siqian@hnu.edu.cn
+琚志燕（联系姓名）
+罗卓娃",0731-88823974,28,"国家卓越工程师学院 | http://ngcee.hnu.edu.cn/ | 邮箱:zgxy@hnu.edu.cn
+数学学院 | http://math.hnu.edu.cn/ | 邮箱:xiaoban@hnu.edu.cn
+物理与微电子科学学院 | http://spe.hnu.edu.cn/ | 电话:0731-88822332; 0731-88821986; 0731-88822627
+化学化工学院 | http://cc.hnu.edu.cn/ | 邮箱:ccxzb@hnu.edu.cn | 电话:0731-88822286
+机械与运载工程学院 | http://mve.hnu.edu.cn/ | 电话:0731-88822825; 0731-88822826; 0731-88823120
+材料科学与工程学院 | http://clxy.hnu.edu.cn/ | 电话:0731-88821727
+电气与信息工程学院 | http://eeit.hnu.edu.cn/ | 电话:0731-88822224
+网络空间安全学院 | http://cst.hnu.edu.cn/ | 邮箱:xiaoban@hnu.edu.cn
+人工智能与机器人学院 | http://robotics.hnu.edu.cn/index.htm
+建筑与规划学院 | http://arch.hnu.edu.cn/
+土木工程学院 | http://ce.hnu.edu.cn | 邮箱:hnuce@hnu.edu.cn | 电话:0731-88822610
+环境科学与工程学院 | http://ee.hnu.edu.cn/ | 邮箱:hgx@hnu.edu.cn
+未来技术学院 | https://www.hnu.edu.cn/ | 邮箱:xiaoban@hnu.edu.cn
+人工智能先进制造研究院 | https://ai.hnu.edu.cn/index.htm | 邮箱:ai@hnu.edu.cn | 电话:88822024
+国家卓越工程师学院 | http://ngcee.hnu.edu.cn/ | 邮箱:zgxy@hnu.edu.cn
+数学学院 | http://math.hnu.edu.cn/ | 邮箱:xiaoban@hnu.edu.cn
+物理与微电子科学学院 | http://spe.hnu.edu.cn/ | 电话:0731-88822332; 0731-88821986; 0731-88822627
+化学化工学院 | http://cc.hnu.edu.cn/ | 邮箱:ccxzb@hnu.edu.cn | 电话:0731-88822286
+机械与运载工程学院 | http://mve.hnu.edu.cn/ | 电话:0731-88822825; 0731-88822826; 0731-88823120
+材料科学与工程学院 | http://clxy.hnu.edu.cn/ | 电话:0731-88821727
+电气与信息工程学院 | http://eeit.hnu.edu.cn/ | 电话:0731-88822224
+网络空间安全学院 | http://cst.hnu.edu.cn/ | 邮箱:xiaoban@hnu.edu.cn
+人工智能与机器人学院 | http://robotics.hnu.edu.cn/index.htm
+建筑与规划学院 | http://arch.hnu.edu.cn/
+土木工程学院 | http://ce.hnu.edu.cn | 邮箱:hnuce@hnu.edu.cn | 电话:0731-88822610
+环境科学与工程学院 | http://ee.hnu.edu.cn/ | 邮箱:hgx@hnu.edu.cn
+未来技术学院 | https://www.hnu.edu.cn/ | 邮箱:xiaoban@hnu.edu.cn
+人工智能先进制造研究院 | https://ai.hnu.edu.cn/index.htm | 邮箱:ai@hnu.edu.cn | 电话:88822024",
+28,甘肃省,兰州大学,,985,公办,40,,,,,,,,,https://faoffice.lzu.edu.cn/,,,,,0,,
+29,福建省,厦门大学,,985,公办,25,http://jy.xmu.edu.cn/,,jiuyezhaopin@xmu.edu.cn,0592-2184550,http://gs.xmu.edu.cn/,,YJSY@XMU.EDU.CN,0592-2186259,https://ice.xmu.edu.cn/,,,"黄琛主 副处长（主持）
+黄琛 副处长（，我校）",0592-2180240,3,"自然科学学部 | https://www.xmu.edu.cn/xbyx/zrkxxb.htm
+工程技术学部 | https://www.xmu.edu.cn/xbyx/gcjsxb.htm
+地球科学与技术学部 | https://www.xmu.edu.cn/xbyx/dqkxyjsxb.htm",
+30,重庆市,重庆大学,,985,公办,34,https://www.cqu.edu.cn/zsjy.htm,,,001060250313; 000004000026,http://graduate.cqu.edu.cn/,,,,http://intex.cqu.edu.cn/,,,,,4,"理学部 | http://science.cqu.edu.cn/
+工程学部 | http://www.fe.cqu.edu.cn/
+建筑学部 | http://fbe.cqu.edu.cn/
+信息学部 | http://fis.cqu.edu.cn/",
+31,陕西省,西北农林科技大学,,985,公办,69,https://www.nwafu.edu.cn/zsjy/index.htm,,zhaoshb@nwafu.edu.cn; zhsh@nwafu.edu.cn; admission@nwafu.edu.cn,029-87080152; 029-87080151; 029-87080155,http://yjshy.nwsuaf.edu.cn/,,ybgsh@nwafu.edu.cn,02504100006; 029-87080155,https://gjc.nwsuaf.edu.cn/,,ipo@nwsuaf.edu.cn,"王小龙 处长（主持国际合作与交流处（港澳台办、上合项目办公室、丝路联盟办公室）
+胡晓辉 副处长
+邹宇锋 副处长（负责上合基地建设及 “一带一路”相关 工作）
+综合科 科长（负责行政管理、宣传、港澳台事务和国际会议）
+周怡娟 科员
+姚玉佩 科员
+池景慧 科员
+陈泽玲 科员
+同晓蕾 科员",2987082857,0,,
+32,陕西省,西北工业大学,,985,公办,23,http://job.nwpu.edu.cn/home.do,,,,http://gs.nwpu.edu.cn/,Copyright,gs@nwpu.edu.cn,029-88430620; 029-88493641; 029-88430618,https://guoji.nwpu.edu.cn/,,icoffice@nwpu.edu.cn,"教授工 顾问（负责聘请外籍专家、学者为我校兼职、荣誉、顾问教授工作）
+国际教 处长
+李自伟 副处长",,19,"航空学院 | https://hangkong.nwpu.edu.cn/ | 电话:029-88493671
+航天学院 | https://hangtian.nwpu.edu.cn/ | 电话:029-88430053
+材料学院 | https://cailiao.nwpu.edu.cn/ | 邮箱:yuan4@nwpu.edu.cn
+力学与交通运载工程学院 | https://liuyuan.nwpu.edu.cn/ | 邮箱:smcea@nwpu.edu.cn | 电话:029-88431000
+动力与能源学院 | https://dongneng.nwpu.edu.cn/ | 电话:029-88431112
+四川天府新区西工大先进动力研究院 | https://sichuan.nwpu.edu.cn | 邮箱:apri@nwpu.edu.cn | 电话:028-81535846
+电子信息学院 | https://dianzi.nwpu.edu.cn/ | 电话:029-88431206
+自动化学院 | https://zdhxy.nwpu.edu.cn/ | 邮箱:zdhxy@nwpu.edu.cn | 电话:029-88431389
+计算机学院 | https://jsj.nwpu.edu.cn/
+数学与统计学院 | https://math.nwpu.edu.cn/ | 邮箱:sxtj@nwpu.edu.cn | 电话:029-88431660
+物理科学与技术学院 | https://physics.nwpu.edu.cn/ | 邮箱:phys@nwpu.edu.cn | 电话:029-88431652
+化学与化工学院 | https://huaxue.nwpu.edu.cn/ | 邮箱:hxyhg@nwpu.edu.cn | 电话:029-88431664
+软件学院 | https://ruanjian.nwpu.edu.cn/ | 电话:029-88431588
+生命科学与技术学院 | https://life.nwpu.edu.cn | 电话:029-88430186
+网络空间安全学院/国家保密学院 | https://wlkjaqxy.nwpu.edu.cn/
+人工智能学院 | http://soai.nwpu.edu.cn/ | 邮箱:soai@nwpu.edu.cn | 电话:029-88460895
+柔性电子学院 | https://sfe.nwpu.edu.cn/ | 邮箱:ife@nwpu.edu.cn
+国家卓越工程师学院 | https://eliteengineering.nwpu.edu.cn/ | 邮箱:npu_neie@nwpu.edu.cn
+西北工业大学伦敦玛丽女王大学工程学院 | https://qm.nwpu.edu.cn/ | 电话:029-88431985",
+33,陕西省,西安交通大学,,985,公办,10,http://job.xjtu.edu.cn/,,,,https://www.xjtu.edu.cn/rcpy/yjsjy.htm,,,,https://international.xjtu.edu.cn/,,,,,13,"数学学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026 | 邮箱:jy.sun@mail.xjtu.edu.cn; yanli@mail.xjtu.edu.cn; xjtumath@mail.xjtu.edu.cn | 电话:82668739; 82665132; 82668551
+物理学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2067 | 邮箱:honggao@xjtu.edu.cn; zy@xjtu.edu.cn; daiwang321321@xjtu.edu.cn | 电话:029-82668118; 029-82668019; 029-82669372
+化学学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2072 | 邮箱:dingsj@xjtu.edu.cn; zhichengzhang@xjtu.edu.cn; marf@xjtu.edu.cn | 电话:88965527; 88964734
+机械学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027 | 邮箱:yaguolei@mail.xjtu.edu.cn; huguo@xjtu.edu.cn; jxyb@xjtu.edu.cn | 电话:029-82668602
+电气学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028 | 邮箱:yangxu@mail.xjtu.edu.cn; dlliang@mail.xjtu.edu.cn; wangh@mail.xjtu.edu.cn | 电话:029-82665223; 029-82668523; 029-82668324
+人工智能学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2207 | 邮箱:rjs@mail.xjtu.edu.cn | 电话:82668672
+材料学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032 | 邮箱:dingxd@xjtu.edu.cn; gaohong@mail.xjtu.edu.cn; huanhuan@mail.xjtu.edu.cn | 电话:82667911; 82668915; 82668614
+生命学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034 | 邮箱:fengxu@xjtu.edu.cn; liuru@xjtu.edu.cn; slst@mail.xjtu.edu.cn | 电话:82665429; 82665626; 82669021
+航天学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035 | 邮箱:sshen@mail.xjtu.edu.cn; apzhang@xjtu.edu.cn | 电话:82668394; 82668750
+化工学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036 | 邮箱:guidongyang@mail.xjtu.edu.cn; jymiao@xjtu.edu.cn; scet@xjtu.edu.cn | 电话:88968362; 88968363; 88965843
+仪器科学与技术学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2217 | 邮箱:libozhao@xjtu.edu.cn; seanwei@xjtu.edu.cn; yqyb@xjtu.edu.cn | 电话:029-82663427
+未来技术学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2117 | 邮箱:xhw@xjtu.edu.cn | 电话:029-88963508
+国家卓越工程师学院 | https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2227 | 邮箱:yangqingyu@mail.xjtu.edu.cn",
+34,上海市,上海外国语大学,,211,公办,,https://www.shisu.edu.cn/admissions/index.html,,,,,,,,https://oice.shisu.edu.cn/,,,,,0,,
+35,上海市,上海大学,,211,公办,60,https://www.shu.edu.cn/zsjy.htm,,,021-96928188; 009102000049,https://yjszs.shu.edu.cn/,,,02166133763,https://global.shu.edu.cn/,上海大学留学生公众号,,"王丽娜 书记: shwlna@t.shu.edu.cn
+崔巍 副部长: cwmail@shu.edu.cn
+李颖洁 副部长: liyj@shu.edu.cn
+陈秀猛 副院长: chenxiumeng@shu.edu.cn
+黄培 副处长: hilaire@shu.edu.cn
+来慧洁 副处长: huijielai@shu.edu.cn
+徐晓红 副处长: xuxiaohong@shu.edu.cn
+裴雨来 副院长
+张新玲 副院长
+金晓 主任
+周梁（交流与合作）: lanezhou@shu.edu.cn
+赵奕（交流与合作）: zhaoyidoris@shu.edu.cn
+赵娅如（交流与合作）: yarulove2006@shu.edu.cn
+李婧媛（交流与合作）: lisa-li@shu.edu.cn
+郑文龙（因公出国境）: zwl-021@i.shu.edu.cn
+李勇（因公出国境）: lixiaoyong@i.shu.edu.cn
+刘阳（因公出国境）: yangliuzz@shu.edu.cn
+李珊珊（外专事务）: lishanshan@i.shu.edu.cn
+韩瑞琪（外专事务）: rqhan@shu.edu.cn
+刘飞（国际组织实习、学生海外项目）: liufei2007@shu.edu.cn
+刘赛（学生海外项目）: liusai@shu.edu.cn
+胡宇轩（学生海外项目）: yuxuanhu@shu.edu.cn
+苏庆伟（港澳台交流合作）: qwsu@shu.edu.cn
+丁青（中外合作办学）: dqcarol@i.shu.edu.cn
+金祺（孔子学院事务）: qjin@shu.edu.cn
+彭亚男（孔子学院事务）
+朱珈仪（孔子学院事务）: jiayi_zhu@shu.edu.cn
+刘坤坤（组织员）: sweat_lemon@shu.edu.cn
+戎艳（综合事务）: ivyrong@shu.edu.cn
+谢文博（综合事务、国际会议）: xiewenbo1@shu.edu.cn
+黄蕾（综合事务）: lhuang5@shu.edu.cn
+宁金妍（综合事务）: jyning@t.shu.edu.cn
+徐昭恒 研究员: zhhxu@shu.edu.cn",,12,"人工智能研究院 | https://ai.shu.edu.cn/ | 电话:009102000049
+材料基因组工程研究院 | https://mgi.shu.edu.cn/ | 电话:009102000049
+理学院 | https://scicol.shu.edu.cn | 电话:009102000049
+通信与信息工程学院 | https://scie.shu.edu.cn/ | 电话:009102000049
+计算机工程与科学学院 | https://cs.shu.edu.cn/ | 电话:009102000049
+机电工程与自动化学院 | https://auto.shu.edu.cn/ | 电话:04223120887; 04323121998; 04423121186
+材料科学与工程学院 | https://mat.shu.edu.cn | 电话:009102000049
+环境与化学工程学院 | https://ece.shu.edu.cn/ | 电话:009102000049
+生命科学学院 | https://bio.shu.edu.cn/ | 电话:021-66132665
+中欧工程技术学院 | https://utseus.shu.edu.cn/
+微电子学院 | https://sme.shu.edu.cn/ | 电话:009102000049
+卓越工程师学院 | https://zhgy.shu.edu.cn/ | 电话:009102000049",
+36,上海市,上海财经大学,,211,公办,,https://career.sufe.edu.cn/,,jyzd@mail.shufe.edu.cn,021-65904215,https://gs.sufe.edu.cn/,,yjsy@mail.shufe.edu.cn; yzb@mail.shufe.edu.cn,021-65904625; 021-65903795,https://ieco.shufe.edu.cn/,相关宣传连接中报名欢迎广大师生积极参与,ieco@mail.sufe.edu.cn,"丁冬 副处长（。在开场致辞中，丁冬副处长对各位外事同仁为推动学校国际化发展所付出的辛勤努力表示）
+王磊 副处长（会议。王磊副处长首先代表学校对代表团的到访表示热烈欢迎。他简要介绍了上海财经大学）",,3,"统计与数据科学学院 | http://ssds.shufe.edu.cn/ | 电话:021-65901099; 021-65901079; 021-35312698
+计算机与人工智能学院 | https://scai.sufe.edu.cn/main.htm | 邮箱:scai@mail.shufe.edu.cn | 电话:021-65901001--
+数学学院 | http://math.shufe.edu.cn/ | 邮箱:math@mail.shufe.edu.cn | 电话:021-65902502",
+37,上海市,东华大学,,211,公办,72,http://ejob.dhu.edu.cn/,扫描左侧二维码获取最新资讯,pluswin6@pluswin-china.com; houzhiqi@sh.chinalife-p.com.cn; job@dhu.edu.cn,021-67792486,http://gs.dhu.edu.cn/,,yjsdep@dhu.edu.cn,,https://ico.dhu.edu.cn/,,ico@dhu.edu.cn,"夏泽翰 主任（负责人陪同参观）
+覃小红 处长: xhqin@dhu.edu.cn
+张晓雪 副处长: snow@dhu.edu.cn
+代表团 院长",,10,"纺织学院 | http://texcol.dhu.edu.cn/ | 邮箱:webmaster@dhu.edu.cn
+机械工程学院 | http://meccol.dhu.edu.cn/ | 邮箱:meccol@dhu.edu.cn | 电话:021-67792567
+信息与智能科学学院 | https://siis.dhu.edu.cn/
+化学与化工学院 | http://cceb.dhu.edu.cn/ | 电话:021-67792306
+材料科学与工程学院 | http://cmse.dhu.edu.cn/ | 邮箱:clxy@dhu.edu.cn; webmaster@dhu.edu.cn
+环境科学与工程学院 | http://env.dhu.edu.cn/ | 电话:021-67792159
+数学与统计学院 | https://maths.dhu.edu.cn/ | 邮箱:webmaster@dhu.edu.cn | 电话:02699001262; 02699005943; 0269900928
+物理学院 | https://phys.dhu.edu.cn | 邮箱:webmaster@dhu.edu.cn
+科学技术研究院 | http://research.dhu.edu.cn/
+国家卓越工程师学院 | https://gce.dhu.edu.cn/ | 邮箱:zyg_dh@dhu.edu.cn | 电话:021-67792428",
+38,上海市,华东理工大学,,211,公办,42,https://www.ecust.edu.cn/585/list.htm,,,009102000037,http://gschool.ecust.edu.cn/,,,15710144202,http://kjc.ecust.edu.cn/8373/list.htm,,,"杨强电 院长（职责： 负责科研院全面工作）: qyang@ecust.edu.cn
+兼先进 副院长（职责： 分管 先进技术与 装备研究院、先进技术项目与平台管理部、）: qxzhuang@ecust.edu.cn
+贾云飞 副院长（职责： 分管 基础研究部 、 成果奖励部）: yfjia@ecust.edu.cn
+殷伟电 副院长（职责： 分管 产学研合作部、知识产权运营部、产业科创平台管理部）: yinwei@ecust.edu.cn
+宋震电 副院长（职责： 分管重大项目部、科 创中心（上海）建设与国际合作部、 科）: songz@ecust.edu.cn
+马小雷 主任（职责：科研院综合事务管理）: maxiaolei@ecust.edu.cn
+刘开振 主任（职责： 科技创新战略规划与政策研究）: liukaizhen@ecust.edu.cn
+罗妍办 主任（职责： 国家自然科学基金委项目管理）: nsfc@ecust.edu.cn
+张桂新 主任（职责 ： 纵向科研基地与平台及开放基金项目管理）: gxzhang@ecust.edu.cn
+苗笑羽 主任（职责： 国家部委纵向项目管理）: gxjs@ecust.edu.cn
+王晓丽 主任（职责： 国家奖、省部级奖、社会力量设奖）: xlwang@ecust.edu.cn
+黄婉君 主任（职责： 上海市项目管理）: shst@ecust.edu.cn
+李宗印 主任（职责： 产学研合作）: boshih@ecust.edu.cn
+王苏莉 主任（职责： 成果转化项目管理）: wangsuli@ecust.edu.cn
+李刚办 主任（职责： 校企校地产业科创平台筹建与管理）: ligang@ecust.edu.cn
+苏林办 副院长（职责： 先进技术与合作）: sulin@ecust.edu.cn
+唐光泽 主任（职责： 先进技术项目与平台管理）: tanggz@ecust.edu.cn
+杨少明 主任（职责： 先进技术资质体系运维保障）
+刘亚萍 主任（职责： 《华东理工大学学报（自然科学版）》与《功能高分子学报》的）: liuyaping@ecust.edu.cn
+杨强 院长（负责科研院全面工作 ，分管综合）: qyang@ecust.edu.cn
+庄启昕 院长（分管 先进技术与 装备研究院、先进技术项）: qxzhuang@ecust.edu.cn
+殷伟 副院长（分管 产学研合作部、知识产权运营部、产业科创平台管理）: yinwei@ecust.edu.cn
+宋震 副院长（分管重大项目部、科 创中心（上海）建设与国际合作部）: songz@ecust.edu.cn
+罗妍 主任（国家自然科学基金委项目管理 主管： 韩）: nsfc@ecust.edu.cn
+李刚 主任（校企校）: ligang@ecust.edu.cn
+苏林 副院长（先进技术与合作 （ 1）先进技术项目与）: sulin@ecust.edu.cn
+杨少明 主任（先进技术资质体）: liuyaping@ecust.edu.cn",,3,"华东化工学院 | https://www.ecust.edu.cn/847/list.htm | 电话:009102000037
+上海化工学院 | https://www.ecust.edu.cn/shhgxy/list.htm | 电话:009102000037
+华东化工学院 | https://www.ecust.edu.cn/709/list.htm | 电话:009102000037",
+39,上海市,第二军医大学,,211,公办,,,,,,,,,,,,,,,0,,
+40,云南省,云南大学,,211,公办,71,http://jobs.ynu.edu.cn/,微信二维码(单独二维码),ydxsjyzx@126.com,0871-65148526; 0871-65033859; 0871-65931992,http://www.grs.ynu.edu.cn/,,,,http://english.ynu.edu.cn/,,,,,8,"数学与统计学院 | http://www.ms.ynu.edu.cn/ | 邮箱:ms@ynu.edu.cn
+化学科学与工程学院 | http://www.chem.ynu.edu.cn/
+地球科学学院 | http://www.srees.ynu.edu.cn/ | 电话:0871-65033733
+生态与环境学院 | http://www.see.ynu.edu.cn/index.html | 电话:0871-65931353
+生命科学学院 | http://www.ynusky.ynu.edu.cn/ | 电话:0871-65931221
+建筑与规划学院 | http://www.sap.ynu.edu.cn/ | 电话:0871-65930635
+材料与能源学院 | https://sme.ynu.edu.cn/
+国际河流与生态安全研究院 | http://www.ires.ynu.edu.cn/ | 电话:0871-65034577",
+41,内蒙古自治区,内蒙古大学,,211,公办,114,http://zhaosheng.imu.edu.cn/,,ndzsb@imu.edu.cn,,https://gs.imu.edu.cn/,,ndgs@imu.edu.cn,,http://ice.imu.edu.cn/,,fao@imu.edu.cn,,,10,"数学科学学院 | http://math.imu.edu.cn/
+物理科学与技术学院 | http://wlxy.imu.edu.cn/ | 电话:0471-4992914; 0471-4993141
+化学化工学院 | http://chem.imu.edu.cn/
+生命科学学院 | http://smkxxy.imu.edu.cn/ | 邮箱:ndsky123@126.com
+生态与环境学院 | http://see.imu.edu.cn/ | 电话:0471-4991436
+电子信息工程学院 | http://dzxy.imu.edu.cn/ | 邮箱:dzxxgcxy@imu.edu.cn
+人工智能学院 | https://www.imu.edu.cn/jgsz1/jxkydw.htm | 邮箱:webmaster@imu.edu.cn
+交通学院 | http://www.jt.imu.edu.cn/ | 电话:026040202320
+能源材料化学研究院 | https://emc.imu.edu.cn/ | 邮箱:WEBMASTER@IMU.EDU.CN | 电话:000662105040; 092100196621; 031014560000
+天文与物理研究院 | https://iap.imu.edu.cn/ | 邮箱:webmaster@imu.edu.cn",
+42,北京市,中国传媒大学,,211,公办,,https://www.cuc.edu.cn/zsjy/list.htm,,,,http://www.cuc.edu.cn/9998/list.htm#rc-main2,,,,https://international.cuc.edu.cn/,,kzxy@cuc.edu.cn,"李老师（国际交流与合作事务）
+杨老师（国际交流与合作事务）
+侯老师（因公出国（境）事务）
+崔老师（因公出国（境）事务）
+董老师（综合业务（传媒高等教育国际联盟）、国际会议）
+富老师（港澳台事务）
+刘老师（办公室工作）",,1,中国干部网络学院 | http://www.cela.gov.cn,
+43,北京市,中国地质大学（北京）,,211,公办,75,http://jiuye.cugb.edu.cn/,,jyxsc@126.com,909355733,https://graduate.cugb.edu.cn,,,,https://gjhzc.cugb.edu.cn/,,,"给山东 书记（主持会议）
+姓名 处长（职责： 负责全处工作）
+姓名 副处长（职责： 教职工 因 公出国（境） 、学生 出国（境））: huayanpian@cugb.edu.cn
+姓名 院长（职责： （外派））: Ldb@cugb.edu.cn
+姓名 副处长（职责： 外国专家来华合作交流）: linfang@cugb.edu.cn
+林善园 副书记（主持会议）",,7,"地球科学与资源学院 | https://sesr.cugb.edu.cn/ | 邮箱:dxfzh2180@163.com | 电话:01082322264
+工程技术学院 | https://set.cugb.edu.cn/
+材料科学与工程学院 | https://smst.cugb.edu.cn/ | 电话:010-82321111
+人工智能学院 | https://sai.cugb.edu.cn/
+水资源与环境学院 | https://swre.cugb.edu.cn/ | 邮箱:swre@cugb.edu.cn | 电话:010-82322281
+地球物理与信息技术学院 | https://sgit.cugb.edu.cn/ | 邮箱:dxxy@cugb.edu.cn | 电话:010-82321044
+土地科学技术学院 | https://slst.cugb.edu.cn/",
+44,北京市,中国政法大学,,211,公办,,,,,,,,,,http://gjhzjlc.cupl.edu.cn/,,,,,0,,
+45,北京市,中国石油大学（北京）,,211,公办,62,http://career.cup.edu.cn/,,cupjiuye@qq.com; job89731016@163.com,010-89733499; 010-89731016,https://grs.cup.edu.cn/,邮编,,,https://www.cup.edu.cn/overseas/index.htm,,admission@cup.edu.cn; cie.office@cup.edu.cn; cie.dailyservices@cup.edu.cn,,,11,"地球科学学院 | http://www.cup.edu.cn/geosci | 邮箱:dixueyuan@cup.edu.cn
+石油工程学院 | http://www.cup.edu.cn/oil/
+化学工程与环境学院 | http://www.cup.edu.cn/chem/ | 邮箱:sd_hgxy@cup.edu.cn | 电话:89739075
+机械工程学院 | http://www.cup.edu.cn/mte/ | 电话:0402430032
+地球物理学院 | http://www.cup.edu.cn/geophysics/ | 邮箱:webmaster@cup.edu.cn | 电话:0402430032
+安全与海洋工程学院 | http://www.cup.edu.cn/safety/ | 邮箱:webmaster@cup.edu.cn | 电话:0402430032
+海洋能源资源先进工程技术研究院 | https://www.cup.edu.cn/safety/xygk/jgsz/hyyqgcx1/index.htm | 邮箱:webmaster@cup.edu.cn | 电话:0402430032
+人工智能学院 | http://www.cup.edu.cn/cise/ | 电话:0402430032
+理学院 | http://www.cup.edu.cn/science/
+未来能源学院 | https://www.cup.edu.cn/cei/index.htm
+塔尔萨国际能源学院 | https://www.cup.edu.cn/iec/ | 邮箱:ctiec@cup.edu.cn",
+46,北京市,中国矿业大学（北京）,,211,公办,76,https://www.cumtb.edu.cn/zsjy.htm,,,,http://yjs.cumtb.edu.cn/,,,,https://international.cumtb.edu.cn/gywm/jgsz.htm,,,,,14,"能源与矿业学院 | http://nyxy.cumtb.edu.cn/
+地球科学与测绘工程学院 | http://dcxy.cumtb.edu.cn/ | 邮箱:yzxxdcxy@163.com | 电话:010-62339300
+化学与环境工程学院 | http://scee.cumtb.edu.cn/
+机械与电气工程学院 | http://jdxy.cumtb.edu.cn/ | 邮箱:jdxy@cumtb.edu.cn | 电话:010-62331370
+人工智能学院 | https://ai.cumtb.edu.cn/ | 邮箱:rgznxy@cumtb.edu.cn | 电话:010-62339761
+力学与土木工程学院 | http://ljxy.cumtb.edu.cn/
+理学院 | http://lxy.cumtb.edu.cn/
+中国矿业大学（北京）内蒙古研究院 | https://nmgyjy.cumtb.edu.cn/ | 电话:17854205908
+能源与矿业学院 | https://nyxy.cumtb.edu.cn
+地球科学与测绘工程学院 | https://dcxy.cumtb.edu.cn/ | 邮箱:yzxxdcxy@163.com | 电话:010-62339300
+化学与环境工程学院 | https://scee.cumtb.edu.cn/
+机械与电气工程学院 | https://jdxy.cumtb.edu.cn/ | 邮箱:jdxy@cumtb.edu.cn | 电话:010-62331370
+力学与土木工程学院 | https://ljxy.cumtb.edu.cn/
+理学院 | https://lxy.cumtb.edu.cn/",
+47,北京市,中央财经大学,,211,公办,,https://www.cufe.edu.cn/zsjy.htm,,,,http://gs.cufe.edu.cn/,,,,http://int.cufe.edu.cn/gywm.htm,,,讲党课 书记,,0,,
+48,北京市,中央音乐学院,,211,公办,,https://www.ccom.edu.cn/zsyjy.htm,,,,,,,,https://www.ccom.edu.cn/info/18061/267901.htm,,,"秦文琛 副院长
+党委 院长",,0,,
+49,北京市,北京中医药大学,,211,公办,,https://www.bucm.edu.cn/zsjy1/index.htm,,,,http://yanjiusheng.bucm.edu.cn/,,,,https://international.bucm.edu.cn/,,,,,2,"生命科学学院 | http://shengming.bucm.edu.cn/
+数据科学与人工智能学院 | https://www.bucm.edu.cn/zzjg1/jxjg1/a50f9a3ba99045128e8e53782799cf73.htm | 电话:17798675957; 0402430041",
+50,北京市,北京交通大学,,211,公办,41,http://job.bjtu.edu.cn/,,jyb113@126.com; bjtujobwx@126.com; bjtujob@163.com,010-51688431; 010-51685913; 010-51682911,https://yzb.bjtu.edu.cn/,,bjtuzgxy@bjtu.edu.cn,,https://intl.bjtu.edu.cn/,,bjtu-intl@bjtu.edu.cn,,,14,"自动化与智能学院 | http://ai.bjtu.edu.cn/ | 电话:84259295
+电子信息工程学院 | http://eie.bjtu.edu.cn/
+计算机科学与技术学院 | http://cs.bjtu.edu.cn/ | 电话:51688526
+交通运输学院 | http://trans.bjtu.edu.cn | 邮箱:jtysxy@bjtu.edu.cn
+土木建筑工程学院 | http://civil.bjtu.edu.cn | 邮箱:jdtujian@bjtu.edu.cn
+机械与电子控制工程学院 | http://mece.bjtu.edu.cn/
+电气工程学院 | http://ee.bjtu.edu.cn/
+数学与统计学院 | http://soms.bjtu.edu.cn/ | 邮箱:smszhb@bjtu.edu.cn | 电话:51681288
+物理科学与工程学院 | https://spse.bjtu.edu.cn/ | 邮箱:wlgczhb@bjtu.edu.cn
+软件学院 | http://sse.bjtu.edu.cn/
+建筑与设计学院 | http://saad.bjtu.edu.cn/
+碳中和与环境学院 | http://env.bjtu.edu.cn
+系统科学学院 | http://sss.bjtu.edu.cn/ | 邮箱:xtyb@bjtu.edu.cn | 电话:51683668
+国家卓越工程师学院 | https://nee.bjtu.edu.cn/ | 邮箱:bjtuzgxy@bjtu.edu.cn",
+51,北京市,北京体育大学,,211,公办,,https://www.bsu.edu.cn/zsjy/index.htm,,,,https://www.bsu.edu.cn/kxyjsy/index.htm,,xiaoban@bsu.edu.cn,040202430168; 14015216941; 13585035162,http://wsc.bsu.edu.cn/,,wsc@bsu.edu.cn,"樊战备 书记（负责人会面交流）
+刁艾莉 处长: internationaloffice@bsu.edu.cn
+孙晓
+陈思淼: chensimiao@bsu.edu.cn
+黄晓蕾
+胡佳琦
+吕摄
+库明智
+张笑: zhangxiao@bsu.edu.cn
+邱天阳: qiutianyang@bsu.edu.cn
+范伟
+尼尔 副院长（负责人参加会谈）
+一行来 主任",,0,,
+52,北京市,北京化工大学,,211,公办,57,https://www.buct.edu.cn/zsjy_11437/list.htm,,news@mail.buct.edu.cn,,http://graduate.buct.edu.cn/,,,,https://iecd.buct.edu.cn/,,,"张冰 处长（主管国际处及港澳台事务办公室全面工作）: zhangbing@buct.edu.cn
+冯江鸿 副处长: fengjh@buct.edu.cn
+张老师（引智项目主管、孔子学院事务主管）: cooperation@buct.edu.cn
+刘老师（英文网站主管、国际协议主管）
+吴老师（教职工因公临时出国境事务主管、学生海外学习事务）: ygcf@buct.edu.cn
+高老师（长期外籍专家（教师）聘任主管、国际交流）: gaoxing@buct.edu.cn
+王老师（长期外籍专家（教师）聘任、国际交流）",,10,"化学工程学院 | https://chem.buct.edu.cn/
+材料科学与工程学院 | https://cmse.buct.edu.cn/
+机电工程学院 | https://mech.buct.edu.cn/
+信息科学与技术学院 | https://cist.buct.edu.cn/ | 电话:045884242863
+化学学院 | https://chemistry.buct.edu.cn/
+数理学院 | https://cmp.buct.edu.cn/
+生命科学与技术学院 | https://life.buct.edu.cn/ | 邮箱:life@buct.edu.cn | 电话:010-64451781
+侯德榜工程师学院 | https://gcsxy.buct.edu.cn/ | 邮箱:eng-school@mail.buct.edu.cn | 电话:(010)64438571
+巴黎居里工程师学院 | https://engineer.buct.edu.cn/ | 邮箱:eng-school@mail.buct.edu.cn | 电话:(010)64438571
+常州先进材料研究院 | http://www.bciam.cn/ | 邮箱:bciam@vip.sohu.com | 电话:0519-69697501",
+53,北京市,北京外国语大学,,211,公办,,https://jyzd.bfsu.edu.cn/,,jyzd@bfsu.edu.cn,010-88816211,https://graduate.bfsu.edu.cn/,,,,https://international.bfsu.edu.cn/,,,,,3,"欧洲语言文化学院 | http://europe.bfsu.edu.cn/
+法语语言文化学院 | http://french.bfsu.edu.cn/ | 邮箱:bwfyxy@bfsu.edu.cn
+信息科学技术学院 | http://sist.bfsu.edu.cn/ | 邮箱:bwjsj@bfsu.edu.cn | 电话:01088816746",
+54,北京市,北京工业大学,,211,公办,65,http://admissions.bjut.edu.cn/,,,010-67391609,https://www.bjut.edu.cn/jyjx/yjsjy1.htm,,,010000000606,https://international.bjut.edu.cn/,,,"际合作 处长
+陈志杰 副处长（负责交流合作、人才培养国际化及港澳台工作）
+刘键 副处长（师资队伍国际化、国际学生招生及相关涉外事务 副处长、副主任 陈志杰 负责交流合作）
+陈志杰 副主任（交流合作、人才培养国际化及港澳台工作 副处长 王 伟 负责综合事务、教职工因）
+王伟 副处长（综合事务、教职工因）",,16,"机械与能源工程学院 | https://jxny.bjut.edu.cn/
+材料科学与工程学院 | https://clxy.bjut.edu.cn/ | 电话:0402430086
+信息科学技术学院 | https://sist.bjut.edu.cn/
+计算机学院 | https://cs.bjut.edu.cn
+建筑工程学院 | https://cace.bjut.edu.cn/
+建筑与城市规划学院 | https://caup.bjut.edu.cn
+城市交通学院 | https://cmt.bjut.edu.cn/
+环境科学与工程学院 | https://cese.bjut.edu.cn/
+化学与生命科学学院 | https://hsxy.bjut.edu.cn/
+物理与光电工程学院 | https://spoe.bjut.edu.cn
+数学统计学与力学学院 | https://msm.bjut.edu.cn | 电话:0402430086
+新能源学院 | https://www.bjut.edu.cn/jgsz/jxkyjg.htm | 电话:0402430086; 010000000606
+人工智能学院 | http://znxy.bjut.edu.cn
+网络空间安全学院 | https://cst.bjut.edu.cn/
+碳中和未来技术学院 | https://cnft.bjut.edu.cn/
+北京人工智能研究院 | https://biai.bjut.edu.cn/ | 邮箱:mr.kin@foxmail.com",
+55,北京市,北京林业大学,,211,公办,83,http://job.bjfu.edu.cn,,,,http://graduate.bjfu.edu.cn/,,,,https://international.bjfu.edu.cn/,,gjc@bjfu.edu.cn,"gjc@bjfu.edu.cn
+孔祥彬
+陈若漪
+鲁楠
+詹硕",,0,,
+56,北京市,北京科技大学,,211,公办,35,https://www.ustb.edu.cn/zsjy/index.htm,,,,http://yzxc.ustb.edu.cn/,,,,https://oice.ustb.edu.cn/,,,"钢铁学 院长（负责全校外事工作）
+办公室 院长（全校外事工作。同年，开始招收外国留学生。 1979-1984 1979年12月，）
+丁晶 负责人（综合管理办公室负责人，负责全处综合事务的安排、督办及协调）
+吕引娟 负责人（综合管理办公室负责人，负责全处综合事务的安排、督办及协调）
+张青芸 负责人（出国出境办公室负责人，负责教师/学生短期因公出国境管理）
+冯艳华 负责人（出国出境办公室负责人，负责教师/学生短期因公出国境管理）
+张天问 负责人（学生交流项目办公室负责人，负责全校学生海（境）外交流项目的统筹、规划与实施管理）
+高玥蒙 负责人（学生交流项目办公室负责人，负责全校学生海（境）外交流项目的统筹、规划与实施管理）
+李佳宁 负责人（海境外专家办公室负责人，负责全校外籍专家的涉外服务与管理、海境外国际会议申报等相关工作）
+闫力瑕 负责人（海境外专家办公室负责人，负责全校外籍专家的涉外服务与管理、海境外国际会议申报等相关工作）
+唐辉 负责人（对外交流宣传办公室负责人，负责学校的国际宣传、校级对外合作与交流等工作）
+韩雪莲 负责人（对外交流宣传办公室负责人，负责学校的国际宣传、校级对外合作与交流等工作）
+秦雨晴 负责人（合作资源与平台发展办公室负责人，负责学校的中外合作办学培育管理、国际合作资源平台建设、全球合作伙伴拓展等工作）
+段晓芳 处长: xfduan@ustb.edu.cn
+张博威 副处长: bwzhang@ustb.edu.cn",,18,"资源与安全工程学院 | https://srse.ustb.edu.cn | 电话:010-62333637; 0402430062
+冶金与生态工程学院 | http://metall.ustb.edu.cn/ | 邮箱:metall@ustb.edu.cn | 电话:010-62332265
+材料科学与工程学院 | http://mse.ustb.edu.cn/ | 电话:0402430062
+机械工程学院 | http://me.ustb.edu.cn/ | 邮箱:meoffice@me.ustb.edu.cn | 电话:010-62332365
+能源与环境工程学院 | http://seee.ustb.edu.cn/ | 电话:0402430062
+自动化学院 | http://saee.ustb.edu.cn/ | 邮箱:saee@ustb.edu.cn | 电话:010-62332905
+人工智能学院 | http://ai.ustb.edu.cn/ | 电话:010-62332106
+计算机与通信工程学院 | http://scce.ustb.edu.cn/ | 电话:0402430062
+数理学院 | http://shuli.ustb.edu.cn/ | 电话:010-62332685; 0402430062
+化学与生物工程学院 | http://huasheng.ustb.edu.cn/ | 邮箱:hsxy@ustb.edu.cn | 电话:010-62332126
+国家卓越工程师学院 | https://gcsxy.ustb.edu.cn/ | 电话:010-62334954
+未来技术学院 | https://qy.ustb.edu.cn/ | 电话:0402430062
+新材料技术研究院 | http://adma.ustb.edu.cn/ | 电话:62334190
+工程技术研究院 | http://iet.ustb.edu.cn/ | 邮箱:bkdgyy@ustb.edu.cn | 电话:010-62332598
+大安全科学研究院 | https://mss.ustb.edu.cn/ | 电话:010-62333808
+城镇化与城市安全研究院 | https://iuus.ustb.edu.cn | 电话:010-62334196
+科学技术研究院 | https://research.ustb.edu.cn/ | 电话:0402430062
+资源与安全工程学院 | http://cres.ustb.edu.cn/",
+57,北京市,北京邮电大学,,211,公办,50,,,,,,,,,https://www.bupt.edu.cn/hzjl.htm,,,,,0,,
+58,北京市,华北电力大学,,211,公办,84,https://www.ncepu.edu.cn/zsjy/index.htm,,,,https://yjsy.ncepu.edu.cn/,,,,https://icd.ncepu.edu.cn/,,,"李博 处长（主持国际合作处（港澳台办）全面工作）
+赵子健 副处长
+丁肇豪 副处长",,13,"科学技术研究院 | https://www.ncepu.edu.cn/zzjg/glfwbm/kxjsyjy/index.htm | 电话:61771778; 61771567; 61772428
+电气与电子工程学院 | https://electric.ncepu.edu.cn/ | 电话:010-61771611
+能源动力与机械工程学院 | https://thermal.ncepu.edu.cn/ | 邮箱:ndxy@ncepu.edu.cn | 电话:86-10-61772277
+控制与计算机工程学院 | https://cce.ncepu.edu.cn/ | 电话:010-61772568
+新能源学院 | https://xnyxy.ncepu.edu.cn/ | 电话:86-10-61772737
+核科学与工程学院 | https://snse.ncepu.edu.cn/
+环境科学与工程学院 | https://cese.ncepu.edu.cn/
+水利与水电工程学院 | https://hydro.ncepu.edu.cn/index.htm
+数理学院 | https://slx.ncepu.edu.cn/ | 邮箱:slx@ncepu.edu.cn | 电话:010-61772340
+国家卓越工程师学院 | https://ngce.ncepu.edu.cn/
+国家能源发展战略研究院 | https://energy.ncepu.edu.cn/
+国家能源交通融合发展研究院 | https://cietid.ncepu.edu.cn/ | 邮箱:90509796@ncepu.edu.cn | 电话:86-10-61773846
+先进材料研究院 | https://adma.ncepu.edu.cn/ | 邮箱:adma@ncepu.edu.cn | 电话:86-10-61771720",
+59,北京市,对外经济贸易大学,,211,公办,,https://www.uibe.edu.cn/zsjy/index.htm,,,,https://yjsy.uibe.edu.cn/,,,,https://international.uibe.edu.cn/,,,,,2,"人工智能与数据科学学院 | http://it.uibe.edu.cn/ | 电话:010-64495029
+统计学院 | http://tongji.uibe.edu.cn/ | 电话:+86-10-64494646",
+60,四川省,四川农业大学,,211,公办,134,https://job.sicau.edu.cn/,川农就业系统小程序,job2501@163.com; scndjy@163.com; djyjiuye@163.com,0835-2882800（; 0835-2882800; 028-86290666,https://yan.sicau.edu.cn/,,,,https://ic.sicau.edu.cn/,,,,,10,"理学院 | https://lixueyuan.sicau.edu.cn/ | 电话:0835-2885036
+生命科学学院 | https://smkx.sicau.edu.cn/ | 电话:0835-2885601
+食品学院 | https://spxy.sicau.edu.cn/ | 电话:0835-2882172; 028-86291780; 0835-2882187
+信息工程学院 | https://xxgc.sicau.edu.cn/ | 电话:0835-2882177
+水利水电学院 | https://slsd.sicau.edu.cn/ | 电话:0835-2883120
+资源学院 | https://zyxy.sicau.edu.cn/ | 电话:028-86293010; 028-86290986
+环境学院 | https://hjxy.sicau.edu.cn/ | 电话:028-86291233（
+农业工程学院 | https://nygcxy.sicau.edu.cn/
+建筑与城乡规划学院 | https://jg.sicau.edu.cn/ | 邮箱:jcxy@sicau.edu.cn
+土木工程学院 | https://tmgcxy.sicau.edu.cn/ | 邮箱:tmgcxy@sicau.edu.cn; tmgcxyjj@sicau.edu.cn | 电话:028-87123357",
+61,四川省,西南交通大学,,211,公办,49,https://www.swjtu.edu.cn/zsjy.htm,,zszx@swjtu.edu.cn; yzb@home.swjtu.edu.cn; cjzs@swjtu.edu.cn,028-87600332; 028-87634132,https://yz.swjtu.edu.cn/web/index.html,,,028-66366757; 028-66366756; 028-66367138,https://fad.swjtu.edu.cn/,,,"主持部 副院长（主持部门全面工作）: malei@swjtu.edu.cn
+李海 副处长（分管来华留学工作）: lihai@swjtu.edu.cn
+廖莉 副处长（分管师生出国（境）工作）: lydia@swjtu.edu.cn
+欣羚 副处长（分管天佑铁道学院、“一带一路”交流合作、国际组织工作）: xinling@swjtu.edu.cn
+杨安文 副处长（分管中外合作办学工作）: awyang@swjtu.edu.cn
+许军华 副处长（分管港澳台事务、外专引智、综合事务工作）: jhxu@home.swjtu.edu.cn
+协助分 副处长（分管外专引智、综合事务工作）: kaijuanchen@swjtu.edu.cn
+犀浦校 副处长: lxia@swjtu.edu.cn
+协助 副处长（外专引智、综合事务工作。 犀浦校区综合楼423 028-66366341 kai）: kaijuanchen@swjtu.edu.cn
+智服务 主任（负责外籍教师的服务与管理）: niwen@swjtu.edu.cn
+智服务 主任（负责外籍教师的服务与管理）: ruihu@swjtu.edu.cn
+智服务 科员（负责短期外籍专家来访）: ruihu@swjtu.edu.cn
+合事务 主任（负责综合事务办公室工作）: global@swjtu.edu.cn
+协助处 科员
+合事务 科员（负责外宾来访接待审批办理、国际会议申报校内审核、外文票据确认等事）: huangyiling@swjtu.edu.cn
+作办学 副主任（负责中外合作办学机构/项目的前期规划、申报与筹备工作）: liuyawei@swjtu.edu.cn
+作办学 副主任（负责中外合作办学机构/项目的前期规划、申报与筹备工作）: mayao@swjtu.edu.cn
+作办学 科员（负责对接校内、校外相关部门完成中外合作办学机构/项目的日常管理工）: mayao@swjtu.edu.cn
+理服务 主任（负责教师因公出国（境）审批与管理服务）: yangf@swjtu.edu.cn
+经办教 科员: thanhtung@swjtu.edu.cn
+经办教 科员: chenliuhang@swjtu.edu.cn
+生工作 主任（负责来华留学生招生发展规划及相关政策制定；来华留学生项目开发；商）: zengye@swjtu.edu.cn
+统筹负 主任（负责学校来华留学管理各项工作；负责发展规划、政策制定、对外协调、）: chihai@swjtu.edu.cn
+务管理 副主任（负责语言项目和短期项目管理；学业进度督导；出国留学培训工作；教育）
+徐鹰 科员（负责语言项目教学安排、学历学位报送、办公室日常工作、汉语水平考试）: xyeagle@swjtu.edu.cn
+学建设 主任（负责开展“一带一路”沿线国家铁路国际人才培养、培训的拓展）: liyixuan@swjtu.edu.cn
+学建设 科员（负责“一带一路”沿线国家铁路国际人才培养、培训项目组织实施）: hejiaguo@swjtu.edu.cn
+统筹 主任（学校来华留学管理各项工作；负责发展规划、政策制定、对外协调、安全稳定、国情教育、）: chihai@swjtu.edu.cn",,20,"土木工程学院 | http://civil.swjtu.edu.cn/ | 电话:028-87600559
+机械工程学院 | http://sme.swjtu.edu.cn/ | 邮箱:jxkc@swjtu.cn; T02jxjj@swjtu.edu.cn | 电话:028-87600939
+电气工程学院 | http://dqxy.swjtu.edu.cn/
+信息科学与技术学院 | http://sist.swjtu.edu.cn
+计算机与人工智能学院 | https://scai.swjtu.edu.cn
+交通运输与物流学院 | http://ctt.swjtu.edu.cn/ | 邮箱:t13jyjj@swjtu.cn; jyjwsdsf@163.com | 电话:（028）66366165
+材料科学与工程学院 | http://clxy.swjtu.edu.cn/
+地球科学与工程学院 | http://gsee.swjtu.edu.cn | 邮箱:geos@swjtu.edu.cn | 电话:（028）66367614; +86-28-66367614
+环境科学与工程学院 | https://ese.swjtu.edu.cn/ | 邮箱:ese@swjtu.edu.cn
+建筑学院 | http://jzxy.swjtu.edu.cn/ | 电话:(028)66366683
+物理科学与技术学院 | http://phys.swjtu.edu.cn | 电话:010602000061
+生命科学与工程学院 | http://bioeng.swjtu.edu.cn/ | 邮箱:smxy@swjtu.edu.cn | 电话:028-66368122
+化学学院 | http://chem.swjtu.edu.cn
+力学与航空航天学院 | http://lixue.swjtu.edu.cn
+数学学院 | http://maths.swjtu.edu.cn/
+国家卓越工程师学院 | https://ees.swjtu.edu.cn/index.htm | 电话:028-66368332; 010602000061
+人工智能研究院 | https://ai.swjtu.edu.cn | 邮箱:ai@swjtu.edu.cn
+国际老龄科学研究院 | https://niia.swjtu.edu.cn
+前沿科学研究院 | https://ifst.swjtu.edu.cn/ | 邮箱:qyy@swjtu.edu.cn | 电话:028-87600317
+未来技术研究院 | https://ift.swjtu.edu.cn/ | 邮箱:ift@swjtu.edu.cn | 电话:028-87600903（; +86-28-87600903（; 028-87600903(",
+62,四川省,西南财经大学,,211,公办,,https://www.swufe.edu.cn/zsjy.htm,,webmaster@swufe.edu.cn,010502010087,https://graduate.swufe.edu.cn/,,yjsy@swufe.edu.cn,（028）87092032; 028-87092482,https://oiec.swufe.edu.cn/,,oiec@swufe.edu.cn,"袁源 副处长（出国境管理科、综合与信息管理科，协助国际处各项工作。）: yuanyuan@swufe.edu.cn
 张翔 副处长（引智与交流项目科，协助国际处各项工作）: xiangzhang@swufe.edu.cn
 左静林 科长（学生海外交流项目的开拓和维护等工作。）: zuojinglin@swufe.edu.cn
-唐济时 科长（师生因）: tangjs@swufe.edu.cn",,
-214,四川省,成都中医药大学,,双一流,公办,,https://zyd.cdutcm.edu.cn/zsjy,成中医微学工,cdutcmzsxc@163.com,028-61800090,https://zyd.cdutcm.edu.cn/yjs,,,82713803; 82717572; 82716812,https://zyd.cdutcm.edu.cn/gjjyxy,,info@cdutcm.edu.cn; IEC.CWCM@cdutcm.edu.cn; IEC.GATQ@cdutcm.edu.cn,刘毅在 书记（邮箱未公开）,89461393; 55211931; 82845489,
-215,四川省,成都理工大学,,双一流,公办,,,,,,,,,,https://dice.cdut.edu.cn/,,,,,官网不可达：requests失败
-216,四川省,西南石油大学,,双一流,公办,,http://jyzx.swpu.edu.cn/,投递简历时选择,swpu_jyjb@163.com; swpu_jyzx@163.com,028-83035257; 028-83037077,https://www.swpu.edu.cn/gs/,,,,https://www.swpu.edu.cn/oice/,,oiaswpu@163.com,"戴磊 处长（邮箱未公开）
-刘文士 副处长（邮箱未公开）
-杨燕 主任（邮箱未公开）
-邓鹏 科员（邮箱未公开）
-徐曦 科员（邮箱未公开）
-陈国梁 主任（邮箱未公开）
-张晗凌 副主任（邮箱未公开）
-周雨佳 科员（邮箱未公开）
-张抗 主任（邮箱未公开）
-杨茜然 科员（邮箱未公开）",,
-217,天津市,南开大学,,985,公办,,https://www.nankai.edu.cn/239/list.htm,,,,http://graduate.nankai.edu.cn,,,,https://international.nankai.edu.cn/,,exchange@nankai.edu.cn,"袁明鉴 处长（职责： 全面主持处内工作 办公）: yuanmj@nankai.edu.cn
-李华 副处长（职责： 分管日韩交流工作、师生服务科事务、孔子学院工作管理科事务）: lihua@nankai.edu.cn
-罗景山 副处长（职责： 分管对外交流工作、港澳台工作、国际胜任力服务科工作）: jingshan.luo@nankai.edu.cn",,
-218,天津市,天津大学,,985,公办,,https://www.tju.edu.cn/zsjy.htm,官方微信号,,,https://www.tju.edu.cn/zsjy.htm#zsjy03,官方微信号,,,https://www.tju.edu.cn/gjjl.htm,官方微信号,,,,
-219,天津市,天津医科大学,,211,公办,,,,,,,,,,https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm,,,,,官网不可达：requests失败
-220,天津市,天津中医药大学,,双一流,公办,,https://jiuye.tjutcm.edu.cn/,,,022-59596207,https://yjsy.tjutcm.edu.cn/,,,13472365958,https://iec.tjutcm.edu.cn/,,tutcm@hotmail.com,"首页 院长（分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生）（邮箱未公开）
-奖学金 院长（分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生）（邮箱未公开）
-信箱 院长（邮箱未公开）
-信箱共 院长（邮箱未公开）",,
-221,天津市,天津工业大学,,双一流,公办,,,,,,,,,,https://io.tiangong.edu.cn/,,,面工作 副主任（主持港澳台事务办公室全面工作 副主任 赵世怀 分管涉港澳台校际交）: andyzhang@tiangong.edu.cn,,官网不可达：requests失败
-222,宁夏回族自治区,宁夏大学,,211,公办,,https://www.nxu.edu.cn/zsjy.htm,,,0951-2077800,http://graduate.nxu.edu.cn/,,,,https://hzjl.nxu.edu.cn/,,,"韩惠丽 副书记（会议。会上，井强山一行从基本校情、人才队伍存在的主要问题和举措、学科建设情况等方）（邮箱未公开）
-赵亚峰 处长（主持对外合作交流处（港澳台事务办公室）、国际教育学院全面工作）（邮箱未公开）
-刘美玲 副院长（分管国际学生招生管理和学籍管理工作 协助国际教育学院院长完成其他）（邮箱未公开）
-郑晓英 院长（负责宁夏大学 · 迪拜大学孔子学院日常管理工作）（邮箱未公开）
-李世福 主任（负责国内合作办公室日常工作： 1. 负责联络对口合作高校（上海交）（邮箱未公开）
-劳晓芸 副书记（主持）（邮箱未公开）",,
-223,安徽省,中国科学技术大学,,985,公办,,,,,,https://gradschool.ustc.edu.cn/,,yjsy@ustc.edu.cn,0551-63601958,https://oic.ustc.edu.cn/,,fanjiangqi@ustc.edu.cn; oic@ustc.edu.cn,,0551-63606695,
-224,安徽省,合肥工业大学,,211,公办,,http://bkzs.hfut.edu.cn/,,length-1,,http://yjsy.hfut.edu.cn/,,,,https://international.hfut.edu.cn/,,,,,
-225,安徽省,安徽大学,,211,公办,,,,,,,,,,http://gjc.ahu.edu.cn/,,,,,官网不可达：requests失败
-226,山东省,中国海洋大学,,985,公办,,http://career.ouc.edu.cn/default.html,,,15028551517; 13432724776; 15087259867,http://grad.ouc.edu.cn/13039/list.htm,,yjsy@ouc.edu.cn,,https://intl.ouc.edu.cn/,,news@ouc.edu.cn,,021202000030,
-227,山东省,山东大学,,985,公办,,https://www.job.sdu.edu.cn/,,,,https://www.grad.sdu.edu.cn/,,pgs@sdu.edu.cn,,https://www.ipo.sdu.edu.cn/,,,调中方 院长（职责包括：制定学校国际中文教育有关政策与孔子学院建设发展规划并推）（邮箱未公开）,,
-228,山东省,中国石油大学（华东）,,211,公办,,https://career.upc.edu.cn/,,,,http://gs.upc.edu.cn/,,,08403691997,https://io.upc.edu.cn/,,mail@upc.edu.cn,,,
-229,山西省,太原理工大学,,211,公办,,https://www.tyut.edu.cn/zsjy.htm,,English; tyutxcb@tyut.edu.cn,14010902001,http://www.gs.tyut.edu.cn/,,tyutgs@tyut.edu.cn,14010902001,https://www.tyut.edu.cn/hzjl/gjhz2.htm,,tyutxcb@tyut.edu.cn,,,
-230,山西省,山西大学,,双一流,公办,,https://www.sxu.edu.cn/zty/zsjy/index.html,,@sxu.edu.cn; @email.sxu.edu.cn,0351-7010255,http://yjszsw.sxu.edu.cn/,,,0351-7010322,https://wsc.sxu.edu.cn/,,,学中方 院长（负责汉语教师及汉语教师志愿者的招聘、选拔、培训、派遣和管理；孔子）（邮箱未公开）,,
-231,广西壮族自治区,广西大学,,211,公办,,https://www.gxu.edu.cn/zsjy1.htm,,webmaster@gxu.edu.cn,010702000001; 000000040700,http://yjsc.gxu.edu.cn/,,yjsy@gxu.edu.cn,0771-3237012; 0771-3231243; 0771-3232827,https://gjjl.gxu.edu.cn/,,gjc@gxu.edu.cn,,,
-232,新疆维吾尔自治区,新疆大学,,211,公办,,https://www.xju.edu.cn/,,,,https://www.xju.edu.cn/rcpy1/yjsjy.htm,,,,https://gjjlc.xju.edu.cn/,,xjdxgjc@xju.edu.cn,,,
-233,新疆维吾尔自治区,石河子大学,,211,公办,,,,,,,,,,https://wsbm.shzu.edu.cn/,,webmaster@shzu.edu.cn,,,官网不可达：requests失败
-234,江苏省,东南大学,,985,公办,,https://www.seu.edu.cn/47291/list.htm,,,,https://www.seu.edu.cn/yjsy/,,,,https://oic.seu.edu.cn/,,,,,
-235,江苏省,南京大学,,985,公办,,https://www.nju.edu.cn/zsjy/zs.htm,,webmaster@nju.edu.cn,,https://yzb.nju.edu.cn/47831/list.htm,,,,https://wb.nju.edu.cn/main.htm,,oice@nju.edu.cn,"代表 助理（邮箱未公开）
-手机 助理（邮箱未公开）",,
-236,江苏省,中国矿业大学,,211,公办,,http://www.91job.org.cn/sub-station/home/10290,,,,http://gs.cumt.edu.cn/,,,,https://international.cumt.edu.cn/,,international@cumt.edu.cn,,,
-237,江苏省,中国药科大学,,211,公办,,http://cpu.91job.org.cn,,,,http://yjsy.cpu.edu.cn/,,,,https://international.cpu.edu.cn/,,admission@cpu.edu.cn,,,
-238,江苏省,南京农业大学,,211,公办,,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,https://intl.njau.edu.cn/,南农国际教育,,"刘营军 副书记（邮箱未公开）
-党总支 书记（邮箱未公开）",,
-239,江苏省,南京师范大学,,211,公办,,,,,,,,,,https://gjc.njnu.edu.cn/,,,,,官网不可达：requests失败
-240,江苏省,南京理工大学,,211,公办,,,,,,,,,,https://gjc.njust.edu.cn/,,,,,官网不可达：requests失败
-241,江苏省,南京航空航天大学,,211,公办,,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,"赖际舟 处长（主持工作）（邮箱未公开）
-张国权 副处长（负责高层次校际合作关系拓展及维护、教职工因公出国境工作等）（邮箱未公开）
-徐智鑫 副处长（负责引智工作、国际合作平台建设（含中外合作办学、引智基地、国际合）（邮箱未公开）
-祖语嫣 科长（负责综合事务、国际学术交流、外事接待、国际会议申报、暑期国际课程）（邮箱未公开）
-处理相 科长（邮箱未公开）
-单晶 科长（负责国际合作平台和项目建设（含中外合作办学、引智基地、国际合作联）（邮箱未公开）
-做好项 科长（负责外国专家项目相关工作）（邮箱未公开）
-做好外 科长（邮箱未公开）
-唐崟捷 科长（邮箱未公开）
-申雅梅 科员（邮箱未公开）
-王芮欣 科员（邮箱未公开）
-洪滔 科员（邮箱未公开）",,
-242,江苏省,江南大学,,211,公办,,http://jiangnan.91job.org.cn,,,,http://gs.jiangnan.edu.cn/,官方微博,yjsy@jiangnan.edu.cn,0510-85913652（,http://guojiaochu.jiangnan.edu.cn/,,gjch@jiangnan.edu.cn,,,
-243,江苏省,河海大学,,211,公办,,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,https://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,"马科斯 处长（主持...）（邮箱未公开）
-选拔推 院长（负责孔子学院中方承办机构的管理工作）（邮箱未公开）",,
-244,江苏省,苏州大学,,211,公办,,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://international.suda.edu.cn/,Copyright,,"李彦光 处长（邮箱未公开）
-兼港澳 副处长（邮箱未公开）
-徐雯彦 副处长（邮箱未公开）",,
-245,江苏省,南京中医药大学,,双一流,公办,,https://njucm.91job.org.cn/sub-station/home/10315,,,,http://gra.njucm.edu.cn/,,,,http://ice.njucm.edu.cn/,,,,,
-246,江苏省,南京信息工程大学,,双一流,公办,,https://www.nuist.edu.cn/zsjy.htm,,xb@nuist.edu.cn,86-25-58731101,https://yjs.nuist.edu.cn/,Copyright,yjs@nuist.edu.cn,,http://ico.nuist.edu.cn/,,,,,
-247,江苏省,南京医科大学,,双一流,公办,,http://njmu.91job.org.cn/,,,,http://yjsy.njmu.edu.cn/,,,,http://ice.njmu.edu.cn/,,gjb@njmu.edu.cn,兰青一 书记（邮箱未公开）,,
-248,江苏省,南京林业大学,,双一流,公办,,http://njfu.91job.org.cn/,,,,https://gsnfu.njfu.edu.cn/,,,,https://ghc.njfu.edu.cn/,,,"汪茜电 科长（邮箱未公开）
-余尤骋 科员（邮箱未公开）
-刘星彤 科员（邮箱未公开）
-蔡慧妍 科长（邮箱未公开）
-侯晋安 科员（邮箱未公开）
-乌日汗 科员（邮箱未公开）
-汪茜 科长（1、中外合作学生交流项目申报与归口管理；2、江苏高校中外高水平大学校群合作）（邮箱未公开）
-乌日汗 科员（1、CSC人才培养专项申报组织与管理； 2 、外籍专家项目申报和管理； 3 、中）: interpro@njfu.edu.cn",,
-249,江苏省,南京邮电大学,,双一流,公办,,https://www.njupt.edu.cn/46/list.htm,,njupt@njupt.edu.cn,（86）-25-85866888,http://yzb.njupt.edu.cn/,,yzb@njupt.edu.cn,025-83492350,https://dice.njupt.edu.cn/,,,,,
-250,江西省,南昌大学,,211,公办,,https://www.ncu.edu.cn/zsjy.htm,,,010802000198,https://www.ncu.edu.cn/rcpy/yjsjy.htm,,,010802000198,https://gjc.ncu.edu.cn/,,gjjlc@ncu.edu.cn,"处领导 副处长（邮箱未公开）
-电话 处长（邮箱未公开）
-吴超昭 副处长（邮箱未公开）
-电话 副处长（邮箱未公开）
-电话 科长（邮箱未公开）
-电话 副科长（邮箱未公开）
-宋文彪 科长（邮箱未公开）",,
-251,河北省,河北工业大学,,211,公办,,http://career.hebut.edu.cn,,,,https://yjs.hebut.edu.cn,河北工业大学,,,https://io.hebut.edu.cn/,,,,,
-252,河南省,郑州大学,,211,公办,,https://www.zzu.edu.cn/zsjy.htm,郑州大学-微信,function,019702002177,http://gs.zzu.edu.cn/,,,,https://www5.zzu.edu.cn/gjjl/,,,"吴军超 处长: wujc@zzu.edu.cn
+唐济时 科长（师生因）: tangjs@swufe.edu.cn",,0,,
+63,天津市,天津医科大学,,211,公办,,,,,,,,,,https://www.tmu.edu.cn/ggfw/p3307c3290/list.htm,,,,,0,,
+64,宁夏回族自治区,宁夏大学,,211,公办,137,https://www.nxu.edu.cn/zsjy.htm,,,0951-2077800,http://graduate.nxu.edu.cn/,,,,https://hzjl.nxu.edu.cn/,,,"赵亚峰 处长（主持对外合作交流处（港澳台事务办公室）、国际教育学院全面工作）
+刘美玲 副院长（分管国际学生招生管理和学籍管理工作 协助国际教育学院院长完成其他）
+郑晓英 院长（负责宁夏大学 · 迪拜大学孔子学院日常管理工作）
+李世福 主任（负责国内合作办公室日常工作： 1. 负责联络对口合作高校（上海交）",,19,"数理与信息学部 | https://slyxxxb.nxu.edu.cn/ | 电话:0951-2061826
+数学统计学院 | https://sxtj.nxu.edu.cn/ | 电话:0951-2061024
+物理学院 | https://phys.nxu.edu.cn/ | 邮箱:wlxy@nxu.edu.cn | 电话:0951-2061004
+电子与电气工程学院 | https://seee.nxu.edu.cn/ | 邮箱:seee@nxu.edu.cn | 电话:0951-2061826
+信息工程学院 | https://xxgc.nxu.edu.cn/ | 电话:0951-2077800
+生命与食品学部 | https://smyspxb.nxu.edu.cn/ | 邮箱:smyspxb@nxu.edu.cn | 电话:0951-2062129
+生命科学学院 | https://sls.nxu.edu.cn/ | 邮箱:skxy@nxu.edu.cn; jsgzb@nxu.edu.cn | 电话:0951-2062029; 0951-2061910
+食品科学与工程学院 | https://spxy.nxu.edu.cn/ | 电话:010502000131
+工程与地理学部 | https://gcydlxb.nxu.edu.cn/ | 电话:0951-2062005
+土木与水利工程学院 | https://tmsl.nxu.edu.cn/
+建筑学院 | https://ndjz.nxu.edu.cn/index.htm | 电话:0951-2077800
+地理科学与规划学院 | https://geo.nxu.edu.cn/ | 电话:（0951）2062327
+生态环境学院 | https://see.nxu.edu.cn/ | 电话:0951-2077800
+前沿科学与技术学部 | https://qykxxb.nxu.edu.cn/ | 电话:0951-2062086
+机械工程学院 | https://jxgc.nxu.edu.cn/ | 邮箱:jxgc@nxu.edu.cn | 电话:0951-2062086; 0951-2062851; 0951-2062002
+化学化工学院 | https://chem.nxu.edu.cn/ | 邮箱:luozh@sjtu.edu.cn; nigang@nxu.edu.cn; renys@nxu.edu.cn | 电话:0951-2062860; 0951-2062833; 0951-2062061
+材料与新能源学院 | https://smane.nxu.edu.cn/ | 电话:0951-2062086; 0951-2062851; 0951-2062002
+文理学院 | http://wlxy.nxu.edu.cn | 电话:010502000131
+信息与网络空间安全学院 | http://sic.nxu.edu.cn | 电话:0955-7655375",
+65,安徽省,合肥工业大学,,211,公办,80,http://bkzs.hfut.edu.cn/,,length-1,,http://yjsy.hfut.edu.cn/,,,,https://international.hfut.edu.cn/,,,"庄德林 处长: qddlzhuang@hfut.edu.cn
+胡孟杰 副处长: hmj8848@hfut.edu.cn
+范晓峰 副处长: nvan@hfut.edu.cn
+左能 科长: 2017800434@hfut.edu.cn
+左能 科长: lishuranty@hfut.edu.cn
+严瑾 科长: 2018800032@hfut.edu.cn
+严瑾 科长: sheena@hfut.edu.cn
+张文慧 科长: 2002800115@hfut.edu.cn
+张文慧 科长: 2022820006@hfut.edu.cn
+韩媛媛 科长: hanyy@hfut.edu.cn
+韩媛媛 科长: 21880402@hfut.edu.cn
+张辉辉 科长
+张辉辉 科长: lxyhfut@hfut.edu.cn",,19,"机械工程学院 | http://jxxy.hfut.edu.cn/
+材料科学与工程学院 | http://mse.hfut.edu.cn/ | 电话:050302000234
+电气与自动化工程学院 | http://ea.hfut.edu.cn
+计算机与信息学院 | http://ci.hfut.edu.cn/ | 电话:0551-62901380
+土木与水利工程学院 | http://civil.hfut.edu.cn/ | 邮箱:civil@hfut.edu.cn | 电话:0551-62905590
+化学与化工学院 | http://hgxy.hfut.edu.cn/ | 邮箱:hxhgxy@hfut.edu.cn
+仪器科学与光电工程学院 | http://yqkx.hfut.edu.cn/ | 邮箱:yqkx@hfut.edu.cn | 电话:(0551)62901508
+资源与环境工程学院 | http://geoscience.hfut.edu.cn/ | 电话:0551-62901524
+食品与生物工程学院 | http://spysw.hfut.edu.cn/ | 邮箱:spxy@hfut.edu.cn | 电话:0551-62901285
+数学学院 | http://maths.hfut.edu.cn/ | 电话:0551-63831674
+微电子学院 | http://wdzxy.hfut.edu.cn/ | 电话:0551-62919106; 011102000080
+物理学院 | http://wlxy.hfut.edu.cn/ | 电话:0551-62903603
+汽车与交通工程学院 | http://qjxy.hfut.edu.cn/index.htm | 电话:0551-62901960
+智能软件工程学院 | http://rjxy.hfut.edu.cn/ | 电话:0551-63837356
+卓越工程师学院 | http://eie.hfut.edu.cn/
+集成电路创新学院 | http://ic.hfut.edu.cn | 电话:0551-63831350
+人工智能创新学院 | https://iai.hfut.edu.cn/
+未来技术创新学院 | http://aift.hfut.edu.cn | 电话:0551-62901957
+聚变科学与工程学院 | http://fusion.hfut.edu.cn/",
+66,安徽省,安徽大学,,211,公办,101,,,,,,,,,http://gjc.ahu.edu.cn/,,,,,0,,
+67,山东省,中国石油大学（华东）,,211,公办,73,https://career.upc.edu.cn/,,,,http://gs.upc.edu.cn/,,,08403691997,https://io.upc.edu.cn/,,mail@upc.edu.cn,"港澳台 处长（负责本单位的全面工作）: fhuang@upc.edu.cn
+张志英 副处长（分管国际交流科、综合一科）: zhangzy@upc.edu.cn
+俞继仙 副院长（分管留学生招生办公室、 教学事务办公室、 留学生事务办公室、出入）: yujixian@upc.edu.cn
+港澳台 副处长（分管外国专家科、出入境管理一科）: wangjuan@upc.edu.cn
+钟杰 副处长
+郭海玲 副处长",,14,"地球科学与技术学院 | http://geori.upc.edu.cn/ | 邮箱:geodean@upc.edu.cn | 电话:0532-86981878
+石油工程学院 | https://pe.upc.edu.cn/ | 邮箱:sgpeoaq@upc.edu.cn | 电话:0532-86981936
+化学化工学院 | http://cce.upc.edu.cn/
+机电工程学院 | https://cmee.upc.edu.cn | 邮箱:jdkyb@upc.edu.cn | 电话:0532-86983300
+储运与建筑工程学院 | http://cj.upc.edu.cn/ | 邮箱:panzhenghong@upc.edu.cn | 电话:0532-86981822
+材料科学与工程学院 | http://mse.upc.edu.cn/ | 邮箱:mse@upc.edu.cn | 电话:0532-86983670
+石大山能新能源学院 | http://ne.upc.edu.cn/ | 邮箱:cne@upc.edu.cn | 电话:0532-86983683
+海洋与空间信息学院 | http://ocean.upc.edu.cn | 邮箱:ocean@upc.edu.cn | 电话:00756340849; 0532-86980518
+控制科学与工程学院 | http://auto.upc.edu.cn/ | 电话:0532-86981335
+青岛软件学院、计算机科学与技术学院 | http://computer.upc.edu.cn/ | 邮箱:sgpeoaq@upc.edu.cn | 电话:0532-86981339
+理学院 | http://sci.upc.edu.cn/
+光华能源学院 | https://www.upc.edu.cn/ | 电话:021002000005
+海洋资源与信息工程高等研究院 | https://imeie.upc.edu.cn/_s196/main.psp | 邮箱:kjclcg@upc.edu.cn | 电话:0532-86980513
+东营科学技术研究院 | https://ast.upc.edu.cn/ | 邮箱:upcast@163.com | 电话:05468393176",
+68,山西省,太原理工大学,,211,公办,97,https://www.tyut.edu.cn/zsjy.htm,,English; tyutxcb@tyut.edu.cn,14010902001,http://www.gs.tyut.edu.cn/,,tyutgs@tyut.edu.cn,14010902001,https://www.tyut.edu.cn/hzjl/gjhz2.htm,,tyutxcb@tyut.edu.cn,"沈兴全 书记（会议并讲）
+主持党 书记（分工负责相结合）
+委员若 副主任（负责审议本科教学计划方案）
+履行其 院长（负责具体开展人才培养、学科建设、科学研究、社会服务等活动）
+沈兴全 校党委书记
+孙宏斌 校党委副书记、校长
+肖连团 校党委副书记、副校长
+李晓谦 校党委常委、省纪委监委驻太原理工大学纪检监察组组长
+任喜莹 校党委常委、副校长
+王志华 校党委常委、副校长
+桑胜波 副校长
+程永强 校党委常委、副校长
+占小红 学术副校长
+杨晓伟 学术副校长
+王丽君 学术副校长",,2,"科学技术研究院 | http://kj.tyut.edu.cn/ | 邮箱:kjc@tyut.edu.cn | 电话:0351-6010182
+工业技术研究院 | https://gyjsyjy.tyut.edu.cn/ | 邮箱:zhxiaoyuan@tyut.edu.cn | 电话:0351-6011050",
+69,广西壮族自治区,广西大学,,211,公办,86,https://www.gxu.edu.cn/zsjy1.htm,,webmaster@gxu.edu.cn,010702000001; 000000040700,http://yjsc.gxu.edu.cn/,,yjsy@gxu.edu.cn,0771-3237012; 0771-3231243; 0771-3232827,https://gjjl.gxu.edu.cn/,,gjc@gxu.edu.cn,"廖文丹 处长
+张为宇 副处长(正处级)
+郭宇路 副处长
+龚卫华 副处长
+陈碧兰 副处长
+郭冠楠 联络员",,12,"机械工程学院 | https://me.gxu.edu.cn/ | 电话:0771-3232294
+电气工程学院 | https://dqgc.gxu.edu.cn/
+土木建筑工程学院 | https://tmjz.gxu.edu.cn/
+化学化工学院 | https://hxhgxy.gxu.edu.cn/ | 邮箱:hxhg@gxu.edu.cn | 电话:15777371268; 0771-3233718
+资源环境与材料学院 | https://zyhjcl.gxu.edu.cn/ | 邮箱:zyhjyclxy@gxu.edu.cn | 电话:0771-3232200; 0771-3232274; 0771-3234560
+轻工与食品工程学院 | https://gxulif.gxu.edu.cn/ | 邮箱:gxulif@163.com | 电话:0771-3232874
+计算机与电子信息学院 | https://scei.gxu.edu.cn/ | 电话:0771-3232214
+海洋学院 | https://ma.gxu.edu.cn/
+生命科学与技术学院 | https://lst.gxu.edu.cn/ | 邮箱:sky109office@163.com | 电话:0771-3235707
+动物科学技术学院 | https://dky.gxu.edu.cn/ | 邮箱:weixiaoqiangcca@163.com; gxudkyxzb@163.com
+数学学院 | https://mi.gxu.edu.cn/ | 邮箱:shuxinxy@gxu.edu.cn | 电话:0771-3232084
+物理科学与工程技术学院 | https://physics.gxu.edu.cn/ | 电话:0771-3237386",
+70,新疆维吾尔自治区,新疆大学,,211,公办,131,https://www.xju.edu.cn/,,,,https://www.xju.edu.cn/rcpy1/yjsjy.htm,,,,https://gjjlc.xju.edu.cn/,,xjdxgjc@xju.edu.cn,"选拔汉 院长
+选拔 院长
+路庆梅 副处长: xjdxgjc@xju.edu.cn
+王毅就 部长
+一行莅 副处长
+阿赫桑 部长",,13,"物理科学与技术学院 | http://phy.xju.edu.cn | 电话:0991-8582405
+地理与遥感科学学院 | http://geography.xju.edu.cn/ | 电话:0991-2111431
+地质与矿业工程学院 | http://dkxy.xju.edu.cn/
+生命科学与技术学院 | http://sky.xju.edu.cn
+材料科学与工程学院 | https://clxy.xju.edu.cn/
+电气工程学院 | http://dqxy.xju.edu.cn | 邮箱:luhaifeng@mail.tsinghua.edu.cn | 电话:0991-8592289（
+建筑工程学院 | http://jzgcxy.xju.edu.cn/
+化工学院 | http://hgxy.xju.edu.cn | 邮箱:xjdxhgxy@xju.edu.cn | 电话:0991-8582811
+纺织与服装学院 | http://ffxy.xju.edu.cn
+交通运输工程学院 | http://jtxy.xju.edu.cn/index.htm | 电话:0816338211; 0991-2111646; 0991-2111699
+智能科学与技术学院 | http://wljs.xju.edu.cn | 电话:0991-2111610
+软件学院 | http://ss.xju.edu.cn | 电话:0991-4558654
+智能制造现代产业学院 | https://jxxy.xju.edu.cn/index.htm | 邮箱:xju_jxxy@163.com | 电话:0991-2111544",
+71,新疆维吾尔自治区,石河子大学,,211,公办,135,,,,,,,,,https://wsbm.shzu.edu.cn/,,webmaster@shzu.edu.cn,,,0,,
+72,江苏省,中国矿业大学,,211,公办,67,http://www.91job.org.cn/sub-station/home/10290,,,,http://gs.cumt.edu.cn/,,,,https://international.cumt.edu.cn/,,international@cumt.edu.cn,外方 院长（负责人：廖良浩（外方院长）、单旭光（中方院长））,,1,科学技术研究院 | http://dsi.cumt.edu.cn,
+73,江苏省,中国药科大学,,211,公办,,http://cpu.91job.org.cn,,,,http://yjsy.cpu.edu.cn/,,,,https://international.cpu.edu.cn/,,admission@cpu.edu.cn,,,3,"科学技术研究院 | http://ist.cpu.edu.cn/ | 邮箱:cpukjc@cpu.edu.cn
+生命科学与技术学院 | http://sky.cpu.edu.cn
+理学院 | http://lxy.cpu.edu.cn/ | 电话:025-86185160",
+74,江苏省,南京农业大学,,211,公办,55,http://njau.91job.org.cn/,,,,http://grasch.njau.edu.cn,,,,https://intl.njau.edu.cn/,南农国际教育,,"刘营军 副书记
+党总支 书记",,8,"植物科学学部 | https://www.njau.edu.cn/200/list.htm | 电话:025-84395366; 025-84396632; 025-84395708
+动物科学学部 | https://www.njau.edu.cn/201/list.htm | 电话:025-84395366; 025-84396632; 025-84395708
+生物与环境学部 | https://www.njau.edu.cn/202/list.htm | 电话:025-84395366; 025-84396632; 025-84395708
+资源与环境科学学院 | http://re.njau.edu.cn/ | 电话:025-84395210
+生命科学学院 | http://lfc.njau.edu.cn/
+理学院 | http://cos.njau.edu.cn/ | 邮箱:chend@njau.edu.cn | 电话:025-84395204
+食品与工程学部 | https://www.njau.edu.cn/203/list.htm | 电话:025-84395366; 025-84396632; 025-84395708
+食品科学技术学院 | http://food.njau.edu.cn/ | 电话:025-84395618",
+75,江苏省,南京师范大学,,211,公办,58,,,,,,,,,https://gjc.njnu.edu.cn/,,,,,0,,
+76,江苏省,南京理工大学,,211,公办,36,,,,,,,,,https://gjc.njust.edu.cn/,,,,,0,,
+77,江苏省,南京航空航天大学,,211,公办,37,https://nuaa.91job.org.cn/,,,,http://www.graduate.nuaa.edu.cn/,,,,https://ico.nuaa.edu.cn/,,,"赖际舟 处长（主持工作）
+张国权 副处长（负责高层次校际合作关系拓展及维护、教职工因公出国境工作等）
+徐智鑫 副处长（负责引智工作、国际合作平台建设（含中外合作办学、引智基地、国际合）
+祖语嫣 科长（负责综合事务、国际学术交流、外事接待、国际会议申报、暑期国际课程）
+处理相 科长
+单晶 科长（负责国际合作平台和项目建设（含中外合作办学、引智基地、国际合作联）
+做好项 科长（负责外国专家项目相关工作）
+做好外 科长
+唐崟捷 科长
+申雅梅 科员
+王芮欣 科员
+洪滔 科员
+申雅梅（审核及材料收取）
+唐崟捷（任务批件办理）
+洪滔（证照及签证办理）
+王芮欣（证照及签证办理）
+管老师",,9,"航空学院 | http://aero.nuaa.edu.cn/ | 电话:+86-25-84892152
+能源与动力学院 | http://cepe.nuaa.edu.cn/ | 电话:025-84893666
+自动化学院 | http://cae.nuaa.edu.cn/ | 电话:+86-25-84892368
+电子信息工程学院 | http://ceie.nuaa.edu.cn | 邮箱:ceie_public@nuaa.edu.cn
+材料科学与技术学院 | http://msc.nuaa.edu.cn
+数学学院 | http://math.nuaa.edu.cn/ | 邮箱:yunzired@nuaa.edu.cn
+航天学院 | http://astro.nuaa.edu.cn
+通用航空与飞行学院 | http://cgaf.nuaa.edu.cn
+物理学院 | https://physics.nuaa.edu.cn/ | 邮箱:chenxw@nuaa.edu.cn; ywliu@nuaa.edu.cn",
+78,江苏省,江南大学,,211,公办,52,http://jiangnan.91job.org.cn,,,,http://gs.jiangnan.edu.cn/,官方微博,yjsy@jiangnan.edu.cn,0510-85913652（,http://guojiaochu.jiangnan.edu.cn/,,gjch@jiangnan.edu.cn,"倪晔 处长、港澳台办公室主任: yni@jiangnan.edu.cn
+蔡建英 副处长、港澳台办公室副主任: cherrycai@jiangnan.edu.cn
+秦洁 副处长: jqin@jiangnan.edu.cn
+王胤 副处长: wangyin@jiangnan.edu.cn
+蔡晓霞（外国专家及中外合作办学事务）: xxcai@jiangnan.edu.cn
+胡袁园（外国专家及中外合作办学事务）: yuanyuanhu@jiangnan.edu.cn
+吴亚雯（学生交流及港澳台事务）: wuyw@jiangnan.edu.cn
+田泽宇（学生交流及港澳台事务）: tianzeyu778@jiangnan.edu.cn
+童文俊（来华学历生招生及涉外管理）: jackytong@jiangnan.edu.cn
+吴红霞（来华学历生招生及涉外管理）: hxwu@jiangnan.edu.cn
+仇亦倩（来华学历生招生及涉外管理）: yiqianqiu@jiangnan.edu.cn
+何健（出入境管理及涉外保密工作）: hejian@jiangnan.edu.cn
+王月华（出入境管理及涉外保密工作）: wangyuehua@jiangnan.edu.cn
+刘琦（综合事务及党建工作）: liuq@jiangnan.edu.cn
+荣艳（综合事务及党建工作）: rongyan@jiangnan.edu.cn
+HU Yuanyuan: yuanyuanhu@jiangnan.edu.cn",,10,"生物工程学院 | http://biotech.jiangnan.edu.cn/ | 邮箱:biotech@jiangnan.edu.cn | 电话:0510-85197012
+纺织科学与工程学院 | http://ctc.jiangnan.edu.cn/ | 电话:0510-85912007
+环境与生态学院 | http://see.jiangnan.edu.cn/ | 邮箱:see@jiangnan.edu.cn | 电话:0510-85910932
+机械工程学院 | http://sme.jiangnan.edu.cn/ | 邮箱:jxgcxy@jiangnan.edu.cn | 电话:0510-85910562
+生命科学与健康工程学院 | http://slshe.jiangnan.edu.cn | 邮箱:medicine@jiangnan.edu.cn | 电话:0510-85329042
+数学与数据科学学院 | http://math.jiangnan.edu.cn/ | 邮箱:math@jiangnan.edu.cn | 电话:0510-85910532
+光电信息与物理科学学院 | https://oips.jiangnan.edu.cn/ | 邮箱:bailihua@jiangnan.edu.cn; gdwl@jiangnan.edu.cn | 电话:0510-85912210
+集成电路学院 | http://ic.jiangnan.edu.cn | 邮箱:jcdlxy@jiangnan.edu.cn | 电话:0510-85197309
+纤维工程与装备技术学院 | http://feet.jiangnan.edu.cn/ | 邮箱:feet@jiangnan.edu.cn | 电话:0510-85198835
+国家卓越工程师学院 | https://giee.jiangnan.edu.cn/ | 邮箱:zygcsxy@jiangnan.edu.cn",
+79,江苏省,河海大学,,211,公办,63,https://www.hhu.edu.cn/zsjy/list.htm,,,010602011857,http://gs.hhu.edu.cn/,,,,https://gjhzc.hhu.edu.cn/,,gjhzc@hhu.edu.cn,"马科斯 处长（主持...）
+选拔推 院长（负责孔子学院中方承办机构的管理工作）
+席工程 顾问
+签字 院长（分管院长签字；）",,20,"水文水资源学院 | https://shxy.hhu.edu.cn/ | 邮箱:shxy@hhu.edu.cn | 电话:025-83786621
+水利水电学院 | http://sdxy.hhu.edu.cn/ | 邮箱:sdy@hhu.edu.cn | 电话:025-83786511
+港口海岸与近海工程学院 | http://ghxy.hhu.edu.cn/ | 邮箱:ghxy@hhu.edu.cn
+土木与交通学院 | http://ccte.hhu.edu.cn/ | 邮箱:sdy@hhu.edu.cn | 电话:025-83786511
+环境学院 | http://hjxy.hhu.edu.cn/ | 邮箱:hjxy@hhu.edu.cn
+电气与动力工程学院 | http://ceee.hhu.edu.cn/
+计算机与软件学院 | http://cies.hhu.edu.cn/ | 电话:02558099120
+力学与工程科学学院 | https://cmes.hhu.edu.cn/ | 电话:025-83787027
+地球科学与工程学院 | http://dxy.hhu.edu.cn/ | 邮箱:dxybgs@hhu.edu.cn | 电话:025-58099141; 025-83787244; 025-83787234
+农业科学与工程学院 | http://ngy.hhu.edu.cn/ | 邮箱:ngy@hhu.edu.cn
+机电工程学院 | http://jidian.hhu.edu.cn/ | 电话:04885191827
+信息科学与工程学院 | https://ise.hhu.edu.cn | 电话:16070513727
+人工智能与自动化学院 | https://ai.hhu.edu.cn/
+新能源学院 | https://xny.hhu.edu.cn/
+材料科学与工程学院 | https://mse.hhu.edu.cn/ | 邮箱:mse@hhu.edu.cn | 电话:0519-85195360
+海洋学院 | http://hyxy.hhu.edu.cn/ | 邮箱:hyxy@hhu.edu.cn | 电话:（025）83786641
+地理与遥感学院 | https://dlxy.hhu.edu.cn/ | 邮箱:dilixueyuan@hhu.edu.cn | 电话:025-52158923
+数学学院 | https://math.hhu.edu.cn/ | 电话:025-58099160
+未来技术学院 | https://ft.hhu.edu.cn/ | 电话:0519-85195763
+卓越工程师学院 | https://zygcsxy.hhu.edu.cn/ | 电话:025-83787521",
+80,江苏省,苏州大学,,211,公办,46,https://www.suda.edu.cn/enroll_job/?id=1#bk,,zsb@suda.edu.cn; sdyzb@suda.edu.cn,0512-67507943; 0512-67507941; 0512-65227655,https://www.suda.edu.cn/education_teaching/jyjx.jsp#yjs,,,050802010530,https://international.suda.edu.cn/,Copyright,,"李彦光 处长
+兼港澳 副处长
+徐雯彦 副处长",,2,"科学技术研究院 | https://scit.suda.edu.cn/ | 电话:0512-67163260
+产业技术研究院 | https://indt.suda.edu.cn/",
+81,江西省,南昌大学,,211,公办,74,https://www.ncu.edu.cn/zsjy.htm,,,010802000198,https://www.ncu.edu.cn/rcpy/yjsjy.htm,,,010802000198,https://gjc.ncu.edu.cn/,,gjjlc@ncu.edu.cn,"给学生 院长
+担任交 处长（主持）",,13,"物理与材料学院 | http://spms.ncu.edu.cn/ | 邮箱:nculcxy@ncu.edu.cn; mse@ncu.edu.cn | 电话:0791-83969553（
+数学与计算机学院 | http://smcs.ncu.edu.cn/ | 邮箱:smcs@ncu.edu.cn | 电话:0791-83969506
+化学化工学院 | http://chem.ncu.edu.cn/ | 邮箱:ncuhxhgxy@ncu.edu.cn | 电话:0791-83969514
+信息工程学院 | http://ie.ncu.edu.cn/ | 邮箱:liuqiegen@ncu.edu.cn | 电话:0791-83969675
+人工智能学院 | http://sai.ncu.edu.cn | 电话:0791-83968083
+软件学院 | http://soft.ncu.edu.cn/ | 邮箱:rjxy@ncu.edu.cn | 电话:0791-88305687（
+食品学院 | http://sfst.ncu.edu.cn/ | 邮箱:spxy@ncu.edu.cn | 电话:0791-83969526
+生命科学学院 | http://bio.ncu.edu.cn/
+资源与环境学院 | http://zhxy.ncu.edu.cn/ | 邮箱:zihuan@ncu.edu.cn | 电话:0791-83969583
+建筑与设计学院 | https://jzysjxy.ncu.edu.cn/ | 邮箱:qianchen@ncu.edu.cn
+工程建设学院 | http://gcjs.ncu.edu.cn/ | 邮箱:tmgcxz@ncu.edu.cn | 电话:0791-83969652
+眼视光学院 | http://ncdxfsykyy.ncu.edu.cn/ | 邮箱:ndfsykyybgs@ncu.edu.cn | 电话:0791-86318903; 0791-88861118
+卓越工程师学院 | https://ygb.ncu.edu.cn/ | 电话:0791-83969346",
+82,河北省,河北工业大学,,211,公办,107,http://career.hebut.edu.cn,,,,https://yjs.hebut.edu.cn,河北工业大学,,,https://io.hebut.edu.cn/,,,"办公 处长（主持全面工作 冯勇 职务：副处长）
+办公 副处长（分管中外合作）: fengyong@hebut.edu.cn
+办公 主任（出国境审批、综合事务 田颖慧 职务：干事）: maxinxing@hebut.edu.cn
+办公 干事（外国专家和引才引智、国家）: yhtian@hebut.edu.cn
+办公 干事（中外合作）: 2021093@hebut.edu.cn",,10,"电气工程学院 | http://ee.hebut.edu.cn/
+材料科学与工程学院 | http://clxy.hebut.edu.cn/
+化工学院 | http://chemeng.hebut.edu.cn/ | 电话:022-60204294
+机械工程学院 | http://mes.hebut.edu.cn/ | 电话:022-60202050
+土木与交通学院 | http://tm.hebut.edu.cn/
+电子信息工程学院 | http://eie.hebut.edu.cn/
+人工智能与数据科学学院 | http://ai.hebut.edu.cn/ | 邮箱:AI@hebut.edu.cn
+能源与环境工程学院 | http://see.hebut.edu.cn/ | 电话:022-60435279
+生命科学与健康工程学院 | https://hsbme.hebut.edu.cn/
+理学院 | http://science.hebut.edu.cn/ | 电话:022-60435638",
+83,河南省,郑州大学,,211,公办,44,https://www.zzu.edu.cn/zsjy.htm,郑州大学-微信,function,019702002177,http://gs.zzu.edu.cn/,,,,https://www5.zzu.edu.cn/gjjl/,,,"吴军超 处长: wujc@zzu.edu.cn
 孙雪莲 副处长: xueliansun@zzu.edu.cn
-谢亚新 副处长: xyxain@zzu.edu.cn",,
-253,河南省,河南大学,,双一流,公办,,https://www.henu.edu.cn/zsjy.htm,,,,https://grs.henu.edu.cn/,Copyright,yjsy@henu.edu.cn,,http://iao.henu.edu.cn/,,,李秋叶 书记（。会议首先进行第一议题学习。全体同志认真学习了习近平总书记关于树立和践行正确政绩）（邮箱未公开）,,
-254,浙江省,浙江大学,,985,公办,,,,,,,,,,http://www.ir.zju.edu.cn/,,oge@zju.edu.cn; hmt@zju.edu.cn,,,
-255,浙江省,中国美术学院,,双一流,公办,,,,,,,,,,,,,,,
-256,浙江省,宁波大学,,双一流,公办,,https://ndjy.nbu.edu.cn/,,byb@nbu.edu.cn,0574-87600228,https://graduate.nbu.edu.cn/,,,0574-87609123,https://wsc.nbu.edu.cn/,,,"任友群 副部长（会议，中法两国百余所高校的负责人和专家参与论坛。中法多所大学负责人围绕构建面向未）（邮箱未公开）
-联合学 院长（主持会议）（邮箱未公开）
-纪尧姆 主任（负责人列席会议）（邮箱未公开）
-奥勒夫 院长（负责人出席会议）（邮箱未公开）",,
-257,海南省,海南大学,,211,公办,,https://www.hainanu.edu.cn/zsjy.htm,,,010802000692,https://ha.hainanu.edu.cn/gs/,,,,https://global.hainanu.edu.cn/,,,信箱校 书记（邮箱未公开）,,
-258,湖北省,华中科技大学,,985,公办,,https://www.hust.edu.cn/zsjy.htm,,,027-87541114,http://gs.hust.edu.cn/,,yzxx@hust.edu.cn,027-87542152,https://oia.hust.edu.cn/,,international@hust.edu.cn,"陈洁 处长（邮箱未公开）
-盛静波 副处长（邮箱未公开）
-江静 副处长（分管交流事务一）（邮箱未公开）
-韩晶 副处长（分管综合事务）（邮箱未公开）
-彭雨蒙 副处长（分管交流事务二）（邮箱未公开）",027-87541114,
-259,湖北省,武汉大学,,985,公办,,,,,,https://www.whu.edu.cn/rcpy.htm#md2,,,027-68752059,https://oir.whu.edu.cn/,,,"彭国晖 主任（邮箱未公开）
-邓鹤翔 部长（全面负责国际交流部工作， 分管 综合）（邮箱未公开）
-刘晓黎 副部长（分管 欧亚非事务）（邮箱未公开）
-何小英 副部长（分管 法国、法语区国家交流工作 、武汉法语）（邮箱未公开）
-章臣 副部长（分管美大事务）（邮箱未公开）
-张卫星 副部长（分管 外国专家工作）（邮箱未公开）",027-68752059,
-260,湖北省,中南财经政法大学,,211,公办,,https://www.zuel.edu.cn/recruit_jobs/,,,018502002264,http://yjsy.zuel.edu.cn/,,,,https://gjc.zuel.edu.cn/,,,,,
-261,湖北省,中国地质大学（武汉）,,211,公办,,https://www.cug.edu.cn/zsjy.htm,,,011102004169,http://graduate.cug.edu.cn/,,,027-67885151,https://gjhzc.cug.edu.cn/,,,"兼港澳 处长（主持国际合作处、港澳台地区事务管理等相关工作）（邮箱未公开）
-关庆锋 处长（圆桌会议。他介绍了我校的学科布局、科研进展与国际合作概况。目前学校有近200位学）（邮箱未公开）",,
-262,湖北省,华中农业大学,,211,公办,,https://www.hzau.edu.cn/zsjy/bkszs.htm,,,02787280707; 027-87282027,https://www.hzau.edu.cn/jyjx/yjsjy.htm,,,027-87282027,https://fao.hzau.edu.cn/,,fao@mail.hzau.edu.cn,,,
-263,湖北省,华中师范大学,,211,公办,,https://www.ccnu.edu.cn/zsjy/bysjy.htm,,,027-67868046; 027-67867020; 011102000286,https://www.ccnu.edu.cn/rcpy/yjsjy.htm,,,027-67866926,https://hmt.ccnu.edu.cn/,,,邢军志 副主任（负责人樊…）（邮箱未公开）,,
-264,湖北省,武汉理工大学,,211,公办,,https://www.whut.edu.cn/zhaoshengjiuye/,,English,027-87859017; 027-87651413; 027-87880058,https://www.whut.edu.cn/rencaipeiyang/yjsjy/,,,,https://gjc.whut.edu.cn/,,waishi@whut.edu.cn,,,
-265,湖南省,中南大学,,985,公办,,https://www.csu.edu.cn/zsjy.htm,,homepage@csu.edu.cn,0731-88876114,http://gra.csu.edu.cn,,,,https://iecd.csu.edu.cn/,,csuwsb@126.com; ied-csu@csu.edu.cn; summerschool@csu.edu.cn,,,
-266,湖南省,国防科技大学,,985,公办,,https://www.nudt.edu.cn/zsjy/index.htm,国防科大,English,0731-84576114; 0731-87027137; 0731-87027139,http://yjszs.nudt.edu.cn/index/index.view,,,,,,,,,
-267,湖南省,湖南大学,,985,公办,,https://www.hnu.edu.cn/zsjy.htm,,xiaoban@hnu.edu.cn,,http://gra.hnu.edu.cn/,,,0731-88821224（,http://wsc.hnu.edu.cn/,,,"职责 处长（全面工作）: luozhuowa@hnu.edu.cn
-职责 副处长（合作拓展、学生交流、孔子学院活动、港澳台事务）: luozhuowa@hnu.edu.cn
-职责 副处长（综合事务、因）: katrina_liu@hnu.edu.cn
-职责 科长（学生赴国（境）外交流项目、孔子学院事务、港澳台交流事务）: chejianing@hnu.edu.cn
-职责 科长（综合事务、国际会议申报、国（境）外人员来访审批、孔子学院事务）: chenwenyi@hnu.edu.cn",0731-88823974,
-268,湖南省,湖南师范大学,,211,公办,,http://zsjy.hunnu.edu.cn/,,,0648569883; 071451831580; 037237159775,https://yjsy.hunnu.edu.cn,,yjsynews@hunnu.edu.cn,,https://oiec.hunnu.edu.cn/,,OIEC@HUNNU.EDU.CN,"国际合 处长（邮箱未公开）
-导服务 副主任（分管国际学生工作、孔子学院工作（已任我校驻村帮扶工作队队长）（邮箱未公开）
-生管理 科长（邮箱未公开）
-生管理 科员（邮箱未公开）
-生招生 科长（邮箱未公开）
-生招生 科员（邮箱未公开）
-交流 科长（邮箱未公开）
-交流 科员（邮箱未公开）",,
-269,湖南省,湘潭大学,,双一流,公办,,https://www.xtu.edu.cn/zsjy.htm,,zsk@xtu.edu.cn,0731-58293807,https://www.xtu.edu.cn/jyjx/yjsjyjx.htm,,,030202001058,https://gjjlc.xtu.edu.cn/,,,夏卓琼 副处长（职责:主持行政全面工作；分管综合行政、宣传等工作）（邮箱未公开）,,
-270,甘肃省,兰州大学,,985,公办,,,,,,,,,,https://faoffice.lzu.edu.cn/,,,,,官网不可达：requests失败
-271,福建省,厦门大学,,985,公办,,http://jy.xmu.edu.cn/,,jiuyezhaopin@xmu.edu.cn,0592-2184550,http://gs.xmu.edu.cn/,,YJSY@XMU.EDU.CN,0592-2186259,https://ice.xmu.edu.cn/,,,,0592-2180240,
-272,福建省,福州大学,,211,公办,,,,,,https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=yjsjy&type=w,,,,https://oce.fzu.edu.cn/,,,,,
-273,西藏自治区,西藏大学,,211,公办,,,,,,,,,,https://gjc.utibet.edu.cn/,,,,,官网不可达：requests失败
-274,贵州省,贵州大学,,211,公办,,https://www.gzu.edu.cn/70/list.htm,,,0851-88292178,https://gs.gzu.edu.cn/zsgz/list.htm,,,,https://oir.gzu.edu.cn/,,,,,
-275,重庆市,重庆大学,,985,公办,,https://www.cqu.edu.cn/zsjy.htm,,,001060250313; 000004000026,http://graduate.cqu.edu.cn/,,,,http://intex.cqu.edu.cn/,,,,,
-276,重庆市,西南大学,,211,公办,,https://swu.cqbys.com/,,,,http://yjsyygb.swu.edu.cn/,,yanzong209@swu.edu.cn; zljdxxk@swu.edu.cn,,https://gjc.swu.edu.cn/,,,"港澳台 处长（主持全面工作）: cbj0730@126.com
-港澳台 副处长（负责港澳台事务、国际中文教育）: daiyuanhong@126.com
+谢亚新 副处长: xyxain@zzu.edu.cn",,0,,
+84,海南省,海南大学,,211,公办,87,https://www.hainanu.edu.cn/zsjy.htm,,,010802000692,https://ha.hainanu.edu.cn/gs/,,,,https://global.hainanu.edu.cn/,,,"刘亮 处长
+许苗 副处长
+许苗 副处长: xumiao@hainanu.edu.cn
+岳大然 副院长（国际学生学籍管理、转专业、毕业和学位管理、科研及教改项目管理、及来华留学生高等教）: 994243@hainanu.edu.cn
+委员会 顾问
+委员会 顾问: global@hainanu.edu.cn",,32,"数学与统计学院 | http://sms.hainanu.edu.cn | 邮箱:hdsxtj@hainanu.edu.cn
+物理与光电工程学院 | http://spoe.hainanu.edu.cn | 邮箱:wdxyzh@hainanu.edu.cn | 电话:0898-66279161
+化学化工学院 | http://scce.hainanu.edu.cn | 邮箱:hdhg@hainanu.edu.cn | 电话:0898-66255906; 0898-66256050; 0898-66279224
+生命健康学院 | http://slhs.hainanu.edu.cn | 邮箱:hdsmkx@hainanu.edu.cn | 电话:0898-66253203（
+机电工程学院 | http://smee.hainanu.edu.cn | 电话:0898-66267576; 0898-66271526; 0898-66267372
+材料科学与工程学院 | http://mse.hainanu.edu.cn | 邮箱:clxyzhb@hainanu.edu.cn | 电话:0898-66251982（
+电子科学与技术学院 | https://hd.hainanu.edu.cn/dzkx/
+信息与通信工程学院 | http://sice.hainanu.edu.cn | 邮箱:sice@hainan.edu.cn | 电话:0898-66279057
+计算机科学与技术学院 | http://cs.hainanu.edu.cn | 邮箱:cs@hainanu.edu.cn | 电话:0898-66278203
+网络空间安全学院 | https://scs.hainanu.edu.cn/ | 邮箱:scscs@hainanu.edu.cn | 电话:0898-66259127; 0898-66257132
+土木建筑工程学院 | http://scea.hainanu.edu.cn | 电话:0898-66279232
+海洋技术与装备学院 | http://smse.hainanu.edu.cn/ | 邮箱:sheny2000@hainanu.edu.cn; 991302@hainanu.edu.cn | 电话:0898-66192572; 0898-66255276
+环境科学与工程学院 | http://sese.hainanu.edu.cn | 电话:0898-66255157
+食品科学与工程学院 | https://hd.hainanu.edu.cn/shipin/
+海洋生物与水产学院 | http://smbf.hainanu.edu.cn | 邮箱:xiesg@hainanu.edu.cn; 993928@hainanu.edu.cn; haiyyb@hainu.edu.cn | 电话:0898-66279184
+空天智能学院 | https://sai.hainanu.edu.cn/ | 邮箱:ktzn@hainanu.edu.cn | 电话:0898-66268297
+数学与统计学院 | http://sms.hainanu.edu.cn | 邮箱:hdsxtj@hainanu.edu.cn
+物理与光电工程学院 | http://spoe.hainanu.edu.cn | 邮箱:wdxyzh@hainanu.edu.cn | 电话:0898-66279161
+化学化工学院 | http://scce.hainanu.edu.cn | 邮箱:hdhg@hainanu.edu.cn | 电话:0898-66255906; 0898-66256050; 0898-66279224
+生命健康学院 | http://slhs.hainanu.edu.cn | 邮箱:hdsmkx@hainanu.edu.cn | 电话:0898-66253203（
+机电工程学院 | http://smee.hainanu.edu.cn | 电话:0898-66267576; 0898-66271526; 0898-66267372
+材料科学与工程学院 | http://mse.hainanu.edu.cn | 邮箱:clxyzhb@hainanu.edu.cn | 电话:0898-66251982（
+电子科学与技术学院 | https://hd.hainanu.edu.cn/dzkx/
+信息与通信工程学院 | http://sice.hainanu.edu.cn | 邮箱:sice@hainan.edu.cn | 电话:0898-66279057
+计算机科学与技术学院 | http://cs.hainanu.edu.cn | 邮箱:cs@hainanu.edu.cn | 电话:0898-66278203
+网络空间安全学院 | https://scs.hainanu.edu.cn/ | 邮箱:scscs@hainanu.edu.cn | 电话:0898-66259127; 0898-66257132
+土木建筑工程学院 | http://scea.hainanu.edu.cn | 电话:0898-66279232
+海洋技术与装备学院 | http://smse.hainanu.edu.cn/ | 邮箱:sheny2000@hainanu.edu.cn; 991302@hainanu.edu.cn | 电话:0898-66192572; 0898-66255276
+环境科学与工程学院 | http://sese.hainanu.edu.cn | 电话:0898-66255157
+食品科学与工程学院 | https://hd.hainanu.edu.cn/shipin/
+海洋生物与水产学院 | http://smbf.hainanu.edu.cn | 邮箱:xiesg@hainanu.edu.cn; 993928@hainanu.edu.cn; haiyyb@hainu.edu.cn | 电话:0898-66279184
+空天智能学院 | https://sai.hainanu.edu.cn/ | 邮箱:ktzn@hainanu.edu.cn | 电话:0898-66268297",
+85,湖北省,中南财经政法大学,,211,公办,,https://www.zuel.edu.cn/recruit_jobs/,,,018502002264,http://yjsy.zuel.edu.cn/,,,,https://gjc.zuel.edu.cn/,,,,,2,"统计与数学学院 | https://tsxy.zuel.edu.cn/
+信息工程学院 | https://xagx.zuel.edu.cn/",
+86,湖北省,中国地质大学（武汉）,,211,公办,56,https://www.cug.edu.cn/zsjy.htm,,,011102004169,http://graduate.cug.edu.cn/,,,027-67885151,https://gjhzc.cug.edu.cn/,,,"关庆锋 处长（主持国际合作处、港澳台地区事务管理等相关工作）
+范陆薇 副处长（分管中外合作办学办公室）
+姚夏晶 副处长
+徐侨伊（综合事务办公室，负责日常综合事务管理工作）
+张晓珊（国际合作项目与基地办公室，申报与管理各类外专项目和引智基地等）
+张友丽（国际合作项目与基地办公室，申报与管理各类外专项目和引智基地等）
+朱宠莲（因公出国与来华专家办公室，教师因公出国（境）事务等）
+赵文静（因公出国与来华专家办公室，教师因公出国（境）事务等）
+李雅莉（中外合作办学办公室，全球合作网络建设等）
+李梦宇（中外合作办学办公室，全球合作网络建设等）
+李娜（中外合作办学办公室，负责国际大学联盟和国别研究中心）
+张愫恒（中外合作办学办公室，负责国际大学联盟和国别研究中心）
+吴丹（负责国际大学联盟和国别研究中心）",,18,"地球与行星科学学院 | http://dxy.cug.edu.cn/ | 邮箱:dxb@cug.edu.cn | 电话:027-67883001
+资源学院 | http://zyxy.cug.edu.cn/ | 邮箱:zyb@cug.edu.cn
+材料与化学学院 | http://chxy.cug.edu.cn/ | 邮箱:chxyyb@cug.edu.cn | 电话:027-67883736
+环境学院 | http://ses.cug.edu.cn/ | 电话:（027）67883152
+工程学院 | http://gcxy.cug.edu.cn/
+地球物理与空间信息学院 | http://dkxy.cug.edu.cn/ | 邮箱:wtb@cug.edu.cn | 电话:86-27-67883251
+海洋学院 | http://cmst.cug.edu.cn/ | 邮箱:cmst@cug.edu.cn
+机械与电子信息学院 | http://jidian.cug.edu.cn/ | 邮箱:zhangjing28@cug.edu.cn; lix@cug.edu.cn | 电话:027-67883273
+人工智能与自动化学院 | http://au.cug.edu.cn/
+地理与信息工程学院 | http://xgxy.cug.edu.cn/ | 邮箱:dxxyjw@cug.edu.cn | 电话:027-67883721; 027-87581009; 027-67883728
+数学与物理学院 | http://slxy.cug.edu.cn/ | 邮箱:slxy@cug.edu.cn | 电话:027-67883091
+计算机学院 | http://cs.cug.edu.cn/ | 邮箱:jsjb@cug.edu.cn | 电话:027-67883716
+李四光学院 | http://lsgxy.cug.edu.cn/ | 电话:027-67885190
+未来技术学院 | https://sft.cug.edu.cn/
+先进技术研究院 | https://xjjsyjy.cug.edu.cn/ | 邮箱:xjy@cug.edu.cn | 电话:027-67880788
+自然资源调查研究院 | https://ddy.cug.edu.cn/ | 邮箱:ddyb@cug.edu.cn | 电话:027-67883017; 027-67883472
+国家卓越工程师学院 | https://zhuoy.cug.edu.cn/index.htm | 电话:027-67886412
+安哈尔特智能工程与可持续发展学院 | https://cug-anhalt.cug.edu.cn/ | 邮箱:cuganhalt@cug.edu.cn",
+87,湖北省,华中农业大学,,211,公办,45,https://www.hzau.edu.cn/zsjy/bkszs.htm,,,02787280707; 027-87282027,https://www.hzau.edu.cn/jyjx/yjsjy.htm,,,027-87282027,https://fao.hzau.edu.cn/,,fao@mail.hzau.edu.cn,"曾红霞 部长
+邮箱 部长（职责分工： 全面主持国际合作与交流部工作）: zenghx@mail.hzau.edu.cn
+邮箱 副部长（职责分工： 主管海外合作关系维护与拓展）: caozhen@mail.hzau.edu.cn
+宋兰香（协助领导开展本单位综合协调和对外联络，负责本单位日常行政事务，会议接待、对外宣传、制度建设、印章管理、涉外合同管理等；负责与港澳台地区合作伙伴关系拓展与维护；从事本单位人事管理、资产管理、安全管理、信息统计等。）: songlanxiang@mail.hzau.edu.cn
+徐瑛（负责国际会议预报、申报和总结管理、合同和档案管理、网站管理、协助部门来访接待和办公室日常工作等。）: xuying@mail.hzau.edu.cn
+张建华（负责国际科技合作相关工作，服务与“一带一路”沿线国家合作与交流；相关国际联盟的联络工作；参与国际合作联合实验室等平台项目建设及各类相关国际合作项目申报；国际咨询委员会联络等事宜。）: jhzhang@mail.hzau.edu.cn
+龙琳（负责各类外国专家项目和友谊奖的组织申报、形式审查和日常实施管理，短期外专/外宾来访审核管理等。）: longlin1126@mail.hzau.edu.cn
+彭丽（教职工因公出访管理，因公证照管理，审核护照签证材料，对接省外办办理信息网上申报、护照签证等。）: pengli@mail.hzau.edu.cn
+吴静怡（负责外国专家来华工作手续办理; 外籍教师日常服务与管理以及相关活动组织；教职工因公出访行后管理等事宜。）: wujingyi@mail.hzau.edu.cn
+任丽红（负责与海外高校及科研院所合作伙伴关系拓展与维护；负责中外合作办学项目（机构）开拓和运行协调；负责留学基金委创新型人才国际合作培养项目、乡村振兴项目等申报与实施。）: renlihong@mail.hzau.edu.cn
+章佳文（负责学生留学（访学）项目开拓、管理与服务；负责学生出国（境）系统建设与管理；指导学校国际文化交流协会，负责微信公众号的运营；协助开展部分合作交流事务。）: Zhangjiawen@mail.hzau.edu.cn
+李瑞祥（负责学生出国（境）学习交流选派与管理；负责学生出国（境）精准留学服务工作；负责留学基金委其他国际化人才培养项目人员遴选与推荐（不含国家建设高水平大学公派研究生项目）；协助开展部分合作交流事务。）: ruixiangli@mail.hzau.edu.cn
+刘薇: liuwei@mail.hzau.edu.cn
+Keith Walley
+曹震 副部长（。曾红霞在致辞中感谢市）",,6,"植物科学技术学院 | https://cpst.hzau.edu.cn | 电话:027-87282130
+资源与环境学院 | https://zyhj.hzau.edu.cn | 电话:027-87282137
+生命科学技术学院 | https://lst.hzau.edu.cn | 邮箱:tangyongmu@mail.hzau.edu.cn; bio@mail.hzau.edu.cn | 电话:027-87281265; +86-27-87287308
+食品科学技术学院 | https://shipin.hzau.edu.cn | 电话:027-87282111
+化学学院 | https://chem.hzau.edu.cn | 电话:027-87282133
+信息学院 | https://coi.hzau.edu.cn | 邮箱:coi@mail.hzau.edu.cn | 电话:027-87288509; 027-87286876",
+88,湖北省,华中师范大学,,211,公办,53,https://www.ccnu.edu.cn/zsjy/bysjy.htm,,,027-67868046; 027-67867020; 011102000286,https://www.ccnu.edu.cn/rcpy/yjsjy.htm,,,027-67866926,https://hmt.ccnu.edu.cn/,,,"邢军志 副主任（负责人樊…）
+等共计 助理",,7,"◆ 心理学院 | http://psych.ccnu.edu.cn/ | 电话:027-67868680
+◆ 数学与统计学学院 | http://maths.ccnu.edu.cn/
+◆ 物理科学与技术学院 | http://phy.ccnu.edu.cn/ | 电话:027-67867017
+◆ 化学学院 | http://chem.ccnu.edu.cn/ | 电话:027-67867955
+◆ 生命科学学院 | http://bio.ccnu.edu.cn/ | 电话:+86-27-67867221
+◆ 计算机学院 | http://cs.ccnu.edu.cn/ | 邮箱:cs@ccnu.edu.cn | 电话:027-67868318
+◆ 城市与环境科学学院 | http://ccnucity.ccnu.edu.cn/ | 电话:027-67868305; 027-67861443; 027-67867610",
+89,湖北省,武汉理工大学,,211,公办,54,https://www.whut.edu.cn/zhaoshengjiuye/,,English,027-87859017; 027-87651413; 027-87880058,https://www.whut.edu.cn/rencaipeiyang/yjsjy/,,,,https://gjc.whut.edu.cn/,,waishi@whut.edu.cn,"江辉一 秘书长（主持座谈）
+孟芳兵 书记（主持仪式）",,0,,
+90,湖南省,湖南师范大学,,211,公办,92,http://zsjy.hunnu.edu.cn/,,,0648569883; 071451831580; 037237159775,https://yjsy.hunnu.edu.cn,,yjsynews@hunnu.edu.cn,,https://oiec.hunnu.edu.cn/,,OIEC@HUNNU.EDU.CN,"国际合 处长
+俞海宝 副主任
+唐存忠 副主任（分管国际学生工作、孔子学院工作（已任我校驻村帮扶工作队队长）
+刘晨晖 科长
+郭丽萍 科员
+胡润黎 科长
+蔡昕蕾 科员
+导服务 副主任（分管国际交流工作、因公临时出国境工作）
+廖阿琼 科长
+曾子荷 科员
+交流 科员
+李苗主 副主任（主持会议）
+李苗 副主任（会议。 唐贤清代表学校对王胜刚理事长一行的到来表示热烈欢迎。他介绍，近年来学校积）
+郑澜 院长（。 刘仲华校长向全体毕业生致以热烈祝贺，对远道而来的格雷厄姆・鲍德温校长一行表示）",,14,"地理科学学院 | http://dlkx.hunnu.edu.cn/ | 邮箱:zhxy@hunnu.edu.cn | 电话:0731-88872535
+国际汉语文化学院 | http://icclc.hunnu.edu.cn/ | 邮箱:icclc@hunnu.edu.cn | 电话:0731-88873017
+化学化工学院 | http://hgxy.hunnu.edu.cn/ | 电话:88872530
+生命科学学院 | http://lifescience.hunnu.edu.cn/ | 电话:18890054350); 0731-88872525
+数学与统计学院 | http://mc.hunnu.edu.cn/ | 电话:0731-88872515
+物理与电子科学学院 | http://wdy.hunnu.edu.cn | 邮箱:wdy@hunnu.edu.cn | 电话:0731-88872520
+信息科学与工程学院 | http://cise.hunnu.edu.cn | 邮箱:641381226@qq.com
+地理科学学院 | http://dlkx.hunnu.edu.cn/ | 邮箱:zhxy@hunnu.edu.cn | 电话:0731-88872535
+国际汉语文化学院 | http://icclc.hunnu.edu.cn/ | 邮箱:icclc@hunnu.edu.cn | 电话:0731-88873017
+化学化工学院 | http://hgxy.hunnu.edu.cn/ | 电话:88872530
+生命科学学院 | http://lifescience.hunnu.edu.cn/ | 电话:18890054350); 0731-88872525
+数学与统计学院 | http://mc.hunnu.edu.cn/ | 电话:0731-88872515
+物理与电子科学学院 | http://wdy.hunnu.edu.cn | 邮箱:wdy@hunnu.edu.cn | 电话:0731-88872520
+信息科学与工程学院 | http://cise.hunnu.edu.cn | 邮箱:641381226@qq.com",
+91,福建省,福州大学,,211,公办,77,,,,,https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=yjsjy&type=w,,,,https://oce.fzu.edu.cn/,,,做好处 处长,,16,"电气工程与自动化学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=dqxy&type=w
+机械工程及自动化学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=jxxy&type=w
+数学与统计学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=math&type=w
+化工学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=che&type=w
+土木工程学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=civil&type=w
+环境与安全工程学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=es&type=w
+生物科学与工程学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=bio&type=w
+计算机与大数据学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=ccds&type=w
+物理与信息工程学院、微电子学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=wx&type=w
+化学学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=chem&type=w
+建筑与城乡规划学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=jzxy&type=w
+紫金地质与矿业学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=zjxy&type=w
+材料科学与工程学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=cl&type=w
+先进制造学院与海洋学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=xjzz&type=w
+梅努斯国际工程学院 | https://www.fzu.edu.cn/system/resource/link.jsp?bmmc=miec&type=w
+未来技术学院 | https://future.fzu.edu.cn/ | 邮箱:future@fzu.edu.cn | 电话:0591-22863835",
+92,西藏自治区,西藏大学,,211,公办,,,,,,,,,,https://gjc.utibet.edu.cn/,,,,,0,,
+93,贵州省,贵州大学,,211,公办,85,https://www.gzu.edu.cn/70/list.htm,,,0851-88292178,https://gs.gzu.edu.cn/zsgz/list.htm,,,,https://oir.gzu.edu.cn/,,,,,16,"生命科学学院 | http://life.gzu.edu.cn/ | 电话:0851-88420766（
+数学与统计学院 | http://math.gzu.edu.cn/ | 邮箱:msc@gzu.edu.cn | 电话:0851-83627662; 0851-83627557; 0851-83620186
+大数据与信息工程学院 | http://eie.gzu.edu.cn/
+物理学院 | http://phy.gzu.edu.cn/ | 邮箱:phy@gzu.edu.cn | 电话:0851-88165475
+电气工程学院 | http://ee.gzu.edu.cn/ | 邮箱:ee@gzu.edu.cn | 电话:0851-83626560
+计算机科学与技术学院 | http://cs.gzu.edu.cn/ | 电话:011102002224
+建筑与城市规划学院 | http://caup.gzu.edu.cn/ | 电话:0851-83651562
+机械工程学院 | http://mech.gzu.edu.cn/ | 邮箱:me@gzu.edu.cn | 电话:0851-83627516
+化学与化工学院 | http://cc.gzu.edu.cn/ | 电话:0851-83625870; 0851-83635721
+土木工程学院 | http://ca.gzu.edu.cn/ | 电话:0851-83866011
+资源与环境工程学院 | http://re.gzu.edu.cn/ | 电话:0851-83627126
+材料与冶金学院 | http://mm.gzu.edu.cn/ | 电话:0851-83627785
+矿业学院 | http://mnc.gzu.edu.cn/ | 电话:0851-83627268
+动物科学学院 | http://as.gzu.edu.cn/ | 邮箱:cchen@gzu.edu.cn; chenganchun@vip.163.com | 电话:0851-88298005; 0851-88298003; 0851-88298109
+酿酒与食品工程学院 | http://lfe.gzu.edu.cn/ | 邮箱:bfe@gzu.edu.cn | 电话:0851-88236702
+北阿拉巴马国际工程技术学院 | http://naie.gzu.edu.cn/ | 邮箱:naie@gzu.edu.cn | 电话:0851-83854609",
+94,重庆市,西南大学,,211,公办,61,https://swu.cqbys.com/,,,,http://yjsyygb.swu.edu.cn/,,yanzong209@swu.edu.cn; zljdxxk@swu.edu.cn,,https://gjc.swu.edu.cn/,,,"陈炳君 处长（主持全面工作）
+褚修伟 副处长（负责国际交流、国际化人才培养、中外合作办学）
+代远鸿 副处长（负责港澳台事务、国际中文教育）
 陈丽为 科长: chenliwei@swu.edu.cn
 谭飞雪 科长: euasaf@swu.edu.cn
-邹育艳 科长: yuyanzou@swu.edu.cn
-张晓琦 科长（邮箱未公开）
-肖桑梦 科长: xiaosunmoon@swu.edu.cn
-艾芝兰 科长: gangaotai@swu.edu.cn",,
-277,陕西省,西北农林科技大学,,985,公办,,https://www.nwafu.edu.cn/zsjy/index.htm,,zhaoshb@nwafu.edu.cn; zhsh@nwafu.edu.cn; admission@nwafu.edu.cn,029-87080152; 029-87080151; 029-87080155,http://yjshy.nwsuaf.edu.cn/,,ybgsh@nwafu.edu.cn,02504100006; 029-87080155,https://gjc.nwsuaf.edu.cn/,,ipo@nwsuaf.edu.cn,,2987082857,
-278,陕西省,西北工业大学,,985,公办,,http://job.nwpu.edu.cn/home.do,,,,http://gs.nwpu.edu.cn/,Copyright,gs@nwpu.edu.cn,029-88430620; 029-88493641; 029-88430618,https://guoji.nwpu.edu.cn/,,icoffice@nwpu.edu.cn,"国际教 处长（邮箱未公开）
-国际教 副处长（邮箱未公开）",,
-279,陕西省,西安交通大学,,985,公办,,http://job.xjtu.edu.cn/,,,,https://www.xjtu.edu.cn/rcpy/yjsjy.htm,,,,https://international.xjtu.edu.cn/,,,,,
-280,陕西省,第四军医大学,,211,公办,,,,,,,,,,,,,,,官网不可达：官网未知
-281,陕西省,西北大学,,211,公办,,https://jczx.nwu.edu.cn/,,jiuye@nwu.edu.cn,029-88302514; 029-88303867,https://yjs.nwu.edu.cn/index.htm,研究生院,,029-88308162,https://gj.nwu.edu.cn/index.htm,,,"李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: 20165061@nwu.edu.cn
+王骏 科长: experts@swu.edu.cn
+张晓琦 科长
+肖桑梦 科长
+艾芝兰 科长: gangaotai@swu.edu.cn
+学中方 院长（负责学校国际中文教育工作和海外孔子学院（课堂）及相关机构的管理与）",,16,"国家治理学院 | http://gjzl.swu.edu.cn/ | 邮箱:xcb@swu.edu.cn | 电话:023-68252503--
+心理学部 | http://psy.swu.edu.cn/ | 邮箱:psych@swu.edu.cn
+化学化工学院 | http://chemistry.swu.edu.cn/
+物理科学与技术学院 | http://physics.swu.edu.cn | 电话:023-68252355
+材料与能源学院 | http://fmae.swu.edu.cn | 邮箱:swufme@swu.edu.cn | 电话:023-68254376
+资源环境学院 | http://zihuan.swu.edu.cn/ | 电话:023-68251249
+地理科学学院 | http://geography.swu.edu.cn | 邮箱:dlkxxy@swu.edu.cn | 电话:023-68253912
+工程技术学院 | http://gcjsxy.swu.edu.cn/ | 电话:023-68251265
+食品科学学院 | http://spxy.swu.edu.cn | 邮箱:shipinyb@swu.edu.cn | 电话:023-68251298
+数学与统计学院 | http://math.swu.edu.cn/ | 邮箱:tangyu@swu.edu.cn; wjj@swu.edu.cn | 电话:023-68252350
+计算机与信息科学学院 软件学院 | http://cis.swu.edu.cn | 电话:023-68252352
+电子信息工程学院 | http://ceie.swu.edu.cn | 邮箱:cdli@swu.edu.cn; lihongyi2009@swu.edu.com; xl2009@swu.edu.cn | 电话:023-68250394
+人工智能学院 | http://ai.swu.edu.cn | 邮箱:aisj@swu.edu.cn; aiyz@swu.edu.cn; rgznjw@swu.edu.cn | 电话:023-68250153
+蚕桑纺织与生物质科学学院 | http://csfzswz.swu.edu.cn/ | 邮箱:yszhang@swu.edu.cn; fydai@swu.edu.cn
+动物科学技术学院 | http://dwkj.swu.edu.cn | 电话:023-46751588
+生命科学学院 | http://smkxxy.swu.edu.cn/ | 邮箱:smkxxy@swu.edu.cn | 电话:023-68252365",
+95,陕西省,第四军医大学,,211,公办,,,,,,,,,,,,,,,0,,
+96,陕西省,西北大学,,211,公办,70,https://jczx.nwu.edu.cn/,,jiuye@nwu.edu.cn,029-88302514; 029-88303867,https://yjs.nwu.edu.cn/index.htm,研究生院,,029-88308162,https://gj.nwu.edu.cn/index.htm,,,"李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: 20165061@nwu.edu.cn
 李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: hejing0917@nwu.edu.cn
 李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: zzh@nwu.edu.cn
 李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: fanxiaodan@nwu.edu.cn
 李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: jizhe@nwu.edu.cn
 李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: 20195422@nwu.edu.cn
-李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: sunpeng@nwu.edu.cn",,
-282,陕西省,西安电子科技大学,,211,公办,,https://www.xidian.edu.cn/zsjy.htm,,zsb@mail.xidian.edu.cn; sie@xidian.edu.cn; xdmba@mail.xidian.edu.cn,029-88202335; 029-81891244; +86-29-81891161,https://www.xidian.edu.cn/jyjx.htm#C,,,029-88201000,https://oice.xidian.edu.cn/,,fao@xidian.edu.cn,"学中方 院长（负责合作办学和孔子学院相关工作）（邮箱未公开）
-与交流 副部长（负责国际学生学历生教育管理相关工作）: yangzhang1984@gmail.com
-与交流 副部长（负责国际培训、国际教育项目、出国留学服务、国际科技创新与成果转化）: wangx@xidian.edu.cn",,
-283,陕西省,长安大学,,211,公办,,javascriot:;,,,,https://graduate.chd.edu.cn/,版权,,,https://gjhz.chd.edu.cn/,,,"周珍珍 副处长（邮箱未公开）
-杜轶群 副处长（邮箱未公开）
-王菲儿 主任（邮箱未公开）
-李培月 书记（邮箱未公开）",,
-284,陕西省,陕西师范大学,,211,公办,,http://job.snnu.edu.cn/,,jyzx@snnu.edu.cn,029-85310325; 032685310466; 029-85310327,http://newyjs.snnu.edu.cn/,,,029-85318713,https://ipo.snnu.edu.cn/,,ipo@snnu.edu.cn,挂职 副处长: tangkexin880315@163.com,,
-285,青海省,青海大学,,211,公办,,https://www.qhu.edu.cn/zsjy/index.htm,,,010502000029,https://www.qhu.edu.cn/jxjy/yjsjy/index.htm,,,,https://international.qhu.edu.cn/,,qhuwsb@126.com,,,
+李鹏飞 主任（职责 1.负责与校内外单位的沟通联络、文件整理与信息传达； 2.）: sunpeng@nwu.edu.cn
+何玮全 副主任（主持国际合作部（国际教育学院）、港澳台事务办公室各项工作）: 20134505@nwu.edu.cn
+何玮全 副主任（主持国际合作部（国际教育学院）、港澳台事务办公室各项工作）: 20133205@nwu.edu.cn
+何玮全 副主任（主持国际合作部（国际教育学院）、港澳台事务办公室各项工作）: 20133965@nwu.edu.cn
+何玮全 副主任（主持国际合作部（国际教育学院）、港澳台事务办公室各项工作）: qixf@nwu.edu.cn
+杨喆 副院长（部（院）党务工作、部（院））: 20133205@nwu.edu.cn
+张熠 副院长（国际学生招生）: 20133965@nwu.edu.cn
+齐晓斐 副院长（合作）: qixf@nwu.edu.cn",,0,,
+97,陕西省,西安电子科技大学,,211,公办,39,https://www.xidian.edu.cn/zsjy.htm,,zsb@mail.xidian.edu.cn; sie@xidian.edu.cn; xdmba@mail.xidian.edu.cn,029-88202335; 029-81891244; +86-29-81891161,https://www.xidian.edu.cn/jyjx.htm#C,,,029-88201000,https://oice.xidian.edu.cn/,,fao@xidian.edu.cn,"学中方 院长（负责合作办学和孔子学院相关工作）
+程曦娜 副院长（主持）
+沈玉龙 部长（主持）
+薄立军 院长（主持开幕式）",,21,"科学研究院 | https://www.xidian.edu.cn/2016zhuzhanxin/kxyj.jsp?urltype=tree.TreeTempUrl&wbtreeid=1786#A
+通信工程学院 | http://ste.xidian.edu.cn/ | 电话:029-88204185; 019002002681
+电子工程学院 | https://see.xidian.edu.cn/ | 电话:029-81891663; 029-88201703
+机电工程学院 | http://eme.xidian.edu.cn/
+光电工程学院 | https://soe.xidian.edu.cn/
+物理学院 | https://phy.xidian.edu.cn/ | 邮箱:phyjw@xidian.edu.cn | 电话:88202798; 81892402
+数学与统计学院 | http://math.xidian.edu.cn/ | 邮箱:math@xidian.edu.cn | 电话:029-81891379
+语言智能学部 | http://sfl.xidian.edu.cn/ | 邮箱:sfl@xidian.edu.cn; wangshuoyang@xidian.edu.cn | 电话:029-81891389; 029-81891027
+集成电路学部 | https://sme.xidian.edu.cn/index.html | 电话:029-81891633; 029-88201768
+集成电路学院 | https://jcdlyjy.xidian.edu.cn/
+生命科学技术学院 | http://life.xidian.edu.cn/
+空间科学与技术学院 | http://sast.xidian.edu.cn/ | 电话:029-81891034
+先进材料与纳米科技学院 | http://amn.xidian.edu.cn/ | 电话:029-81891149
+网络安全与密码学部 | https://ce.xidian.edu.cn/ | 邮箱:ce@xidian.edu.cn | 电话:029-81891873
+网络与信息安全学院 | http://ce.xidian.edu.cn/ | 邮箱:ce@xidian.edu.cn | 电话:029-81891873
+人工智能学院 | http://sai.xidian.edu.cn/
+信息力学与感知工程学院 | https://imse.xidian.edu.cn/
+信息交叉学部 | https://inforx.xidian.edu.cn/
+数学与交叉科学研究院 | https://imis.xidian.edu.cn/ | 电话:029-81892653; 029-88201000
+信息感知集成攻关研究院 | https://iis.xidian.edu.cn/ | 邮箱:iis@xidian.edu.cn | 电话:029-88202868
+国家卓越工程师学院 | https://ncee.xidian.edu.cn/",
+98,陕西省,长安大学,,211,公办,89,javascriot:;,,,,https://graduate.chd.edu.cn/,版权,,,https://gjhz.chd.edu.cn/,,,"周珍珍 副处长
+杜轶群 副处长
+王菲儿 主任
+李培月 书记",,17,"科学技术研究院 | https://kyy.chd.edu.cn/ | 邮箱:kyy@chd.edu.cn
+机械工程与智能装备学院 | https://cmcs.chd.edu.cn/ | 邮箱:gcjxbgs@chd.edu.cn; gcjxjw@chd.edu.cn | 电话:029-82334483; 029-82334484; 029-82334366
+机器人与具身智能学院 | https://ec.chd.edu.cn/ | 邮箱:dkxbgs@chd.edu.cn; dkxyjw@chd.edu.cn | 电话:029-62630037
+信息工程学院 | https://it.chd.edu.cn/ | 电话:01811391013; 01811326310; 01811217064
+地质工程与测绘学院 | https://dcxy.chd.edu.cn/ | 邮箱:dcxgb@chd.edu.cn | 电话:029-82339021
+地球科学与资源学院 | https://zyonline.chd.edu.cn/ | 邮箱:zyxybgs@chd.edu.cn | 电话:029-82339059
+土木工程与智能建造学院 | https://jzgc.chd.edu.cn/
+水利与环境学院 | https://esec.chd.edu.cn/ | 邮箱:hgyb@chd.edu.cn | 电话:029-82339952
+建筑学院 | https://jzx.chd.edu.cn/ | 邮箱:jzxybgs@chd.edu.cn | 电话:029-82337241
+材料科学与工程学院 | https://clxy.chd.edu.cn/ | 邮箱:clbgs@chd.edu.cn; clxydw@chd.edu.cn | 电话:029-82337244（
+运输工程学院 | https://ysxy.chd.edu.cn/ | 电话:029-82334050
+土地工程学院 | https://sle.chd.edu.cn/ | 邮箱:tdyb@chd.edu.cn | 电话:029-82335145
+能源与电气工程学院 | https://ndxy.chd.edu.cn/ | 邮箱:ndxybgs@chd.edu.cn | 电话:029-82335517
+理学院 | https://lxy.chd.edu.cn/ | 电话:029-62805006
+长安都柏林国际交通学院 | https://cdic.chd.edu.cn | 邮箱:cdic@chd.edu.cn | 电话:029-61106818; 029-61106816; 029-61106826
+未来交通学院 | https://wljtxy.chd.edu.cn/ | 邮箱:wljtxy@chd.edu.cn | 电话:029-61105325
+数据科学与人工智能研究院 | https://dsai.chd.edu.cn/ | 电话:029-82334939",
+99,陕西省,陕西师范大学,,211,公办,63,http://job.snnu.edu.cn/,,jyzx@snnu.edu.cn,029-85310325; 032685310466; 029-85310327,http://newyjs.snnu.edu.cn/,,,029-85318713,https://ipo.snnu.edu.cn/,,ipo@snnu.edu.cn,"李坤 副处长（。首先，国际交流与合作处处长张凌云对第二届新青年班开展情况进行总结，对优秀学员进）
+张凌云 处长: oiec@snnu.edu.cn
+唐可欣 副处长
+与服务 科长: shirlenezhang@snnu.edu.cn
+王友颐 科员: sarah@snnu.edu.cn
+与服务 科员: gat@snnu.edu.cn
+景婷婷 科长: tingtingjing@snnu.edu.cn
+李欣然 科员: lixinran@snnu.edu.cn
+洪焕悦 科长: huanyue_hong@snnu.edu.cn
+与服务 科员: snnuiso@snnu.edu.cn
+李如阳 科员: snnuiso@snnu.edu.cn",,10,"心理学院 | http://psych.snnu.edu.cn/ | 邮箱:xlxy@snnu.edu.cn | 电话:029-85303236
+数学与统计学院 | http://maths.snnu.edu.cn/ | 邮箱:maths@snnu.edu.cn | 电话:029-85310232
+物理学与信息技术学院 | http://wuli.snnu.edu.cn/ | 邮箱:wlbg@snnu.edu.cn | 电话:029-81530750
+化学化工学院 | http://chem.snnu.edu.cn/ | 邮箱:chem@snnu.edu.cn
+材料科学与工程学院 | http://mse.snnu.edu.cn/ | 邮箱:clxy@snnu.edu.cn | 电话:029-81530709
+生命科学学院 | http://lifesci.snnu.edu.cn/ | 电话:029-85310266
+地理科学与旅游学院 | http://geog.snnu.edu.cn/ | 邮箱:geog@snnu.edu.cn | 电话:052585310526
+人工智能与计算机学院 | http://ccs.snnu.edu.cn/ | 电话:029-85310661
+国际汉语文化学院 | http://iscs.snnu.edu.cn/ | 邮箱:hxyuan@snnu.edu.cn | 电话:029-85307408
+食品工程与营养科学学院 | http://spgcx.snnu.edu.cn/ | 邮箱:spgcx@snnu.edu.cn | 电话:029-85310517",
+100,青海省,青海大学,,211,公办,,https://www.qhu.edu.cn/zsjy/index.htm,,,010502000029,https://www.qhu.edu.cn/jxjy/yjsjy/index.htm,,,,https://international.qhu.edu.cn/,,qhuwsb@126.com,,,8,"化工学院 | http://hgxy.qhu.edu.cn | 电话:0971-5310423
+机械工程学院 | http://jxxy.qhu.edu.cn/ | 电话:0971-5310440
+能源与电气工程学院 | https://seee.qhu.edu.cn | 邮箱:seee@qhu.edu.cn | 电话:010502000029
+土木水利学院 | https://tsxy.qhu.edu.cn/ | 电话:010502000029
+生态环境工程学院 | http://stxy.qhu.edu.cn/ | 邮箱:qhustxy@163.com | 电话:0971-5310086
+地质工程学院 | http://dzgc.qhu.edu.cn
+计算机技术与应用学院 | http://cs.qhu.edu.cn/ | 邮箱:qhujsjx@163.com | 电话:0971-5315609
+数理学院 | https://slxy.qhu.edu.cn | 电话:09002810504",
+101,上海市,上海中医药大学,,双一流,公办,,https://jy.shutcm.edu.cn/,,,17875834001,http://yjsy.shutcm.edu.cn,,,,https://gjc.shutcm.edu.cn/,,,"林勋 处长（主持国际交流处与港澳台事务办公室工作）
+何思伟（负责学校系统教职工因公出国（境）报批、护照签证办理）
+茅骏霞（负责学校系统教职工因公出国（境）报批、护照签证办理）
+任怡君（负责外事来访接待、对外交流项目协议管理等）
+唐健嫩（港澳台事务办公室）
+王天君（负责外籍专家、国际会议等管理、外事宣传、国际排名事务和外事翻译等工作）
+杨璐源（学生海外访学专项管理、中外合作办学项目管理和办公室事务）
+审批 书记（分管校领导签批后请校长、党委书记审批）",,0,,
+102,上海市,上海体育学院,,双一流,公办,,,,,,,,,,https://wsc.sus.edu.cn/,,,,,0,,
+103,上海市,上海海洋大学,,双一流,公办,142,https://jcxt.shou.edu.cn/,,,,http://yjs.shou.edu.cn/13946/list.htm,,,,https://ieo.shou.edu.cn/,,ieo@shou.edu.cn,"总干事 助理
+一行莅 部长
+聘学生 助理",,0,,
+104,上海市,上海科技大学,,双一流,公办,47,https://career.shanghaitech.edu.cn/,,,18120716234; 032613120834; 032613131827,,,,,https://oia.shanghaitech.edu.cn/,,,"聂焱 副处长（主持工作、统筹协调各项事务）: nieyan@shanghaitech.edu.cn
+肖茵 助理处长（境外交流合作项目、外事交流）: xiaoyin@shanghaitech.edu.cn
+宋耀（英文宣传）: songyao1@shanghaitech.edu.cn
+钱乐乐（国际会议、国际科技合作/外籍教职基金项目、来华学生）: qianll@shanghaitech.edu.cn
+汤琪（教职工因公出国（境））: tangqi@shanghaitech.edu.cn",,3,"物质科学与技术学院 | http://spst.shanghaitech.edu.cn/ | 电话:0608536047; 011502006855
+生命科学与技术学院 | http://slst.shanghaitech.edu.cn/ | 电话:011502006855
+信息科学与技术学院 | http://sist.shanghaitech.edu.cn/ | 电话:011502006855",
+105,上海市,上海音乐学院,,双一流,公办,,,,,,,,,,https://www.shcmusic.edu.cn/1449/list.htm,,,"导下的 院长（负责制）
+依法独 院长（职责是：）
+协助党 副书记（分工负责相结合）
+在院党 院长（负责学校教学、科研、艺术实践和行政管理工作）
+人选 副院长（负责人；）
+等岗位 副院长（分工负责学校的教学、科研、艺术实践和其他行政工作）
+主持 副院长（主持）
+履行职 主任（负责本单位的思想政治、党的建设等工作）
+一名 主任（负责本单位的教学、科研、艺术实践和其他行政工作）
+修改由 院长
+六十条 院长（负责监督章程的执行情况）
+的主要 院长（是： （一）组织拟订学校发展规划，制定具体规章制度和年度工作计划并组织实施； （）
+履行 主任（。 第三十四条 各）
+办公室 院长（监督章程的执行情况，依据章程审查学校内部规章制度，受理违反章程的举报和投诉，并向）
+裴小倩 党委书记
+廖昌永 院长
+徐卫 党委副书记
+王磊 党委副书记、纪委书记、监察专员
+汤隽杰 党委副书记、副院长
+冯磊 党委常委、副院长
+陈云 党委常委、副院长",17816874; 7889684; 67262574,0,,
+106,北京市,中国人民公安大学,,双一流,公办,,https://www.ppsuc.edu.cn/zsjy.htm,,gadx@ppsuc.edu.cn,,https://yzb.ppsuc.edu.cn/,,yzb@ppsuc.edu.cn,,https://www.ppsuc.edu.cn/dwjl.htm,,gadx@ppsuc.edu.cn,"外事局 副处长（负责中老警务合作工作）
+王轶 党委书记、校长
+刘宇鹏 党委副书记
+刘文君 党委委员、纪委书记
+陈刚 党委委员、副校长
+刘东华 党委委员、副校长
+云汉 党委委员、副校长
+李玉华 党委委员、副校长
+霍宏涛 党委委员、副校长
+彭邦富 党委委员、副院长
+杨英明 党委委员、副院长
+张翼 党委委员、副院长
+张楠 党委委员、副院长
+杨奇清 主任
+刘复之 主任
+罗瑞卿 院长
+周仲英 书记
+公安学 院长
+校党委 书记
+赵国威 书记
+尹肇之 书记
+王文同 院长
+学党委 书记
+柳晓川 书记
+孙中国 书记
+王彦吉 书记
+樊京玉 书记
+陈定武 书记
+曹诗权 副书记
+曾海燕 书记
+王轶 副书记
+王轶 书记
+李广祥 院长
+政治学 院长
+翟建安 书记
+张灵青 书记",,0,,
+107,北京市,中国科学院大学,,双一流,公办,,https://www.ucas.ac.cn/zsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/jyjx/yjsjy/index.htm,,,010702001635,https://www.ucas.ac.cn/hzjl/gjhz/index.htm,,,"党委 书记
+王艳芬 副书记
+党委 副书记
+肖作敏 书记",,0,,
+108,北京市,中国音乐学院,,双一流,公办,,,,,,http://yjsy.ccmusic.edu.cn/zsgz/ssyjszs/index.htm,,,010-64887561,https://gjjl.ccmusic.edu.cn/,,zyywb@126.com; gmel_ccmjec@163.com,"王旭东 党委书记
+李心草 院长
+刘宇 党委副书记
+马春成 党委常委、纪委书记
+黄虎 党委常委、副院长
+王小艺 党委常委、副院长
+吴志武 副院长
+刘忠心 党委常委、副院长
+张嫄 党委常委、党委组织部部长、党委统战部部长、党校常务副校长（兼）
+吴哲 党委常委、党委宣传部部长
+兼党委 院长
+关鹤童 副院长
+党委 副书记
+监委会 书记
+王元方 副院长
+张肖虎 副院长
+蒋风之 副院长
+陈玉生 副院长
+张玉金 副书记
+黎英海 副院长
+李华瑛 副院长
+李西安 院长
+刘德海 副院长
+兼纪委 书记
+向福先 副书记（主持工作））
+谢大京 副院长
+樊祖荫 副院长（主持工作））
+郭福安 书记
+王秉锐 副院长
+金铁霖 院长
+杨通八 副院长
+宁先华 副书记
+朱卓建 副院长
+戴嘉枋 副院长
+韩立萍 副书记
+杨静茂 副院长
+闫拓时 书记
+景抒展 副院长
+倪赛力 书记
+王黎光 院长",,0,,
+109,北京市,中央戏剧学院,,双一流,公办,,,,,,,,,,https://www.chntheatre.edu.cn/cn/Cooperation/gangao.html,,zhongxi@zhongxi.cn,,,0,,
+110,北京市,中央美术学院,,双一流,公办,,https://jy.cafa.edu.cn,,,,https://www.cafa.edu.cn/sp/2022clinks/?cs=1201,,,,https://global.cafa.edu.cn/,,lxs@cafa.edu.cn,,,0,,
+111,北京市,北京协和医学院,,双一流,公办,,https://www.pumc.edu.cn/jyjx/zsjy/index.htm,,,040202450060,http://graduate.pumc.edu.cn/,北京协和医学院研究生院,,,https://www.pumc.edu.cn/gjhz/hzjl_gjjl/index.htm,,,,,0,,
+112,北京市,外交学院,,双一流,公办,,,,,,https://yjsb.cfau.edu.cn/,,,,https://wjxx.cfau.edu.cn/,,,,,0,,
+113,北京市,首都师范大学,,双一流,公办,100,https://www.cnu.edu.cn/zsjy/index.htm,,info@cnu.edu.cn,,https://www.cnu.edu.cn/jyjx/index.htm?mao=b02,,info@cnu.edu.cn,,https://io-hkmt.cnu.edu.cn/,,info@cnu.edu.cn,,,0,,
+114,四川省,成都中医药大学,,双一流,公办,,https://zyd.cdutcm.edu.cn/zsjy,成中医微学工,cdutcmzsxc@163.com,028-61800090,https://zyd.cdutcm.edu.cn/yjs,,,82713803; 82717572; 82716812,https://zyd.cdutcm.edu.cn/gjjyxy,,info@cdutcm.edu.cn; IEC.CWCM@cdutcm.edu.cn; IEC.GATQ@cdutcm.edu.cn,"刘毅在 书记
+作专题 院长（负责人、公共卫生学院王世宇院长作专题培训）
+张泽钧 书记（负责人陪同调研）
+侯朝铭 书记（。会上，院长高... 07-23 凝心聚力攻坚就业 精准赋能护航前程——护… 0）
+刘东梅 院长（主持会议）
+高旭亮 书记（会议。会议伊始，院长刘东梅传达了学校干部大会的精神，介绍了学校正在进行的学科画像）
+主持学 书记（主持学习会）
+及各科 书记（负责人参加会议）
+赵凌主 院长（主持论坛开…）
+赵凌 院长（论坛开… 25 2023-08 学校与香港大学举行“中医针灸脑科学学科创新引智基）",89461393; 55211931; 82845489,0,,
+115,四川省,成都理工大学,,双一流,公办,127,,,,,,,,,https://dice.cdut.edu.cn/,,,,,0,,
+116,四川省,西南石油大学,,双一流,公办,119,http://jyzx.swpu.edu.cn/,投递简历时选择,swpu_jyjb@163.com; swpu_jyzx@163.com,028-83035257; 028-83037077,https://www.swpu.edu.cn/gs/,,,,https://www.swpu.edu.cn/oice/,,oiaswpu@163.com,"戴磊主 书记（主持会议）
+苏昊与 副院长（主持座谈）
+戴磊 书记（会议。全体党员深入理解了在新形势... 国际处党支部开展“传承航空志，奋进新征程）
+戴磊 处长（座谈。... First Previous 1 2 3 4 5 ... 9 Ne）",,0,,
+117,天津市,天津中医药大学,,双一流,公办,,https://jiuye.tjutcm.edu.cn/,,,022-59596207,https://yjsy.tjutcm.edu.cn/,,,13472365958,https://iec.tjutcm.edu.cn/,,tutcm@hotmail.com,"首页 院长（分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生）
+奖学金 院长（分管岗位介绍 院级领导 对外联络科 教学管理科 国际培训科 学生）
+信箱 院长
+信箱办 院长",,0,,
+118,天津市,天津工业大学,,双一流,公办,133,,,,,,,,,https://io.tiangong.edu.cn/,,,交流科 副处长（主持工作 办公地点）: international@tiangong.edu.cn,,0,,
+119,山西省,山西大学,,双一流,公办,102,https://www.sxu.edu.cn/zty/zsjy/index.html,,@sxu.edu.cn; @email.sxu.edu.cn,0351-7010255,http://yjszsw.sxu.edu.cn/,,,0351-7010322,https://wsc.sxu.edu.cn/,,,"学中方 院长（负责汉语教师及汉语教师志愿者的招聘、选拔、培训、派遣和管理；孔子）
+王翔宇 处长: wangxiangyu@sxu.edu.cn
+董操 副处长: dongcao@sxu.edu.cn",,0,,
+120,江苏省,南京中医药大学,,双一流,公办,,https://njucm.91job.org.cn/sub-station/home/10315,,,,http://gra.njucm.edu.cn/,,,,http://ice.njucm.edu.cn/,,,,,0,,
+121,江苏省,南京信息工程大学,,双一流,公办,98,https://www.nuist.edu.cn/zsjy.htm,,xb@nuist.edu.cn,86-25-58731101,https://yjs.nuist.edu.cn/,Copyright,yjs@nuist.edu.cn,,http://ico.nuist.edu.cn/,,,,,9,"大气物理学院 | https://sap.nuist.edu.cn/
+地理科学学院 | http://geography.nuist.edu.cn
+遥感与测绘工程学院 | https://ycxy.nuist.edu.cn | 电话:025-58695739
+水文与水资源工程学院 | https://hwr.nuist.edu.cn | 电话:025-58731556
+海洋科学学院 | http://ocean.nuist.edu.cn | 电话:58695694; 025-58695698
+环境科学与工程学院 | http://sese.nuist.edu.cn
+自动化学院 | http://auto.nuist.edu.cn | 邮箱:zdh@nuist.edu.cn | 电话:025-58731059（
+电子与信息工程学院 | http://dxy.nuist.edu.cn | 邮箱:nxddxyrczp@nuist.edu.cn | 电话:025-58731196
+集成电路学院 | https://ic.nuist.edu.cn | 邮箱:SOIC@nuist.edu.cn | 电话:86-25-58235229",
+122,江苏省,南京医科大学,,双一流,公办,,http://njmu.91job.org.cn/,,,,http://yjsy.njmu.edu.cn/,,,,http://ice.njmu.edu.cn/,,gjb@njmu.edu.cn,"校牙学 院长
+兰青一 书记",,0,,
+123,江苏省,南京林业大学,,双一流,公办,93,http://njfu.91job.org.cn/,,,,https://gsnfu.njfu.edu.cn/,,,,https://ghc.njfu.edu.cn/,,,"汪茜电 科长
+余尤骋 科员
+刘星彤 科员
+蔡慧妍 科长
+侯晋安 科员
+乌日汗 科员
+汪茜 科长（1、中外合作学生交流项目申报与归口管理；2、江苏高校中外高水平大学校群合作）
+乌日汗 科员（1、CSC人才培养专项申报组织与管理； 2 、外籍专家项目申报和管理； 3 、中）: interpro@njfu.edu.cn",,10,"材料科学与工程学院 | http://wood.njfu.edu.cn/ | 电话:025-85427519
+化学工程学院 | https://hg.njfu.edu.cn/ | 邮箱:hg@njfu.edu.cn | 电话:025-85427396
+机械电子工程学院 | https://jidian.njfu.edu.cn/ | 邮箱:jidian@njfu.edu.cn; jddw@njfu.edu.cn | 电话:025-85427741; 025-85427779（
+土木工程学院 | https://tumu.njfu.edu.cn/
+信息科学技术学院、人工智能学院 | https://it.njfu.edu.cn/ | 邮箱:xinxixy@njfu.edu.cn | 电话:025-85427877（
+理学院 | https://cos.njfu.edu.cn/ | 电话:025-85427703
+轻工与食品学院 | https://qg.njfu.edu.cn/ | 电话:025-85428692
+汽车与交通工程学院 | https://jty.njfu.edu.cn/ | 电话:025-85428131
+生态与环境学院 | https://cee.njfu.edu.cn/ | 电话:025-85427210
+生命科学学院 | https://sky.njfu.edu.cn/ | 电话:025-85428837",
+124,江苏省,南京邮电大学,,双一流,公办,82,https://www.njupt.edu.cn/46/list.htm,,njupt@njupt.edu.cn,（86）-25-85866888,http://yzb.njupt.edu.cn/,,yzb@njupt.edu.cn,025-83492350,https://dice.njupt.edu.cn/,,,,,11,"通信与信息工程学院 | http://scie.njupt.edu.cn/ | 邮箱:ici-yb@njupt.edu.cn | 电话:025-83492420
+电子与光学工程学院、柔性电子（未来技术）学院 | http://eoe.njupt.edu.cn/ | 邮箱:dgxy@njupt.edu.cn
+计算机学院、软件学院、网络空间安全学院 | http://cs.njupt.edu.cn/ | 邮箱:jsjxy@njupt.edu.cn | 电话:025-85866432
+自动化学院 | http://coa.njupt.edu.cn/ | 邮箱:zdh@njupt.edu.cn; ai@njupt.edu.cn | 电话:025-85866506
+人工智能学院 | http://ai.njupt.edu.cn | 电话:025-85866412; 025-85866572
+材料科学与工程学院 | http://iam.njupt.edu.cn/
+化学与生命科学学院 | http://chem.njupt.edu.cn/ | 邮箱:iamhsy@njupt.edu.cn | 电话:025-83535682
+理学院 | http://lxy.njupt.edu.cn/ | 邮箱:lxy@njupt.edu.cn | 电话:025-85866171
+现代邮政学院、智慧交通学院 | http://simp.njupt.edu.cn/ | 邮箱:dgxy@njupt.edu.cn | 电话:025-83535881
+应用技术学院 | http://yyjsxy.njupt.edu.cn/ | 邮箱:yyjsxy@njupt.edu.cn | 电话:025-85483065
+工程实验教学部 | https://deei.njupt.edu.cn/ | 电话:025-85866691",
+125,河南省,河南大学,,双一流,公办,95,https://www.henu.edu.cn/zsjy.htm,,,,https://grs.henu.edu.cn/,Copyright,yjsy@henu.edu.cn,,http://iao.henu.edu.cn/,,,"李秋叶 书记（。会议首先进行第一议题学习。全体同志认真学习了习近平总书记关于树立和践行正确政绩）
+毛立群 主任（负责人出席会议）
+卢克平 书记（负责人陪同会见）
+伊丽莎 副院长（主持艺术专业本科教育项目课程教学、科研与项目管理等工作等内容召开）
+教育学 副院长
+育合作 主任（主管Deborah Tyler）",,0,,
+126,浙江省,中国美术学院,,双一流,公办,,,,,,,,,,,,,,,0,,
+127,浙江省,宁波大学,,双一流,公办,78,https://ndjy.nbu.edu.cn/,,byb@nbu.edu.cn,0574-87600228,https://graduate.nbu.edu.cn/,,,0574-87609123,https://wsc.nbu.edu.cn/,,,"任友群 副部长（会议，中法两国百余所高校的负责人和专家参与论坛。中法多所大学负责人围绕构建面向未）
+周洵瑛 处长（全面主持国际处工作）: zhouxunying@nbu.edu.cn
+潘峰 副处长（分管孔子学院、教师出国管理、学生出国交流交换、国际会议）: panfeng@nbu.edu.cn
+董新 出国管理岗（负责出国管理、国际会议、创安工作、资产设备管理）: dongxin@nbu.edu.cn
+颜静意 外籍教师管理岗（负责外专外教、双学位项目、中外合作办学）: yanjingyi@nbu.edu.cn
+杨美美 综合办公室（负责外事接待、国际中文教育、综合事务）: yangmeimei@nbu.edu.cn
+谭丹 交换生管理岗（负责交换学生、学生交流）: tandan@nbu.edu.cn
+ANAND THIRUPATHI（印度国籍，获维纳娅.米森大学生物化学硕士学位和彭奈亚拉马佳亚科技学院生物化学博士学位。现在宁波大学体育学院从事专职科研工作。）
+SASAKI AMI（日本国籍，获日本岩手大学文学硕士，现任宁波大学外国语学院日语语言教师。）
+HILDEGARD ZANGENB（德国国籍，获南非自由加州大学文学学士，曾在宁波外事学校担任德语教师。现任宁波大学外国语学院德语语言教师。）
+MATTHEW LEE BIRD（加拿大国籍，获卡尔加里大学教育学硕士学位，曾在宁波市职业技术学院担任英语语言外教，现任宁波大学外国语学院英语语言教师。）
+Arthur,Louis,Roger HAMON（法国国籍，获法国蒙彼利埃商学院金融管理硕士学位，曾在法国昂热大学担任法语教师，后又在宁波大学担任法语教师。）
+Frédéric CA（法国国籍，获法国图卢兹第二大学应用外语学士学位，曾在法国布里斯托尔大学担任法语教师，后又在中国吉林师范大学博达学院担任法语教师。）
+Vincent Freddy Philippe Carnet（法国国籍， 获阿尔多瓦大学对外法语硕士学位。曾于法国阿贝阿尔高中担任法语助教，后又在中国湘潭大学及匈牙利Fenyi Giua Jezsuita Gimnasium担任法语教师，现于宁波大学昂热大学联合学院担任法语语言教师。）
+Dana Williams（美国凤凰城大学博士，曾任佛罗里达州开普兰大学教授。主要承担企业财务，财务管理，经济学，会计学原理和人力资源课程。拥有多年企业培训师经验，擅长于商务训练、企业管理咨询、不动产和企业管理。现任宁波大学商学院专业外教。）
+Robert Lumpert（于1994年获得美国克利夫兰州立大学 MBA学位。多年从事英语教育，曾赴泰国商会大学研究生院、日本东京国际教育中心、越南胡志明市VUS学校 、中国武汉中英学校 、缅甸理工学院商学院等多个院校任外语教师。现在宁波大学商学院担任专业外教。）
+TOUNSI DEJLA（突尼斯国籍，宁波大学工商管理硕士，目前就职于宁波大学商学院，专业外教。）",,10,"物理科学与技术学院 | http://phys.nbu.edu.cn/
+数学与统计学院 | http://math.nbu.edu.cn/
+材料科学与化学工程学院 | http://fmsce.nbu.edu.cn/ | 邮箱:chxy@nbu.edu.cn | 电话:0574-87609987
+地理科学与遥感技术学院 | https://geo.nbu.edu.cn/ | 邮箱:nbugeo@nbu.edu.cn
+力学与工程科学学院 | http://eng.nbu.edu.cn/ | 电话:0574-87600302
+机械工程与智能制造学院 | https://me.nbu.edu.cn | 电话:0574-87600302
+集成电路学院 | http://eecs.nbu.edu.cn/ | 电话:0574-87609488
+土木工程与未来城市学院 | http://jgxy.nbu.edu.cn/
+海洋学院 | http://haiyang.nbu.edu.cn/ | 电话:0574-87600551
+食品科学与工程学院 | http://cfse.nbu.edu.cn/ | 电话:0574-87604388",
+128,湖南省,湘潭大学,,双一流,公办,117,https://www.xtu.edu.cn/zsjy.htm,,zsk@xtu.edu.cn,0731-58293807,https://www.xtu.edu.cn/jyjx/yjsjyjx.htm,,,030202001058,https://gjjlc.xtu.edu.cn/,,,"夏卓琼 副处长（职责:主持行政全面工作；分管综合行政、宣传等工作）
+周文君 负责人（日常行政、人事、财务、后勤、安全管理、工会等工作）: gjjl@xtu.edu.cn
+贺逸君 负责人（校际交流与合作项目、校际协议的签署及执行，合作办学机构（项目）的申报，教育部国（境）外合作项目的申报等）: xjjl@xtu.edu.cn
+王晓颖 负责人（各类长短期外专外教的出入境管理及外事服务，因公出国（境）手续办理）: zjk@xtu.edu.cn
+谢娉彦 负责人（国际学生招生与管理、对外汉语教学）: lxsb@xtu.edu.cn
+向春名 负责人（华侨港澳台学生工作、国际会议）: gatxsbgs@xtu.edu.cn",,0,,
+129,上海市,上海师范大学,,软科top150,公办,123,https://www.shnu.edu.cn/10/list.htm,,,009102000050,https://www.shnu.edu.cn/36/list.htm,,,009102000050,https://www.shnu.edu.cn/0e/e3/c31926a855779/page.htm,,,"历史系 主任（主持《宋史》《续资治通鉴长编》等史学巨著的标点）
+中文系 主任（负责人、国家重点学科“比较文学与世界文学”带头人）
+历任正 副书记（负责人名录 原上海师范高等专科学校历任党政领导人名录 历任党委（）",009102000050,0,,
+130,上海市,上海理工大学,,软科top150,公办,106,http://91.usst.edu.cn/,,,,http://yjs.usst.edu.cn/,,,021-55272623,https://ie.usst.edu.cn/8799/list.htm,,,陈琦 处长（负责人宋锡旼一行到访上理工）,86-21-55276621,0,,
+131,云南省,昆明理工大学,,软科top150,公办,110,https://www.kust.edu.cn/zsjy/bkszs.htm,,,011402000430,https://www.kust.edu.cn/zsjy/ssyjszs.htm,,,011402000430,https://global.kust.edu.cn/,,,,,0,,
+132,安徽省,安徽农业大学,,软科top150,公办,143,https://www.ahau.edu.cn/zsjy.htm,,,,http://yjs.ahau.edu.cn,,yjsy@ahau.edu.cn,2026-09-04,https://gjjl.ahau.edu.cn/,,,"李大祥 处长、主任、院长（党支部书记）
+丁惠 副处长、副院长
+马超 副处长、副院长
+欧阳晓宇 主任科员
+陈泓任 主任科员
+姜婕 主任科员
+刘巧红 副主任科员
+康家佳 副科级 专职辅导员
+徐亦凡 科员
+吴骁 科员
+仇旭 副教授（汉语课程教学）
+朱晨 副教授（汉语课程教学）
+杜永辉 讲师（汉语课程教学）
+陈文东 讲师（汉语课程教学）: chenwendong@ahau.edu.cn
+习近平 书记（主持）",,0,,
+133,安徽省,安徽师范大学,,软科top150,公办,145,http://zsjy.ahnu.edu.cn/,,,,https://gs.ahnu.edu.cn/,,,(0553)5910591,https://global.ahnu.edu.cn/,网站访问量,,"杜俊 处长（负责主持全处工作）: dujun@ahnu.edu.cn
+杜俊 处长
+陆洲 副处长（负责国际合作项目、国际化发展项目等）: zhoulu@ahnu.edu.cn
+陆洲 副处长
+黄昌 副处长（负责来华留学管理、因公出国（境）管理等）: chuang@ahnu.edu.cn
+黄昌 副处长
+负责 主任（全处工作。 邮箱：dujun@ahnu.edu.cn）: dujun@ahnu.edu.cn",0553-3869457,0,,
+134,山东省,山东农业大学,,软科top150,公办,128,https://www.sdau.edu.cn/13419/list.htm,,,090202000305,http://yjsc.sdau.edu.cn/index/zsgz.htm,,,,http://guojichu.sdau.edu.cn,,lijifa@sdau.edu.cn; sdauws@sdau.edu.cn,,8242297,0,,
+135,山东省,山东师范大学,,软科top150,公办,104,http://sdnu.sdbys.com/,,,,,,,,http://www.oip.sdnu.edu.cn/,,,"马茂祥 处长（分工：主持全面工作、分管出国（境）工作）
+李杰 副处长（分工：分管孔子学院、海外引智及国际会议）
+张鸥 副处长（分工：分管外事接待、校际交流及合作办学）
+郑琳琳 副科长（分工：因公出国工作）
+王雪瑶 科员（分工：亚洲地区）
+霍文婧 科长（分工：外国专家工作）
+马茂祥 主任（分工：主持全面工作）
+吴锡路 副主任
+胡雨燕 科员
+周连勇 处长（负责同志参与此次座谈）
+冯继康 书记（负责同志参加会见）
+张文新 副书记（负责同志参加会见和工作汇报）
+宁静波 副院长（主持）
+苏树伟 副书记（负责人... 了解更多）",,0,,
+136,山东省,山东科技大学,,软科top150,公办,140,https://school.gxjy.sdei.edu.cn/career,,jysc@sdust.edu.cn; tajy@sdust.edu.cn; jnjy@sdust.edu.cn,0538-3078998; 0531-58863150,http://yjsy.sdust.edu.cn/,,,0532-86057664,http://fao.sdust.edu.cn/,,,"禹文芳 书记（主持会议）
+禹文芳 处长: ywfjana@sdust.edu.cn
+张亚伟 副处长: yawei@sdust.edu.cn
+刘晓丹 科员: skd996342@sdust.edu.cn
+丁子懿 科员: skd995189@sdust.edu.cn
+李亮莹 科员: skd996119@sdust.edu.cn
+张亚伟 副处长（主持）
+禹文芳 处长（主持）
+际项目 副部长（主持会议）",,0,,
+137,山东省,青岛大学,,软科top150,公办,108,https://www.qdu.edu.cn/zsjy.htm,电话,xiaozhang@qdu.edu.cn; shuji@qdu.edu.cn,021202000856,http://grad.qdu.edu.cn/,小程序,yjsy@qdu.edu.cn,,https://international.qdu.edu.cn/,,intel@qdu.edu.cn,共同为 部长（负责人）,0532-85954159,0,,
+138,山西省,中北大学,,软科top150,公办,144,http://zbzs.nuc.edu.cn/,,zb@nuc.edu.cn,0351-3922280,http://grs.nuc.edu.cn/,,webmaster@nuc.edu.cn,14010002001,http://international.nuc.edu.cn/,,,,3921431; 0351-3922084,0,,
+139,广西壮族自治区,广西师范大学,,软科top150,公办,149,https://www.gxnu.edu.cn/1357/list.htm,,gxsdysxb@163.com,0773-5833630; 0773-5818532,,,,,,,,,,0,,
+140,江苏省,南京工业大学,,软科top150,公办,88,http://njtech.91job.org.cn/,,,,http://gra.njtech.edu.cn/,,,,http://ico.njtech.edu.cn/,,wb@njtech.edu.cn,,025-58139150; 025-58139327; 025-58139151,1,科学研究院 | https://kyy.njtech.edu.cn/ | 电话:025-58139220,
+141,江苏省,南通大学,,软科top150,公办,147,https://www.ntu.edu.cn/bkszs_8027/list.htm,,,0513-85012169; 0513-85012170,https://www.ntu.edu.cn/yjszs_8028/list.htm,,,0513-85012093,https://gjjl.ntu.edu.cn/,,,"明晓峰 副主任（主持工作）、党总支副书记张凤）
+王雪婷 副处长（主持交流会）
+祁小峰 处长（主持座谈会）",,0,,
+142,江苏省,扬州大学,,软科top150,公办,93,,,,,,,,,,,,,,0,,
+143,江苏省,江苏大学,,软科top150,公办,81,https://ujs.91job.org.cn/sub-station/home/10299,,,,http://yjsy.ujs.edu.cn/,,yjsyzhb@ujs.edu.cn,,http://foreign.ujs.edu.cn/,,,"顾春敏 科员（1.学生在）: gjczhk@ujs.edu.cn
+皮香格 科长（1.学生）: jdgat@ujs.edu.cn
+李犇 主任: lxfwzx@ujs.edu.cn",,11,"农业工程学院 | https://sae.ujs.edu.cn/ | 邮箱:nzy@ujs.edu.cn | 电话:0511-88797338
+生物科学与技术学院 | https://smkx.ujs.edu.cn/ | 邮箱:skyxzb@ujs.edu.cn | 电话:0511-88788933
+低空技术学院 | https://slat.ujs.edu.cn/ | 邮箱:dkjsxy@ujs.edu.cn | 电话:0511-80829160
+能源动力工程学部 | https://www.ujs.edu.cn/jgsz.htm
+能源与动力工程学院 | https://sepe.ujs.edu.cn/ | 邮箱:sepe@ujs.edu.cn
+汽车与交通工程学部 | https://qcjtxb.ujs.edu.cn/ | 邮箱:qcjtxb@ujs.edu.cn | 电话:0511-88782086
+汽车与交通工程学院 | https://auto.ujs.edu.cn/ | 电话:0511-88797620
+汽车工程研究院 | https://aeri.ujs.edu.cn/ | 邮箱:qcyjy@ujs.edu.cn | 电话:0511-88782845
+计算机科学与通信工程学院 | http://cs.ujs.edu.cn/ | 邮箱:jsj@ujs.edu.cn | 电话:0511-88780371
+物理与电子工程学院 | https://phy.ujs.edu.cn/ | 电话:0511-88788056
+卓越工程师学院，挂靠研究生院 | https://yjsy.ujs.edu.cn/ | 邮箱:yjsyzhb@ujs.edu.cn",
+144,江苏省,江苏科技大学,,软科top150,公办,141,https://just.91job.org.cn/sub-station/home/10289,,,,https://yjsb.just.edu.cn/,,justyjsy@just.edu.cn; justyzb@just.edu.cn,0511-84402362,https://www.just.edu.cn/2024/0201/c11935a365817/page.htm,微信图片_20240201094310.png,,"杨建新 书记
+嵇春艳 副书记
+潘锦全 副书记
+安祥卫 书记
+主持党 书记（主持党委全面工作）
+履行其 院长（负责学院思想政治和党的建设工作）
+是学院 院长（负责人）
+召集并 书记（。会议议题由学校领导班子成员提出，党委书记确定。会议必须有半数以上常委到会方能召）
+委员 主任（召集和主持学术委员会会议，必要时，可以委托副主任委员召集和主持会议。学术委员会委）",000000060413,0,,
+145,江西省,江西师范大学,,软科top150,公办,126,https://www.jxnu.edu.cn/zsjy/list.htm,,,88120000,http://graduate.jxnu.edu.cn/,,,0791-88120608; 0791-88120600,https://international.jxnu.edu.cn/,,,"选派管 院长
+中方 主任（负责草拟学校有关外事规章制度、管理办法和年度工作计划）
+李勇忠 处长（主持召开座谈会）
+李雨强 副主任（负责人参加）
+玉兰 院长（负责人参加大会）",,0,,
+146,河北省,河北大学,,软科top150,公办,130,https://www.hbu.edu.cn/zsjy1.htm,,hbuzsb@hbu.edu.cn; hdyjsy@hbu.edu.cn; hbuadmissionoffice@hbu.edu.cn,（0312）5079698; （0312）5079489; 0312-5079523,https://www.hbu.edu.cn/jyjx1/yjsjy1.htm,,,0312-5079709,http://oice.hbu.edu.cn/,,,,,0,,
+147,河北省,燕山大学,,软科top150,公办,109,http://job.ysu.edu.cn/,,,,http://gs.ysu.edu.cn/,研究生院微信公众号,gs@ysu.edu.cn,+86-335-8074700--,http://gjhzc.ysu.edu.cn/,,waiban@ysu.edu.cn; international@ysu.edu.cn,"范社岭 主任（负责人参加座谈）
+陆军主 处长（主持会议）
+赵险峰 书记（负责人及学生志愿者代表参加本次活动）
+陆军 处长（会议。座谈会上，王跃华首先代表燕山大学对远道而来的伦敦城市大学代表团... 22）
+区执行 院长（负责波兰校区《电机...）
+办公 主任（主持全面工作。主管全球伙伴关）: lujun@ysu.edu.cn
+办公 副主任（工作：外国专家和引才引智、 国际中文教育、 国际会议、 国际组织与）: zhuhong@ysu.edu.cn
+办公 副处长（工作：引才引智专项、国家）: youdl@ysu.edu.cn
+办公 科员（分工：校际交流（北美洲） 、外国专家、国际中文教育 沈俊毅 职务：）: gaoxiaona@ysu.edu.cn
+办公 科员（分工： 校际交流（非洲）、因）: shenjunyi@ysu.edu.cn
+办公 科员（分工： 校际交流（ 南美洲 ）、港澳台事务、 外国专家（证照）: jianghaiyu@ysu.edu.cn
+办公 科员（分工： 校际交流（ 欧洲 ）、国际会议、协管全球伙伴关）: yujinping@ysu.edu.cn
+办公 科员（分工： 校际交流（协管亚 洲 ）、国际化课程体）: limengshan@ysu.edu.cn",0335-8057070; +86-335-8057070,0,,
+148,河南省,河南农业大学,,软科top150,公办,145,http://job.henau.edu.cn/,0371-56552221,nongdajiuye@henau.edu.cn,010902002097; 0371-56552221; 0371-68555159,http://gra.henau.edu.cn/,,,0371-56552922,https://gjc.henau.edu.cn/,,,周开元 副处长（负责人参加座...）,,0,,
+149,浙江省,杭州师范大学,,软科top150,公办,116,http://career.hznu.edu.cn/,,hznujy@163.com,0571-28865191,http://yjs.hznu.edu.cn/,,sdyjs@hznu.edu.cn,0571-28865143; 011002011919,https://international.hznu.edu.cn/#/login,,,,,0,,
+150,浙江省,杭州电子科技大学,,软科top150,公办,99,https://job.hdu.edu.cn/,,,0571-86919143,http://grs.hdu.edu.cn/,,,,http://foreign.hdu.edu.cn/,,,"吴薇 副处长（仪式并致欢迎辞，墨西哥萨蒂略科技大学校长安妮亚・瓜达卢佩・桑切斯・鲁伊斯（ An）
+工程学 副院长（负责人参加会谈）",,10,"机械工程学院 | http://www.hdu.edu.cn/13312/list.htm
+电子信息学院 | http://www.hdu.edu.cn/13317/list.htm
+通信工程学院 | http://www.hdu.edu.cn/13318/list.htm
+材料与环境工程学院 | http://www.hdu.edu.cn/13322/list.htm
+集成电路科学与工程学院 | https://ic.hdu.edu.cn/ | 邮箱:sic_sx@hdu.edu.cn | 电话:(0571)86915074; (0575)88500110
+理学院 | http://www.hdu.edu.cn/13323/list.htm
+杭州电子科技大学圣光机联合学院 | http://www.hdu.edu.cn/13335/list.htm
+杭州电子科技大学信息工程学院 | https://www.hziee.edu.cn/ | 邮箱:xxgcxy@hdu.edu.cn | 电话:0571-58619115; 0571-58619116; 0571-58619118
+浙江省信息化发展研究院 | http://www.hdu.edu.cn/13681/list.htm
+微电子研究院 | http://www.hdu.edu.cn/13670/list.htm",
+151,浙江省,浙江农林大学,,软科top150,公办,149,http://jy.zafu.edu.cn/,zafujyzx,,0571-63730906,http://yjsb.zafu.edu.cn/,,,,http://wsc.zafu.edu.cn/,,,处理事 副处长,0571-63740038,0,,
+152,浙江省,浙江工业大学,,软科top150,公办,68,https://www.zjut.edu.cn/4473/list.htm,,,0571-88320114; 000000041141,https://www.zjut.edu.cn/4495/list.htm,浙江工业大学研究生招生,,0571-88320517,https://www.zjut.edu.cn/4510/list.htm,,,"李俊杰 副书记（。陈积明作题为《青春有为 奋斗以成》的致辞。他说，大学，赋予同学们求索新知的潜能）
+吴巨慧 副书记（大会。会上，校党委书记蔡袁强作《以实干担当奋楫“十五五”新征程》专题党课。他分别）
+周洪昌 秘书长（负责人为成员的浙江工业大学（筹）基本建设项目领导小组名单）
+蔡袁强 书记
+陈积明 副书记
+陈庆红 书记
+郑仁朝 部长
+许伟通 部长
+党委 副书记
+信箱 书记（分工 书记信箱）
+信箱 书记: sj@zjut.edu.cn
+陈积明 校长（主持学校行政全面工作。负责发展规划、国际合作交流、审计工作。分管发展规划处（省部共建办公室）、国际交流与合作处（港澳台事务办公室）、审计处、政策研究室（学术期刊社）。联系机械工程学院、经济学院。）: xz@zjut.edu.cn
+李俊杰 党委副书记（负责学生工作、宣传思想工作、统战、共青团、思政课程建设、保密工作。分管学工部、学生处、研工部、宣传部、统战部、校团委。联系物理与光电学院、教育学院（职业技术教育学院）、马克思主义学院、创业学院。）
+与服务 主任
+学生 副处长
+吴巨慧 党委副书记（负责组织、党校、老干部、离退休、工会、教代会、妇联、信访与法治工作。分管组织部、离退休党委、离退休工作处、校工会、校妇联。联系药学院、绿色制药协同创新中心、信息工程学院、之江学院。）
+王建国 副校长（负责本科教育教学、留学生教育、继续教育、体育军训、实验室设备与资产、校园信息化工作。分管教务处、继续教育学院、体育军训部、教育教学评估中心（现代教育技术中心）、实验室与资产管理处、采购中心（教科物资服务中心）、信息技术中心。联系浙江工业大学埃克塞特联合学院、健行学院、继续教育学院、体育军训部。）
+张光新 副校长",0571-88320114; 000000041141,1,湖州德清莫干山国际地理信息学院 | https://www.zjut.edu.cn/2026/0723/c4662a338772/page.htm | 电话:0571-88320114; 000000041141,
+153,浙江省,浙江师范大学,,软科top150,公办,91,https://www.zjnu.edu.cn/3987/list.htm,,webserver@zjnu.cn,,http://yzw.zjnu.edu.cn/,,,82283026(,http://iso.zjnu.edu.cn,,admission@zjnu.edu.cn,,,5,"心理学院 | http://xlxy.zjnu.edu.cn | 邮箱:xlxy@zjnu.cn
+数学学院 | http://sxxy.zjnu.edu.cn/ | 邮箱:sxxy@zjnu.edu.cn | 电话:0579-82298188
+计算机学院 | http://cs.zjnu.edu.cn | 邮箱:jsjxy@zjnu.edu.cn | 电话:0579-82291988
+生命科学学院 | http://smxy.zjnu.edu.cn | 邮箱:smxy@zjnu.cn | 电话:0579-82282269
+杭州自动化学院 | https://autoai.zjnu.edu.cn/ | 邮箱:hzzdh@zjnu.edu.cn | 电话:0571-81952038",
+154,浙江省,浙江理工大学,,软科top150,公办,112,http://jyb.zstu.edu.cn/,,zstujob@zstu.edu.cn,0571-86845620,https://gradadmission.zstu.edu.cn/,,,0571-86843082,http://gradadmission.zstu.edu.cn/gatzs.htm,,,,0571-86843082,0,,
+155,浙江省,温州大学,,软科top150,公办,129,http://zs.wzu.edu.cn/jry.htm,,,,https://yjsb.wzu.edu.cn/,,,,https://iro.wzu.edu.cn/,,,,,0,,
+156,湖北省,武汉科技大学,,软科top150,公办,123,https://www.wust.edu.cn/zsjy.htm,,,010702000687,https://ysxy.wust.edu.cn/,,,,,,,,,0,,
+157,湖北省,湖北大学,,软科top150,公办,121,https://hubu.91wllm.cn,,jiuye@hubu.edu.cn; jyban@seu.edu.cn,027-88664126（; 025-52090275,http://gs.hubu.edu.cn/,,yjsc@hubu.edu.cn,027-88661191,https://io.hubu.edu.cn/,,,,,0,,
+158,湖南省,长沙理工大学,,软科top150,公办,135,http://csust.bysjy.com.cn ,,,,http://www.csust.edu.cn/yjsy/index.htm,研究生招生,yjsy@csust.edu.cn,0731-85258349,,,,,,0,,
+159,福建省,华侨大学,,软科top150,公办,139,https://www.hqu.edu.cn/zsjy.htm,,,050302000422,https://www.hqu.edu.cn/rcpy/yjsjy.htm,,,050302000422,https://www.hqu.edu.cn/index/gatq.htm,,,"主持党 书记（主持党委全面工作）
+在其职 院长（负责学院党的建设）
+主持学 书记（主持学院党委全面工作）
+是学院 院长（负责人）
+召集并 书记（。 第十八 条 学校党委坚持党管干部原则。做好干部队伍建设规划，完善干部选拔任用）
+在其 院长（范围内独立负责）
+徐西鹏 党委书记
+吴剑平 校长、党委副书记
+何纯正 党委副书记、纪委书记
+林诗锋 党委副书记
+王秀勇 副校长
+林宏宇 副校长
+许志勇 副校长
+黄辉 副校长
+缑锦 副校长
+曾志兴 校长助理
+李庭志 党委常委
+谢俊荣 党委常委",050302000422,0,,
+160,福建省,福建农林大学,,软科top150,公办,122,,,,,,,,,,,,,,0,,
+161,福建省,福建师范大学,,软科top150,公办,90,http://career.fjnu.edu.cn/,推文预约方,,0591-22867268,http://yjsy.fjnu.edu.cn,研究生院公众号,,,http://oice.fjnu.edu.cn/,,,黎林莅 主任,,6,"心理学院 | http://psy.fjnu.edu.cn/ | 电话:0591-22867861
+数学与统计学院 | http://math.fjnu.edu.cn/ | 邮箱:math@fjnu.edu.cn | 电话:0591-22868101
+物理与能源学院 | http://cpe.fjnu.edu.cn | 邮箱:cpe@fjnu.edu.cn | 电话:0591-22868141
+光电与信息工程学院 | http://paee.fjnu.edu.cn | 电话:14985912275
+化学与材料学院 | http://chem.fjnu.edu.cn | 邮箱:fjnuhuacai@fjnu.edu.cn
+生命科学学院 | http://life.fjnu.edu.cn",
+162,重庆市,重庆邮电大学,,软科top150,公办,147,https://www.cqupt.edu.cn/zsjy.htm,,,,http://yjs.cqupt.edu.cn,,yjsyyzbz@cqupt.edu.cn,,https://www.cqupt.edu.cn/hzjl.htm#gjhzjl,,,,,0,,
+163,陕西省,西安建筑科技大学,,软科top150,公办,118,https://www.xauat.edu.cn/zsjy/bkszs.htm,,zhb@xauat.edu.cn; news@xauat.edu.cn,029-82202288,https://www.xauat.edu.cn/rcpy/yjsjy.htm,,news@xauat.edu.cn,,https://gjc.xauat.edu.cn/,,oia@xauat.edu.cn,"王玉婷 副处长
+名外方 院长",029-82202169,0,,
+164,陕西省,西安理工大学,,软科top150,公办,111,http://zhaosheng.xaut.edu.cn/,,zhaoban@xaut.edu.cn,029-82312504,https://www.xaut.edu.cn/jyjx/yjsjy.htm,,,,http://oice.xaut.edu.cn/lhlxs.htm,,waiban@xaut.edu.cn,"杨媛 处长
+蒋小龙 副处长
+综合科 科长
+蒋磊 主任
+交流科 科长
+张贝瑶 科长
+张瑜 科员
+孙冶 科员",029-82312558; 029-61125638; 029-61125640,0,,
+165,陕西省,陕西科技大学,,软科top150,公办,132,http://jiuye.www.sust.edu.cn/,,,029-86168196; 029-86168262,http://yjszs.sust.edu.cn/,研究生招生网,yjsy@sust.edu.cn,029-86168203; 029-86168200,http://oice.sust.edu.cn/,海外招生宣传平台(instagram),oice@sust.edu.cn,"校将由 院长
+薛钰胡 主任（负责留学生招生及宣传工作； 2、负责留学生教学及日常管理 ； 3）
+乔健
+师惠玲（联系人）
+曹芬（教师事务）
+万丁（学生事务）",029-86168058,0,,
