@@ -10688,5 +10688,37 @@
       "email": "",
       "phone": "0731-85258787"
     }
+  ],
+  "北京林业大学": [
+    {
+      "name": "生物科学与技术学院",
+      "url": "http://biology.bjfu.edu.cn/",
+      "email": "biology@bjfu.edu.cn",
+      "phone": "010-62336964"
+    },
+    {
+      "name": "材料科学与技术学院",
+      "url": "http://clxy.bjfu.edu.cn/",
+      "email": "",
+      "phone": "（010）62338358"
+    },
+    {
+      "name": "信息学院",
+      "url": "http://it.bjfu.edu.cn/",
+      "email": "it@bjfu.edu.cn",
+      "phone": "010-62336230"
+    },
+    {
+      "name": "理学院",
+      "url": "http://cos.bjfu.edu.cn/",
+      "email": "bllyqy110@163.com",
+      "phone": ""
+    },
+    {
+      "name": "环境科学与工程学院",
+      "url": "http://hjxy.bjfu.edu.cn/",
+      "email": "yingzhenz123@bjfu.edu.cn; ycao005@bjfu.edu.cn; hjyjs@bjfu.edu.cn",
+      "phone": "010-62336615"
+    }
   ]
 }
