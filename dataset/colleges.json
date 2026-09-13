@@ -10720,5 +10720,107 @@
       "email": "yingzhenz123@bjfu.edu.cn; ycao005@bjfu.edu.cn; hjyjs@bjfu.edu.cn",
       "phone": "010-62336615"
     }
+  ],
+  "中央财经大学": [
+    {
+      "name": "统计与数学学院、数学教学部 >>",
+      "url": "http://sam.cufe.edu.cn/",
+      "email": "samofcufe@cufe.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "信息学院 >>",
+      "url": "http://ie.cufe.edu.cn/",
+      "email": "info_dean@163.com",
+      "phone": ""
+    }
+  ],
+  "北京体育大学": [
+    {
+      "name": "心理学院",
+      "url": "http://psy.bsu.edu.cn",
+      "email": "psyschool@bsu.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "运动人体科学学院",
+      "url": "http://ssc.bsu.edu.cn",
+      "email": "xiaoban@bsu.edu.cn; sssbsu@bsu.edu.cn",
+      "phone": ""
+    }
+  ],
+  "西南财经大学": [
+    {
+      "name": "统计与数据科学学院",
+      "url": "https://stat.swufe.edu.cn/",
+      "email": "stat@swufe.edu.cn",
+      "phone": "028-87092066"
+    },
+    {
+      "name": "计算机与人工智能学院",
+      "url": "https://it.swufe.edu.cn/",
+      "email": "webmaster@swufe.edu.cn",
+      "phone": "87092713; 010502010087"
+    },
+    {
+      "name": "数学学院",
+      "url": "https://math.swufe.edu.cn/",
+      "email": "jjsxxy@swufe.edu.cn",
+      "phone": "028-87092087"
+    },
+    {
+      "name": "特拉华数据科学学院",
+      "url": "https://dids.swufe.edu.cn/",
+      "email": "dids@swufe.edu.cn",
+      "phone": "028-87098428"
+    }
+  ],
+  "中央民族大学": [
+    {
+      "name": "生命与环境科学学院",
+      "url": "https://cles.muc.edu.cn/",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "name": "理学院",
+      "url": "https://lxy.muc.edu.cn/",
+      "email": "lxymucg@163.com",
+      "phone": "010-68933910"
+    },
+    {
+      "name": "信息工程学院",
+      "url": "https://xingong.muc.edu.cn/",
+      "email": "",
+      "phone": "010-68932970; 010-68932333"
+    },
+    {
+      "name": "国家安全研究院",
+      "url": "https://gjaqyjy.muc.edu.cn/",
+      "email": "",
+      "phone": "010-68933909"
+    }
+  ],
+  "中国人民公安大学": [
+    {
+      "name": "国家安全学院",
+      "url": "https://www.ppsuc.edu.cn/info/1151/6151.htm",
+      "email": "gadx@ppsuc.edu.cn",
+      "phone": ""
+    },
+    {
+      "name": "信息网络安全学院",
+      "url": "https://www.ppsuc.edu.cn/info/1151/6157.htm",
+      "email": "gadx@ppsuc.edu.cn",
+      "phone": ""
+    }
+  ],
+  "天津中医药大学": [
+    {
+      "name": "中药制药工程学院",
+      "url": "https://zygc.tjutcm.edu.cn/",
+      "email": "",
+      "phone": ""
+    }
   ]
 }
