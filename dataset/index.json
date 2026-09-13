@@ -1897,79 +1897,19 @@
         "title": "本科生",
         "email": [
           "its@pku.edu.cn"
-        ],
-        "phone": []
+        ]
       },
       "intl": {
-        "url": "https://hmt.pku.edu.cn/",
-        "title": "国际处",
+        "url": "https://www.pku.edu.cn/recruit.html#overseasStudent",
+        "title": "留学生",
         "email": [
           "its@pku.edu.cn"
-        ],
-        "phone": [],
-        "leaders": [
-          {
-            "name": "究创始",
-            "title": "院长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "霍光峰",
-            "title": "主任",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "陈峦明",
-            "title": "",
-            "duty": "",
-            "email": "lmchen@pku.edu.cn",
-            "phone": "010-62757453",
-            "section": "国际合作部综合办公室"
-          },
-          {
-            "name": "赵嘉新",
-            "title": "",
-            "duty": "",
-            "email": "zjx@pku.edu.cn",
-            "phone": "010-62756433",
-            "section": "港澳台办公室"
-          },
-          {
-            "name": "致辞联",
-            "title": "主任",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "致辞",
-            "title": "主任",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "致词",
-            "title": "主任",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          }
         ]
       }
     },
     "dept_skipped": false,
-    "lat": 39.9921,
-    "lon": 116.3056
+    "lat": null,
+    "lon": null
   },
   {
     "name": "北京师范大学",
@@ -2412,119 +2352,12 @@
         ],
         "phone": [
           "010-62793001"
-        ],
-        "leaders": [
-          {
-            "name": "邱勇",
-            "title": "党委书记",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "李路明",
-            "title": "校长、党委副书记",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "向波涛",
-            "title": "党委常务副书记",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "曾嵘",
-            "title": "常务副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "过勇",
-            "title": "党委副书记",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "赵罡",
-            "title": "党委副书记、纪委书记",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "许庆红",
-            "title": "党委副书记",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "白本锋",
-            "title": "党委副书记、副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "彭刚",
-            "title": "副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "王宏伟",
-            "title": "副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "吴华强",
-            "title": "副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "李志华",
-            "title": "副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          },
-          {
-            "name": "王亚愚",
-            "title": "副校长",
-            "duty": "",
-            "email": "",
-            "phone": "",
-            "section": ""
-          }
-        ],
-        "officer_url": "https://www.tsinghua.edu.cn/xxgk/xrld.htm"
+        ]
       }
     },
     "dept_skipped": false,
-    "lat": 40.0032,
-    "lon": 116.322
+    "lat": null,
+    "lon": null
   },
   {
     "name": "中国传媒大学",
@@ -4475,6 +4308,243 @@
     "dept_skipped": false,
     "lat": 39.8736,
     "lon": 116.2936
+  },
+  {
+    "name": "吉林大学",
+    "province": "吉林省",
+    "tier": "985",
+    "city": "长春市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.jlu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yjsy.jlu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yzhc@jlu.edu.cn"
+        ],
+        "phone": [
+          "0431-85166175"
+        ]
+      },
+      "intl": {
+        "url": "https://oic.jlu.edu.cn/",
+        "title": "国际合作与交流处（Office of Global Engagement）",
+        "email": [
+          "OGE@jlu.edu.cn"
+        ],
+        "phone": [
+          "0431-85166657"
+        ],
+        "leaders": [
+          {
+            "name": "主任兼",
+            "title": "副处长",
+            "duty": "职责： 分管外国专家工作、综合与信息管理科工作",
+            "email": "li_yun@jlu.edu.cn"
+          },
+          {
+            "name": "目管理",
+            "title": "科长",
+            "duty": "职责：负责交流与学生项目管理科全面工作",
+            "email": "liushuang524@jlu.edu.cn"
+          },
+          {
+            "name": "专家",
+            "title": "科长",
+            "duty": "职责：负责专家科全面工作",
+            "email": "qucz@jlu.edu.cn"
+          },
+          {
+            "name": "派出",
+            "title": "科长",
+            "duty": "职责: 负责派出科整体工作",
+            "email": "nianxueni@jlu.edu.cn"
+          },
+          {
+            "name": "作办学",
+            "title": "科长",
+            "duty": "职责：负责合作办学科全面工作",
+            "email": "renxiuyu@jlu.edu.cn"
+          },
+          {
+            "name": "港澳台",
+            "title": "科长",
+            "duty": "职责：负责港澳台科全面工作",
+            "email": "hsf@jlu.edu.cn"
+          },
+          {
+            "name": "息管理",
+            "title": "科长",
+            "duty": "职责：负责综合与信息管理科全面工作",
+            "email": "lichunyi@jlu.edu.cn"
+          }
+        ]
+      },
+      "career": {
+        "url": "http://www.jlu.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [],
+        "phone": [
+          "0431-85166420",
+          "0431-85166226",
+          "0431-85166371"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 43.8206879,
+    "lon": 125.2711103
+  },
+  {
+    "name": "东北师范大学",
+    "province": "吉林省",
+    "tier": "211",
+    "city": "长春市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.nenu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.nenu.edu.cn/jyjx/yjsjy.htm",
+        "title": "研究生教育",
+        "email": [
+          "dsxxw@nenu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "http://www.nenu.edu.cn/zsjy/xsjy.htm",
+        "title": "学生就业",
+        "email": [
+          "dsxxw@nenu.edu.cn"
+        ],
+        "phone": []
+      },
+      "intl": {
+        "url": "http://oice.nenu.edu.cn/",
+        "title": "东北师范大学国际合作与交流处",
+        "leaders": [
+          {
+            "name": "李阳光",
+            "title": "处长",
+            "duty": "主持国际合作与交流处、港澳台事务办公室工作",
+            "email": "liyg658@nenu.edu.cn"
+          },
+          {
+            "name": "汪晓波",
+            "title": "副处长",
+            "duty": "分管合作科、汉语推广办公室",
+            "email": "wangxb453@nenu.edu.cn"
+          },
+          {
+            "name": "张晗",
+            "title": "副处长",
+            "duty": "分管出国留学科、交流科",
+            "email": "zhangh836@nenu.edu.cn"
+          },
+          {
+            "name": "张拓",
+            "title": "副处长",
+            "duty": "分管留学生科",
+            "email": "zhangt492@nenu.edu.cn"
+          },
+          {
+            "name": "合作",
+            "title": "科长",
+            "duty": "职责： 1. 主持合作科工作",
+            "email": "zhanghw100@nenu.edu.cn"
+          },
+          {
+            "name": "交流",
+            "title": "科长",
+            "duty": "职责： 1. 主持交流科工作",
+            "email": "yanjh691@nenu.edu.cn"
+          },
+          {
+            "name": "语推广",
+            "title": "主任",
+            "duty": "职责： 1. 全面负责汉语国际推广办公室的工作",
+            "email": "lingj493@nenu.edu.cn"
+          }
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 43.8622745,
+    "lon": 125.3192283
+  },
+  {
+    "name": "延边大学",
+    "province": "吉林省",
+    "tier": "211",
+    "city": "延边朝鲜族自治州",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.ybu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://grad.ybu.edu.cn/",
+        "title": "研究生教育",
+        "phone": [
+          "0433-2732079"
+        ]
+      },
+      "intl": {
+        "url": "http://international.ybu.edu.cn/",
+        "title": "国际交流合作处",
+        "email": [
+          "ied@ybu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "http://www.ybu.edu.cn/zsjy_1.htm",
+        "title": "招生就业",
+        "email": [
+          "xcb@ybu.edu.cn"
+        ],
+        "phone": []
+      }
+    },
+    "dept_skipped": null,
+    "lat": 42.9,
+    "lon": 129.5
+  },
+  {
+    "name": "长春理工大学",
+    "province": "吉林省",
+    "tier": "软科top150",
+    "city": "长春市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.cust.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "http://www.cust.edu.cn/zsjy2026/index.htm",
+        "title": "招生就业",
+        "email": [
+          "cust@cust.edu.cn"
+        ],
+        "phone": []
+      },
+      "grad": {
+        "url": "http://www.cust.edu.cn/zsjy2026/yjszs20261/index.htm",
+        "title": "研究生招生",
+        "email": [
+          "cust@cust.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "http://www.cust.edu.cn/jlhz2026/gjhz20261/index.htm",
+        "title": "国际合作",
+        "email": [
+          "cust@cust.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 43.87149401894323,
+    "lon": 125.3256675
   },
   {
     "name": "四川大学",
@@ -7080,6 +7150,427 @@
     "dept_skipped": false,
     "lat": null,
     "lon": null
+  },
+  {
+    "name": "中山大学",
+    "province": "广东省",
+    "tier": "985",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.sysu.edu.cn/",
+    "depts": {
+      "grad": {
+        "wechat": "官网二维码",
+        "url": "https://graduate.sysu.edu.cn/",
+        "title": "研究生培养",
+        "email": [
+          "yyzhc@mail.sysu.edu.cn"
+        ],
+        "phone": [
+          "020-84111685",
+          "020-84111686",
+          "020-84113696"
+        ]
+      },
+      "career": {
+        "wechat": "中山大学就业（sysucareer）",
+        "url": "http://career.sysu.edu.cn/",
+        "title": "就业信息网",
+        "phone": [
+          "020-84111150",
+          "020-84111791"
+        ]
+      },
+      "intl": {
+        "url": "http://eao.sysu.edu.cn/",
+        "title": "国际处",
+        "email": [
+          "xujy3@mail.sysu.edu.cn",
+          "hanying6@mail.sysu.edu.cn",
+          "liuweiw9@mail.sysu.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.13,
+    "lon": 113.275
+  },
+  {
+    "name": "华南理工大学",
+    "province": "广东省",
+    "tier": "985",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.scut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.scut.edu.cn/graduate/",
+        "title": "华南理工大学研究生院"
+      },
+      "intl": {
+        "url": "https://www2.scut.edu.cn/io/",
+        "title": "国际处",
+        "email": [
+          "HKMT@scut.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.1288429,
+    "lon": 113.2739581
+  },
+  {
+    "name": "华南师范大学",
+    "province": "广东省",
+    "tier": "211",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.scnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://yz.scnu.edu.cn/",
+        "title": "研究生招生",
+        "phone": [
+          "020-85213863"
+        ]
+      },
+      "career": {
+        "url": "https://www.scnu.edu.cn/a/20151026/34.html",
+        "title": "就业导航"
+      },
+      "intl": {
+        "url": "http://io.scnu.edu.cn/",
+        "title": "华南师范大学国际交流合作处",
+        "email": [
+          "wsh3@scnu.edu.cn",
+          "wsh4@scnu.edu.cn",
+          "wsh9@scnu.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.135740251485476,
+    "lon": 113.27385819298767
+  },
+  {
+    "name": "暨南大学",
+    "province": "广东省",
+    "tier": "211",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.jnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yz.jnu.edu.cn",
+        "title": "研究生招生",
+        "email": [
+          "oyzb@jnu.edu.cn"
+        ]
+      },
+      "career": {
+        "wechat": "暨大就业公众号",
+        "url": "https://scdc.jnu.edu.cn/",
+        "title": "就业服务",
+        "email": [
+          "ojy-jnu@163.com"
+        ],
+        "phone": [
+          "020-85226956"
+        ]
+      },
+      "intl": {
+        "url": "https://wsc.jnu.edu.cn/",
+        "title": "国际交流",
+        "email": [
+          "international@jnu.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "何睿弘",
+            "title": "副处长",
+            "duty": "负责国际交流与合作工作",
+            "email": "truihong@jnu.edu.cn"
+          }
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.0195072,
+    "lon": 113.4100461
+  },
+  {
+    "name": "华南农业大学",
+    "province": "广东省",
+    "tier": "双一流",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.scau.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjsy.scau.edu.cn/",
+        "title": "研究生",
+        "phone": [
+          "020-85280065",
+          "020-85280066",
+          "020-85280067"
+        ]
+      },
+      "intl": {
+        "url": "http://fao.scau.edu.cn/",
+        "title": "对外交流",
+        "leaders": [
+          {
+            "name": "刘傲冬",
+            "title": "副处长",
+            "duty": "负责外事接待、资产、档案、离退休、工会等工作；分管综合业务和港澳",
+            "email": ""
+          },
+          {
+            "name": "肖豫涵",
+            "title": "副处长",
+            "duty": "负责涉外项目管理",
+            "email": ""
+          }
+        ]
+      },
+      "career": {
+        "url": "http://jyzx.scau.edu.cn/",
+        "title": "就业（本科生  研究生）"
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.140606601717796,
+    "lon": 113.2706066017178
+  },
+  {
+    "name": "南方科技大学",
+    "province": "广东省",
+    "tier": "双一流",
+    "city": "深圳市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.sustech.edu.cn/",
+    "depts": {
+      "intl": {
+        "wechat": "南方科技大学国际合作部暨港澳台办公室微信公众号",
+        "url": "https://global.sustech.edu.cn/",
+        "title": "SUSTech Global",
+        "email": [
+          "global@sustech.edu.cn"
+        ],
+        "leaders": [
+          {
+            "name": "等研究",
+            "title": "院长",
+            "duty": "负责人林间院士率队访问汤加王国与斐济共和国",
+            "email": ""
+          },
+          {
+            "name": "事务的",
+            "title": "副院长",
+            "duty": "负责人",
+            "email": ""
+          }
+        ]
+      },
+      "grad": {
+        "url": "https://gs.sustech.edu.cn/#/admission/",
+        "title": "研究生招生"
+      },
+      "career": {
+        "url": "http://career.sustech.edu.cn/",
+        "title": "就业",
+        "email": [
+          "jobs@sustech.edu.cn"
+        ],
+        "phone": [
+          "0755-88010732"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 22.54,
+    "lon": 114.075
+  },
+  {
+    "name": "广州中医药大学",
+    "province": "广东省",
+    "tier": "双一流",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.gzucm.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://www.gzucm.edu.cn/jyjx/yjsjy.htm",
+        "title": "研究生教育",
+        "contact_note": "邮箱为校长信箱，非研究生院专属"
+      },
+      "intl": {
+        "url": "https://www.gzucm.edu.cn/jyjx/gjjyjgatqxspy.htm",
+        "title": "国际教育及港澳台侨学生培养",
+        "email": [
+          "xiaozhangxx@gzucm.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "https://www.gzucm.edu.cn/zsjy/zs.htm",
+        "title": "招生就业",
+        "contact_note": "邮箱为校长信箱，非就业中心专属",
+        "email": [
+          "xiaozhangxx@gzucm.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.14385819298767,
+    "lon": 113.26574025148548
+  },
+  {
+    "name": "广州医科大学",
+    "province": "广东省",
+    "tier": "双一流",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.gzhmu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjs.gzhmu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "wechat": "广州医科大学本科招生微信公众号",
+        "url": "https://zs.gzhmu.edu.cn/bkzn/zsdt.htm",
+        "title": "招生就业"
+      },
+      "intl": {
+        "url": "https://fao.gzhmu.edu.cn/",
+        "title": "留学生教育"
+      }
+    },
+    "dept_skipped": false,
+    "lat": 23.0481899,
+    "lon": 113.4204913
+  },
+  {
+    "name": "广东工业大学",
+    "province": "广东省",
+    "tier": "软科top150",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.gdut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjs.gdut.edu.cn",
+        "title": "研究生教育"
+      },
+      "intl": {
+        "url": "https://wsc.gdut.edu.cn/index.htm",
+        "title": "交流活动",
+        "phone": [
+          "14655015124"
+        ]
+      },
+      "career": {
+        "url": "https://career.gdut.edu.cn",
+        "title": "就业指导与服务",
+        "email": [
+          "gdutjob@126.com"
+        ],
+        "phone": [
+          "020-39322210"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.135740251485476,
+    "lon": 113.24614180701234
+  },
+  {
+    "name": "广州大学",
+    "province": "广东省",
+    "tier": "软科top150",
+    "city": "广州市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.gzhu.edu.cn/",
+    "depts": {
+      "career": {
+        "url": "http://www.gzhu.edu.cn/zsjy1.htm",
+        "title": "招生就业",
+        "email": [
+          "webmaster@gzhu.edu.cn"
+        ]
+      },
+      "grad": {
+        "url": "http://yjsy.gzhu.edu.cn/",
+        "title": "研究生招生",
+        "email": [
+          "yjsy@gzhu.edu.cn"
+        ],
+        "phone": [
+          "020-39366238",
+          "020-39366199"
+        ]
+      },
+      "intl": {
+        "url": "http://wsc.gzhu.edu.cn/",
+        "title": "国际处"
+      }
+    },
+    "dept_skipped": null,
+    "lat": 23.115,
+    "lon": 113.26
+  },
+  {
+    "name": "深圳大学",
+    "province": "广东省",
+    "tier": "软科top150",
+    "city": "深圳市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.szu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gra.szu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "gra@szu.edu.cn"
+        ],
+        "phone": [
+          "0755-26536177"
+        ]
+      },
+      "intl": {
+        "url": "https://hmt.szu.edu.cn/",
+        "title": "国际交流与合作部（港澳台事务办公室）",
+        "phone": [
+          "0755-26536114"
+        ]
+      },
+      "career": {
+        "url": "https://jobszu.jysd.com/",
+        "title": "就业招聘",
+        "email": [
+          "szjobcenter@163.com"
+        ],
+        "phone": [
+          "0755-26536106",
+          "0755-26535652",
+          "0755-86931632"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 22.5445741,
+    "lon": 114.0395429
   },
   {
     "name": "广西大学",
@@ -11500,6 +11991,190 @@
     "lon": 106.6302
   },
   {
+    "name": "东北大学",
+    "province": "辽宁省",
+    "tier": "985",
+    "city": "沈阳市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.neu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://www.graduate.neu.edu.cn",
+        "title": "研究生培养"
+      },
+      "career": {
+        "url": "http://job.neu.edu.cn/",
+        "title": "毕业生就业",
+        "email": [
+          "neujiuye@163.com",
+          "NEU83681260@163.com",
+          "NEUcareer@163.com"
+        ],
+        "phone": [
+          "024-83687393",
+          "024-83689881",
+          "024-83681260"
+        ]
+      },
+      "intl": {
+        "url": "http://int.neu.edu.cn/",
+        "title": "国际交流合作"
+      }
+    },
+    "dept_skipped": null,
+    "lat": 41.7634632,
+    "lon": 123.4117577
+  },
+  {
+    "name": "大连理工大学",
+    "province": "辽宁省",
+    "tier": "985",
+    "city": "大连市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.dlut.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://gs.dlut.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsyzhb@dlut.edu.cn"
+        ],
+        "phone": [
+          "0411-84708330"
+        ]
+      },
+      "career": {
+        "url": "http://job.dlut.edu.cn/index.html",
+        "title": "毕业生就业",
+        "email": [
+          "career@dlut.edu.cn",
+          "dlutjy@dlut.edu.cn",
+          "pjjy@dlut.edu.cn"
+        ],
+        "phone": [
+          "0411-84708222",
+          "0411-84709222",
+          "0411-84706641"
+        ]
+      },
+      "intl": {
+        "url": "http://dutdice.dlut.edu.cn/",
+        "title": "国际交流",
+        "email": [
+          "dutfao@dlut.edu.cn"
+        ],
+        "phone": [
+          "0411-84708702"
+        ],
+        "leaders": [
+          {
+            "name": "王莲",
+            "title": "主任",
+            "duty": "",
+            "email": ""
+          }
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 38.91,
+    "lon": 121.625
+  },
+  {
+    "name": "大连海事大学",
+    "province": "辽宁省",
+    "tier": "211",
+    "city": "大连市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.dlmu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://grs.dlmu.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://myjob.dlmu.edu.cn/",
+        "title": "海大就业",
+        "email": [
+          "haishijiuye@163.com",
+          "dmujobzixun@163.com"
+        ],
+        "phone": [
+          "0411-84724185",
+          "0411-84729209",
+          "0411-84728536"
+        ]
+      },
+      "intl": {
+        "url": "https://www.dlmu.edu.cn/wzsy/hzjl/lxwm.htm",
+        "title": "国际处",
+        "email": [
+          "danyangliu@dlmu.edu.cn",
+          "nanli@dlmu.edu.cn",
+          "amberwu@dlmu.edu.cn"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 38.8701106,
+    "lon": 121.5230701
+  },
+  {
+    "name": "辽宁大学",
+    "province": "辽宁省",
+    "tier": "211",
+    "city": "沈阳市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.lnu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://grs.lnu.edu.cn/zsgz.htm",
+        "title": "研究生招生",
+        "phone": [
+          "024-62202353"
+        ]
+      },
+      "career": {
+        "url": "http://job.lnu.edu.cn",
+        "title": "就业",
+        "phone": [
+          "024-62602250"
+        ]
+      },
+      "intl": {
+        "url": "http://gjjlc.lnu.edu.cn/",
+        "title": "辽宁大学 国际交流处",
+        "leaders": [
+          {
+            "name": "曲艺",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "谢名一",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "尹如玉",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 41.81,
+    "lon": 123.44500000000001
+  },
+  {
     "name": "重庆大学",
     "province": "重庆市",
     "tier": "985",
@@ -12616,5 +13291,227 @@
     "dept_skipped": false,
     "lat": 36.6171,
     "lon": 101.7782
+  },
+  {
+    "name": "哈尔滨工业大学",
+    "province": "黑龙江省",
+    "tier": "985",
+    "city": "哈尔滨市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.hit.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "http://hitgs.hit.edu.cn/",
+        "title": "研究生教育",
+        "phone": [
+          "0451-86412296"
+        ]
+      },
+      "career": {
+        "url": "http://www.hit.edu.cn/11537/list.htm",
+        "title": "招生就业",
+        "phone": []
+      },
+      "intl": {
+        "url": "http://www.hit.edu.cn/11555/list.htm",
+        "title": "国际合作",
+        "leaders": [
+          {
+            "name": "委常务",
+            "title": "副书记",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "校长",
+            "title": "助理",
+            "duty": "",
+            "email": ""
+          }
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 45.8038,
+    "lon": 126.55
+  },
+  {
+    "name": "东北农业大学",
+    "province": "黑龙江省",
+    "tier": "211",
+    "city": "哈尔滨市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.neau.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://graduate.neau.edu.cn/",
+        "title": "研究生教育"
+      },
+      "career": {
+        "url": "https://www.neau.edu.cn/zsjy.htm",
+        "title": "招生就业",
+        "email": [
+          "shuji@neau.edu.cn",
+          "xiaozhang@neau.edu.cn"
+        ]
+      },
+      "intl": {
+        "url": "https://gjjl.neau.edu.cn/",
+        "title": "国际交流合作处",
+        "leaders": [
+          {
+            "name": "迟勇",
+            "title": "副处长",
+            "duty": "会议。会谈伊始，陈庆山代表学校对代表团来访表示欢迎，对两校长期以来紧密合作取得的",
+            "email": ""
+          },
+          {
+            "name": "卢铁光",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "陈致广",
+            "title": "副科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "李银女",
+            "title": "科长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "迟勇及",
+            "title": "副处长",
+            "duty": "负责人热情接待了代表团一行",
+            "email": ""
+          }
+        ]
+      }
+    },
+    "dept_skipped": false,
+    "lat": 45.7421537,
+    "lon": 126.723275
+  },
+  {
+    "name": "东北林业大学",
+    "province": "黑龙江省",
+    "tier": "211",
+    "city": "哈尔滨市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "https://www.nefu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://gra.nefu.edu.cn/",
+        "title": "研究生教育",
+        "email": [
+          "yjsy@nefu.edu.cn"
+        ]
+      },
+      "career": {
+        "url": "http://job.nefu.edu.cn/",
+        "title": "就业信息",
+        "email": [
+          "Jiuye@nefu.edu.cn"
+        ],
+        "phone": [
+          "0451-82192212"
+        ]
+      },
+      "intl": {
+        "url": "https://ico.nefu.edu.cn/",
+        "title": "东北林业大学国际合作处、港澳台办公室",
+        "email": [
+          "nefu_gjhzc@163.com"
+        ],
+        "leaders": [
+          {
+            "name": "计晓艳",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "孙治平",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "计晓艳",
+            "title": "副处长",
+            "duty": "",
+            "email": "nefu_gjhzc@163.com"
+          },
+          {
+            "name": "的选聘",
+            "title": "助理",
+            "duty": "负责学生助理的选聘、考核和日常管理工作；",
+            "email": ""
+          }
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 45.8113,
+    "lon": 126.54799
+  },
+  {
+    "name": "哈尔滨工程大学",
+    "province": "黑龙江省",
+    "tier": "211",
+    "city": "哈尔滨市",
+    "school_type": "公办",
+    "level": "本科",
+    "website": "http://www.hrbeu.edu.cn/",
+    "depts": {
+      "grad": {
+        "url": "https://yjsy.hrbeu.edu.cn",
+        "title": "研究生教育",
+        "phone": [
+          "0451-82518910"
+        ]
+      },
+      "intl": {
+        "url": "https://fao.hrbeu.edu.cn/",
+        "title": "国际处",
+        "leaders": [
+          {
+            "name": "窦峥",
+            "title": "处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "刘思嘉",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          },
+          {
+            "name": "丁昕",
+            "title": "副处长",
+            "duty": "",
+            "email": ""
+          }
+        ]
+      },
+      "career": {
+        "url": "http://www.hrbeu.edu.cn/zsjy1.htm",
+        "title": "招生就业",
+        "phone": [
+          "0451-82519222"
+        ]
+      }
+    },
+    "dept_skipped": null,
+    "lat": 45.81679,
+    "lon": 126.5425
   }
 ]
