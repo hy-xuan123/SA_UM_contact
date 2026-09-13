@@ -583,12 +583,6 @@
       "url": "https://ngce.csu.edu.cn/",
       "email": "gzy@csu.edu.cn",
       "phone": "0731-88876326"
-    },
-    {
-      "name": "中国科学院",
-      "url": "http://www.cas.cn",
-      "email": "",
-      "phone": "861068597114（"
     }
   ],
   "中南财经政法大学": [
@@ -679,14 +673,7 @@
       "phone": "010-62510183"
     }
   ],
-  "中国传媒大学": [
-    {
-      "name": "中国干部网络学院",
-      "url": "http://www.cela.gov.cn",
-      "email": "",
-      "phone": ""
-    }
-  ],
+  "中国传媒大学": [],
   "中国地质大学（北京）": [
     {
       "name": "地球科学与资源学院",
@@ -1046,7 +1033,7 @@
     },
     {
       "name": "光华能源学院",
-      "url": "https://www.upc.edu.cn/",
+      "url": "",
       "email": "",
       "phone": "021002000005"
     },
@@ -6084,7 +6071,7 @@
     },
     {
       "name": "未来技术学院",
-      "url": "https://www.hnu.edu.cn/",
+      "url": "",
       "email": "xiaoban@hnu.edu.cn",
       "phone": ""
     },
@@ -7957,32 +7944,7 @@
       "phone": "0871-65123062"
     }
   ],
-  "中国科学院大学": [
-    {
-      "name": "法兰西科学院",
-      "url": "https://www.academie-sciences.fr/en/",
-      "email": "",
-      "phone": ""
-    },
-    {
-      "name": "瑞典皇家科学院",
-      "url": "https://www.kva.se/en/",
-      "email": "",
-      "phone": "08-6739500"
-    },
-    {
-      "name": "澳大利亚科学院",
-      "url": "https://www.science.org.au/",
-      "email": "website@science.org.au",
-      "phone": ""
-    },
-    {
-      "name": "第三世界科学院",
-      "url": "https://twas.org/",
-      "email": "info@twas.org; edoffice@twas.org; sciarabba@twas.org",
-      "phone": "+390402240-662; +390402240-571"
-    }
-  ],
+  "中国科学院大学": [],
   "中央美术学院": [
     {
       "name": "建筑学院",
@@ -9222,7 +9184,7 @@
     },
     {
       "name": "工业人工智能研究院",
-      "url": "https://www.zstu.edu.cn/",
+      "url": "",
       "email": "",
       "phone": "011802000517"
     }
@@ -10042,7 +10004,7 @@
     },
     {
       "name": "汽车工程研究院",
-      "url": "https://www.sjtu.edu.cn/",
+      "url": "",
       "email": "",
       "phone": ""
     },
@@ -10235,12 +10197,6 @@
     {
       "name": "控制科学与工程学院",
       "url": "http://cse.zju.edu.cn/",
-      "email": "",
-      "phone": ""
-    },
-    {
-      "name": "计算机科学与技术学院 —网络空间安全学院",
-      "url": "",
       "email": "",
       "phone": ""
     },
